@@ -1,0 +1,612 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 10
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 15",
+        "reference_number": "HRRT 001/2019",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "hearing_date": "On the papers",
+        "decision_date": "8 April 2024",
+        "case_title": "Dean v Ministry of Social Development (Strike-Out) [2024] NZHRRT 15",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING-OUT CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 10
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ANTONY JAMES DEAN",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "MINISTRY OF SOCIAL DEVELOPMENT",
+            "role": "FIRST DEFENDANT",
+            "type": "Government Agency"
+          },
+          {
+            "name": "ATTORNEY-GENERAL",
+            "role": "SECOND DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms SP Stewart",
+          "role": "Member"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr AJ Dean",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms L Hansen",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING-OUT CLAIM¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Dean has brought a claim to the Tribunal, alleging discrimination by the Ministry of Social Development (Ministry) in breach of Part 1A of the Human Rights Act 1993 (HRA).",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "The defendants have made application under section 115A of the HRA to strike out Mr Dean's proceeding on the grounds that it discloses no reasonable cause of action, is likely to cause prejudice or delay and is an abuse of process. Mr Dean opposes the strike out application.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "The issue for determination is whether or not Mr Dean's claim should be struck out in whole or in part. This requires a determination of whether Mr Dean's statement of claim meets the test for a valid statement of claim and, if not, whether the Tribunal should exercise its discretion to strike out his claim.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "The requirements of a statement of claim are well established.² These are that pleading must be accurate, clear and intelligible. It must give sufficient particulars to enable a defendant to be fairly informed of the case to be met. While adequate particulars are required, the statement of claim must not stray into setting out the evidence relied upon. The courts have been clear that the parties responding to the claim must be able to understand what the claim is about.³",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "To consider whether Mr Dean's claim should be struck out in its entirety some further background is required.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Mr Dean's partner was in receipt of a supported living payment (SLP), which was an income-tested benefit under the (then) Social Security Act 1964 (SS Act). The rate of an SLP benefit was reduced according to the total income of the beneficiary and their partner. Mr Dean says that his partner's SLP was subsequently suspended as a result of failing to satisfy what he described as the Ministry's request for information “which was some financial statements of [the plaintiff's] company which were known not to exist.\" His partner had appeal rights in relation to the Ministry's suspension decision. Mr Dean refers to his partner having taken two unsuccessful cases to the Social Security Appeal Authority challenging her SLP benefit suspensions.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The first statement of claim",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "On 31 December 2018 Mr Dean filed his first statement of claim with the Tribunal. He alleged the defendants were in breach of Part 1A of the HRA in that an act or omission of the defendants was in breach of the HRA, being inconsistent with section 19 if the New Zealand Bill of Rights Act 1990 (NZBORA). While it was not clear what the alleged act or omission was, it appeared to relate to the decision of the Ministry to suspend Mr Dean's partner's SLP. It seemed that a principal contention of Mr Dean was that SLP, being income-tested, was prima facie discriminatory. Mr Dean said that while all grounds of discrimination applied, in his case the prohibited grounds of discrimination most directly involved were sections 21(1)(b) (marital status), 21(1)(h) (disability) and 21(i)(k) (employment status) of the HRA. He also alleged breaches of section 66 of the HRA (victimisation of whistleblower or person making use of prohibited rights).",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "In their statement of reply the defendants said (correctly) that Mr Dean's first statement of claim contained generalised allegations and was difficult to understand. The defendants noted that Mr Dean's statement of claim raised matters outside the jurisdiction of the Tribunal, including the Crimes of Torture Act 1989. The relief claimed was a declaration that there be a:",
+              "page": 3,
+              "quoted_material": {
+                "content": "limit to the expectation that a relationship perceived to be in the nature of marriage inevitably defines the financial needs of persons involved and is inconsistent with the right to freedom from discrimination affirmed by s 19 of NZBORA"
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The defendants said this was beyond the Tribunal's jurisdiction.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "Following a teleconference held on 28 June 2019 Mr Dean was directed to file an amended statement of claim. The Minute issued following that teleconference clearly set out the requirements for a statement of claim, as we have identified at [4] above.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The first amended statement of claim",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "On 4 October 2019 Mr Dean filed an amended statement of claim. Mr Dean sought a declaration under section 92(j) of the HRA that “parts of the Social Security Act 1964 and associated case law are inconsistent with the right to freedom from discrimination on various grounds”. Mr Dean said these provisions of the SS Act included, at least, sections 11 (power to obtain information), 12 (investigation of claims and grants of benefit) and 81 (review of benefits) together with other sections imbued with nebulous “power” by the Ministry.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "By Memorandum dated 25 October 2019 counsel for the defendants submitted that the amended statement of claim was more non-compliant with the requirements of a statement of claim than Mr Dean's first statement of claim. The Tribunal agreed and, following a teleconference held on 4 February 2020, Mr Dean was given the opportunity to file and serve a second amended statement of claim.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "Mr Dean was again advised of the legal requirements for a statement of claim. Mr Dean was warned that failure to file a statement of claim that complied with the legal requirements for a statement of claim risked his claim being struck out under section 115A.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The second amended statement of claim: Part 1",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "On 27 March 2020 Mr Dean filed a second amended statement of claim which he said was in draft and unfinished due to medical events and circumstances in the lead up to the Covid-19 lockdown.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "In the second amended statement of claim Mr Dean seeks:",
+              "page": 4,
+              "quoted_material": {
+                "content": "\"A declaration under s 92J that parts of the Social Security Act 1964 (or its equivalent provisions in the 2018 Act) and associated regulations and case law are inconsistent with the right to freedom from discrimination on the various grounds where they are capable of being used to harm applicants.\n\n\"Includes \"s 3 definition of income (2018 Act equivalent). Section 1A(c)(i) (or equivalent in the 2018 Act) should not allow an interpretation that welfare beneficiaries should be in debt, especially for permanent SLP”."
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "On 30 April 2020 the defendants filed a memorandum addressing the draft and incomplete second amended statement of claim. The defendants submitted the statement of claim continued to be non-compliant with the requirements of a statement of claim because:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[16.1]",
+                  "content": "It remained difficult to understand how and why Mr Dean claimed particular provisions of the social security legislation were discriminatory."
+                },
+                {
+                  "title": "[16.2]",
+                  "content": "It primarily contained material in the nature of submissions."
+                },
+                {
+                  "title": "[16.3]",
+                  "content": "It raised issues outside the Tribunal's jurisdiction (including allegations of genocide and persecution)."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "The defendants signalled that unless the draft second amended statement of claim was materially amended, a strike out application was likely.",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "By Minute dated 7 May 2020 Mr Dean was directed to file and serve his completed second amended statement of claim. Mr Dean was advised that to avoid an application by the defendants to have his claim struck out, the second amended statement of claim must comply with the legal requirements for a statement of claim. This was necessary so that the defendants and the Tribunal could understand Mr Dean's claim.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "The second amended statement of claim: Part 2",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "On 5 June 2020 Mr Dean filed a document which he described as a “Statement of claim form supporting document part 2\". Its numbering continues on from the last paragraph of the second amended statement of claim, so that it is numbered paragraphs 38 to 129. He said this was a continuation of the draft second statement of claim which had been filed on 27 March 2020. Again it was expressed to be in draft form.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "Application to Strike Out",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "On 23 June 2020 the defendants applied to strike out the second amended statement of claim (Parts 1 and 2). The application to strike out is on the basis that the second amended statement of claim discloses no reasonable cause of action, is likely to cause prejudice or delay and is otherwise an abuse of process.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "Both parties have filed written submissions in relation to the strike out application and have agreed to the matter being determined on the papers. Those submissions have been taken into account in reaching the determination made in this decision.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "POWER TO STRIKE OUT",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "The Law",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[22]",
+              "content": "Pursuant to section 115A of the HRA the Tribunal has power to strike out proceedings as follows:",
+              "page": 5,
+              "quoted_material": {
+                "source": "section 115A of the HRA",
+                "content": "115A Tribunal may strike out, determine, or adjourn proceedings",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it-"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[23]",
+              "content": "The following general principles are of note:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[23.1]",
+                  "content": "The fundamental constitutional importance of the right of access to courts (and tribunals) must be recognised. Such right of access must, however, be balanced against the desirability of freeing defendants from the burden of litigation which is groundless or an abuse of process.⁴"
+                },
+                {
+                  "title": "[23.2]",
+                  "content": "The jurisdiction to dismiss is to be used sparingly. If the defect in the pleadings can be cured, an amendment of the statement of claim will normally be ordered. ⁵"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Whether Mr Dean's claim should be struck out",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[24]",
+              "content": "In relation to Mr Dean's claim of a breach of Part 1A of the HRA, the ground of striking out by reason of prejudice or delay is relevant. That ground is often the appropriate course where a statement of claim is prolix and unintelligible.⁶ The requirement for pleadings to be accurate, clear and intelligible was discussed in Mackrell v Universal College of Learning:⁷",
+              "page": 5,
+              "quoted_material": {
+                "source": "Mackrell v Universal College of Learning",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[57]",
+                    "content": "Parties seeking redress from Tribunals and Courts must state their claim in a way which enables the Court or Tribunal and parties responding to the claim to understand what the claim is about. Claims should be pleaded in the most succinct and concise way possible."
+                  },
+                  {
+                    "identifier": "[58]",
+                    "content": "Tribunals and Courts, and responding parties, should not be left in the position of attempting to make sense of a \"morass of information” (to borrow the Tribunal's description of Ms Mackrell's claim). To put Courts and respondents in the position of having to try and make sense of the incomprehensible is what is meant by the rather quaint terms \"embarrass\" and \"prejudice\" in relation to pleadings."
+                  },
+                  {
+                    "identifier": "[59]",
+                    "content": "Due allowance is to be made for lay litigants such as Ms Mackrell, and it was made by the Tribunal here. But lay litigants, like litigants who are professionally represented, are required to comply with the pleading rules and procedures of Tribunals and Courts. They are not to be permitted to file incomprehensive claims, because that only visits prejudice and injustice upon the respondent, not to mention enormous inconvenience to the Court or Tribunal."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mr Dean's claim in relation to prejudice or delay",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "Mr Dean's claim is an allegation of a breach of Part 1A of the HRA. Part 1A applies the NZBORA non-discrimination standard to public sector activities. An allegation of a breach of Part 1A requires both the identification of a relevant prohibited ground of discrimination in section 21 of the HRA and the identification of an act (which includes an enactment) alleged to be in breach of that prohibited ground of discrimination.",
+              "page": 6
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Dean's allegation of a breach of Part 1A of the HRA:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[26.1]",
+                  "content": "Identifies all the prohibited grounds of discrimination in section 21 of the HRA as applying, without giving any particulars of why he says this is the case. While he refers to the “overarching” ground as being “work status (being unemployed)\" he fails to address that, other than in the context of his assessment of his partner's SLP suspension (which he says amounted to genocide and persecution). He also fails to particularise the basis on which any other grounds of discrimination are engaged in relation to his claim."
+                },
+                {
+                  "title": "[26.2]",
+                  "content": "Does not identify the provisions of the SS Act he alleges are discriminatory. He does mention section 1A(c)(i)⁸ and the definition of income in section 3. He qualifies the reference to section 1A(c)(i) by saying it should “not allow an interpretation that welfare beneficiaries should be in debt, especially for permanent SLP”. He does not explain his allegation that section 3 is discriminatory. He does not refer to a ground of unlawful discrimination arising out of those sections. He also refers to unspecified “associated regulations and case law\" as being in breach of Part 1A."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "Mr Dean's supporting documents (Parts 1 and 2) filed with his second amended statement of claim form do not assist with clarifying his allegations of a breach of Part 1A. Those documents appear to primarily raise an issue in relation to his partner and her dealings with the Ministry.",
+              "page": 7
+            },
+            {
+              "number": "[28]",
+              "content": "By way of example, Mr Dean introduces Part 1 of his second amended statement of claim as follows:",
+              "page": 7,
+              "quoted_material": {
+                "source": "second amended statement of claim",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "1.",
+                    "content": "This claim relates to the attempted planned destruction of my partner by state officials in New Zealand because she can not work due to disability and disease, which places her as a hated minority in this country - welfare beneficiaries."
+                  },
+                  {
+                    "identifier": "2.",
+                    "content": "This claim asks that the law that either allows or requires this, depending on policy conditions and serious economic impacts such as the earthquakes in Canterbury (and now this Covid-19 pandemic), be amended to remove inherent extremes of discrimination, both those types that are unlawful under the Human Rights Act 1993 and those which it is silent on."
+                  },
+                  {
+                    "identifier": "3.",
+                    "content": "The overarching prohibited ground of discrimination I claim has been breached is the ground of \"work status” (being unemployed), with harm piled on as high as it can go using other types of discrimination. Welfare in New Zealand has become a \"work or die\" ultimatum."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[29]",
+              "content": "Mr Dean goes on to say that his pleading is comprised of two claims, the first being genocide and the being second persecution.",
+              "page": 7
+            },
+            {
+              "number": "[30]",
+              "content": "The pleading in relation to genocide commences with Mr Dean's assertion that:",
+              "page": 7,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "6.",
+                    "content": "Genocide is a material disadvantage, and although not unlawful in New Zealand, its existence engages the Human Rights Act on various grounds of prohibited discrimination. New Zealand is currently in the midst of a slow genocide which is easy to prove. The state appears to be refusing to acknowledge its existence. The disastrous outcomes are likely to accelerate with Covid-19."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[31]",
+              "content": "Although it is difficult to discern the claim of genocide, the heart of Mr Dean's allegation appears to be that his partner's SLP was suspended due to failure to supply information, as required to enable an assessment of his and his partner's combined income to be made, for the purposes of determining the SLP benefit.",
+              "page": 7
+            },
+            {
+              "number": "[32]",
+              "content": "Mr Dean's assertions of “persecution” appear to be based on the method by which the income of SLP beneficiaries is determined or reviewed, where the beneficiaries have a spouse earning income. He refers to a two-to-three-year delay in assessing income, while financial information becomes available. In relation to the method by which SLP payments are assessed, Mr Dean's says this amounts to persecution:",
+              "page": 7,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "32.",
+                    "content": "In conjunction with MSD's approach of intentionally using the system to cause people to fall off the books (or expire under their own steam) I called this issue the \"railroad to death\" in 2016. I hope the evidence of this case will serve to emphasise what lengths MSD will go to to ensure vulnerable clients are shepherded to their demise (along with engineered suspensions false convictions, overcounting income, and other tools that have the effect of removing welfare while blaming the victim for having a self-employed partner, maxing out credit cards, going to a loan shark, being able to save, etc)."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[33]",
+              "content": "The Tribunal has no jurisdiction in relation to these allegations of genocide or persecution, as they are pleaded.",
+              "page": 8
+            },
+            {
+              "number": "[34]",
+              "content": "Part 2 of the supporting document to his second amended statement of claim, filed on 5 June 2020, is a discursive document in which Mr Dean first outlines what he says is the legal framework and an introduction to discrimination. That analysis does not appear to accord with accepted jurisprudence.",
+              "page": 8
+            },
+            {
+              "number": "[35]",
+              "content": "Under the heading “Claim of disadvantage” Mr Dean then refers to s 81 of the SS Act as being “most detrimental”.⁹ He describes how his partner's SLP benefit was stopped because of a failure to supply certain financial information. He refers to such a decision as originally being discretionary but, owing to what he says as a change of policy, becoming mandatory. He describes this “vigorous\" pursuit of rights as meeting the definition of a crime of torture. He disagrees with what he says is the standpoint of the Ministry, namely that the exercise of s 81 in the SS Act is not discriminatory. Rather, he says:",
+              "page": 8,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "53.",
+                    "content": "What the State now asserts is not discrimination, is judicially authorised by law which obliges a ministry to apply death sanctions to a minority of New Zealanders, for trivial matters that in some cases (like this one) are completely out of the control of the person to be so treated, without the public batting an eye. This is the stuff of neo-NAZI dreams."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[36]",
+              "content": "Mr Dean then proceeds with an analysis of the legal interpretation to be placed on Part 1A of the HRA. That analysis, again, does not appear to accord with accepted jurisprudence. He follows with a prolix discussion of his interpretation of human rights legislation.",
+              "page": 8
+            },
+            {
+              "number": "[37]",
+              "content": "Under the heading of “Executive agency definition/NHRI definition of discrimination” Mr Dean criticises the stance taken by the Human Rights Commission in relation to his case, refers further to the legislative framework (which we found difficult to follow) discusses his view of the meaning of torture and genocide in relation to his claim and goes on to \"loosely present some comparators and ideas.\"",
+              "page": 8
+            },
+            {
+              "number": "[38]",
+              "content": "In his submissions, in relation to why his claim should not be struck out, Mr Dean explains his case as follows:",
+              "page": 8,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "25.",
+                    "content": "A right wing government sanctioned my partner, a medically entitled SLP beneficiary, out of 100 per cent of her welfare payment. The sanction was set out in secret and applies effectively without her knowledge, totalling six months, and beginning when we had zero revenue. It was done with an expectation of harm or death. She is on SLP for a lifelong chronic illness and disability. This means she would otherwise enjoy the protection of the UN Convention on the Rights of Persons with Disabilities if it were not for the government's removal of a protective function as a lawful punishment for matters entirely beyond her control. MSD claimed it had no option because the law requires it. This was because the government of the day removed all discretion. MSD was given a secret directive to issue death sentences (effectively, people on SLP were targeted for removal), in this case for the combination of disability, inability to work, and being a woman. I use the word \"genocide\" because it fits."
+                  },
+                  {
+                    "identifier": "30.",
+                    "content": "To be clear, my claim asks whether the discretion to commit acts like genocide inherent to social security law is discriminatory against beneficiaries."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "Overall, we found the second amended statement of claim to be prolix and neither clear nor intelligible. The Tribunal has real difficulty identifying what Mr Dean's alleged breach of Part 1A of the HRA is about. While there is a reference to discrimination of the basis of work status (being unemployed), how or what provisions of the SS Act (and associated regulations and case law) are alleged to be discriminatory are not explained, nor are the grounds of the alleged discrimination explained. The claim primarily contains material in the nature of submissions and focuses on the case of Mr Dean's partner. The allegations of genocide and persecution are not pleaded so as to come within the Tribunal's jurisdiction. The claim does not meet the requirements for a statement of claim as set out in Chesterfields Preschools and Mackrell v Universal College of Learning.¹⁰ To allow the claim to continue would be likely to cause prejudice or delay.",
+              "page": 9
+            },
+            {
+              "number": "[40]",
+              "content": "As we have found that the claim is likely to cause prejudice or delay, it is not necessary for us to consider the other two grounds advanced by the defendants in support of the application for strike out (namely no reasonable cause of action and abuse of process).",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[41]",
+              "content": "We are firmly of the opinion that allowing Mr Dean's claim to continue would be likely to cause prejudice or delay.¹¹ Having made that determination we must now consider whether to exercise the Tribunal's discretion to strike out Mr Dean's claim on this basis.¹²",
+              "page": 9
+            },
+            {
+              "number": "[42]",
+              "content": "Given the prolix nature of Mr Dean's pleadings, his opportunities to replead his claim and his statement that he is unwilling to refine those pleadings so as to explain his case, it is appropriate that the Tribunal exercises its discretion under sections 115A(1)(b) to strike out Mr Dean's claim.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "Curing defect in pleadings",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[43]",
+              "content": "As referred to at [23.2], if a defect in the pleadings can be cured, an amendment of the statement of claim will normally be ordered.",
+              "page": 10
+            },
+            {
+              "number": "[44]",
+              "content": "In this case Mr Dean has been afforded three opportunities to amend his statement of claim. Mr Dean has not, however, amended his statement of claim to comply with the requirements of an acceptable statement of claim, despite those requirements having clearly been explained to him. Rather, in his submissions relating to the Ministry's strike out application, he says:",
+              "page": 10,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "32.",
+                    "content": "The defendants want a compacted and simplified description and version of the events that leaves the description \"acceptable\" so that it can be understood. I don't think I should do this. It is an act of minimisation and would be to miss the point of the claim that the right wing government's behaviour was the difference between intended life and death, and is the reason I have made this complaint. The action I am complaining about is because of a campaign of attempted genocide, whether the state wants to accept it in those terms or not. It is the reality of the facts."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[45]",
+              "content": "In these circumstances, Mr Dean will not be afforded another opportunity to amend his pleadings.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[46]",
+              "content": "Mr Dean's claim against the Ministry of Social Development and the Attorney-General is struck-out in its entirety.",
+              "page": 10
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms SP Stewart",
+          "role": "Member"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Dean v Ministry of Social Development (Strike-Out) [2024] NZHRRT 15.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Commissioner of Inland Revenue v Chesterfields Preschools [2013] NZCA 53, [2013] 2 NZLR 679 (Chesterfields Preschools), at [84].",
+          "page": 2
+        },
+        {
+          "number": "3",
+          "content": "Mackrell v Universal College of Learning HC Palmerston North CIV-2005-485-802, 17 August 2005 at [57] to [59].",
+          "page": 2
+        },
+        {
+          "number": "4",
+          "content": "Heenan v Attorney-General [2011] NZCA 9, [2011] NZAR 200 at [22].",
+          "page": 5
+        },
+        {
+          "number": "5",
+          "content": "Chesterfields Preschools as above at [89].",
+          "page": 5
+        },
+        {
+          "number": "6",
+          "content": "See Chesterfields Preschools at [84]. See also Apostolakis v Attorney-General No. 2 (Strike-Out Application) [2017] NZHRRT 53 at [8] and [11].",
+          "page": 5
+        },
+        {
+          "number": "7",
+          "content": "HC Palmerston North CIV-2005-485-802, 17 August 2005 at [57] to [59]. Which provides that in the context of the provision of financial and other support, where appropriate people should use the resources available to them before seeking financial support under the SS Act.",
+          "page": 6
+        },
+        {
+          "number": "8",
+          "content": "Which provides that in the context of the provision of financial and other support, where appropriate people should use the resources available to them before seeking financial support under the SS Act.",
+          "page": 6
+        },
+        {
+          "number": "9",
+          "content": "Section 81 refers to a review of benefits. It enable the chief executive from time to time to review any benefit in order to ascertain whether the beneficiary remains entitled to receive it or whether the beneficiary is entitled to receive any particular rate of benefit.",
+          "page": 8
+        },
+        {
+          "number": "10",
+          "content": "Chesterfields Preschools, as above n 2; and Mackrell v Universal College of Learning as above n 3.",
+          "page": 9
+        },
+        {
+          "number": "11",
+          "content": "Human Rights Act ss 115A(1)(b).",
+          "page": 9
+        },
+        {
+          "number": "12",
+          "content": "This step is discussed in the High Court's jurisdiction to strike out a proceeding under R 15.1 of the High Court Rules in Gwizo v Attorney-General [2022] NZHC 2717.",
+          "page": 9
+        }
+      ]
+    }
+  ]
+}

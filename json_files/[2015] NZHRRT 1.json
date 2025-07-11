@@ -1,0 +1,442 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 7,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2015] NZHRRT 1",
+        "reference_number": "HRRT 025/2013",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Auckland",
+        "hearing_date": "",
+        "decision_date": "23 January 2015",
+        "case_title": "STEPHEN IAN HOOD v AMERICAN EXPRESS INTERNATIONAL (NZ) INCORPORATED",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON APPLICATION BY PLAINTIFF FOR FURTHER AND BETTER DISCOVERY",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 7
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "STEPHEN IAN HOOD",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "AMERICAN EXPRESS INTERNATIONAL (NZ) INCORPORATED",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr SI Hood",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr AS Olney and Mr ML Campbell",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "The application",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By memorandum dated 22 October 2014 Mr Hood has applied for further and better discovery. The application is opposed by American Express International (NZ) Inc (AMEX).",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "A brief chronology",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "A brief chronology will aid an understanding of the issues raised by the application. According to the statement of reply filed by AMEX the general timeframe is that:",
+              "page": 1
+            },
+            {
+              "number": "[2.1]",
+              "content": "Between approximately May 2000 and January 2008 Mr Hood held a Blue credit card issued by AMEX.",
+              "page": 2
+            },
+            {
+              "number": "[2.2]",
+              "content": "In or about October 2007 an issue arose between AMEX and Mr Hood as to an unpaid debit balance owing against Mr Hood's AMEX card of approximately $12,231.76.",
+              "page": 2
+            },
+            {
+              "number": "[2.3]",
+              "content": "In or about March 2009 AMEX made a decision not to pursue the unpaid balance.",
+              "page": 2
+            },
+            {
+              "number": "[2.4]",
+              "content": "In or about June 2012 Mr Hood was inadvertently contacted by ARMS Group, a third party debt recovery service, seeking payment of the unpaid balance. AMEX understands Mr Hood has since been informed that payment is not being pursued.",
+              "page": 2
+            },
+            {
+              "number": "[2.5]",
+              "content": "Mr Hood does not currently have a credit card with AMEX and has not since January 2008.",
+              "page": 2
+            },
+            {
+              "number": "[2.6]",
+              "content": "On 28 May 2009 Mr Hood sent an email to AMEX in which he requested correction of personal information held about him by AMEX and requested a copy of an email he believed AMEX had received from the ARMS Group on 27 February 2008.",
+              "page": 2
+            },
+            {
+              "number": "[2.7]",
+              "content": "On or about 4 August 2009 Mr Hood made a complaint to the Privacy Commissioner.",
+              "page": 2
+            },
+            {
+              "number": "[2.8]",
+              "content": "In a letter dated 27 October 2009 the Privacy Commissioner informed AMEX that he had decided to take no further action and to discontinue the investigation of the complaint.",
+              "page": 2
+            },
+            {
+              "number": "[2.9]",
+              "content": "The present proceedings were filed on 24 September 2013.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The amended statement of claim",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "By amended statement of claim dated 1 August 2014 Mr Hood alleges information privacy principles 2, 6 and 7 were breached by AMEX in three separate respects:",
+              "page": 2
+            },
+            {
+              "number": "[3.1]",
+              "content": "Collecting information about him from Veda Advantage (NZ) Ltd without his authorisation (Principle 2(2)(b)). AMEX says it had his consent.",
+              "page": 2
+            },
+            {
+              "number": "[3.2]",
+              "content": "Failing to act on a request by Mr Hood that AMEX correct personal information held by AMEX or to attach to the information a statement of the correction sought but not made (Principle 7 and ss 33 and 40 of the Privacy Act 1993). AMEX says it placed a notice of correction on Mr Hood's file but admits that it did not so advise Mr Hood.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Referenced in relation to Principle 7 and sections 33 and 40 regarding the failure to act on a correction request."
+                }
+              ]
+            },
+            {
+              "number": "[3.3]",
+              "content": "Following a request by Mr Hood for access to personal information AMEX failed to reply to that request (Principle 6 and ss 33 and 40). AMEX admits failing to reply to the request but says the information requested does not exist or cannot be found (s 29(2)(b)).",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "The issues to be determined at the substantive hearing are accordingly narrow.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Discovery – background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "Under Regulation 16(1) of the Human Rights Review Tribunal Regulations 2002 the Tribunal or Chairperson has power to give directions which are necessary or desirable for the proceedings to be heard, determined, or otherwise dealt with as fairly, efficiently, simply and speedily as is consistent with justice. Pursuant to this power it is the practice of the Tribunal and of the Chairperson to direct discovery to be carried out on an informal basis in the first instance. This reduces both cost and inconvenience. More formal directions are required from time to time depending on the facts of the particular case. However, whether conducted on an informal or formal basis, the basic structure of discovery before the Tribunal is (subject to all necessary modifications) that found in the discovery rules introduced by the High Court Amendment Rules (No. 2) 2011 which came into effect on 1 February 2012 and which are now set out in High Court Rules, Part 8, rr 8.1 to 8.33. Only the provisions relating to standard discovery need be set out here:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Human Rights Review Tribunal Regulations 2002",
+                  "context": "Regulation 16(1) grants the Tribunal power to give directions for proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "High Court Amendment Rules (No. 2) 2011",
+                  "context": "Introduced discovery rules now set out in High Court Rules, Part 8."
+                }
+              ],
+              "quoted_material": {
+                "source": "8.7 Standard discovery",
+                "content": "Standard discovery requires each party to disclose the documents that are or have been in that party's control and that are—\n(a) documents on which the party relies; or\n(b) documents that adversely affect that party's own case; or\n(c) documents that adversely affect another party's case; or\n(d) documents that support another party's case."
+              }
+            }
+          ]
+        },
+        {
+          "title": "The discovery order",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "At a teleconference convened by the Chairperson on 17 July 2014 a consent order was made that the parties give informal discovery. The order was in the following terms:",
+              "page": 3,
+              "quoted_material": {
+                "content": "[16.3] Discovery and inspection of documents is to be attended to on an informal basis in the first instance. This is to be achieved by way of the exchange of hard copies of the discoverable documents. They are to be served by 5pm on Friday 22 August 2014. The documents are not to be filed with the Tribunal."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Further and better discovery",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "A discovery order having already been made, the analogous provision of the High Court Rules which applies to the present application is r 8.19. Mr Hood must establish there are grounds for believing that AMEX has not discovered documents that should have been discovered:",
+              "page": 3,
+              "quoted_material": {
+                "source": "8.19 Order for particular discovery against party after proceeding commenced",
+                "content": "If at any stage of the proceeding it appears to a Judge, from evidence or from the nature or circumstances of the case or from any document filed in the proceeding, that there are grounds for believing that a party has not discovered 1 or more documents or a group of documents that should have been discovered, the Judge may order that party-\n(a) to file an affidavit stating-\n(i) whether the documents are or have been in the party's control; and\n(ii) if they have been but are no longer in the party's control, the party's best knowledge and belief as to when the documents ceased to be in the party's control and who now has control of them; and\n(b) to serve the affidavit on the other party or parties; and\n(c) if the documents are in the person's control, to make those documents available for inspection, in accordance with rule 8.27, to the other party or parties."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Discovery - relevant principles",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Brief reference to the relevant rules of discovery is required.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "As is well known, standard discovery is narrower in scope than under the former Peruvian Guano test (documents that are or may be relevant to issues in the proceeding or may lead to a train of inquiry). The former test has been replaced by the “adverse documents\" test. However, relevance remains at the heart of discovery and the definition of standard discovery in r 8.7 is to be seen as an elaboration of what is included in “relevance” and provides a formula by which relevance can be assessed. See Intercity Group (NZ) Ltd v Naked Bus NZ Ltd [2013] NZHC 1054 at [15] per Asher J.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Peruvian Guano test",
+                  "context": "Mentioned as the former, broader test for discovery."
+                },
+                {
+                  "type": "case",
+                  "reference": "Intercity Group (NZ) Ltd v Naked Bus NZ Ltd [2013] NZHC 1054 at [15]",
+                  "context": "Cited to support the view that the definition of standard discovery is an elaboration of relevance."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "Two principles accordingly inform the determination of the present application:",
+              "page": 4
+            },
+            {
+              "number": "[10.1]",
+              "content": "Pleadings set the outer limits of what needs to be disclosed on discovery: West Harbour Holdings Ltd (in liq) v Tamihere [2014] NZHC 716 at [15] and [16] per Associate Judge Bell. The issues mapped in those pleadings are the touchstone against which relevance is measured. That is, discovery of documents is assessed against their relevance to the issues identified in the pleadings. Intercity Group (NZ) Ltd v Naked Bus NZ Ltd at [17].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "West Harbour Holdings Ltd (in liq) v Tamihere [2014] NZHC 716 at [15] and [16]",
+                  "context": "Cited for the principle that pleadings set the outer limits of discovery."
+                },
+                {
+                  "type": "case",
+                  "reference": "Intercity Group (NZ) Ltd v Naked Bus NZ Ltd at [17]",
+                  "context": "Cited for the principle that discovery is assessed against relevance to issues in the pleadings."
+                }
+              ]
+            },
+            {
+              "number": "[10.2]",
+              "content": "Discovery of documents will not be ordered if the only purpose is to impeach the credit of those who might give evidence for the other side: West Harbour Holdings Ltd (in liq) v Tamihere at [18] and [29].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "West Harbour Holdings Ltd (in liq) v Tamihere at [18] and [29]",
+                  "context": "Cited for the principle that discovery will not be ordered solely to impeach credit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The request for further and better discovery",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "Mr Hood has applied for further and better discovery of the following:",
+              "page": 4
+            },
+            {
+              "number": "[11.1]",
+              "content": "A full copy of his internal records. Mr Hood complains AMEX has confusingly referred to having provided him with “all documents” as well as with \"all relevant documents”. He submits the latter implies documents have been withheld on the basis they are irrelevant. He seeks access to those “irrelevant” documents. As to this, Mr Hood is confusing his more recent requests for access to his personal information under Principle 6 of the Privacy Act with the provision of documents by AMEX in compliance with the discovery order made by the Chairperson. We pause to observe that the Minute dated 26 June 2014 issued by the Chairperson at [10] records that in December 2013 AMEX released to Mr Hood personal information requested under the Privacy Act. Such release was not governed by a relevancy test. In the litigation context, however, discovery is determined by relevance, as explained in the cases cited above. Mr Hood also argues that because AMEX has allegedly made “numerous mistakes in the past\" there are reasonable grounds to believe full discovery has not been given. The alleged errors, however, are largely the breaches of the Privacy Act pleaded in the amended statement of claim. There is therefore an element of circularity in Mr Hood's argument: because AMEX breached the Privacy Act it can't be trusted to give full discovery. As to this, AMEX is represented in these proceedings by responsible counsel who clearly understand the obligations imposed by the discovery process. We have no reason to believe AMEX has not received other than appropriate advice as to its obligations. In terms of High Court Rules r 8.19 we are far from satisfied there are grounds for believing AMEX has not discovered documents which should have been discovered.",
+              "page": 4
+            },
+            {
+              "number": "[11.2]",
+              "content": "Documents relating to its policy on debt collection procedures. Mr Hood submits that whether AMEX had appropriate debt collection procedures and whether those procedures were followed are issues relevant to whether the information held by AMEX was indeed in need of correction. We do not see the connection. In any event, the documents are not relevant to the Principle 7 issue as pleaded. Beyond that, no breach of the debt collection procedures is alleged in the amended statement of claim and none was investigated by the Privacy Commissioner.",
+              "page": 4
+            },
+            {
+              "number": "[11.3]",
+              "content": "Documents relating to AMEX's policy on dispute resolution. This is another category of documents which Mr Hood submits is relevant to the question whether personal information held by AMEX was in need of correction. He says that before an account is listed as being in default the issue should be examined in \"a proper internal disputes resolution process”. However, we fail to see the connection between such examination and the question whether the information in the present case was in need of correction. In any event even that is an issue not relevant to the Principle 7 issue as pleaded by the parties because the issue is whether a statement of the correction sought but not made was attached to the information and the decision communicated to Mr Hood within time. Furthermore, no issue relating to AMEX's dispute resolution process is alleged in the amended statement of claim or investigated by the Privacy Commissioner.",
+              "page": 5
+            },
+            {
+              "number": "[11.4]",
+              "content": "Documents relating to AMEX's complaints resolution procedures. Mr Hood wishes to submit that AMEX's compliance department did not process his complaints according to internal complaints policy. He says this is relevant to the assessment of damages. The short point is that on the facts as pleaded we can see no logical connection between any alleged breach of an internal complaints resolution procedure and the heads of damages allowed by s 88(1) of the Privacy Act which provides:",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 88(1)",
+                  "context": "Cited to show the allowed heads of damages, which are not logically connected to an alleged breach of internal complaints resolution procedure."
+                }
+              ],
+              "quoted_material": {
+                "source": "88 Damages",
+                "content": "(1) In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+              }
+            },
+            {
+              "number": "[11.5]",
+              "content": "All documents involving AMEX's policy on its default listing procedures including, but not limited to, its definitions of “Default date\" and \"Account Type”. Mr Hood submits the accuracy of the “Default date” and \"Account Type” definitions are a substantial issue in these proceedings and feature prominently in his May 2009 correction request. That may well be how Mr Hood views matters but the issue before the Tribunal is not the accuracy of definitions as they appear in AMEX's internal procedures, but whether the personal information was corrected and if not, whether a statement of the correction sought but not made was attached to the information and the timeframe prescribed by s 40 met. We again do not see the relevance of the documents sought by Mr Hood.",
+              "page": 5
+            },
+            {
+              "number": "[11.6]",
+              "content": "Documents to support the claim by AMEX that in December 2013 Ms Stratton sent to Mr Hood all the personal information requested by him at that time. Mr Hood submits these documents are relevant to the first point above and in addition, if Mr Hood can prove Ms Stratton is “wrong on this matter, it obviously helps [him] prove other statements of Ms Stratton are wrong as well\". There are three answers to this proposition. First, the adequacy or otherwise of personal information provided three months after these proceedings were commenced pursuant to a separate and unrelated request for personal information under Principle 6 is irrelevant. Second, for the reasons given in relation to the first point above, Mr Hood is wrong to confuse his ongoing and repeated submission of Principle 6 requests (see the Minute by the Chairperson issued on 17 July 2014 at [4] and [5]) with the discovery process. Third, a discovery order will not be made if the only purpose is to impeach the credit of those who might give evidence for the other side. See West Harbour Holdings Ltd at [18] and [29].",
+              "page": 5
+            },
+            {
+              "number": "[11.7]",
+              "content": "Evidence that supports the claim by AMEX that it sent Mr Hood's account to ARMS Group in error. AMEX pleads at para 7 of the statement of reply that when Mr Hood was contacted by ARMS Group in or around June 2012, this was \"inadvertent”. Mr Hood seeks evidence to support this claim. AMEX disputes the relevance of the evidence but says in any case AMEX has disclosed all documents relevant to the re-activation of Mr Hood's account in 2012. In our view the fact that all relevant documents have been disclosed is a complete answer to this aspect of Mr Hood's application.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "In terms of High Court Rules, r 8.19 Mr Hood has failed to satisfy us from evidence or from the nature of the circumstances of the case or from any document filed in the proceeding there are grounds for believing AMEX has not discovered one or more documents or a group of documents that should have been discovered. The application for further and better discovery is dismissed.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "High Court Rules, r 8.19",
+                  "context": "Cited as the basis for the conclusion that the plaintiff failed to satisfy the grounds for further discovery."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "AMEX seeks costs. In our view this is an issue best addressed at the conclusion of the hearing. Costs are accordingly reserved.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Timetable directions",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "The timetable directions given by the Chairperson in the Minute issued on 17 July 2014 required Mr Hood to file and serve his statements of evidence on or before 19 September 2014. The statements of evidence by AMEX were to be filed and served by 10 October 2014.",
+              "page": 6
+            },
+            {
+              "number": "[15]",
+              "content": "A \"will say” statement by Mr Hood was filed on 8 October 2014. At the present time no evidence has been filed by AMEX, probably because the application by Mr Hood for further and better discovery has created uncertainty as to the scope of the evidence required by AMEX.",
+              "page": 6
+            },
+            {
+              "number": "[16]",
+              "content": "Now that the application for further and better discovery has been dismissed the case management directions must resume operation to ensure that the proceedings are ready for hearing at Wellington on 29 April 2015. Three days have been set aside.",
+              "page": 6
+            },
+            {
+              "number": "[17]",
+              "content": "The timetable directions made by the Chairperson on 17 July 2014 are accordingly updated so that paras [16.5] to [16.7] are to now read:",
+              "page": 6,
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[16.5]",
+                    "content": "Written statements of the evidence to be called at the hearing by AMEX are to be filed and served by 5pm on Friday 13 February 2015. By the same date Mr Patel is to provide Mr Hood with a list of documents AMEX wishes to have included in the common bundle of documents."
+                  },
+                  {
+                    "identifier": "[16.6]",
+                    "content": "Should Mr Hood wish to file any witness statements in reply, such statements are to be filed and served by 5pm on Friday 27 February 2015. By the same date Mr Hood is to provide Mr Patel with a list of any additional documents Mr Hood wishes to have included in the common bundle of documents."
+                  },
+                  {
+                    "identifier": "[16.7]",
+                    "content": "In consultation with Mr Hood, Mr Patel is to prepare the common bundle of documents and that bundle is to be filed and served by 5pm on Friday 13 March 2015."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[18]",
+              "content": "In case it should prove necessary, we leave it to the Chairperson of the Tribunal to vary the foregoing timetable.",
+              "page": 7
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": "23 January 2015"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member",
+          "date": "23 January 2015"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member",
+          "date": "23 January 2015"
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

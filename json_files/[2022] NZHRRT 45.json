@@ -1,0 +1,352 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 4,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2022] NZHRRT 45",
+        "reference_number": "HRRT 010/2015",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WELLINGTON",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "24 November 2022",
+        "case_title": "ARTHUR WILLIAM TAYLOR v DEPARTMENT OF CORRECTIONS",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ARTHUR WILLIAM TAYLOR",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member"
+        },
+        {
+          "name": "Ms NJ Baird",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr AW Taylor",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr D Jones",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL ON COSTS¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The Tribunal by decision in Taylor v Department of Corrections (Strike-Out Application) [2020] NZHRRT 42 struck out Mr Taylor's claim. Mr Taylor had failed to file any evidence and the claim was struck out as an abuse of process.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Department of Corrections (Strike-Out Application) [2020] NZHRRT 42",
+                  "context": "The Tribunal by decision in Taylor v Department of Corrections (Strike-Out Application) [2020] NZHRRT 42 struck out Mr Taylor's claim."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[2]",
+              "content": "On 6 November 2020 the Department of Corrections (Corrections) filed an application seeking costs. Mr Taylor did not respond to the cost application.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "THE APPLICATION FOR COSTS",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "Corrections has asked for an award of $11,704. Corrections acknowledges the Tribunal's caution in applying the conventional civil cost regime to this Tribunal's jurisdiction, but notwithstanding that considers costs are appropriate in this situation.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "The primary submissions made in support of the application are:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[4.1]",
+                  "content": "These proceedings were ongoing for five years and by the time Mr Taylor decided to disengage from them significant work had already been undertaken, in particular on the interlocutory matters. This included submissions on jurisdiction and standing which were required by the Tribunal in advance of the jurisdiction decision; see Taylor v Corrections (Jurisdiction) [2019] NZHRRT 17."
+                },
+                {
+                  "title": "[4.2]",
+                  "content": "Mr Taylor could have expressly abandoned his claim. Instead, he failed to comply with a number of directions and failed to properly engage with the proceedings, leaving Corrections and witnesses in a position of uncertainty as to whether the matter was to proceed and putting Corrections to the cost of applying for strike-out."
+                },
+                {
+                  "title": "[4.3]",
+                  "content": "Mr Taylor represented himself but is an experienced lay advocate who would have been aware of the risk of costs being awarded against him in the event that he failed in his claim."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Corrections (Jurisdiction) [2019] NZHRRT 17",
+                  "context": "see Taylor v Corrections (Jurisdiction) [2019] NZHRRT 17."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "The actual costs have not been disclosed, but the Tribunal has been asked to apply a daily rate of $1,480 for the time spent prior to 31 July 2019 and $1,590 for the days spent after that date.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "Following the Tribunal decision in Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31 which was upheld by the High Court in Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515, the Tribunal has explicitly rejected the civil litigation rule that the unsuccessful party will presumptively be ordered to pay a reasonable contribution to the costs of the successful party. Instead, the Tribunal has applied (inter alia) the broad terms in which the discretion to award costs has been framed in all three of its jurisdictions, particularly s 105 of the Human Rights Act 1993, as well as the need to preserve access (by both plaintiffs and defendants) to justice.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31",
+                  "context": "Following the Tribunal decision in Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31"
+                },
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Andrews [2015] NZHC 745",
+                  "context": "which was upheld by the High Court in Commissioner of Police v Andrews [2015] NZHC 745"
+                },
+                {
+                  "type": "case",
+                  "reference": "[2015] 3 NZLR 515",
+                  "context": "Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515"
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 105 of the Human Rights Act 1993",
+                  "context": "particularly s 105 of the Human Rights Act 1993, as well as the need to preserve access (by both plaintiffs and defendants) to justice."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[7]",
+              "content": "In Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30 (Beauchamp) the Tribunal canvassed at [15] and [16] the most recent decisions in which the Tribunal had expanded upon those basic principles. Those cases were Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 (Smith) and Turner v University of Otago (Costs) [2021] NZHRRT 48 (Turner). As noted in Beauchamp at [15], across all three of the Tribunal's jurisdictions costs are not routinely awarded to the successful party and a notional daily tariff is seldom applied.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30 (Beauchamp)",
+                  "context": "In Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30 (Beauchamp) the Tribunal canvassed at [15] and [16] the most recent decisions"
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 (Smith)",
+                  "context": "Those cases were Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 (Smith)"
+                },
+                {
+                  "type": "case",
+                  "reference": "Turner v University of Otago (Costs) [2021] NZHRRT 48 (Turner)",
+                  "context": "and Turner v University of Otago (Costs) [2021] NZHRRT 48 (Turner)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[8]",
+              "content": "The task for this Tribunal in considering an application for costs is to exercise judgement based on the general principles identified in Smith and Turner and applied to the specific facts of the case; see Smith at [47] and Turner at [7.2]. The explicit human rights dimension of the Tribunal's three jurisdictions requires that, in principle, costs should not be awarded as a matter of course and if awarded, the amount will usually be modest in nature; see Smith at [5] and Turner at [7.1].",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smith and Turner",
+                  "context": "based on the general principles identified in Smith and Turner and applied to the specific facts of the case; see Smith at [47] and Turner at [7.2]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Smith and Turner",
+                  "context": "see Smith at [5] and Turner at [7.1]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[9]",
+              "content": "Summarising the principal factors most relevant to the determination of the present application:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "Before an award of costs is made by the Tribunal against an unsuccessful litigant there is a duty to consider not only the implications of the award for the particular unsuccessful litigant, but also the effect on access to justice; see Turner at [6.1] and Smith at [9.8]."
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "Parties should not be unduly deterred from seeking a resolution of their dispute by the very Tribunal created to resolve such disputes; see Turner at [7.5] and Smith at [9.6]."
+                },
+                {
+                  "title": "[9.3]",
+                  "content": "Whether a party was put to the unnecessary expense of filing a strike-out application when a claim could instead have been withdrawn, if a plaintiff chose not to pursue the matter further."
+                },
+                {
+                  "title": "[9.4]",
+                  "content": "Some claims in the Tribunal should have costs consequences; see Smith at [9.7]. Claims struck out for being an abuse of the Tribunal's process are more likely to attract such consequences."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Turner and Smith",
+                  "context": "see Turner at [6.1] and Smith at [9.8]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Turner and Smith",
+                  "context": "see Turner at [7.5] and Smith at [9.6]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Smith",
+                  "context": "see Smith at [9.7]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[10]",
+              "content": "In this claim the Tribunal struck out the proceedings because Mr Taylor failed to comply with the timetabling directions issued by the Tribunal over an almost one-year period. If Mr Taylor did not wish to continue with his claim, he could have simply withdrawn it. He did not take that action. Mr Taylor while self-represented is an experienced lay advocate with experience in litigation, including in this Tribunal.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[11]",
+              "content": "This is not an ordinary situation where costs arise after someone has acted in good faith to progress their claim but, for reasons given by the Tribunal in a substantive decision, has been unsuccessful in that claim. Mr Taylor's claim was struck out because he took no action. Corrections was therefore put to the cost of being required to apply to strike out Mr Taylor's claim. The Tribunal considers the award of costs in this situation does not compromise access to justice.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[12]",
+              "content": "Corrections was required to address the issue of Mr Hunter's standing and the wide ambit of the initial claim as interlocutory matters, which resulted in the Tribunal striking out parts of the claim in its decision Taylor and Hunter v Corrections (Jurisdiction) [2019] NZHRRT 17. The Tribunal accepts that significant additional time was required to be expended by Corrections in relation to these interlocutory matters. Conversely, Corrections was not required to attend a hearing on either of the interlocutory matters, or on the substantive claim that was ultimately struck out.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor and Hunter v Corrections (Jurisdiction) [2019] NZHRRT 17",
+                  "context": "which resulted in the Tribunal striking out parts of the claim in its decision Taylor and Hunter v Corrections (Jurisdiction) [2019] NZHRRT 17."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[13]",
+              "content": "The Tribunal has had regard to the impact on Mr Taylor and on access to justice generally of an award of costs in these proceedings. Because Mr Taylor chose to not engage with the Tribunal and has not prosecuted this claim in good faith, it is appropriate to award costs against him. Parties who choose not to engage in good faith must be aware that costs may be ordered against them, but this should not deter those who act in good faith.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[14]",
+              "content": "For these reasons, it is appropriate for a contribution to Corrections' costs be made by Mr Taylor. However, taking into account all of the principles above, that amount is limited. The Tribunal determines that an award of costs in the amount of $2,000 adequately reflects the overall interests of justice in these particular circumstances.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[15]",
+              "content": "Mr Taylor is to pay the Department of Corrections the sum of $2,000.",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Ms NJ Baird",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Taylor v Corrections (Costs) [2022] NZHRRT 45.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

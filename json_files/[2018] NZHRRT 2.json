@@ -1,0 +1,138 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 2
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 2",
+        "reference_number": "HRRT 055/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "New Zealand",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "21 February 2018",
+        "case_title": "Mohammad v Ha & C Ltd (Strike-Out Application) [2018] NZHRRT 2",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT STATEMENT OF CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ABDUS SATTAR MOHAMMAD",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "HA & C LIMITED, TRADING AS DOLLAR STAR",
+            "role": "FIRST DEFENDANT",
+            "type": "Company"
+          },
+          {
+            "name": "SHUN BOK JO",
+            "role": "SECOND DEFENDANT",
+            "type": "Individual"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr C Tuck",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Ms J Sharmam",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Background",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In proceedings filed on 12 September 2016 the plaintiff alleges he was discriminated against in the employment context on the grounds of his religious beliefs, race and ethnic or national origins. Damages of $45,000 are sought.",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "By memorandum dated 19 December 2017 Mr Tuck, counsel for the plaintiff, has notified the Tribunal he has encountered ongoing difficulty in contacting the plaintiff who, he says, appears to have left the country. Consequently, not being properly instructed, Mr Tuck seeks leave to withdraw.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "In the circumstances outlined by Mr Tuck it is necessary that these proceedings be dismissed as there is no realistic prospect that the plaintiff has any serious intention of prosecuting them with diligence at any time in the near future. To allow the proceedings to continue would be vexatious.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Leave is granted to Mr Tuck to withdraw.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "The following orders are made:<br><br>[5.1] The statement of claim filed on 12 September 2016 is struck out.<br><br>[5.2] Mr Tuck is given leave to withdraw.",
+              "page": 2
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Mohammad v Ha & C Ltd (Strike-Out Application) [2018] NZHRRT 2]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

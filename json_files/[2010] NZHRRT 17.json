@@ -1,0 +1,244 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 3,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2010] NZHRRT 17",
+        "reference_number": "HRRT 45/09",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "9 September 2010",
+        "case_title": "Z AND COMMISSIONER OF POLICE",
+        "legal_basis": "s.85(2) of the Privacy Act 1993",
+        "decision_type": "Costs",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "Z",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "COMMISSIONER OF POLICE",
+            "role": "Defendant",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr R Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr B Neeson",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms L Darroch",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Ms F Jackson",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION (Costs)",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The successful plaintiff has applied for an award of costs. The Police acknowledge that an award of some sort is likely, but the amount of the award is in issue.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[2]",
+              "content": "The Tribunal derives its jurisdiction to award costs in this case from s.85(2) of the Privacy Act 1993. The approach to awarding costs that was identified by the Tribunal in Herron v Speirs Group¹, and the earlier decision of Horne v Bryant (No.2)², has been endorsed by the High Court in Herron v Speirs Group.³ More recently, the Tribunal has listed all costs awards that have been made since 2002 in Orlov v Ministry of Justice & The Attorney General4. There is also a discussion about costs in this Tribunal at http://www.justice.govt.nz/tribunals/human-rights-review-tribunal/documents/HRRTcosts.pdf.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s.85(2) of the Privacy Act 1993",
+                  "context": "The Tribunal derives its jurisdiction to award costs in this case from s.85(2) of the Privacy Act 1993."
+                },
+                {
+                  "type": "case",
+                  "reference": "Herron v Speirs Group¹",
+                  "context": "The approach to awarding costs that was identified by the Tribunal in Herron v Speirs Group¹"
+                },
+                {
+                  "type": "case",
+                  "reference": "Horne v Bryant (No.2)²",
+                  "context": "...and the earlier decision of Horne v Bryant (No.2)²"
+                },
+                {
+                  "type": "case",
+                  "reference": "Herron v Speirs Group.³",
+                  "context": "...has been endorsed by the High Court in Herron v Speirs Group.³"
+                },
+                {
+                  "type": "case",
+                  "reference": "Orlov v Ministry of Justice & The Attorney General4",
+                  "context": "...the Tribunal has listed all costs awards that have been made since 2002 in Orlov v Ministry of Justice & The Attorney General4."
+                },
+                {
+                  "type": "other",
+                  "reference": "http://www.justice.govt.nz/tribunals/human-rights-review-tribunal/documents/HRRTcosts.pdf",
+                  "context": "There is also a discussion about costs in this Tribunal at http://www.justice.govt.nz/tribunals/human-rights-review-tribunal/documents/HRRTcosts.pdf."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[3]",
+              "content": "Against that background, we do not think that in this decision we need do more than deal with the particular points that have informed our assessment of the award in this case.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "The total costs incurred by the plaintiff5 came to $6,271.00 (inclusive of GST) with another $61.00 in disbursements. The sum is very modest having regard to the issues that were raised, and the fact that the hearing in the Tribunal took up the best part of two days. Furthermore the plaintiff is only asking for a reasonable contribution to those costs.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "The submissions that have been filed discuss a number of aspects of the case, and the way it was conducted. We do not deal with them all. Instead the conclusions we have reached, and which have most significant bearing on our award, are these:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[a]",
+                  "content": "We agree with the criticisms by the Police of the fact that the plaintiff asserted, and clung to his assertion, that he had been unable to obtain work with a particular employer as a result of the disclosure of information at issue.6 For reasons given in the substantive decision7, that evidence was rejected. We also agree with the Police that the assertion had to be answered, and that there were additional costs incurred as a result (including in relation to discovery, and in preparation for and the conduct of the hearing). This factor does justify a reduction in the costs that might otherwise have been awarded;"
+                },
+                {
+                  "title": "[b]",
+                  "content": "On the other hand, while it is true that other elements of the plaintiff's claim were criticised by the Tribunal as well, the fact is that ultimately the plaintiff succeded in obtaining the most significant relief he sought (in the form of a declaration as to interference with his privacy, and an award of damages) even if, as proved to be the case, it is not much;"
+                },
+                {
+                  "title": "[c]",
+                  "content": "We do not agree with the suggestion that the result might somehow be seen as a part sucess only, on the basis that only two of the three Tribunal members were persuaded to accept the claim. It is true that the decision was a majority decision, but it was no less a decision of the Tribunal for that."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Z v Police [2010] NZHRRT 12",
+                  "context": "For reasons given in the substantive decision7, that evidence was rejected."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[6]",
+              "content": "We consider that an award of $3,000.00 all up will do justice in this case.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[7]",
+              "content": "Pursuant to s.82(2) of the Act, we therefore award costs to be paid by the Police to the plaintiff in the sum of $3,000.00.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s.82(2) of the Act",
+                  "context": "Pursuant to s.82(2) of the Act, we therefore award costs to be paid by the Police to the plaintiff in the sum of $3,000.00."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr R D C Hindle",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Mr R Musuku",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr B Neeson",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "Herron v Speirs Group [2006] NZHRRT 29.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Horne v Bryant (No.2) [2003] NZHRRT 36.",
+          "page": 1
+        },
+        {
+          "number": "3",
+          "content": "Herron v Speirs Group (Auckland High Court, CIV 2006-404-002277, 30 October 2008 per Andrews J, J A Binns and D A Clapshaw).",
+          "page": 1
+        },
+        {
+          "number": "4",
+          "content": "Orlov v Ministry of Justice & The Attorney General [2009] NZHRRT 28.",
+          "page": 1
+        },
+        {
+          "number": "5",
+          "content": "Who was represented by Ms Darroch, a member of the Mangere Community Law Centre.",
+          "page": 2
+        },
+        {
+          "number": "6",
+          "content": "We emphasise that this is not in any way a criticism of counsel for the plaintiff, or the way she conducted the case on his behalf.",
+          "page": 2
+        },
+        {
+          "number": "7",
+          "content": "Z v Police [2010] NZHRRT 12.",
+          "page": 2
+        }
+      ]
+    }
+  ]
+}

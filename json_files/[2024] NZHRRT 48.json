@@ -1,0 +1,519 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 8
+  },
+  "cases": [
+    {
+      "case_number": 432022,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 48",
+        "reference_number": "HRRT 043/2022",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL\nI TE TARAIPIUNARA MANA TANGATA",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "8 October 2024",
+        "case_title": "Bevan-Smith v One New Zealand Group Ltd (Strike Out) [2024] NZHRRT 48",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 8
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "JOHN BEVAN-SMITH",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ONE NEW ZEALAND GROUP LIMITED (formerly VODAFONE NEW ZEALAND LIMITED)",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Dr J Bevan-Smith in person",
+          "representing": "JOHN BEVAN-SMITH"
+        },
+        {
+          "counsel": "Mr RDH Massey",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT CLAIM¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In March 2022, Doctor Bevan-Smith asked Vodafone New Zealand Limited (now named One New Zealand Group Limited (One NZ)) “whether or not it holds any information concerning communications about me with the New Zealand Security Intelligence Service (NZSIS) and/or the Government Communications Security Bureau (GCSB).” One NZ replied, advising that it was unable to confirm or deny its involvement in matters concerning law enforcement agencies.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Dr Bevan-Smith alleges this reply is a breach of Information Privacy Principle (IPP) 6 of the Privacy Act 2020 (PA) and an interference with his privacy.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Information Privacy Principle (IPP) 6 of the Privacy Act 2020 (PA)",
+                  "context": "Dr Bevan-Smith alleges this reply is a breach of this principle."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "One NZ denies that claim and say it had a proper basis under ss 47 and 53(c) of the PA to neither confirm nor deny whether it holds the requested information.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 47 and 53(c) of the PA",
+                  "context": "One NZ claims this as the basis to neither confirm nor deny holding the requested information."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "The claim was filed in October 2022, it has not, however, been able to be progressed because Dr Bevan-Smith has repeatedly failed to comply with Tribunal directions requiring him to file his written statement of evidence. Dr Bevan-Smith says he cannot file his evidence because the Tribunal refused his request for access to the personal information that he says One NZ holds on him as part of the discovery process.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Dr Bevan-Smith has been advised that whilst he might disagree with a Tribunal direction, he is obliged to comply with it and that a failure to progress the proceeding and deliberate non-compliance with Tribunal's directions can result in a proceeding being stuck out as an abuse of process. Dr Bevan-Smith has also been advised if he continues to deliberately not comply with directions to file his evidence the Tribunal can consider whether to strike out the claim as an abuse of process on its own motion.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Despite this advice and the Tribunal giving Dr Bevan-Smith numerous opportunities to file his evidence and so avoid the Tribunal having to consider whether the proceeding should be struck out, he has not complied with the directions to file his evidence statement.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "The Tribunal must accordingly determine whether this matter should be struck out as an abuse of process.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The law",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Pursuant to s 115A of the Human Rights Act 1993 (HRA) (which applies to these proceedings under s 111 of the Privacy Act 2020) the Tribunal has a discretionary power to strike out proceedings:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A of the Human Rights Act 1993 (HRA)",
+                  "context": "Provides the Tribunal with a discretionary power to strike out proceedings."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 111 of the Privacy Act 2020",
+                  "context": "Makes the HRA applicable to these proceedings."
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Act 1993, Section 115A",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it-"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The Tribunal, accordingly, can strike out a proceeding under s 115A(1)(d) of the HRA if it is satisfied it is an abuse of process.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d) of the HRA",
+                  "context": "Allows the Tribunal to strike out a proceeding if it is an abuse of process."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "The jurisdiction to strike out a proceeding as an abuse of process includes where there has been a consistent failure to comply with Tribunal orders where that failure is deliberate. It is recognised that failures, even repeated ones, especially when the plaintiff is a lay litigant, will not always be deliberate, but may result from ignorance, disorganisation, or anxiety. Consistent failure in the face of repeated warnings will, however, be regarded as deliberate, particularly if the plaintiff is conscious of the breach and chooses to do nothing.² Finding that there has been an abuse of process on this basis does not require the defendant to show any prejudice from the plaintiff's failure.³",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "The exercise of jurisdiction to strike out a claim requires the Tribunal to be satisfied both that there is a proper basis on which to strike out the claim, and, that the Tribunal should exercise its discretion to strike out this claim.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "Section 105 of the HRA requires the Tribunal to act in accordance with the substantial merits of the case without regard to technicalities, but in accordance with the principles of natural justice and in a manner that is fair and reasonable and according to equity and good conscience. Section 105 is, however, primarily relevant to a strike-out where it is alleged that a proceeding discloses no reasonable cause of action; not one involving an abuse of process based on a plaintiff's failure to comply with directions.⁴ While recognising the need for the Tribunal to be accessible to lay-people and self-represented litigants, the courts have held that this must be balanced against the need to free defendants from litigation that amounts to an abuse of process.⁵",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 105 of the HRA",
+                  "context": "Requires the Tribunal to act in accordance with the substantial merits of the case, principles of natural justice, and in a fair and reasonable manner."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The issues",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[13]",
+              "content": "The issues arising for determination are accordingly:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[13.1]",
+                  "content": "Whether Dr Bevan-Smith's failure to comply with the Tribunal's directions is an abuse of process."
+                },
+                {
+                  "title": "[13.2]",
+                  "content": "If so, whether the Tribunal should strike out the claim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "WHETHER DR BEVAN-SMITH'S FAILURE TO COMPLY WITH TRIBUNAL'S DIRECTIONS IS AN ABUSE OF PROCESS",
+          "page_start": 3,
+          "paragraphs": []
+        },
+        {
+          "title": "Background",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "As noted above Dr Bevan-Smith's request to One NZ sought confirmation as to whether it held any information concerning communications about him with the NZSIS and GCSB. One NZ's response was to neither confirm nor deny whether it held that information.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "Dr Bevan-Smith considers he was subject to investigation by the intelligence services and that One NZ does hold personal information about him, including a Type 1 intelligence warrant (that may be issued under the Intelligence and Security Act 2017) that he says it relied on to refuse his IPP 6 request.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Intelligence and Security Act 2017",
+                  "context": "Mentioned in relation to a Type 1 intelligence warrant."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "By Minute dated 2 June 2023, the Tribunal made timetabling directions for discovery and the exchange of written statements of evidence. The Tribunal directed discovery be informal and limited to the correspondence between the parties in relation to the IPP 6 request and any relevant documents in Dr Bevan-Smith's possession. The Tribunal refused Dr Bevan-Smith's request that discovery include the personal information that he says One NZ holds on him. The Tribunal did not consider it was necessary to know whether One NZ held any such personal information about Dr Bevan-Smith to determine the matters at issue in this claim.⁶",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "On 26 June 2023, Dr Bevan-Smith sought a direction that the timetable for discovery and exchange of statements of evidence be suspended. This was on the basis that he considered it was unconstitutional that he was not being given access to the personal information he said One NZ holds on him, as part of the discovery process. Dr Bevan-Smith alleged this was contrary to the principles of natural justice affirmed by s 27 of the New Zealand Bill of Rights Act 1993.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 27 of the New Zealand Bill of Rights Act 1993",
+                  "context": "Cited by Dr Bevan-Smith to allege that the refusal of access to personal information was contrary to the principles of natural justice."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "By Minute dated 18 July 2023, the Tribunal refused Dr Bevan-Smith's request for a timetable suspension and made directions requiring discovery to be completed by 28 July 2023 and Dr Bevan-Smith's evidence to be filed by 18 August 2023.⁷",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Dr Bevan-Smith did not comply with the directions made on 18 July 2023. Instead on 17 August 2023 Dr Bevan-Smith requested he be given immediate access to his personal information held by One NZ, so that he could file his evidence.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "By Minute dated 29 August 2023, the Tribunal refused Dr Bevan-Smiths request regarding discovery noting it had already addressed this in the Minutes dated 2 June 2023 and 18 July 2023. The Tribunal also noted that while Dr Bevan-Smith may disagree with the discovery order, all parties are obliged to comply with Tribunal directions. Dr Bevan-Smith was encouraged to focus on complying with the timetable directions so that his claim could be progressed to a substantive hearing, at which the Tribunal could determine whether One NZ has a proper basis to neither confirm nor deny the existence of the personal information sought by him. Dr Bevan-Smith was reminded that he had brought this proceeding and was obliged to progress it. The Tribunal made timetabling directions that required discovery to be completed by 8 September 2023 and Dr Bevan-Smith's evidence to filed by 29 September 2023.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "Dr Bevan-Smith did not comply with the directions made on 29 August 2023. Instead on 8 September 2023 Dr Bevan-Smith filed a memorandum setting out his view of how the Tribunal should interpret relevant provisions in the PA and why he considered \"no authority exists in the PA to deny the plaintiff access to his personal information, save for that which constitutes a legal nullity\". He advised that unless he was provided with his personal information he would be unable to comply with the timetable directions.",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "Despite Dr Bevan-Smith failing to file his evidence, One NZ filed its evidence statements as directed on 20 October 2023. The timetable directions provided for Dr Bevan-Smith's evidence in reply to be filed by 3 November 2023. He did not file any evidence.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "By Minute dated 4 December 2023, the Tribunal allowed Dr Bevan-Smith a further opportunity to file his evidence so the matter could progress to a substantive hearing. He was directed to file his evidence by 22 December 2023. Dr Bevan-Smith was again reminded that he was obliged to progress the proceeding and to comply with Tribunal directions. The Tribunal also noted that failure to progress a proceeding and deliberate non-compliance with directions could result in a proceeding being struck out as an abuse of process.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "Dr Bevan-Smith did not comply with the directions made on 4 December 2023. Instead on 15 December 2023 Dr Bevan-Smith filed a memorandum advising he was unable to comply and had a moral right to non-compliance because the Tribunal had unlawfully denied his constitutional right to his personal information by way of discovery.",
+              "page": 5
+            },
+            {
+              "number": "[25]",
+              "content": "By Minute dated 16 February 2024, the Tribunal allowed Dr Bevan-Smith a further opportunity to file his evidence and directed him to do so by 8 March 2024. The Tribunal also directed that if he failed to comply with that direction and file his evidence it would issue a timetable for the parties to provide submissions on whether the Tribunal should exercise its own motion to strike out the proceedings as an abuse of process under s 115A(1)(d) of the HRA.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d) of the HRA",
+                  "context": "Cited as the basis for the Tribunal to consider striking out the proceedings on its own motion."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "In the Minute dated 16 February 2024 the Tribunal noted that:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[26.1]",
+                  "content": "While Dr Bevan-Smith disagreed with the direction to file his evidence and viewed it as unlawful and a nullity, that did not mean the direction was unlawful nor that he did not need to comply with it."
+                },
+                {
+                  "title": "[26.2]",
+                  "content": "In the absence of a finding of the High Court that the direction was unlawful and a nullity, the direction was lawful, and Dr Bevan-Smith was obliged to comply with it."
+                },
+                {
+                  "title": "[26.3]",
+                  "content": "Dr Bevan-Smith had already refused to comply with Tribunal directions in Minutes dated 2 June 2023, 18 July 2023, 29 August 2023 and 4 December 2023."
+                },
+                {
+                  "title": "[26.4]",
+                  "content": "Deliberate non-compliance with directions and failure to progress the claim can result in it being struck out (with refence to relevant case law)."
+                },
+                {
+                  "title": "[26.5]",
+                  "content": "As Dr Bevan-Smith had advised he did want to progress the matter he would be given a further opportunity to file his evidence. If, however, he continued to deliberately not comply with directions the Tribunal would have to consider whether the claim should be struck out as an abuse of process, on the Tribunal's own motion."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "Dr Bevan-Smith was given until 8 March 2024 to file and serve his evidence.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "Dr Bevan-Smith did not comply with that direction. Instead on 29 February 2024 he filed a further memorandum again advising he was unable to comply with the direction to file his evidence because he had been refused access to his personal information by way of discovery.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "By Minute dated 22 April 2024 the Tribunal directed a timetable for submissions as to whether the Tribunal should, on its own motion, strike out the proceeding as an abuse of process. The Tribunal noted that should Dr Bevan-Smith choose to now file his evidence, so that the matter could be progressed to a substantive hearing, that would avoid the need for the Tribunal to consider whether to strike out the proceedings. Dr Bevan-Smith was encouraged to do this.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "On 10 May 2024 One NZ filed its submissions on whether the claim should be struck out as an abuse of process (it had been directed to file its submissions first as it was legally represented).",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "On 31 May 2024, Dr Bevan-Smith filed a memorandum advising he would not be filing his evidence or submissions as to whether the claim should be struck out and that instead he intended to appeal an interim direction of the Tribunal regarding these matters.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "On 19 July 2024 Dr Bevan-Smith advised the Tribunal that he had withdrawn an appeal to the High Court and requested further time to file his submissions relating to the potential strike out of his claim.⁸ The Tribunal granted this request.",
+              "page": 7
+            },
+            {
+              "number": "[33]",
+              "content": "Dr Bevan-Smith's filed his submissions on 24 August 2024.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[34]",
+              "content": "In his submissions opposing the strike out and the numerous memoranda he has filed previously Dr Bevan-Smith makes it clear he has not complied with the directions requiring him to file his statements of evidence because he disagrees with those directions. Dr Bevan-Smith says he is “prevented from filing his evidence” because the Tribunal has denied him, by way of discovery orders, access to his requested personal information which he says he requires to advance this claim.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "Dr Bevan-Smith's submissions set out why he considers the Tribunal's discovery order is manifestly unfair (given how he says the PA should be interpreted) and why that interpretation requires him to be provided the personal information he seeks by way of discovery orders. He submits that because the Tribunal has denied him access to his personal information by way of discovery the Tribunal has no basis on which it can rely to strike out this proceeding as an abuse of process.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "The Tribunal does however have a basis on which to rely to strike out the proceedings as an abuse of process. That is because a deliberate, consistent failure to comply with the Tribunal's directions amounts to an abuse of process as discussed above at [10].",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "Dr Bevan-Smith has consistently failed to comply with Tribunal directions regarding the filing of his evidence (made on 18 July 2023, 29 August 2023, 4 December 2023 and 16 February 2024) as set out above. It is apparent that Dr Bevan-Smith could have complied with those directions but chose not to do so (and had no intention of doing so) because he disagreed that he should be required to file his statements of evidence until he obtained access to his personal information that he said One NZ holds.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "Dr Bevan-Smith's non-compliance cannot be attributed to ignorance or disorganisation. He knew and understood what the directions required him to do and was aware of the consequence of him not complying with them.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "The Tribunal repeatedly advised him that he was required to comply with the direction even though he objected to it. He was given repeated extensions of the time by which he was required to comply. Dr Bevan-Smith was also repeatedly encouraged to focus on complying with the direction so his claim could be progressed to a substantive hearing, at which the Tribunal could determine whether One NZ has a proper basis to neither confirm nor deny the existence of the personal information sought by him and whether his interpretation of the PA was correct.",
+              "page": 7
+            },
+            {
+              "number": "[40]",
+              "content": "The Tribunal also repeatedly advised him that if he failed to comply his claim might be struck out as an abuse of process. Although the Tribunal gave Dr Bevan-Smith repeated opportunities to file his evidence and so avoid the Tribunal having to consider whether the proceeding should be struck out as an abuse of process, he did not comply with any of the directions to file his evidence.",
+              "page": 8
+            },
+            {
+              "number": "[41]",
+              "content": "In these circumstances it is readily apparent that Dr Bevan-Smith's non-compliance with the directions to file his evidence was deliberate.",
+              "page": 8
+            },
+            {
+              "number": "[42]",
+              "content": "The Tribunal is therefore satisfied that, as Dr Bevan-Smith has consistently and deliberately failed to comply with Tribunal's directions, the proceeding has become an abuse of process.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "SHOULD THE TRIBUNAL STRIKE OUT THE CLAIM?",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[43]",
+              "content": "The Tribunal has found Dr Bevan-Smith's claim has become an abuse of process because of his deliberate and consistent non-compliance with Tribunal directions. Having found this, the Tribunal considers it is appropriate to exercise its discretion to strike out the claim. Dr Bevan-Smith could have filed his evidence and avoided this claim being struck out, but he chose not to do so. One NZ should not be put to any further cost of defending this matter, nor should any further Tribunal resources be expended on this matter.",
+              "page": 8
+            },
+            {
+              "number": "[44]",
+              "content": "In light of these factors, the Tribunal considers it wholly appropriate to exercise its discretion to strike out the claim.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "No issues of costs arise, these are not sought by the defendant.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[46]",
+              "content": "Dr Bevan-Smith's claim against One New Zealand Group Limited is struck out in its entirety.",
+              "page": 8
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Bevan-Smith v One New Zealand Group Ltd (Strike Out) [2024] NZHRRT 48.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Gwizo v Attorney-General [2022] NZHC 2717 at [44] citing Yarrow v Finnegan [2017] NZHC 17155 at [11]-[14] and [16], and the authorities there cited.",
+          "page": 3
+        },
+        {
+          "number": "3",
+          "content": "Gwizo at [46] and the authorities there cited.",
+          "page": 3
+        },
+        {
+          "number": "4",
+          "content": "Gwizo at [49].",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Greer v Commissioner of Police [2024] NZHC 104 at [29]-[30] and authorities there cited.",
+          "page": 3
+        },
+        {
+          "number": "6",
+          "content": "One NZ had, by memorandum dated 17 April 2023, set out the nature of the interest being protected by the refusal of Dr Bevan-Smith's IPP 6 request and the purpose of the relevant provisions in the PA on which it relies as discussed in Case note 219773 [2010] NZ Priv Cmr 25, Case note 284416 [2017] NZ Priv Cmr 5 and in JM v Human Rights Review Tribunal [2023] NZHC 228.",
+          "page": 4
+        },
+        {
+          "number": "7",
+          "content": "Dr Bevan-Smith's allegation is misconceived. In the context of this proceeding it accords with the principles of natural justice and is appropriate for discovery to be limited as directed by the Tribunal. That is because this proceeding involves a challenge to the defendant's decision to withhold personal information from Dr Bevan-Smith in response to his IPP 6 request. The PA expressly provides that in certain circumstances an agency, when responding to an IPP 6 request, may withhold personal information. It would undermine the statutory scheme if a plaintiff could obtain access to the withheld information by way of discovery prior to the Tribunal's determination as to whether that information has been properly withheld under the PA.",
+          "page": 4
+        },
+        {
+          "number": "8",
+          "content": "The email is dated 19 July 2024 and states \"Please be advised that on 17 July 2024 I withdrew my Notice of Appeal dated 27 June 2024 from the Auckland High Court.\"",
+          "page": 7
+        }
+      ]
+    }
+  ]
+}

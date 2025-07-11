@@ -1,0 +1,122 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "original image",
+    "total_pages": 1,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "9/2006",
+        "reference_number": "HRRT 7/06",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "22 March 2006",
+        "case_title": "CHRISTOPHER JOSEPH O'NEILL v ROSSLYN NOONAN",
+        "legal_basis": "Privacy Act 1993",
+        "decision_type": "Decision",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 1
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "CHRISTOPHER JOSEPH O'NEILL",
+            "role": "Proposed plaintiff",
+            "type": ""
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ROSSLYN NOONAN",
+            "role": "Proposed defendant",
+            "type": ""
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms T McNaughton",
+          "role": "Member"
+        },
+        {
+          "name": "Mr A A Hall",
+          "role": "Member"
+        }
+      ],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "DECISION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "This is another claim filed by Mr O'Neill under the Privacy Act 1993. It is clear, however, that the issues Mr O'Neill wishes to raise have not been the subject of investigation by the Privacy Commissioner, with a result that the Tribunal has no jurisdiction to deal with the matter: see O'Neill v Various Defendants HRRT Decision 5/06, 23 February 2006 and the authorities referred to in that decision.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "This is another claim filed by Mr O'Neill under the Privacy Act 1993."
+                },
+                {
+                  "type": "case",
+                  "reference": "O'Neill v Various Defendants HRRT Decision 5/06, 23 February 2006",
+                  "context": "see O'Neill v Various Defendants HRRT Decision 5/06, 23 February 2006 and the authorities referred to in that decision."
+                }
+              ],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[2]",
+              "content": "The claim is struck out.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr R D C Hindle",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms T McNaughton",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr A A Hall",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

@@ -1,0 +1,1122 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "NZHRRT_20_2016.pdf",
+    "total_pages": 19,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2016] NZHRRT 20",
+        "reference_number": "HRRT 002/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "17 May 2016",
+        "decision_date": "8 June 2016",
+        "case_title": "Edwards v Capital and Coast DHB (Strike-Out Application) [2016] NZHRRT 20",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT SECOND PLAINTIFF'S STATEMENT OF CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 19
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "MORIA EDWARDS",
+            "role": "FIRST PLAINTIFF",
+            "type": "Individual"
+          },
+          {
+            "name": "JASON EDWARDS",
+            "role": "SECOND PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CAPITAL AND COAST DISTRICT HEALTH BOARD",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms LJ Alaeinia",
+          "role": "Member"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Miss M Edwards",
+          "representing": "second plaintiff"
+        },
+        {
+          "counsel": "Mr PN White",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Background",
+              "page": 2
+            },
+            {
+              "number": "[1]",
+              "content": "On 15 January 2016 the first plaintiff and her son (the second plaintiff who is now 16 years of age) filed proceedings under the Privacy Act 1993 alleging the Capital and Coast District Health Board (CCDHB) contravened information privacy principles 2, 3, 6, 7, 8 and 11 along with Health Information Privacy Code 1994, rules 2, 3, 8 and 11.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "A statement of reply by the CCDHB followed on 19 February 2016. The allegations made by the plaintiffs are denied and in addition, by application of the same date, the CCDHB applied for an order striking out:",
+              "page": 2
+            },
+            {
+              "number": "[2.1]",
+              "content": "That part of the first plaintiff's claim which alleges a breach of information privacy Principle 6. The ground on which this application is made is that the Privacy Commissioner has not investigated a breach of Principle 6 in respect of the first plaintiff.",
+              "page": 2
+            },
+            {
+              "number": "[2.2]",
+              "content": "The entirety of the second plaintiff's claim on the ground the Privacy Commissioner has not investigated any breach of the second plaintiff's privacy.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "In relation to the Principle 6 point, the first plaintiff in submissions dated 28 February 2016 accepted there had been no investigation by the Privacy Commissioner into her allegation and advised that on 31 January 2016 she had a lodged a new Principle 6 complaint with the Privacy Commissioner. Subsequently, being dissatisfied with the outcome of the Commissioner's investigation of that complaint, the first plaintiff on 15 April 2016 filed new proceedings before the Tribunal against the CCDHB alleging a breach of Principle 6. Those new proceedings are HRRT019/2016.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "In relation to the application to strike out the second plaintiff's claim, the first plaintiff's submissions of 28 February 2016 responded that:",
+              "page": 2
+            },
+            {
+              "number": "[4.1]",
+              "content": "A request had been made to the Privacy Commissioner to correct the Certificate of Investigation so that it showed there had been an investigation into the alleged breaches of the second plaintiff's privacy.",
+              "page": 2
+            },
+            {
+              "number": "[4.2]",
+              "content": "The second plaintiff had in any event on 19 February 2016 lodged a fresh complaint with the Privacy Commissioner in relation to those matters covered by the statement of claim. It was anticipated that following investigation, the Privacy Commissioner would issue a fresh Certificate of Investigation, thereby giving the Tribunal jurisdiction over the matters presently pleaded in the statement of claim.",
+              "page": 2
+            },
+            {
+              "number": "[4.3]",
+              "content": "Should the Privacy Commissioner not correct the existing Certificate of Investigation, the second plaintiff's claim would be withdrawn in anticipation of a new claim being filed with the Tribunal once the Privacy Commissioner had completed his investigation into the new complaint.",
+              "page": 2
+            },
+            {
+              "number": "[4.4]",
+              "content": "It would be premature to strike out the second plaintiff's claim. A stay or a direction that the claim be amended would be more appropriate.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "On 4 March 2016 a second amended statement of claim was filed which, while omitting any reference to an alleged breach of Principle 6 in relation to the first plaintiff, was unchanged in respect of the second plaintiff's claim. An amended statement of defence followed on 24 March 2016. The CCDHB maintains the position that the Tribunal has no jurisdiction to hear the second plaintiff's claim as there has never been an investigation by the Privacy Commissioner into the claimed interferences with the second plaintiff's privacy.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "A teleconference was convened on 7 April 2016 to progress the strike-out application. The position of the parties was summarised in the Chairperson's Minute of 7 April 2016 at [18] to [22]:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Chairperson's Minute of 7 April 2016",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[18]",
+                    "content": "Mr White proposed the filing by the parties of affidavit evidence followed by an oral hearing, a hearing at which there would be no cross-examination on the affidavits. He estimates the hearing time will be half a day or slightly longer."
+                  },
+                  {
+                    "identifier": "[19]",
+                    "content": "[The first plaintiff] said she found the application bizarre as the Office of the Privacy Commissioner has stated to her on more than one occasion that [the second plaintiffs] circumstances have been investigated. Because she and [the second plaintiff were not privy to what happened in the Office of the Privacy Commissioner during the course of the investigations there was little, if at all, she and [the second plaintiff could say apart from drawing attention to the relevant correspondence which has already been filed. She added that should the Tribunal rule there has been no investigation in relation to the alleged breach of [the second plaintiffs] privacy, [the second plaintiff] will lodge a new complaint with the Privacy Commissioner and if necessary bring new proceedings before the Tribunal. For this reason neither she nor [the second plaintiff] is concemed with the outcome of the strike out application. As it appeared to be a waste of time she is presently of the view she and [the second plaintiff] will not appear and simply abide the Tribunal's decision."
+                  },
+                  {
+                    "identifier": "[20]",
+                    "content": "I have drawn the attention of [the first plaintiff to the Tribunal's need for assistance from both parties and urged her not to make a final decision until after she has seen the evidence and submissions to be filed by the CCDHB. While none of the parties have been privy to the processes followed by the Office of the Privacy Commissioner during the course of the investigation, they are in possession of relevant correspondence emanating from that Office. Caution would suggest that once the CCDHB has filed its affidavits, [the first and second plaintiffs] will be better placed to understand the evidential basis on which the CCDHB application is based. An informed decision can then be made whether to participate in the hearing."
+                  },
+                  {
+                    "identifier": "[21]",
+                    "content": "Mr White acknowledged that in fairness the CCDHB should file its submissions ahead of the hearing so that all involved have notice of the arguments to be advanced."
+                  },
+                  {
+                    "identifier": "[22]",
+                    "content": "[The first plaintiff responded that a notice of opposition having already been filed the plaintiffs' evidence will follow early next week even though the ordinary sequence is that the applicant (here the CCDHB) files its evidence first."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[7]",
+              "content": "As to the litigation guardian point, the Tribunal interviewed the second plaintiff on 18 April 2016 and on 22 April 2016 granted his application to conduct the proceeding without a litigation guardian. See the anonymised decision published as Edwards v Capital and Coast DHB (Litigation guardian) [2016] NZHRRT 16.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Edwards v Capital and Coast DHB (Litigation guardian) [2016] NZHRRT 16",
+                  "context": "Reference to the anonymised decision on the litigation guardian point."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "In relation to the strike-out application the Tribunal has received the following:",
+              "page": 3
+            },
+            {
+              "number": "[8.1]",
+              "content": "Affirmation dated 11 April 2016 by the first plaintiff.",
+              "page": 3
+            },
+            {
+              "number": "[8.2]",
+              "content": "Affirmation dated 20 April 2016 by Ms Katharine Margot Brewer, who at the relevant time was Privacy Officer of the CCDHB.",
+              "page": 3
+            },
+            {
+              "number": "[8.3]",
+              "content": "Affirmation dated 26 April 2016 by the first plaintiff.",
+              "page": 3
+            },
+            {
+              "number": "[8.4]",
+              "content": "The oral and written submissions made at the hearing on 17 May 2016. In this regard, despite earlier indications, the first plaintiff did in fact attend the hearing and made submissions on behalf of the second plaintiff who was at school. In any event, being a solicitor, the first plaintiff was better able to make legal submissions on his behalf.",
+              "page": 3
+            },
+            {
+              "number": "[8.5]",
+              "content": "The post-hearing submissions filed by the parties in response to the Chairperson's Minute of 30 May 2016 which disclosed material uncovered by the Tribunal's own research. Those additional submissions have been taken into account by the Tribunal.",
+              "page": 4
+            },
+            {
+              "number": "[9]",
+              "content": "Before we address the facts it is necessary to dispose of a submission by the first plaintiff that the Tribunal does not have power to determine its own jurisdiction and for that reason cannot hear or determine the strike-out application.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "Jurisdiction to determine the strike-out application",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The essence of the case for the CCDHB is that proceedings before the Tribunal can only be brought by an aggrieved individual if the statutory steps in Part 8 of the Privacy Act (especially ss 73, 82 and 83) have first been followed. In particular it must be shown the Privacy Commissioner has conducted an investigation in respect of the agency in relation to an action alleged to be an interference with the privacy of the aggrieved individual.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, Part 8",
+                  "context": "Requirement for statutory steps in Part 8 of the Privacy Act to be followed before bringing proceedings."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, ss 73, 82 and 83",
+                  "context": "Specific sections of the Privacy Act that must be followed."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "The first plaintiff submitted such inquiry can only be undertaken by the High Court in judicial review proceedings brought under the Judicature Amendment Act 1972.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Judicature Amendment Act 1972",
+                  "context": "Act under which the first plaintiff submitted judicial review proceedings should be brought."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "The submission cannot be accepted. Where a jurisdiction challenge is made before a tribunal, the tribunal must necessarily rule on the challenge. If the Tribunal declines to do so, it is wrongfully declining jurisdiction and a court will order it to act properly. See Wade and Forsyth Administrative Law (11th ed, Oxford, 2014) at 210 citing (inter alia) the judgment of Lord Goddard CJ in R v Fulham, Hammersmith and Kensington Rent Tribunal; Ex parte Zerek [1951] 2 KB 1 at 6:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "R v Fulham, Hammersmith and Kensington Rent Tribunal; Ex parte Zerek [1951] 2 KB 1 at 6",
+                  "context": "Citing the judgment of Lord Goddard CJ regarding a tribunal's ability to inquire into facts to decide its jurisdiction."
+                }
+              ],
+              "quoted_material": {
+                "source": "R v Fulham, Hammersmith and Kensington Rent Tribunal; Ex parte Zerek [1951] 2 KB 1 at 6",
+                "content": "... if a certain state of facts has to exist before an inferior tribunal have jurisdiction, they can inquire into the facts in order to decide whether or not they have jurisdiction, but cannot give themselves jurisdiction by a wrong decision upon them; and this court may, by means of proceedings for certiorari, inquire into the correctness of the decision. The decision as to these facts is regarded as collateral because, though the existence of jurisdiction depends on it, it is not the main question which the Tribunal have to decide."
+              }
+            },
+            {
+              "number": "[13]",
+              "content": "In Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147 at 174 the same point was made:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147 at 174",
+                  "context": "To support the point that a tribunal cannot determine the limits of its own powers."
+                }
+              ],
+              "quoted_material": {
+                "source": "Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147 at 174",
+                "content": "It cannot be for the commission to determine the limits of its powers. Of course if one party submits to a tribunal that its powers are wider than in fact they are, then the tribunal must deal with that submission. But if they reach a wrong conclusion as to the width of their powers, the court must be able to correct that not because the tribunal has made an error of law, but because as a result of making an error of law they have dealt with and based their decision on a matter with which, on a true construction of their powers, they had no right to deal."
+              }
+            },
+            {
+              "number": "[14]",
+              "content": "It is equally clear an inferior tribunal cannot conclusively determine the limits of its own jurisdiction. See Wade and Forsyth op cit at 218-219. For New Zealand authority see Bevan Smith Ltd v Boots The Chemists (New Zealand) Ltd [1980] 1 NZLR 593 (CA) at 599 and Hawkins v Minister of Justice [1991] 2 NZLR 530 (CA) at 534. The principle has recently been illustrated by Air New Zealand Ltd v Disputes Tribunal [2016] NZHC 393, [2016] 2 NZLR 713 at [36] where it was not challenged that the Disputes Tribunal had power to determine the extent of its jurisdiction. Rather the question was whether, in deciding it did have jurisdiction on the basis of estoppel, it was in error.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Bevan Smith Ltd v Boots The Chemists (New Zealand) Ltd [1980] 1 NZLR 593 (CA) at 599",
+                  "context": "New Zealand authority that an inferior tribunal cannot conclusively determine its own jurisdiction."
+                },
+                {
+                  "type": "case",
+                  "reference": "Hawkins v Minister of Justice [1991] 2 NZLR 530 (CA) at 534",
+                  "context": "New Zealand authority that an inferior tribunal cannot conclusively determine its own jurisdiction."
+                },
+                {
+                  "type": "case",
+                  "reference": "Air New Zealand Ltd v Disputes Tribunal [2016] NZHC 393, [2016] 2 NZLR 713 at [36]",
+                  "context": "Recent illustration of the principle regarding a tribunal's power to determine its jurisdiction."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "As the Human Rights Review Tribunal plainly has jurisdiction to determine the limits of its own jurisdiction, albeit not conclusively, we turn to the evidentiary and then the legal basis on which the strike-out application by the CCDHB is based.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "THE EVIDENCE",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Overview of factual dispute",
+              "page": 5
+            },
+            {
+              "number": "[16]",
+              "content": "Factually, the outcome of the strike-out application turns on the steps taken by the Privacy Commissioner to comply with his obligations under s 73 of the Act. Under that provision the Privacy Commissioner must:",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 73",
+                  "context": "The outcome depends on steps taken by the Privacy Commissioner under this section."
+                }
+              ]
+            },
+            {
+              "number": "[16.1]",
+              "content": "Inform the complainant (if any), the person to whom the investigation relates, and any individual alleged to be aggrieved (if not the complainant), of the Commissioner's intention to make the investigation (see s 73(a)); and",
+              "page": 5
+            },
+            {
+              "number": "[16.2]",
+              "content": "Inform (see s 73(b)) the person to whom the investigation relates of:",
+              "page": 5
+            },
+            {
+              "number": "[16.2.1]",
+              "content": "The details of the complaint (if any) or, as the case may be, the subject-matter of the investigation; and",
+              "page": 5
+            },
+            {
+              "number": "[16.2.2]",
+              "content": "The right of that person to submit to the Commissioner, within a reasonable time, a written response in relation to the complaint or, as the case may be, the subject-matter of the investigation.",
+              "page": 5
+            },
+            {
+              "number": "[17]",
+              "content": "The CCDHB submits the letters it received from the Privacy Commissioner make it clear the investigation of which it was notified related to the first plaintiff only. No notice under s 73(b) was ever given that the Commissioner was conducting an investigation into a complaint by the second plaintiff that his privacy had been interfered with.",
+              "page": 5
+            },
+            {
+              "number": "[18]",
+              "content": "For the second plaintiff it is submitted it can be inferred the CCDHB knew the Privacy Commissioner was investigating a complaint by the second plaintiff. This submission faces considerable factual and legal hurdles.",
+              "page": 5
+            },
+            {
+              "number": "",
+              "content": "The initial events",
+              "page": 5
+            },
+            {
+              "number": "[19]",
+              "content": "According to the second amended statement of claim, in early 2013 the second plaintiff experienced several health crises culminating in his being taken by the first plaintiff to the Emergency Department of Wellington Hospital on the evening of 12 June 2013. There he was admitted for assessment.",
+              "page": 5
+            },
+            {
+              "number": "[20]",
+              "content": "During their time at the Emergency Department both the second and first plaintiffs had interaction with various members of staff. Later that night, the second plaintiff was allowed home. Subsequently there were further interactions with hospital staff, some of whom compiled reports which were provided to Child, Youth and Family (CYF).",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "Nearly two years later, in April 2015, the first plaintiff discovered the fact that reports had been made to CYF. On gaining access to those reports and to her personal information held by the CCDHB, she challenged the content of the reports and of the personal information held by the CCDHB. A number of corrections were sought by her. the second plaintiff likewise sought the correction of personal information about him.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Challenges and corrections – dealings with CCDHB",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "According to the affidavit filed by Ms Brewer, on 15 April 2015 the first plaintiff wrote to the CCDHB complaining of the allegedly misleading nature of the information held by the CCDHB about her. Reference is made to the opening paragraph:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Letter from first plaintiff to CCDHB",
+                "content": "I have recently found out that you and Ben Sedley provided false and misleading information about me to CYFS in 2013. I would like this misinformation corrected in writing ... Without consulting me you made a complaint about me to CYFS ... [Emphasis added]"
+              }
+            },
+            {
+              "number": "[23]",
+              "content": "The CCDHB gives emphasis to the words in bold, arguing they make clear the complaint by the first plaintiff was a complaint about her personal information, not the personal information of a third party such as one of her children.",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "The following day the first plaintiff sent an email to various CCDHB staff members. The CCDHB submits this communication also is clearly a complaint by the first plaintiff about the accuracy of the personal information held about her. The relevant extracts referred to by Ms Brewer include:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Email from first plaintiff to CCDHB staff",
+                "content": "I have recently discovered that the above CCDHB staff made complaints about me to CYFS, providing false information about one of these incidents ... my concern is that the CCDHB has made serious allegations about me without making any attempt whatsoever to check the facts or give me an opportunity to respond. [Emphasis added]"
+              }
+            },
+            {
+              "number": "[25]",
+              "content": "Later, in anticipation of a meeting to be held with CCDHB staff, the first plaintiff on 14 May 2015 sent a further email to CCDHB staff and said:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Email from first plaintiff to CCDHB staff",
+                "content": "... the letters failed to address my core concerns. The meeting will need to focus on what the DHB is going to do to undo the damage it has done to my reputation ... Watson did not check with other staff before alleging that I had left the hospital without permission ... confirmation that I had no opportunity to correct the record at the time Watson made his complaint, because the DHB chose not to inform me of what he had done ... An acknowledgement that I never indicated that I was abandoning my son permanently, but rather asked if he could remain in hospital overnight for his own safety; and that I readily agreed to have him back home when the options were explained to me by the CATT team ... Confirmation that I do not have any record of mental health issues - I am happy for you to review my medical files to confirm this ... finally, I note that I have not been given any explanation of Watson's decision not to inform me about the complaint. There was no reason for the DHB to operate in such a secretive way and it has meant that I have been denied the opportunity of setting the record straight."
+              }
+            },
+            {
+              "number": "[26]",
+              "content": "On 7 June 2015 the first plaintiff sent an email to CCDHB staff in anticipation of a meeting scheduled for Friday 12 June 2015. Attached to this email were:",
+              "page": 6
+            },
+            {
+              "number": "[26.1]",
+              "content": "A table of what was described as “the incorrect and misleading information provided to CYFS by CCDHB staff\"; and",
+              "page": 6
+            },
+            {
+              "number": "[26.2]",
+              "content": "A proposed agenda for the meeting on 12 June 2015.",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "The list of inaccurate information was said to have been prepared by the first plaintiff with a view to including it in “my OPC complaint”.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "The CCDHB acknowledges the correspondence makes reference to the second plaintiff and the circumstances of his admission to hospital on 12 June 2013 but submits the terms of the correspondence makes it unequivocally clear the first plaintiff was lodging an objection to the correctness of the personal information (about the first plaintiff) held by the CCDHB.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "The first plaintiff, on the other hand, points to the \"table of incorrect and misleading information\" which identifies personal information about the second plaintiff which was alleged to be inaccurate or misleading. In addition the first two items of the “proposed agenda for meeting on 12 June” makes specific reference to an alleged breach of Principle 8 in respect of the second plaintiff and further reference is made to the intention of the second plaintiff's sister to comment on how the breaches had affected her.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "The first plaintiff also points to the minutes of the meeting of 12 June 2015 (from 12:30pm to 1:10pm) recording that both the second plaintiff and his sister expressed their view that the reports complied by CCDHB staff were inaccurate, misleading and in need of correction.",
+              "page": 7
+            },
+            {
+              "number": "[30]",
+              "content": "The first plaintiff submits that against this background it is implausible the CCDHB was not well aware of the second plaintiff's concerns by the end of the 12 June 2015 meeting, if not before.",
+              "page": 7
+            },
+            {
+              "number": "[31]",
+              "content": "The CCDHB does not dispute the receipt of the table and agenda or that the meeting took place. The question is whether the correspondence which passed between the first plaintiff and the CCDHB as well as the 12 June 2015 meeting are relevant to the interpretation and application of ss 73, 82 and 83 of the Privacy Act, an issue to which we return. It will be seen we have reached the view the correspondence is not relevant.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "The complaint to the Privacy Commissioner",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "According to the statement of claim the 12 June 2015 meeting led to the CCDHB agreeing to make some of the corrections requested but not others.",
+              "page": 7
+            },
+            {
+              "number": "[33]",
+              "content": "It is not entirely clear just when complaint was first made to the Privacy Commissioner but the first plaintiff told the Tribunal that it followed the 12 June 2015 meeting. She also said that it had been intended that separate complaints be lodged by her, the second plaintiff and his sister. The complaint by the first plaintiff was lodged first with the other two to follow at a later date. We return to this point shortly.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "The complaint by the first plaintiff resulted in the CCDHB receiving a letter dated 10 September 2015 from the Privacy Commissioner signed by Mr Richard Stephen, an Investigating Officer. The CCDHB submits this letter, while necessarily making passing reference to the second plaintiff and his admission to hospital, is capable of only one reasonable interpretation, namely that it gives notice of a complaint by the first plaintiff alleging a breach of Principle 7 in relation to her personally. None of her children are included in this complaint. The relevant extracts follow with emphasis added. It should be mentioned that the subject line of the letter reads “Privacy Act Complaint: [name of first plaintiff] and Capital and Coast District Health Board (Our Ref: C/27145):",
+              "page": 7,
+              "quoted_material": {
+                "source": "Letter from Privacy Commissioner to CCDHB",
+                "content": "The Privacy Commissioner has received a complaint under the Privacy Act from [name of first plaintiff] of Wellington, concerning the Capital and Coast District Health Board ... Briefly, [name of first plaintiff] says that in June 2013 she admitted her son, [name of second plaintiff], to hospital ... [name of first plaintiff] says ... [name of first plaintiff] has asked the DHB to correct some of the information it sent to CYF about her ... [name of first plaintiff] says that the DHB has agreed to acceptable retractions in relation to [some of the information] ... [name of first plaintiff's] complaint may raise issues under principle 7 ... I would be grateful for your comments on [name of first plaintiff's] complaint. [Emphasis added]"
+              }
+            },
+            {
+              "number": "[35]",
+              "content": "The first plaintiff says that subsequent to lodging her own complaint she had one or more discussions with the investigating officer (Mr Richard Stephen) and provided him with the table of inaccurate and/or misleading information earlier referred to. Her understanding of those discussions was that the investigation would be expanded to include the corrections sought by both the second plaintiff and his sister. The fact remains that the intended separate complaints by the second plaintiff and his sister to the Privacy Commissioner were not in fact lodged.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "It is apparent there were indeed discussions between the first plaintiff and Mr Stephen because by letter dated 29 September 2015 Mr Stephen gave notice to the DHB that in addition to investigating a possible breach of Principle 7 the Commissioner was now, following discussion of the complaint with the first plaintiff, giving notice of an expanded investigation which would inquire additionally into alleged breaches of Principles 2, 3, 8 and 11. Significantly, however, the letter made no mention of the investigation being expanded to include the second plaintiff or his sister. The letter was still headed in the matter of “Privacy Act complaint: [name of first plaintiff] and Capital and Coast District Health Board (Our Ref: C/27145)”. The CCDHB emphasises the following passages which appear in bold:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Letter from Privacy Commissioner to CCDHB",
+                "content": "As you will be aware, the Privacy Commissioner has received a complaint under the Privacy Act from [name of first plaintiff] ... In our letter of 10 September 2015, we notified the DHB under principle 7 of the Privacy Act 1993 ... Having discussed this complaint with [name of first plaintiff] we will also notify under principles 2, 3, 8 and 11 of the Privacy Act ... [name of first plaintiff] has complained about the way information was collected about her at the DHB in June 2013. She says that at no point did any DHB staff indicate that they had any care and protection concerns, or that they would be using her information to make a report to Child Youth and Family ... [name of first plaintiff] says the harm she suffered could have been avoided ... [name of first plaintiff] says ... [name of first plaintiff] also believes the DHB should not have disclosed information about her to CYF ... I would be grateful for your comments on [name of first plaintiff's] complaint. [Emphasis added]"
+              }
+            },
+            {
+              "number": "[37]",
+              "content": "The CCDHB again relies on the fact that this letter, reasonably construed, is exclusively about a complaint lodged by the first plaintiff about her information.",
+              "page": 8
+            },
+            {
+              "number": "[38]",
+              "content": "This reading of the two letters from the Privacy Commissioner is supported by the Commissioner's letter of 12 November 2015 reporting the Commissioner's preliminary view that there had been no interference with the first plaintiff's privacy and that the file would be closed. The heading to the letter is identical to the two earlier letters sent to the DHB and is in the following terms:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Letter from Privacy Commissioner",
+                "content": "I refer to previous correspondence conceming the Privacy Act complaint by [name of first plaintiff].\n\nWe formed the preliminary view that there was no interference with her privacy. Having received our response, [name of first plaintiff] indicated she now wished to take this matter as a case before the Human Rights Review Tribunal.\n\nIn the circumstances, this file will now be closed.\n\nThank you for your assistance.\n\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "Whereas the two earlier letters of 10 and 29 September 2015 had been signed by Mr Stephen, the letter of 12 November 2015 was signed by Ms Riki Jamieson-Smyth, Team Leader, Investigations and Dispute Resolution (Wellington).",
+              "page": 8
+            },
+            {
+              "number": "[40]",
+              "content": "The Certificate of Investigation dated 12 November 2015 (signed by Ms Jamieson-Smyth) confirms that the complaint by the first plaintiff investigated by the Commissioner related to the collection and disclosure of the first plaintiff's personal information:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Certification of Investigation for Human Rights Review Tribunal",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "Complainant",
+                    "content": "[name of first plaintiff] (Our Ref: C/27145)"
+                  },
+                  {
+                    "identifier": "Respondent",
+                    "content": "Capital and Coast District Health Board"
+                  },
+                  {
+                    "identifier": "Matters investigated",
+                    "content": "[the first plaintiff] complained about the Capital and Coast District Health Board's collection and disclosure of her personal information. She also complained it failed to ensure the accuracy of that information before disclosing it to Child, Young and Family."
+                  },
+                  {
+                    "identifier": "Rule(s) applied",
+                    "content": "2, 3, 7, 8, 11"
+                  },
+                  {
+                    "identifier": "Commissioner's opinion",
+                    "content": "No interference with privacy. Further, sections 15 and 16 of the Children, Young Persons, and Their Families Act 1989 override the Privacy Act 1993."
+                  },
+                  {
+                    "identifier": "• application of rule(s)",
+                    "content": "No breach."
+                  },
+                  {
+                    "identifier": "• adverse consequences",
+                    "content": "Not required."
+                  },
+                  {
+                    "identifier": "• interference with privacy",
+                    "content": "No."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[41]",
+              "content": "The Certificate of Investigation was issued on the same day the Privacy Commissioner gave notice to the CCDHB that the Commissioner's file had been closed. We mention as an aside that a Certificate of Investigation is routinely issued by the Privacy Commissioner to a party intending to file proceedings in the Tribunal as prima facie evidence that certain prerequisites in ss 82 and 83 of the Privacy Act have been satisfied. See further Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [59] to [63].",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [59] to [63]",
+                  "context": "To support the point that a Certificate of Investigation is routinely issued as prima facie evidence of prerequisites being met."
+                }
+              ]
+            },
+            {
+              "number": "[42]",
+              "content": "Once proceedings have been filed in the Tribunal a copy of those proceedings is sent to the Privacy Commissioner in case there are any jurisdictional issues of which the Tribunal should be made aware. In that context Mr Stephen by letter dated 28 January 2016 to the Tribunal drew attention to certain difficulties with jurisdiction in this case. The terms of his letter follow:",
+              "page": 9,
+              "quoted_material": {
+                "source": "Letter from Mr Stephen to the Tribunal dated 28 January 2016",
+                "content": "Thank you for sending us notice of these proceedings.\n\nI have read the Statement of Claim and the Privacy Commissioner's investigation file.\n\nThere are some difficulties with jurisdiction in this case. As you will be aware, the Tribunal may only consider Privacy Act matters which have first been investigated by the Privacy Commissioner. Most of the matters in the statement of claim are among the matters considered by the Commissioner.\n\nThe Privacy Commissioner did investigate a complaint by [name of first plaintiff] involving a possible interference with rules 2, 3, 7, 8 and 11 of the Health Information Privacy Code. [Name of first plaintiff] complained about the Capital and Coast District Health Board's (\"the DHB\") collection and disclosure of her and her son's [name of second plaintiff's] personal information in 2013. She also complained the DHB failed to ensure the accuracy of the information before disclosing it to Child, Youth and Family. [Name of first plaintiff also alleged the DHB failed to respond appropriately to her request for correction.\n\n[Name of first plaintiff] raised issues under rule 6 in paragraphs 77 and 78 of her Statement of Claim in respect of a request made for information on 8 December 2015. We did not investigate these issues under principle 6 of the Act, and she did not bring up any rule 6 issues during our investigation.\n\nAs such, the Tribunal does not have jurisdiction to consider this aspect of the Statement of Claim."
+              }
+            },
+            {
+              "number": "",
+              "content": "The Privacy Commissioner does not intend to appear in these proceedings. However he would be happy to provide further clarification if that would be of assistance to the Tribunal.\n\nHe would appreciate, however, if he could be notified of the venue, date and time of the hearing.",
+              "page": 10
+            },
+            {
+              "number": "[43]",
+              "content": "The first plaintiff points to the letter's reference to the second plaintiff as evidence that the investigation conducted by the Privacy Commissioner related to interferences with the second plaintiff's privacy as well as the first plaintiff's.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "Subsequent complaint by second plaintiff and his sister",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[44]",
+              "content": "By email dated 19 February 2016 addressed (inter alia) to Mr Stephen, Ms Brewer and to the Tribunal's Case Manager, the first plaintiff submitted a new complaint to the Privacy Commissioner on behalf of the second plaintiff and his sister alleging breaches of information privacy Principles 3, 7, 8, 10 and 11. Mr Stephen replied by email dated 29 February 2016. Unfortunately the reply addresses not only the new complaint of 19 February 2016 in relation to the second plaintiff and his sister, it also addresses the first plaintiff's own new complaint under Principle 6. The author of the email (Mr Stephen) states, in relation to the 19 February 2016 email:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Email from Mr Stephen",
+                "content": "In relation to rules 3, 7, 8 and 11, it is my view these are part of the same set of facts which were investigated in C/27145 [the first plaintiff's complaint]. We have already investigated the CCDHB regarding these matters, and we did not find there had been a breach of your privacy. I do not consider it necessary to notify this matter when the CCDHB's use of information concerning the events of June 2013 has already been investigated. [Emphasis added]"
+              }
+            },
+            {
+              "number": "[45]",
+              "content": "The email being addressed to the first plaintiff, the phrase “your privacy” is clearly a reference to her privacy. The first plaintiff submits nevertheless that Mr Stephen is saying that the investigation in C/27145 did in fact cover both the first plaintiff's and the second plaintiff's complaints. The CCDHB responds this is untenable given the explicit terms of the letters received by it from the Privacy Commissioner, being the letters of 10 September 2015, 29 September 2015 and 12 November 2015. In addition the letter of 28 January 2016 from Mr Stephen to the Tribunal is well past the date on which the investigation file was closed on 12 November 2015.",
+              "page": 10
+            },
+            {
+              "number": "[46]",
+              "content": "Ms Brewer's evidence is that given the communications from the Office of the Privacy Commissioner, it has always been the understanding of the CCDHB that it was dealing with an investigation into a potential interference with the first plaintiff's privacy interests, and not her son's.",
+              "page": 10
+            },
+            {
+              "number": "[47]",
+              "content": "Finally, mention is made that on 1 May 2016 the first plaintiff asked the Privacy Commissioner to prepare a revised Certificate of Investigation to show the Privacy Commissioner investigated alleged breaches of the second plaintiff's privacy. By 11 May 2016 General Counsel for the Commissioner replied in the following terms:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Reply from General Counsel for the Commissioner",
+                "content": "The OPC will not be providing a revised certificate. As we previously advised when refusing your earlier request for a revised certificate, the certificate is not determinative as regards jurisdiction. That the certificate is an informal document and capable of challenge is affirmed by the Tribunal in Director of Human Rights Proceedings v Accident Compensation Corporation [2014] NZHRRT 1 at [36].\n\nFurther, the OPC has, for the purposes of your proceedings, provided further detail of what was investigated in the letter to the Tribunal dated 28 January 2016. As we have already noted it is open to the Tribunal to hear (and make findings) on additional evidence from both parties as to what the investigation entailed.\n\nFinally, the OPC considers it premature to provide an indication as to whether the OPC would be prepared to \"reopen\" the investigation in relation to breaches of [name of second plaintiff's] privacy. Whether an investigation will be opened or reopened will depend on all the circumstances of the case."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Evidence - conclusions",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[48]",
+              "content": "The conclusions we have come to are:",
+              "page": 11
+            },
+            {
+              "number": "[48.1]",
+              "content": "On 15 April 2015 the first plaintiff wrote to the CCDHB about the events at Wellington Hospital on 12 June 2013 and complained about alleged interferences with her privacy. By the time the first plaintiff and the second plaintiff met with the CCDHB on 12 June 2015 (with the second plaintiff's sister participating by telephone) notice had been given to the CCDHB by the first plaintiff and her children that both the second plaintiff and his sister had their own complaints.",
+              "page": 11
+            },
+            {
+              "number": "[48.2]",
+              "content": "When on 10 September 2015 the Privacy Commissioner gave notice to the CCDHB a complaint under the Privacy Act had been made, it was made crystal clear first, that that complaint was by the first plaintiff and by the first plaintiff alone and second, that the complaint related to an alleged breach of Principle 7 in respect of the first plaintiff and the first plaintiff only.",
+              "page": 11
+            },
+            {
+              "number": "[48.3]",
+              "content": "When on 29 September 2015 the Privacy Commissioner gave notice to the CCDHB that the investigation had been broadened the Commissioner made it clear first, that the complaint was still by the first plaintiff in relation to alleged interferences with her privacy and second, that the broadening applied only to the inclusion in her complaint of Principles 2, 3, 8 and 11.",
+              "page": 11
+            },
+            {
+              "number": "[48.4]",
+              "content": "The Privacy Commissioner's letter of 12 November 2015 to the CCDHB which advised the file would be closed again had as its exclusive focus the complaint made by the first plaintiff about her privacy.",
+              "page": 11
+            },
+            {
+              "number": "[48.5]",
+              "content": "While the Commissioner's letter of 10 September 2015 made reference to the second plaintiff, the reference was in the context of the narrative of facts explaining the circumstances in which the complaint by the first plaintiff (alleging a breach of her privacy) had been made. The reference cannot reasonably be construed as an express or implied notice to the CCDHB under s 73(b) that the investigation related also to a complaint by the second plaintiff. Quite apart from the terms of the letter making it clear the Commissioner was investigating a complaint by the first plaintiff, there was at that date no complaint by the second plaintiff with the Commissioner.",
+              "page": 11
+            },
+            {
+              "number": "[48.6]",
+              "content": "The Certificate of Investigation dated 12 November 2015 signed by Ms Jamieson-Smyth faithfully reflects those matters in relation to which the CCDHB had been given notice by the Privacy Commissioner. Such notice related to the first plaintiff's complaints regarding interferences with her privacy.",
+              "page": 11
+            },
+            {
+              "number": "[48.7]",
+              "content": "However interpreted, the statement by Mr Stephen in his letter dated 28 January 2016 that the first plaintiff had complained about the collection and disclosure of her “and her son [name of second plaintiff's] personal information\" cannot alter the fact that the CCDHB was never given notice by the Privacy Commissioner of any complaint by the second plaintiff.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "THE RELEVANT LAW",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[49]",
+              "content": "The first plaintiff accepts her complaint to the Privacy Commissioner was by her and was about alleged breaches of her privacy but contends that that complaint was later broadened into a complaint by the second plaintiff and his sister as well. This contention makes it necessary to analyse the Part 8 complaints process to see how it operates when a person such as the first plaintiff requests, during the course of an investigation by the Commissioner, that there be added to her complaint, complaints made by third parties.",
+              "page": 12
+            },
+            {
+              "number": "[50]",
+              "content": "There are two principal legal issues. The first is identifying who the statute permits to make a complaint to the Privacy Commissioner and who in turn, is permitted to bring proceedings before the Tribunal. The second is the process rights of the person complained against.",
+              "page": 12
+            },
+            {
+              "number": "",
+              "content": "Complaints, complainants and persons aggrieved",
+              "page": 12
+            },
+            {
+              "number": "[51]",
+              "content": "In general terms the information privacy principles govern the collection, storage and use of information about individuals (and their right of access to that information). Personal information, as defined in s 2, is \"information about an identifiable individual\". The individual stands at the centre of the principles.",
+              "page": 12
+            },
+            {
+              "number": "[52]",
+              "content": "An information privacy request as defined in s 33 is a request made pursuant to Principle 6 either for confirmation of whether or not an agency holds personal information or a request to be given access to personal information. A request made pursuant to Principle 7 for correction of personal information is also an information privacy request.",
+              "page": 12
+            },
+            {
+              "number": "[53]",
+              "content": "An information privacy request can be made by the individual in person or by an agent of the individual. Where a request is made by an agent the agency holding the information must ensure the agent has the written authority of the individual to obtain the information or is otherwise properly authorised by that individual to obtain the information. See s 45:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Privacy Act, s 45",
+                "content": "45 Precautions\nWhere an information privacy request is made pursuant to subclause (1)(b) of principle 6, the agency—\n(a) shall not give access to that information unless it is satisfied concerning the identity of the individual making the request; and\n(b) shall ensure, by the adoption of appropriate procedures, that any information intended for an individual is received—\n(i) only by that individual; or\n(ii) where the request is made by an agent of the individual, only by that individual or his or her agent; and\n(c) shall ensure that, where the request is made by an agent of the individual, the agent has the written authority of that individual to obtain the information or is otherwise properly authorised by that individual to obtain the information."
+              }
+            },
+            {
+              "number": "[54]",
+              "content": "Where an interference with privacy is alleged “any person” may make a complaint to the Privacy Commissioner. See s 67(1):",
+              "page": 12,
+              "quoted_material": {
+                "source": "Privacy Act, s 67(1)",
+                "content": "(1) Any person may make a complaint to the Commissioner alleging that any action is or appears to be an interference with the privacy of an individual."
+              }
+            },
+            {
+              "number": "[55]",
+              "content": "On receiving a complaint under Part 8 the Commissioner must, as soon as practicable, advise both the complaint and the person to whom the complaint relates of the procedure the Commissioner proposes to adopt. See s 70:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Privacy Act, s 70",
+                "content": "70 Action on receipt of complaint\n(1) On receiving a complaint under this Part, the Commissioner may—\n(a) investigate the complaint; or\n(b) decide, in accordance with section 71, to take no action on the complaint.\n(2) The Commissioner shall, as soon as practicable, advise the complainant and the person to whom the complaint relates of the procedure that the Commissioner proposes to adopt under subsection (1)."
+              }
+            },
+            {
+              "number": "[56]",
+              "content": "Contextually, “the person to whom the complaint relates” is to be understood to be the individual \"about\" whom the information relates.",
+              "page": 13
+            },
+            {
+              "number": "[57]",
+              "content": "Section 71(1)(d) and (e) state that the Commissioner may decide to take no action on any complaint if, in the Commissioner's opinion:",
+              "page": 13
+            },
+            {
+              "number": "[57.1]",
+              "content": "The individual alleged to be aggrieved does not desire that action be taken or, as the case may be continued; or",
+              "page": 13
+            },
+            {
+              "number": "[57.2]",
+              "content": "The complainant does not have a sufficient personal interest in the subject matter of the complaint.",
+              "page": 13
+            },
+            {
+              "number": "[58]",
+              "content": "These provisions demonstrate there is a distinction between the complainant and the person aggrieved, the latter being the individual whose personal information is at issue in the complaint.",
+              "page": 13
+            },
+            {
+              "number": "[59]",
+              "content": "Section 73 perhaps most clearly distinguishes between the three potential actors in an investigation by the Privacy Commissioner. Those actors are first, the complainant, second, the individual alleged to be aggrieved (if not the complainant) and finally, the person to whom the investigation relates. All three must be informed of the Commissioner's intention to make the investigation. See s 73(a). The person to whom the investigation relates must also be informed of details of the complaint or the subject matter of the investigation and afforded a reasonable time to submit a written response. See s 73(b):",
+              "page": 13,
+              "quoted_material": {
+                "source": "Privacy Act, s 73",
+                "content": "73 Proceedings of Commissioner\nBefore proceeding to investigate any matter under this Part, the Commissioner—\n(a) shall inform the complainant (if any), the person to whom the investigation relates, and any individual alleged to be aggrieved (if not the complainant), of the Commissioner's intention to make the investigation; and\n(b) shall inform the person to whom the investigation relates of—\n(i) the details of the complaint (if any) or, as the case may be, the subject matter of the investigation; and\n(ii) the right of that person to submit to the Commissioner, within a reasonable time, a written response in relation to the complaint or, as the case may be, the subject matter of the investigation."
+              }
+            },
+            {
+              "number": "[60]",
+              "content": "For present purposes it is not necessary to refer to the balance of the provisions governing the Commissioner's investigation such as ss 75, 76, 77 and 81.",
+              "page": 13
+            },
+            {
+              "number": "[61]",
+              "content": "What is to be noted is that whereas any person may make a complaint to the Privacy Commissioner, access to the Human Rights Review Tribunal is restricted. Proceedings before the Tribunal can only be brought by the Director of Human Rights Proceedings or by the \"aggrieved individual” (if any). See ss 82(1) and (2) and 83:",
+              "page": 13,
+              "quoted_material": {
+                "source": "Privacy Act, s 82 and 83",
+                "content": "82 Proceedings before Human Rights Review Tribunal\n(1) This section applies to any person—\n(a) in respect of whom an investigation has been conducted under this Part in relation to any action alleged to be an interference with the privacy of an individual; or\n(b) in respect of whom a complaint has been made in relation to any such action, where conciliation under section 74 has not resulted in a settlement.\n(2) Subject to subsection (3), civil proceedings before the Human Rights Review Tribunal shall lie at the suit of the Director of Human Rights Proceedings against any person to whom this section applies in respect of any action of that person that is an interference with the privacy of an individual.\n\n83 Aggrieved individual may bring proceedings before Human Rights Review Tribunal\nNotwithstanding section 82(2), the aggrieved individual (if any) may himself or herself bring proceedings before the Human Rights Review Tribunal against a person to whom section 82 applies if the aggrieved individual wishes to do so, and—\n(a) the Commissioner or the Director of Human Rights Proceedings is of the opinion that the complaint does not have substance or that the matter ought not to be proceeded with; or\n(b) in a case where the Director of Human Rights Proceedings would be entitled to bring proceedings, the Director of Human Rights Proceedings—\n(i) agrees to the aggrieved individual bringing proceedings; or\n(ii) declines to take proceedings."
+              }
+            },
+            {
+              "number": "[62]",
+              "content": "Consistent with this scheme only the Director of Human Rights Proceedings or the aggrieved individual can seek remedies from the Tribunal. See ss 84, 85 and 88.",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "Identifying the complaint",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[63]",
+              "content": "Because s 73(b) requires the Privacy Commissioner to inform the person to whom the investigation relates of details of the complaint or the subject matter of the investigation, the Commissioner must necessarily first identify the complainant and the person alleged to be aggrieved (if that person is not also the complainant) because at the complaint stage the complainant and the individual alleged to be aggrieved do not have to be the same person (though they often are). It is also possible for a complainant who is making a complaint on behalf of the person alleged to be aggrieved to be at the same time an aggrieved person in his or her own right. This would most commonly occur where, for example, one spouse or partner might lodge a complaint on behalf of him or herself as well as the other partner; or where a parent or guardian makes a complaint in his or her own right but also on behalf of his or her child or guardian.",
+              "page": 14
+            },
+            {
+              "number": "[64]",
+              "content": "While conceptually it is not difficult to envisage circumstances in which a person may at the same time be a complainant for a third party as well as a person aggrieved, care must be exercised to ensure the difference in roles is given due recognition throughout the statutory process in Part 8. In particular:",
+              "page": 14
+            },
+            {
+              "number": "[64.1]",
+              "content": "Section 73(b)(i) and (ii) necessarily require that the person to whom the investigation relates be told not only details of the complaint but also who the complainant is and if the complainant is different to the individual alleged to be aggrieved, the identity of the allegedly aggrieved individual. Otherwise, the person to whom the investigation relates is not given adequate “details of the complaint\" or, as the case may be, the \"subject matter\" of the investigation.",
+              "page": 14
+            },
+            {
+              "number": "[64.2]",
+              "content": "If the person making the complaint and the third party are both persons aggrieved, the person to whom the investigation relates is entitled to have this particularised so that the opportunity to be heard mandated by ss 73 and the other provisions of Part 8 is an effective opportunity to deal with both complaints.",
+              "page": 14
+            },
+            {
+              "number": "[65]",
+              "content": "In the present case the first plaintiff intended to file and did file with the Privacy Commissioner a complaint on her behalf as an individual alleged to be aggrieved. Separate complaints were anticipated by the second plaintiff and his sister. This intention was not carried through because (so the first plaintiff says) in subsequent discussion with the investigating officer (Mr Stephen) the first plaintiff gained the impression the investigation was to be expanded to include complaints by the second plaintiff and his sister.",
+              "page": 14
+            },
+            {
+              "number": "[66]",
+              "content": "As to this, the Tribunal has no evidence as to what discussions took place between the first plaintiff and Mr Stephen, when those discussions occurred and what was said by the first plaintiff and Mr Stephen. What the Tribunal does have are the two letters from Mr Stephen to the CCDHB which do not on any fair construction refer to complaints made by the second plaintiff and his sister. The second letter dated 29 September 2015 does refer to discussion between the first plaintiff and Mr Stephen and to the expansion of the investigation. Significantly, however, that expansion relates not to the second plaintiff or his sister, but to the first plaintiff's own complaint. The initial investigation into an alleged breach of Principle 7 was enlarged to include also an alleged breach of Principles 2, 3, 8 and 11. No mention was made in the 29 September 2015 letter of the inclusion of complaints made by or on behalf of the second plaintiff or his sister.",
+              "page": 15
+            },
+            {
+              "number": "[67]",
+              "content": "The fact that in private discussion three months earlier the first plaintiff, the second plaintiff and his sister had voiced their complaints directly to the CCDHB is of no relevance. Once the “public” remedy of a complaint to the Privacy Commissioner under the Privacy Act was made, the statutory process took over. The private discussions and negotiations conducted directly between the first plaintiff, her children and the CCDHB cannot be conflated with the process and remedies prescribed by the Privacy Act.",
+              "page": 15
+            },
+            {
+              "number": "[68]",
+              "content": "If anything, the fact that the first plaintiff, her children and the CCDHB were or had been in discussion in relation to some of the matters later made the subject of complaint to the Privacy Commissioner made it imperative that before the CCDHB was exposed to the significant remedies (including damages) prescribed by the Privacy Act, the process and procedure mandated by Part 8 was complied with. The CCDHB was entitled to know whether it was addressing the complaints made by the first plaintiff and her children as articulated in their direct dealings with the CCDHB or as articulated by the Privacy Commissioner under s 73. It was entitled to proper and adequate particularisation of the complaint, including the information privacy principles in issue. As stated in Waugh v New Zealand Association of Counsellors Inc [2003] NZHRRT 9 at para 20(b) the issues raised by a privacy complaint will vary greatly depending upon which of the information privacy principles are said to be relevant. The CCDHB could not assume that the investigation by the Privacy Commissioner was coextensive with the complaints received by the CCDHB from the first plaintiff in her own right (her emails to the CCDHB of 15 and 16 April 2015) and those she later submitted to the CCDHB by way of the table of “inaccurate and/or misleading information\" and the agenda for the meeting on 12 June 2015 which included complaints by her, the second plaintiff and his sister.",
+              "page": 15,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waugh v New Zealand Association of Counsellors Inc [2003] NZHRRT 9 at para 20(b)",
+                  "context": "To support the point that issues raised in a privacy complaint vary depending on the information privacy principles in question."
+                }
+              ]
+            },
+            {
+              "number": "[69]",
+              "content": "In this regard we repeat again the two letters from Mr Stephen clearly and unambiguously emphasised that the complaint related only to the first plaintiff as an individual alleged to be aggrieved. By no known process of reasoning could the prior private discussions between the parties overcome the fact that the notice given by the Privacy Commissioner to the CCDHB related only to the first plaintiff's complaint that her personal privacy had been interfered with.",
+              "page": 15
+            },
+            {
+              "number": "[70]",
+              "content": "The Privacy Commissioner plainly complied with his obligations under Part 8 and it is not possible for the first plaintiff's subjective understanding of her discussions with Mr Stephen to alter the position or to somehow amend the plain terms in which the letters of 10 and 29 September 2015 were framed. The fact remains that those two letters from the Privacy Commissioner did not give notice to the CCDHB it was to address also unparticularised complaints (that is unparticularised by the Privacy Commissioner) made by the second plaintiff and his sister.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "The importance of the right to be heard",
+          "page_start": 16,
+          "paragraphs": [
+            {
+              "number": "[71]",
+              "content": "The preceding discussion underlines the importance of the rights which are derived from the statutory duties which rest on the Privacy Commissioner when dealing with complaints under Part 8 of the Act. As explained in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) [2014] NZHRRT 1 at [19], the purpose of Part 8 is to ensure that in the first instance a complaint about an interference with the privacy of an individual must be dealt with by the Privacy Commissioner. Proceedings before the Tribunal are permitted by s 82 only where an investigation has been conducted under Part 8 or where conciliation (under s 74) has not resulted in settlement. For the reasons explained in that decision at [20] to [23], an important aim of the Privacy Act is to secure voluntary compliance with its principles and on receiving a complaint the Privacy Commissioner must attempt to reach a settlement between the parties. Only if those efforts fail can the matter proceed to the Tribunal. Following an adversarial hearing the Tribunal can award a wide range of remedies and substantial damages.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) [2014] NZHRRT 1 at [19]",
+                  "context": "Explaining the purpose of Part 8 of the Privacy Act."
+                }
+              ]
+            },
+            {
+              "number": "[72]",
+              "content": "It is clear from the statistics set out in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) at [21] and [22] that the alternative dispute resolution scheme as facilitated by the Privacy Commissioner is an effective one, providing speedy, low-cost, informal and non-adversarial resolution of complaints where possible.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) at [21] and [22]",
+                  "context": "Regarding the effectiveness of the alternative dispute resolution scheme."
+                }
+              ]
+            },
+            {
+              "number": "[73]",
+              "content": "However, for the complaint resolution process to work a person in respect of whom an investigation is being conducted must know what is under investigation so he or she can respond effectively. At the risk of repetition, reference is made again to the core duty of the Privacy Commissioner to notify the person to whom the investigation relates:",
+              "page": 16
+            },
+            {
+              "number": "[73.1]",
+              "content": "Whether the complaint is to be investigated and if so, the procedure the Commissioner proposes to adopt (s 70(1) and (2)).",
+              "page": 16
+            },
+            {
+              "number": "[73.2]",
+              "content": "The Commissioner's intention to make an investigation. See s 73(a).",
+              "page": 16
+            },
+            {
+              "number": "[73.3]",
+              "content": "Details of the complaint or, as the case may be, the subject-matter of the investigation and the right of that person to submit to the Commissioner a written response in relation to the complaint or the subject matter of the investigation. See s 73(b).",
+              "page": 16
+            },
+            {
+              "number": "[74]",
+              "content": "It is accepted that any investigation by the Privacy Commissioner is likely to be ambulatory. As explained in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) at [28], as an investigation progresses and the facts becomes clearer, the investigation may widen, narrow or change direction. In the present case the investigation broadened from the original Principle 7 to include also Principles 2, 3, 8 and 11 but it never broadened as to the identity of the person (the first plaintiff) whose privacy interests had allegedly been breached.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike-Out Application) at [28]",
+                  "context": "Explaining that an investigation by the Privacy Commissioner is likely to be ambulatory."
+                }
+              ]
+            },
+            {
+              "number": "[75]",
+              "content": "The critical and determinative point is whether the CCDHB was given notice of any expansion in the scope of the inquiry. This is because the Privacy Commissioner must comply with the mandatory statutory duty in ss 70(2) and 73(2) to:",
+              "page": 16
+            },
+            {
+              "number": "[75.1]",
+              "content": "Notify the person to whom the complaint relates that the Commissioner intends making an investigation into the new matter; and",
+              "page": 17
+            },
+            {
+              "number": "[75.2]",
+              "content": "Inform that person of the details of the new complaint and of the right of that person to submit a written response to the (new) complaint.",
+              "page": 17
+            },
+            {
+              "number": "[76]",
+              "content": "Our finding is that these statutory steps were taken in relation to the expansion of the information privacy principles involved in the inquiry. We further find there was never an enlargement as to the identity of the complainant or of the individuals alleged to be aggrieved. This is the rock on which the first plaintiff's submissions founder. Whatever she may have taken from her discussions with Mr Stephen, the CCDHB was never given notice that the allegations made by the second plaintiff or his sister (as to the breach of their privacy interests) were now to be included in the subject matter of the Commissioner's investigation.",
+              "page": 17
+            },
+            {
+              "number": "[77]",
+              "content": "The difficulty cannot be overcome by drawing on the discussions which took place between the first plaintiff, the second plaintiff and his sister and the CCDHB in June 2015 outside the Privacy Act process. Jurisdiction must be determined by what was done by the Privacy Commissioner under Part 8 of the Act, not by what a complainant or person aggrieved believes should have been done by the Commissioner.",
+              "page": 17
+            },
+            {
+              "number": "[78]",
+              "content": "It is now possible to return to ss 82 and 83 of the Act. The sections will be addressed separately.",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "title": "Section 82",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[79]",
+              "content": "Section 82 of the Act permits civil proceedings before the Tribunal to be taken at the suit of the Director of Human Rights Proceedings if, and only if the defendant:",
+              "page": 17,
+              "quoted_material": {
+                "source": "Privacy Act, s 82",
+                "content": "82 Proceedings before Human Rights Review Tribunal\n(1) This section applies to any person—\n(a) in respect of whom an investigation has been conducted under this Part in relation to any action alleged to be an interference with the privacy of an individual; or\n(b) in respect of whom a complaint has been made in relation to any such action, where conciliation under section 74 has not resulted in a settlement.\n(2) Subject to subsection (3), civil proceedings before the Human Rights Review Tribunal shall lie at the suit of the Director of Human Rights Proceedings against any person to whom this section applies in respect of any action of that person that is an interference with the privacy of an individual.\n(3) The Director of Human Rights Proceedings shall not take proceedings under subsection (2) against any person to whom this section applies unless the Director of Human Rights Proceedings has given that person an opportunity to be heard.\n(4) The Director of Human Rights Proceedings may, under subsection (2), bring proceedings on behalf of a class of individuals, and may seek on behalf of individuals who belong to the class any of the remedies described in section 85, where the Director of Human Rights Proceedings considers that a person to whom this section applies is carrying on a practice which affects that class and which is an interference with the privacy of an individual.\n(5) Where proceedings are commenced by the Director of Human Rights Proceedings under subsection (2), the aggrieved individual (if any) shall not be an original party to, or, unless the Tribunal otherwise orders, join or be joined in, any such proceedings."
+              }
+            },
+            {
+              "number": "[79.1]",
+              "content": "Is a person in respect of whom an investigation has been conducted under Part 8 in relation to any action alleged to be an interference with the privacy of an individual; or",
+              "page": 17
+            },
+            {
+              "number": "[79.2]",
+              "content": "Is a person in respect of whom a complaint has been made in relation to any such action, where conciliation under s 74 has not resulted in settlement:",
+              "page": 17
+            },
+            {
+              "number": "[80]",
+              "content": "The \"action\" referred to in s 82(1)(a) and (b) is an action in respect of which notice was given by the Privacy Commissioner under s 73(b). See L v T (1998) 5 HRNZ 30 (Morris J, A Knowles, GDS Taylor) at 35 and 36. Section 73 governs the scope of the investigation and the scope of the investigation, in turn, governs the jurisdiction of the Tribunal.",
+              "page": 18,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "L v T (1998) 5 HRNZ 30 (Morris J, A Knowles, GDS Taylor) at 35 and 36",
+                  "context": "Defining the 'action' referred to in s 82(1)(a) and (b) as an action for which notice was given under s 73(b)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 83",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[81]",
+              "content": "The institution of proceedings before the Tribunal is not the exclusive prerogative of the Director of Human Rights Proceedings. One other person has standing, namely “the aggrieved individual”. The \"complainant\" under Part 8 does not have such standing unless the complainant is the person aggrieved. Standing to institute proceedings, however, is conditioned on it being established not just that the intending plaintiff is the aggrieved individual but also that:",
+              "page": 18
+            },
+            {
+              "number": "[81.1]",
+              "content": "The intended defendant is a person to whom s 82 applies; and",
+              "page": 18
+            },
+            {
+              "number": "[81.2]",
+              "content": "The Privacy Commissioner or the Director of Human Rights Proceedings is of the opinion the complaint does not have substance or that the matter ought not to be proceeded with; or",
+              "page": 18
+            },
+            {
+              "number": "[81.3]",
+              "content": "In a case where the Director of Human Rights Proceedings would be entitled to bring proceedings, the Director agrees to the aggrieved individual bringing proceedings or declines to take proceedings.",
+              "page": 18
+            },
+            {
+              "number": "[82]",
+              "content": "In Waugh v New Zealand Association of Counsellors Inc the Tribunal held at para 20(c) it is implicit from s 83(a) the Privacy Commissioner (or the Director of Human Rights Proceedings) must first have turned his or her mind to the issue which is the proposed subject of proceedings so as to reach one or other of the two requisite opinions. The Tribunal added:",
+              "page": 18,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waugh v New Zealand Association of Counsellors Inc",
+                  "context": "To support the point that the Privacy Commissioner must form one of two requisite opinions under s 83(a)."
+                }
+              ],
+              "quoted_material": {
+                "source": "Waugh v New Zealand Association of Counsellors Inc",
+                "content": "The requirement is part of a deliberate legislative 'filtering' mechanism that applies to cases before they can be brought to the Tribunal. It would in our view defeat the object of that filtering process if the Tribunal were to purport to assume jurisdiction over issues in respect of which the Privacy Commissioner (or the Director of Human Rights Proceedings, as the case may be) has not formed either one of the two opinions specified in section 83(a). As Ms Donovan put it in her submissions on behalf of the Privacy Commissioner:\n\nA failure to conform to that scheme denies the [Privacy] Commissioner the opportunity to investigate and reach an opinion (or to conciliate a settlement) in relation to matters brought before the Tribunal for the first time. That defect cannot be cured by a hearing in the Tribunal."
+              }
+            },
+            {
+              "number": "[83]",
+              "content": "Similarly, in a case where s 83(b) has application there must be evidence the Director of Human Rights Proceedings either agrees to the aggrieved individual bringing proceedings or declines to take proceedings.",
+              "page": 18
+            },
+            {
+              "number": "[84]",
+              "content": "In the present case the requirements of s 83(a) and (b) appear to have been overlooked in the submissions made on behalf of the second plaintiff.",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "title": "DECISION",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[85]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that:",
+              "page": 18
+            },
+            {
+              "number": "[85.1]",
+              "content": "The Tribunal presently has no jurisdiction to hear that part of the statement of claim which relates to the complaint by the second plaintiff that there has been an interference with his privacy.",
+              "page": 19
+            },
+            {
+              "number": "[85.2]",
+              "content": "The claims made by the second plaintiff are accordingly struck out.",
+              "page": 19
+            },
+            {
+              "number": "[85.3]",
+              "content": "As the only remaining plaintiff, the first plaintiff is within fourteen days to file a third amended statement of claim. That document is to be in a form which complies with High Court Rules, Part 5, Subpart 6. It is also to omit those parts of the statement of claim which, in accordance with this decision, have been struck out.",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "title": "Observation",
+          "page_start": 19,
+          "paragraphs": [
+            {
+              "number": "[86]",
+              "content": "Our conclusion that the Tribunal does not have jurisdiction in relation to the claims by the second plaintiff does not preclude the second plaintiff from now making a complaint to the Privacy Commissioner. If dissatisfied with the Commissioner's decision and if the statutory prerequisites to the Tribunal's jurisdiction are satisfied, the second plaintiff can institute new proceedings before the Tribunal.",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "title": "The requirements relating to the third amended statement of claim",
+          "page_start": 19,
+          "paragraphs": [
+            {
+              "number": "[87]",
+              "content": "The third amended statement of claim is to be in a form which complies with High Court Rules, Part 5, Subpart 6. The diffuse \"Facts of the Case\" which is de facto the present second amended statement of claim is an unhelpful document as it fails to comply with the standard requirements of a statement of claim as set out and discussed in Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 at [25] to [29]. It is clear from the statement of claim filed by the first plaintiff in her other proceedings in HRRT019/2016 she is aware of the standard requirements referred to.",
+              "page": 19,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 at [25] to [29]",
+                  "context": "To refer to the standard requirements of a statement of claim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Costs",
+          "page_start": 19,
+          "paragraphs": [
+            {
+              "number": "[88]",
+              "content": "Although it is unlikely the CCDHB will seek an award of costs, costs are reserved.",
+              "page": 19
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms LJ Alaeinia",
+          "role": "Member"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Edwards v Capital and Coast DHB (Strike-Out Application) [2016] NZHRRT 20. Note publication restrictions. Those restrictions require this decision to be anonymised by the redaction of the true names of the plaintiffs. In substitution the plaintiffs are to be referred to as \"Moira Edwards\" and \"Jason Edwards\" (not their true names). See Edwards v Capital and Coast DHB (Application for Non-Publication Orders) [2016] NZHRRT 19.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1074 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 14
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 36",
+        "reference_number": "HRRT 047/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "hearing_date": "30 July 2018",
+        "decision_date": "3 August 2018",
+        "case_title": "Dotcom v Crown Law Office (Inherent Powers) [2018] NZHRRT 36",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON PLAINTIFF'S URGENT APPLICATION FOR COMPLIANCE ORDERS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 14
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "KIM DOTCOM",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CROWN LAW OFFICE",
+            "role": "First Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "ATTORNEY-GENERAL",
+            "role": "Second Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "DEPARTMENT OF THE PRIME MINISTER AND CABINET",
+            "role": "Third Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "IMMIGRATION NEW ZEALAND",
+            "role": "Fourth Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT",
+            "role": "Fifth Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "MINISTRY OF FOREIGN AFFAIRS AND TRADE",
+            "role": "Sixth Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "MINISTRY OF JUSTICE",
+            "role": "Seventh Defendant",
+            "type": "Government Agency"
+          },
+          {
+            "name": "NEW ZEALAND POLICE",
+            "role": "Eighth Defendant",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr SL Cogan",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Ms V Casey QC and Ms EM Gattey",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By application dated 26 June 2018 Mr Dotcom has applied for urgent orders requiring compliance with the decision of the Tribunal in Dotcom v Crown Law Office [2018] NZHRRT 7 published on 26 March 2018. In this present decision we explain why the Tribunal does not have jurisdiction to make the orders sought. The application must accordingly be dismissed without examination of the merits.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Dotcom v Crown Law Office [2018] NZHRRT 7",
+                  "context": "An application was made for compliance with the decision in this case."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The orders made by the Tribunal on 26 March 2018",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "The orders made by the Tribunal in the decision given on 26 March 2018 were in the following terms:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Tribunal decision of 26 March 2018",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[255]",
+                    "content": "For the foregoing reasons the decision of the Tribunal is that it is satisfied on the balance of probabilities that an action of the Crown (represented by the Attorney-General) was an interference with the privacy of Mr Dotcom and"
+                  },
+                  {
+                    "identifier": "[255.1]",
+                    "content": "A declaration is made under s 85(1)(a) of the Privacy Act 1993 that there was an interference with the privacy of Mr Dotcom by:"
+                  },
+                  {
+                    "identifier": "[255.1.1]",
+                    "content": "The transfer, without legal authority, to the Attorney-General of the information privacy requests made by Mr Dotcom in July 2015. The Attorney-General had no lawful authority, as purported transferee under the Privacy Act 1993, s 39(b)(ii), to refuse the requests on the grounds that they were vexatious and there was no proper basis for that refusal; in the alternative, if the transfers were lawful:"
+                  },
+                  {
+                    "identifier": "[255.1.2]",
+                    "content": "Refusing the information privacy requests on the grounds that they were vexatious when there was no proper basis for that decision."
+                  },
+                  {
+                    "identifier": "[255.2]",
+                    "content": "An order is made under s 85(1)(d) and (e) of the Privacy Act 1993 that the agencies (including the Ministers of the Crown) to which the information privacy requests were sent by Mr Dotcom in the period 17 to 31 July 2015 must comply with those requests subject to the provisions of the Privacy Act 1993 and in particular (but not exclusively) Parts 4 and 5 of that Act. For the purposes of this order the date of receipt of the requests is to be taken to be the fifth working day which follows immediately after the day on which this decision is published to the parties."
+                  },
+                  {
+                    "identifier": "[255.3]",
+                    "content": "Damages of $30,000 are awarded against the Attorney-General under ss 85(1)(c) and 88(1)(b) of the Privacy Act 1993 for the loss of a benefit Mr Dotcom might reasonably have been expected to obtain but for the interference."
+                  },
+                  {
+                    "identifier": "[255.4]",
+                    "content": "Damages of $60,000 are awarded against the Attorney-General under ss 85(1)(c) and 88(1)(c) for loss of dignity and injury to feelings."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[3]",
+              "content": "The focus of the present application is on [255.2].",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "Decision under appeal",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "The defendants have appealed to the High Court. It is understood that appeal will be heard on 10 to 12 September 2018.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "Procedural history",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "On the filing of the present application the Chairperson on 28 June 2018 by Minute in Dotcom v Crown Law Office (Application for Compliance Orders) [2018] NZHRRT 29 drew attention to the possibility the Tribunal may not have jurisdiction to make the compliance orders sought. It was suggested Mr Dotcom give consideration to seeking assistance from the High Court under that court's inherent jurisdiction to use its powers in aid of an inferior tribunal. He was given the option of pursuing his application before the Tribunal or of applying to the High Court. By memorandum dated 29 June 2018 counsel for Mr Dotcom advised the application before the Tribunal would be pursued.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Dotcom v Crown Law Office (Application for Compliance Orders) [2018] NZHRRT 29",
+                  "context": "A Minute in this case drew attention to the possibility the Tribunal may not have jurisdiction."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "At a teleconference convened by the Chairperson on 13 July 2018 case management directions were given for the filing and exchange of submissions ahead of the hearing on 30 July 2018. See the Minute issued on 13 July 2018.",
+              "page": 4
+            },
+            {
+              "number": "[7]",
+              "content": "The hearing of the application took place at Wellington on Monday 30 July 2018. The Tribunal's decision was reserved. It is necessary, however, to record that in the course of the hearing it seemed to the Tribunal that a possible explanation for some of the differences between the parties was that each had a different reading of the Tribunal's order at [255.2]. It was a difference which could possibly be narrowed were the Tribunal to correct what it had decided or intended. In such circumstances consideration could be given to the making of an application analogous to that permitted by High Court Rules, r 11.10 (correction of accidental slip or omission). Because the issue was first raised by the Tribunal after the morning adjournment counsel were understandably circumspect in their initial reaction to what might ultimately turn out to be a less than helpful suggestion by the Tribunal. The matter was left on the basis that Mr Cogan would, by Monday 6 August 2018 file a memorandum advising whether Mr Dotcom will make application to the Tribunal in terms similar to that provided for by High Court Rules, r 11.10.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "High Court Rules, r 11.10",
+                  "context": "An application analogous to that permitted by this rule (correction of accidental slip or omission) could be considered."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "It is now possible to address the application for enforcement orders and the defendants' opposition to that application.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "THE APPLICATION AND THE NOTICE OF OPPOSITION",
+          "page_start": 4,
+          "paragraphs": []
+        },
+        {
+          "title": "The orders sought",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "To better understand the jurisdiction hurdle faced by Mr Dotcom it is necessary to set out the orders sought by him:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "An unless order that the Crown provide the personal information which is the subject of the Tribunal's decision at [255.2] by not later than 31 July 2018."
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "Failing that, a declaration that the Crown:"
+                },
+                {
+                  "title": "[9.2.1]",
+                  "content": "Is in breach of the Tribunal's orders;"
+                },
+                {
+                  "title": "[9.2.2]",
+                  "content": "Has engaged in abuse of process; and"
+                },
+                {
+                  "title": "[9.2.3]",
+                  "content": "Further interfered with Mr Dotcom's privacy."
+                },
+                {
+                  "title": "[9.3]",
+                  "content": "That the Crown file an affidavit or affidavits setting out what (if any) steps have been taken (and when taken) to procure information held by former Ministers."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "The focus of the application for compliance orders is on the allegedly outstanding responses from Crown Law, the Ministry of Business, Innovation and Employment, the Attorney-General and the Police. It is submitted their non-compliance with the Tribunal's order amounts to an abuse of the processes of the Tribunal. The Tribunal's urgent intervention is sought to prevent further interference with Mr Dotcom's privacy.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Grounds of the application",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The grounds of the application are set out in a detailed memorandum dated 26 June 2018. There is also a separate Bundle of Relevant Documents. Written submissions were filed on 20 July 2018.",
+              "page": 5
+            },
+            {
+              "number": "[12]",
+              "content": "The main complaint (which we do not determine) appears to be that notwithstanding the elapse of three months since the Tribunal's decision, the defendants have not yet complied with the 26 March 2018 orders.",
+              "page": 5
+            },
+            {
+              "number": "[13]",
+              "content": "It is said that as at the date of the application:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[13.1]",
+                  "content": "A limited number of agencies have provided information within the statutory timeframe."
+                },
+                {
+                  "title": "[13.2]",
+                  "content": "The majority of the agencies – including all of the agencies most closely connected with the extradition proceeding and therefore those likely to be in possession of the most, and most relevant, personal information – have purported to extend under the Privacy Act 1993 (PA), s 41 the timeframe for their response under s 40."
+                },
+                {
+                  "title": "[13.3]",
+                  "content": "Following consultation with counsel for Mr Dotcom, some agencies have indicated they will provide information on a staged basis. Some (but not all) have begun to do so."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "Additional points made include:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[14.1]",
+                  "content": "Crown Law now claims to have insufficient resources to comply with the Tribunal's order in a timely way. Yet the Crown had submitted to the Tribunal Crown Law had been best placed to aggregate all of Mr Dotcom's information privacy requests because (among other grounds):"
+                },
+                {
+                  "title": "[14.1.1]",
+                  "content": "The information requested was more closely connected with the functions of the Attorney-General in the particular context of the litigation;"
+                },
+                {
+                  "title": "[14.1.2]",
+                  "content": "Crown Law had been leading the Crown's litigation against Mr Dotcom for more than three years and, as the agency responsible for litigation on behalf of the Attorney-General, was best placed to consider the requests; and"
+                },
+                {
+                  "title": "[14.1.3]",
+                  "content": "Crown Law had been the agency responsible for conducting the litigation on behalf of the Crown where there had already been multiple and complex disclosure and discovery arguments;"
+                },
+                {
+                  "title": "[14.2]",
+                  "content": "The Police, having defended the refusal of the requests before the Tribunal on the basis that disclosure would derail the extradition proceeding, have now partially refused the request on the contradictory basis that the information is not, in fact, readily retrievable. No explanation has been advanced as to why this has only been raised now."
+                },
+                {
+                  "title": "[14.3]",
+                  "content": "The Attorney-General who has practical responsibility for advancing the United States extradition request and whose functions were submitted before the Tribunal to be most closely connected with the requested information, claims to be unable to access information held by the previous Attorney-General, whose tenure (along with all of the other Ministers of the Crown of whom the requests were originally made) came to an end in October 2017."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "The submissions for Mr Dotcom emphasise that his original 2015 information privacy requests had sought urgency under PA, s 37 as the documents sought were required (inter alia) in connection with the extradition proceedings. Yet:",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 37",
+                  "context": "The original information privacy requests had sought urgency under this section."
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[15.1]",
+                    "content": "Three years have elapsed since the requests were made."
+                  },
+                  {
+                    "identifier": "[15.2]",
+                    "content": "During that time the eligibility hearing in the District Court and two rights of appeal in the High Court and Court of Appeal respectively have been exercised."
+                  },
+                  {
+                    "identifier": "[15.3]",
+                    "content": "The Court of Appeal judgment was given on 5 July 2018. See Ortmann v United States of America [2018] NZCA 233. Mr Dotcom's appeal was dismissed."
+                  },
+                  {
+                    "identifier": "[15.4]",
+                    "content": "At most, Mr Dotcom has only one further right of appeal - subject to leave, to the Supreme Court in which he could conceivably apply to adduce as fresh evidence any relevant information that may be disclosed."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "It is submitted there is a significant risk that final judgment in the extradition proceeding will overtake the defendants' compliance with the Tribunal's order.",
+              "page": 6
+            },
+            {
+              "number": "[17]",
+              "content": "In the circumstances it is submitted the Tribunal has an inherent jurisdiction to enable it to act effectively and to uphold the administration of justice within its jurisdiction, including preventing abuse of its processes. Mr Dotcom urges the Tribunal to exercise that jurisdiction urgently to preserve the integrity of the 26 March 2018 decision.",
+              "page": 6
+            },
+            {
+              "number": "[18]",
+              "content": "The alleged abuses in this case comprise:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[18.1]",
+                  "content": "Delaying or refusing compliance with the Tribunal's orders by re-litigating points already determined by the Tribunal."
+                },
+                {
+                  "title": "[18.2]",
+                  "content": "Collaterally attacking the Tribunal's decision."
+                },
+                {
+                  "title": "[18.3]",
+                  "content": "Achieving a stay of execution of the Tribunal's judgment pending appeal without having applied to the Tribunal for such stay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The notice of opposition",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "As mentioned, we have attempted a summary of the general contentions made by Mr Dotcom not for the purpose of determining them, but for the purpose of underlining the breadth of the jurisdiction the Tribunal would need to possess in order to deal adequately with the application for enforcement orders.",
+              "page": 7
+            },
+            {
+              "number": "[20]",
+              "content": "By notice of opposition dated 6 July 2018 the defendants have made two points:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "[20.1]",
+                  "content": "With regard to the orders sought against the Attorney-General and all former Ministers and all agencies other than those named as defendants in the proceeding before the Tribunal, the Tribunal in issuing its decision in [2018] NZHRRT 7 had no jurisdiction to make any orders against them, and accordingly has no jurisdiction to make further orders against them."
+                },
+                {
+                  "title": "[20.2]",
+                  "content": "With regard to the agencies named as parties to the proceedings before the Tribunal, those defendants are complying with the orders made by the Tribunal and there are no grounds to make the orders sought by Mr Dotcom."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "The defendants also concur with the jurisdiction issue raised by the Chairperson in the Minute dated 28 June 2018 and, as recorded in the subsequent Minute issued on 13 July 2018, the defendants saw their role as one of providing assistance to the Tribunal as a “contradictor” so that full argument was heard. However, the defendants did not wish to be thereby exposed to an application for costs.",
+              "page": 7
+            },
+            {
+              "number": "[22]",
+              "content": "It will be seen it is unnecessary that the Tribunal determine either of the grounds of opposition. We must nevertheless record our reservations in relation to the first ground. At the substantive hearing the defendants explicitly challenged a submission by Mr Dotcom that “as a matter of law, each of the Defendant agencies are separate legal entities\". The response in the defendant's closing submissions at fn 202 (and emphasised in oral submissions) was that:",
+              "page": 7,
+              "quoted_material": {
+                "source": "defendant's closing submissions at fn 202",
+                "content": "[Mr Dotcom's submission] is also incorrect: government departments are part of the Crown. This is demonstrated, for example, by the provisions of the Crown Proceedings Act 1950 (see esp s 14)."
+              }
+            },
+            {
+              "number": "[23]",
+              "content": "Consistent with this contention the submissions for the defendants referred to the defendants as “the Crown”. This was not surprising given that the information privacy requests had been transferred to the Attorney-General. The point is perhaps captured at [13] of the Tribunal's decision:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Tribunal's decision at [13]",
+                "content": "[13] The submissions for the defendants referred to the defendants as \"the Crown\" (and hence) \"the Crown's decisions\", \"the Crown's letter\", \"the Crown's approach\", \"the Crown's reading of the request\" and so on. In this decision we intend employing much the same terminology, especially the terms \"the Crown\", \"the Attorney-General\", \"the Solicitor-General\" and \"Crown Law\". At times the terms are used interchangeably."
+              }
+            },
+            {
+              "number": "[24]",
+              "content": "In a case in which the access requests had been transferred to the Attorney-General and in which that law officer of the Crown had responded to the requests, the formal orders made by the Tribunal at [255] commenced with the statement that the Tribunal had been satisfied \"that an action of the Crown (represented by the Attorney-General) was an interference with the privacy of Mr Dotcom\".",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "THE JURISDICTION ISSUE",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "We address now the question whether the Tribunal has jurisdiction to make the enforcement orders sought by Mr Dotcom.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "HRRT a creature of statute",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[26]",
+              "content": "As can be seen from the Human Rights Act 1993 (HRA), s 93, the Human Rights Review Tribunal is a creature of statute. The Tribunal was first constituted under the Human Rights Commission Act 1977, s 45 as the Equal Opportunities Tribunal and continued under HRA, Part 4 as the Complaints Review Tribunal. As a consequence of the Human Rights Amendment Act 2001 the Tribunal was “continued in being” and from 1 January 2002 has been called the Human Rights Review Tribunal. It has jurisdiction over certain claims brought under the Human Rights Act, the Privacy Act 1993 and the Health and Disability Commissioner Act 1994 (HDCA).",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 93",
+                  "context": "Shows that the HRRT is a creature of statute."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Commission Act 1977, s 45",
+                  "context": "The Tribunal was first constituted under this Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Amendment Act 2001",
+                  "context": "The Tribunal was 'continued in being' as a consequence of this Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "The Tribunal has jurisdiction over claims brought under this Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Health and Disability Commissioner Act 1994 (HDCA)",
+                  "context": "The Tribunal has jurisdiction over claims brought under this Act."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "Common to all three of its jurisdictions is Part 4 of the HRA. This is because of PA, s 89 and HDCA, s 58. Section 89 of the former Act provides:",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 89",
+                  "context": "Explains why Part 4 of the HRA is common to all jurisdictions."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HDCA, s 58",
+                  "context": "Explains why Part 4 of the HRA is common to all jurisdictions."
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act 1993, Section 89",
+                "content": "89 Certain provisions of Human Rights Act 1993 to apply\n\nSections 92Q to 92W and Part 4 of the Human Rights Act 1993 shall apply, with such modifications as are necessary, in respect of proceedings under section 82 or section 83 of this Act as if they were proceedings under section 92B, or section 92E, or section 92H of that Act."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Statutory remedies which may be granted",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[28]",
+              "content": "The remedies which may be sought from the Tribunal are restricted to those enumerated in PA, ss 85 and 88. See s 84:",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, ss 85 and 88",
+                  "context": "Remedies are restricted to those enumerated in these sections."
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act 1993, Section 84",
+                "content": "84 Remedies that may be sought\n\nIn any proceedings before the Human Rights Review Tribunal, the Director of Human Rights Proceedings or the aggrieved individual (as the case may be) may seek such of the remedies described in section 85 as he or she thinks fit."
+              }
+            },
+            {
+              "number": "[29]",
+              "content": "The remedies which may be granted under PA, s 85 are:",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 85",
+                  "context": "Lists the remedies which may be granted."
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[29.1]",
+                    "content": "A declaration of interference with the privacy of an individual."
+                  },
+                  {
+                    "identifier": "[29.2]",
+                    "content": "An order restraining the defendant from continuing or repeating the interference."
+                  },
+                  {
+                    "identifier": "[29.3]",
+                    "content": "Damages in accordance with PA, s 88."
+                  },
+                  {
+                    "identifier": "[29.4]",
+                    "content": "An order that the defendant perform specific acts to remedy the interference."
+                  },
+                  {
+                    "identifier": "[29.5]",
+                    "content": "Such other relief as the Tribunal thinks fit."
+                  },
+                  {
+                    "identifier": "[29.6]",
+                    "content": "Costs."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[30]",
+              "content": "The damages which may be awarded under PA, s 88 are compensatory and relate to:",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 88",
+                  "context": "Describes the types of compensatory damages that can be awarded."
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[30.1]",
+                    "content": "Pecuniary loss."
+                  },
+                  {
+                    "identifier": "[30.2]",
+                    "content": "Loss of any benefit."
+                  },
+                  {
+                    "identifier": "[30.3]",
+                    "content": "Humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[31]",
+              "content": "In the face of these provisions conventional principles of statutory interpretation require the conclusion that the Tribunal has no jurisdiction to grant any remedy not expressly stipulated in the Act. See Carter Burrows and Carter – Statute Law in New Zealand (5th ed, LexisNexis, Wellington, 2015) at 319 to 329.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "Carter Burrows and Carter – Statute Law in New Zealand (5th ed, LexisNexis, Wellington, 2015) at 319 to 329",
+                  "context": "Supports the conclusion that the Tribunal has no jurisdiction to grant any remedy not expressly stipulated in the Act."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Statutory enforcement of HRRT orders",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "Tribunal orders are enforced by the District Court. This is not uncommon. See for example the Employment Relations Act 2000, s 141 which requires certain orders or judgments given by the Employment Relations Authority or by the Employment Court to be filed in the District Court before being enforceable in the same manner as an order made or judgment given by the District Court. This is because neither the Employment Court nor the Authority have their own enforcement regime for all categories of orders.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Employment Relations Act 2000, s 141",
+                  "context": "Cited as an example of orders being filed in the District Court for enforcement."
+                }
+              ]
+            },
+            {
+              "number": "[33]",
+              "content": "The Tribunal has no statutory powers which can be described as “enforcement\" powers. A possible exception is HRA, s 114 which confers a power to commit for contempt in the face of the Tribunal. That power is not, however, relevant in the present context. Nor is the power under HRA, s 115 to dismiss proceedings which are trivial, frivolous or vexatious or are not brought in good faith.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 114",
+                  "context": "Confers a power to commit for contempt, a possible exception to the lack of enforcement powers."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115",
+                  "context": "Confers power to dismiss trivial, frivolous or vexatious proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[34]",
+              "content": "The Human Rights Act, s 121 (incorporated into proceedings under the Privacy Act by s 89 of that Act) does, however, make express provision for costs, damages and interim orders to be enforced through the civil processes of the District Court while a person who contravenes or refuses to comply with any other order of the Tribunal (or an interim order) commits an offence:",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act, s 121",
+                  "context": "Makes express provision for enforcement of certain orders."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 89",
+                  "context": "Incorporates HRA s 121 into proceedings under the Privacy Act."
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Act, section 121",
+                "content": "121 Enforcement\n\n(1) The following orders made by the Tribunal may, on registration of a certified copy in the District Court, be enforced in all respects as if they were an order of that court:\n(a) an order for the award of costs under section 92L; and\n(b) an order for the award of damages under section 92M; and\n(c) an interim order under section 95.\n(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 921 or an interim order of the Tribunal made under section 95."
+              }
+            },
+            {
+              "number": "[35]",
+              "content": "Although not strictly relevant it is to be noted that the position under the Privacy Bill (introduced on 20 March 2018, read for the first time on 11 April 2018 and now awaiting a Select Committee hearing) is little different. The same provisions of the Human Rights Act which presently apply to the current Privacy Act will continue to apply to the Tribunal if and when the Privacy Bill is enacted.",
+              "page": 10
+            },
+            {
+              "number": "[36]",
+              "content": "Because neither the HRA nor the PA make express provision for the Tribunal to issue the enforcement orders sought by Mr Dotcom it is plain there is no statutory jurisdiction for the Tribunal to act on the present application. In fairness to counsel, this has not been disputed.",
+              "page": 10
+            },
+            {
+              "number": "[37]",
+              "content": "The real issue is whether the Tribunal has an inherent jurisdiction or inherent power to make the orders.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "The question of inherent jurisdiction",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[38]",
+              "content": "In the New Zealand judicial system only the High Court has an inherent jurisdiction. The reason for this lies in the historical origins of that court. The Supreme Court Act 1860, ss 4 to 6 conferred on the (then) Supreme Court of New Zealand the same jurisdiction as that possessed by the Courts of Queen's Bench, Common Pleas and Exchequer as at 1860. The Judicature Act 1908, s 16 and the more recent Senior Courts Act 2016, s 12 form an unbroken chain carrying that jurisdiction forward to the present time. The Senior Courts Act, s 12 presently provides:",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Supreme Court Act 1860, ss 4 to 6",
+                  "context": "Conferred jurisdiction on the Supreme Court of New Zealand."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Judicature Act 1908, s 16",
+                  "context": "Part of the chain carrying jurisdiction forward."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Senior Courts Act 2016, s 12",
+                  "context": "Part of the chain carrying jurisdiction forward to the present time."
+                }
+              ],
+              "quoted_material": {
+                "source": "Senior Courts Act, s 12",
+                "content": "12 Jurisdiction of High Court\n\nThe High Court has-\n(a) the jurisdiction that it had on the commencement of this Act; and\n(b) the judicial jurisdiction that may be necessary to administer the laws of New Zealand; and\n(c) the jurisdiction conferred on it by any other Act."
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "See further Department of Social Welfare v Stewart [1990] 1 NZLR 697 at 701 (Wylie J).",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Department of Social Welfare v Stewart [1990] 1 NZLR 697 at 701 (Wylie J)",
+                  "context": "Cited for further details on the jurisdiction of the High Court."
+                }
+              ]
+            },
+            {
+              "number": "[40]",
+              "content": "It is necessary in this context to distinguish between “inherent jurisdiction” and \"inherent power”. The difference was explained by Robertson J in Watson v Clarke [1990] 1 NZLR 715 at 720:",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson v Clarke [1990] 1 NZLR 715 at 720",
+                  "context": "Explains the difference between 'inherent jurisdiction' and 'inherent power'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Watson v Clarke [1990] 1 NZLR 715 at 720",
+                "content": "The learned Judge [Wylie J in DSW v Stewart] made the important distinction between \"inherent power\" and \"inherent jurisdiction\". The latter connotes an original and universal jurisdiction not derived from any other source, whereas the former connotes an implied power such as the power to prevent abuse of process, which is necessary for the due administration of justice under powers already conferred. Thus the High Court has an inherent jurisdiction as confirmed by s 16 of the Judicature Act 1908 whereas the District Court has an implied power within that jurisdiction as conferred by statute. It is not an inherent jurisdiction but a power which exists within that statutory jurisdiction ."
+              }
+            },
+            {
+              "number": "[41]",
+              "content": "A brief summary of the inherent jurisdiction of the High Court was provided in Mafart v Television New Zealand Ltd [2006] NZSC 33, [2006] 3 NZLR 18 at [16]:",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mafart v Television New Zealand Ltd [2006] NZSC 33, [2006] 3 NZLR 18 at [16]",
+                  "context": "Provides a brief summary of the inherent jurisdiction of the High Court."
+                }
+              ]
+            },
+            {
+              "number": "[42]",
+              "content": "There is nothing in the Human Rights Act or in the Privacy Act to compare with these statutory provisions. In our view, it is plain beyond argument that the Tribunal has no inherent jurisdiction.",
+              "page": 11,
+              "quoted_material": {
+                "source": "Mafart v Television New Zealand Ltd [2006] NZSC 33, [2006] 3 NZLR 18 at [16]",
+                "content": "[16] The adjectival jurisdiction and powers of the High Court, which enable it to give effect to its substantive jurisdiction, are part of the general jurisdiction recognised by s 16 of the Judicature Act. They were derived from the practice of the superior Courts in England as at 1860, based on their inherent jurisdiction. Except to the extent modified by statute and rules, the Court continues to have inherent jurisdiction and powers to determine its own procedure. The inherent jurisdiction is not ousted by the adoption of rules, but is regulated by the rules, so far as they extend. To the extent that the rules do not cover a situation, the inherent jurisdiction supplies the deficiency. The inherent jurisdiction is:\n\n\"... the authority of the judiciary to uphold, to protect, and to fulfil the judicial function of administering justice according to law in a regular, orderly and effective manner.\"\n\n[Footnote citations omitted]"
+              }
+            }
+          ]
+        },
+        {
+          "title": "The question of inherent powers",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[43]",
+              "content": "This does not mean, however, that as ancillary to its particular jurisdiction the Tribunal does not have those powers necessary to enable it to act effectively within that jurisdiction. It is not necessary in the context of the present case to exhaustively identify what those inherent powers may be. This is to be worked out on a case by case basis. See for example MacGregor v Craig (Limited Extension of Confidentiality Orders) [2016] NZHRRT 30, (2016) 11 HRNZ 76 at [45] to [48].",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "MacGregor v Craig (Limited Extension of Confidentiality Orders) [2016] NZHRRT 30, (2016) 11 HRNZ 76 at [45] to [48]",
+                  "context": "Cited as an example of working out inherent powers on a case by case basis."
+                }
+              ]
+            },
+            {
+              "number": "[44]",
+              "content": "There are two principle reasons. First, a substantial proportion of the case law addresses the inherent powers of courts (both senior and inferior), not inferior tribunals. It cannot be assumed, as a matter of course, this case law has direct application to the Tribunal without modification. Second, the Tribunal's unique human rights jurisdiction coupled with the express provisions of HRA, s 105 require a bespoke, not generic consideration of each particular circumstance in which the issue arises:",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 105",
+                  "context": "The provisions of this section require a bespoke consideration of each circumstance."
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Act, section 105",
+                "content": "105 Substantial merits\n\n(1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.\n(2) In exercising its powers and functions, the Tribunal must act-\n(a) in accordance with the principles of natural justice; and\n(b) in a manner that is fair and reasonable; and\n(c) according to equity and good conscience."
+              }
+            },
+            {
+              "number": "[45]",
+              "content": "When the issue does fall for consideration it will be necessary to identify the nature of inherent powers and in that connection reference can be made to the description of inherent powers found in the majority judgment in Siemer v Solicitor-General [2013] NZSC 68, [2013] 3 NZLR 441 where at [114] inherent powers were described in the following terms:",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Siemer v Solicitor-General [2013] NZSC 68, [2013] 3 NZLR 441",
+                  "context": "Describes inherent powers."
+                }
+              ],
+              "quoted_material": {
+                "source": "Siemer v Solicitor-General [2013] NZSC 68, [2013] 3 NZLR 441 at [114]",
+                "content": "The courts' inherent powers include all, but only, such powers as are necessary to enable a court to act effectively and uphold the administration of justice within its jurisdiction. Their scope extends to preventing abuse of the courts' processes and protecting the fair trial rights of an accused. The inherent powers of a court do not, however, extend to furthering the general public interest beyond that concerned with the due administration of justice. Examples of the inherent powers which are necessary to enable a court to act effectively within its jurisdiction include powers to dismiss or stay proceedings, to control barristers and solicitors and to issue orders to preserve evidence. [Footnote citations omitted]"
+              }
+            },
+            {
+              "number": "[46]",
+              "content": "As already emphasised the foregoing statements are directed at courts, not tribunals. Contrary to the submissions for Mr Dotcom, the Tribunal is not a court although for some purposes it is to be treated as if it were one. So in Attorney-General v O'Neill [2008] NZAR 93 Williams and Venning JJ held this Tribunal had sufficient features in common with an inferior court that it could be treated as an inferior court for the purposes of the Judicature Act 1908, s 88B which permitted the restriction of vexatious actions. The Full Court was careful to emphasise that its decision should not be construed as a determination that the Tribunal is an inferior court and that the decision was being confined specifically to the context of s 88B:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v O'Neill [2008] NZAR 93",
+                  "context": "Held the Tribunal could be treated as an inferior court for the purposes of the Judicature Act 1908, s 88B."
+                }
+              ],
+              "quoted_material": {
+                "source": "Attorney-General v O'Neill [2008] NZAR 93 at [34]",
+                "content": "[34] We conclude that the Tribunal is an inferior Court for the purposes of s 88B of the Judicature Act and that proceedings issued in it, including those proceedings issued by Mr O'Neill, are civil proceedings issued in an inferior Court for the purposes of that section."
+              }
+            },
+            {
+              "number": "[47]",
+              "content": "In Pope v Human Rights Commission (Strike-Out Application) [2014] NZHRRT 3 at [46] and [47] the Tribunal held that it was an inferior court for the purposes of the Ombudsmen Act 1975, s 25 which provides (inter alia) that no decision of an Ombudsman is liable to be challenged, reviewed, quashed, or called in question in any court. This was because it could not have been intended that the prohibition did not apply also to proceedings before an inferior tribunal. See further Burrows and Carter – Statute Law in New Zealand at 314.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Pope v Human Rights Commission (Strike-Out Application) [2014] NZHRRT 3 at [46] and [47]",
+                  "context": "The Tribunal held that it was an inferior court for the purposes of the Ombudsmen Act 1975, s 25."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Ombudsmen Act 1975, s 25",
+                  "context": "Provides that no decision of an Ombudsman is liable to be challenged, reviewed, quashed, or called in question in any court."
+                },
+                {
+                  "type": "other",
+                  "reference": "Burrows and Carter – Statute Law in New Zealand at 314",
+                  "context": "Cited for further information."
+                }
+              ]
+            },
+            {
+              "number": "[48]",
+              "content": "The fact that a tribunal may be treated as a court for certain purposes must be seen as the outcome of a statutory interpretation exercise focused on the particular context of the relevant statute (eg the Judicature Act or the Ombudsmen Act). The ruling does not mean the tribunal is in truth a court. Nomenclature is not determinative of jurisdiction.",
+              "page": 12
+            },
+            {
+              "number": "[49]",
+              "content": "We therefore return to the point that whether a tribunal has inherent powers will depend on the particular statutory setting, including the Tribunal's unique jurisdiction. But the important point in the present context is that made by Wylie J in Department of Social Welfare v Stewart at 703:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Department of Social Welfare v Stewart at 703",
+                  "context": "Makes the point that statutory function must exist for the necessary power to be implied."
+                }
+              ],
+              "quoted_material": {
+                "source": "Department of Social Welfare v Stewart at 703",
+                "content": "There can be no implied power arising from the statute to do something ancillary to a power not conferred by statute. The statutory function must exist for the necessary power to be implied."
+              }
+            },
+            {
+              "number": "[50]",
+              "content": "In Browne v Minister of Immigration [1990] NZAR 67 (HC) at [70] it was also held that a statutory power given to a tribunal to regulate its own procedure cannot be used to add to its jurisdiction. On the facts, a re-hearing was not a matter of “the procedure of the Tribunal\". It was a question of power. The power to rehear a case completely was a significant aspect of jurisdiction, not a matter of procedure.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Browne v Minister of Immigration [1990] NZAR 67 (HC) at [70]",
+                  "context": "Held that a statutory power given to a tribunal to regulate its own procedure cannot be used to add to its jurisdiction."
+                }
+              ]
+            },
+            {
+              "number": "[51]",
+              "content": "This decision was cited with apparent approval in P v ACC [1993] NZAR 416 (HC) at 420 and 422 (and in B v Dentists Disciplinary Tribunal [1994] 1 NZLR 95 (HC) at 102.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "P v ACC [1993] NZAR 416 (HC) at 420 and 422",
+                  "context": "Cited the decision in Browne v Minister of Immigration with approval."
+                },
+                {
+                  "type": "case",
+                  "reference": "B v Dentists Disciplinary Tribunal [1994] 1 NZLR 95 (HC) at 102",
+                  "context": "Cited the decision in Browne v Minister of Immigration with approval."
+                }
+              ]
+            },
+            {
+              "number": "[52]",
+              "content": "In Spencer v Attorney-General [2013] NZHC 2580, [2015] 2 NZLR 780 at [36] it was confirmed that while the Tribunal may have such additional powers (inherent powers) as are necessary to properly exercise the jurisdiction conferred on it by statute, it does not have inherent jurisdiction. Consequently the Tribunal did not have jurisdiction to make an order which, in effect, stayed a declaration it had already issued and to also validate that stay order.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Spencer v Attorney-General [2013] NZHC 2580, [2015] 2 NZLR 780 at [36]",
+                  "context": "Confirmed that while the Tribunal may have additional powers, it does not have inherent jurisdiction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION ON JURISDICTION",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[53]",
+              "content": "Returning to the present case, the assertion that the Tribunal has an inherent jurisdiction must fail.",
+              "page": 13
+            },
+            {
+              "number": "[54]",
+              "content": "As to the submission that the Tribunal has inherent powers to grant the enforcement orders sought by Mr Dotcom, that submission must also fail:",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "[54.1]",
+                  "content": "The power to grant an enforcement order is a significant aspect of jurisdiction and cannot be implied."
+                },
+                {
+                  "title": "[54.2]",
+                  "content": "There can be no implied power arising from the Human Rights Act to do something ancillary to a power not conferred by that statute or by any other statute. As stated by Wylie J in Department of Social Welfare v Stewart, the statutory function must exist for the necessary power to be implied. On the present facts the deployment of HRA, s 105 will not surmount that hurdle. In addition the Tribunal's power under HRA, s 104(5) to regulate its own procedure cannot be used to add to its jurisdiction (see Browne)."
+                },
+                {
+                  "title": "[54.3]",
+                  "content": "The Tribunal has no statutory power to enforce its own orders apart from contempt in the face of the Tribunal (HRA, s 114)."
+                },
+                {
+                  "title": "[54.4]",
+                  "content": "The intent of the statutory scheme is that orders of the Tribunal are to be enforced by the District Court through its civil and criminal processes. See HRA, s 121."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION OF HIGH COURT TO UPHOLD AUTHORITY OF LOWER COURTS AND TRIBUNALS",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[55]",
+              "content": "These conclusions do not leave Mr Dotcom without a remedy. Application can be made to the High Court for that court to use its powers in aid of the Tribunal. There is no dearth of authority that such jurisdiction exists.",
+              "page": 13
+            },
+            {
+              "number": "[56]",
+              "content": "In Faris v Medical Practitioners' Disciplinary Committee [1993] 1 NZLR 60 at 72 Gallen J held that the High Court has original and inherent power to control and protect judicial and quasi-judicial proceedings. In particular, the High Court has power to protect the proceedings of tribunals against abuse of process.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Faris v Medical Practitioners' Disciplinary Committee [1993] 1 NZLR 60 at 72",
+                  "context": "Held that the High Court has original and inherent power to control and protect judicial and quasi-judicial proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[57]",
+              "content": "In Samleung International Trading Co Ltd v Collector of Customs [1994] 3 NZLR 285 at 291 Blanchard J stated:",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Samleung International Trading Co Ltd v Collector of Customs [1994] 3 NZLR 285 at 291",
+                  "context": "Stated that the High Court may use its powers in aid of the District Court."
+                }
+              ],
+              "quoted_material": {
+                "source": "Samleung International Trading Co Ltd v Collector of Customs [1994] 3 NZLR 285 at 291",
+                "content": "Although a District Court may lack an inherent jurisdiction, as contrasted with the inherent powers which it needs to enable it to fulfil its statutory functions, there is no reason to doubt that if the High Court possesses inherent jurisdiction to do a thing which cannot be done by a District Court, then the High Court may use its powers in aid of the District Court."
+              }
+            },
+            {
+              "number": "[58]",
+              "content": "In Psychologists Board v Geary [2013] NZHC 1039, [2013] NZAR 845 at [14] Collins J held that the High Court has inherent jurisdiction to uphold the authority of lower courts and tribunals:",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Psychologists Board v Geary [2013] NZHC 1039, [2013] NZAR 845 at [14]",
+                  "context": "Held that the High Court has inherent jurisdiction to uphold the authority of lower courts and tribunals."
+                }
+              ],
+              "quoted_material": {
+                "source": "Psychologists Board v Geary [2013] NZHC 1039, [2013] NZAR 845 at [14]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[14]",
+                    "content": "The High Court's inherent jurisdiction extends to upholding the authority of lower Courts and Tribunals. The following authorities explain the High Court's jurisdiction in the following way:"
+                  },
+                  {
+                    "identifier": "(1)",
+                    "content": "Quality Pizzas Ltd v Canterbury Hotel Employees Industrial Union, in which Richardson J explained:\nit is well established that the High Court has inherent jurisdiction to make any order necessary to enable it to act effectively even in respect of matters regulated by rules of Court so long as it does not contravene those rules. Under that inherent jurisdiction (and except as qualified by statute or statutory rule ...) the High Court has power to punish for contempt of its processes in order to enable it to act affectively [sic] as a Court. That the jurisdiction extends to the protection of the processes of inferior Courts is also well settled and it is sufficient for present purposes to refer to Attorney-General v Blundell [1942] NZLR 287."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Samleung International Trading Co Ltd v Collector of Customs, in which Blanchard J said:\nif the High Court possesses inherent jurisdiction to do a thing which cannot be done by a District Court, then the High Court may use its powers in aid of the District Court.\n[Footnote citations omitted]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[59]",
+              "content": "More recently in Meder v Official Assignee [2018] NZHC 821, [2018] NZAR 632 at [41] van Bohemen J stated that the High Court has power under its inherent jurisdiction to render assistance to inferior courts to enable them to administer justice fully and effectively.",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Meder v Official Assignee [2018] NZHC 821, [2018] NZAR 632 at [41]",
+                  "context": "Stated that the High Court has power under its inherent jurisdiction to render assistance to inferior courts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "OVERALL CONCLUSION",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[60]",
+              "content": "As the Tribunal lacks jurisdiction to make the enforcement orders sought by Mr Dotcom the application dated 26 June 2018 is dismissed without consideration of the merits of the application.",
+              "page": 14
+            },
+            {
+              "number": "[61]",
+              "content": "Given the basis on which the defendants participated in the hearing it would seem no question of costs arises. In case we are wrong costs are reserved.",
+              "page": 14
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Dotcom v Crown Law Office (Inherent Powers) [2018] NZHRRT 36. Note publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

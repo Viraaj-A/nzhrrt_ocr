@@ -1,0 +1,649 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2016_NZHRRT_15.pdf",
+    "total_pages": 7,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2016] NZHRRT 15",
+        "reference_number": "HRRT 011/2015",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "New Zealand",
+        "hearing_date": "12 and 13 October 2015; Resumed 2 to 5 May 2016",
+        "decision_date": "15 April 2016",
+        "case_title": "Turner v The University of Otago (Legal professional privilege claim) [2016] NZHRRT 15",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL DECLINING TO GIVE ADVANCE RULING ON CLAIM BY UNIVERSITY OF OTAGO TO LEGAL PROFESSIONAL PRIVILEGE",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 7
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "LISA TURNER",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE UNIVERSITY OF OTAGO",
+            "role": "DEFENDANT",
+            "type": "Organisation"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr AC Beck and Mr W Forster",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr BCS Dorking and Mr M Couling",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "While information privacy Principle 6 confers a right of access to personal information, the agency holding such information is permitted by s 29(1) of the Privacy Act 1993 to refuse to disclose such information if (inter alia) the disclosure would breach legal professional privilege: 29 Other reasons for refusal of requests",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1) of the Privacy Act 1993",
+                  "context": "Permits an agency to refuse to disclose information if disclosure would breach legal professional privilege."
+                },
+                {
+                  "type": "statute",
+                  "reference": "information privacy Principle 6",
+                  "context": "Confers a right of access to personal information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "(1) An agency may refuse to disclose any information requested pursuant to principle 6 if— (f) the disclosure of the information would breach legal professional privilege; or",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "In the present case the University of Otago (the University) relied on s 29(1)(f) when withholding 75 documents from Dr Turner. She now challenges that decision. She also challenges the decision of the University to withhold two further documents under s 29(1)(b) (evaluative material). These challenges must be seen in the context of her various other claims that the University failed to comply with the Privacy Act.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(f)",
+                  "context": "Relied upon by the University to withhold 75 documents."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(b)",
+                  "context": "Relied upon by the University to withhold two further documents (evaluative material)."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "In relation to the University's privilege claim, the parties are in disagreement as to what the Tribunal is to determine.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "To understand the reasons for that disagreement brief reference is required to the circumstances in which the present ruling is given. As the substantive hearing will resume on 2 May 2016 the narrative will necessarily be brief and restricted to matters which are not in issue.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Reliance on the s 29(1)(f) legal professional privilege withholding ground appears to have been first asserted by the University in an email dated 18 June 2013 from Mr BCS Dorking (representing the University) to Mr W Forster (representing Dr Turner). A particularised list of the documents for which the privilege was claimed was subsequently provided by the University to the Privacy Commissioner in the course of the Commissioner's investigation into Dr Turner's complaint under Part 8 of the Act. The claim to privilege was upheld by the Privacy Commissioner in a decision given on 16 October 2014, a ruling to which we attach no weight given the Tribunal must reach an independent decision whether the claim was properly made at the time the University made its decision to refuse access to the information in question. The hearing before the Tribunal necessarily proceeds on a de novo basis.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(f)",
+                  "context": "Legal professional privilege withholding ground first asserted by the University."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Part 8 of the Act",
+                  "context": "Relating to the Privacy Commissioner's investigation into Dr Turner's complaint."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "These proceedings were filed on 16 February 2015. The statement of reply followed on 1 April 2015. Case management directions were given by the Chairperson at a teleconference convened on 29 May 2015 and the case was set down for hearing over four days commencing on Monday 12 October 2015. The directions included a requirement that discovery and inspection of documents were to be attended to on an informal basis in the first instance and achieved to the satisfaction of both parties by 3 July 2015. Neither party has indicated dissatisfaction with the discovery given and the Tribunal has not been asked to give any ruling on the subject.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "As best we can tell, although legal professional privilege was first asserted on 18 June 2013, a list of the s 29(1)(f) privileged documents was first provided to Mr Beck by the solicitors for the University by way of email dated 28 July 2015.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(f)",
+                  "context": "Relating to a list of privileged documents provided by the University's solicitors."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "The hearing duly commenced on 12 October 2015 but by the second day it was apparent the parties were not ad idem as to the basis on which Dr Turner's case is advanced and the hearing was adjourned for (inter alia) amended statements of claim and reply to be filed along with amended statements of evidence. See the Minute of the Chairperson dated 13 October 2015.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "Earlier, in his opening submissions, Mr Beck had referred to the privilege claim and invited the Tribunal to inspect the documents to determine whether the University has discharged its onus under s 87 of the Act.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 87 of the Act",
+                  "context": "Regarding the onus on the University to prove its privilege claim."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "On the morning of the second day of the hearing, once it was clear the case would be adjourned part-heard, the parties asked the Tribunal to determine the withholding claim on the papers and to deliver a ruling prior to the resumed hearing. Until then the Tribunal had not been aware there was to be an issue determined by way of a closed hearing. The following exchange is recorded in the Notes of Evidence at pp 59 and 61:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Notes of Evidence at pp 59 and 61",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "MR BECK:",
+                    "content": "Yes, Sir, and there was just the one point about the privileged correspondence and I was just wondering whether it would be possible for the Tribunal to view that in what's now going to be the interim."
+                  },
+                  {
+                    "identifier": "THE CHAIR:",
+                    "content": "Yes, as you would know, the Tribunal's practice would be to hold a closed hearing in which the documents are received along with submissions as to the claim for privilege. The hearing would be closed only to the degree absolutely necessary so if there were submissions that could be advanced in open hearing without compromising the privilege or confidentiality claimed that is the process that we follow, so Mr Beck have you and Mr Dorking discussed how, from counsel's perspective, the Tribunal is invited to deal with the closed hearing?"
+                  },
+                  {
+                    "identifier": "Mr BECK:",
+                    "content": "Not specifically, Sir, No."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "The Tribunal then adjourned for the parties to confer. On the hearing being reconvened counsel addressed the Tribunal:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Counsel",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "MR BECK:",
+                    "content": "Sir, we've had a discussion, and we think the way to progress this at the moment, the easiest way might be for the University to submit the documents to the Tribunal with whatever submissions it wants to make and for the Tribunal to consider those and then make whatever directions it sees fit, so we think it's a matter that can be properly done simply on the papers in that way."
+                  },
+                  {
+                    "identifier": "MR DORKING:",
+                    "content": "That's precisely what we discussed, Sir."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "The procedural steps involved in the request that the Tribunal deal with the privilege claim on the papers were addressed in the Chairperson's Minute of 13 October 2015. It outlined the Tribunal's processes for conducting open and closed hearings (orally and on the papers). It further recorded that in the present case it had been agreed the “hearing” would be on the papers with the intention that the Tribunal's ruling be given prior to the resumed hearing so the parties know what documents remain in issue. Specific directions were given as to the filing of a closed bundle containing the documents for which the University claimed privilege together with the filing of both closed and open evidence and submissions.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "A first amended statement of claim was filed on 30 October 2015 with a second amended statement of claim following on 15 January 2016. The amended statement of reply was filed on 15 February 2016.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "The closed bundle of documents was filed by the University of 5 February 2016 together with a closed statement of evidence by Simone McNichol and the closed submissions of the University in support of the withholding claim. No open evidence and no open submissions were filed. Following a teleconference on 4 March 2016 it was directed by the Chairperson that open versions of Ms McNichol's statement and of the University's submissions be filed by 7 March 2016 so that Dr Turner had opportunity to respond by 18 March 2016. The University was allowed until 24 March 2016 to file reply submissions.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "The submissions for Dr Turner were filed on 18 March 2016.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "No reply submissions have been received from the University. It was not until the Secretariat made enquiry of Mr Couling on 4 April 2016 that it was learnt the University did not intend filing reply submissions. This is a matter of regret as the submissions for Dr Turner raise a number of issues not addressed in the University's original submissions (both in closed and open formats) with the result the Tribunal has not had the benefit of full argument.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "WHETHER FINAL RULING ON WITHHOLDING DECISION POSSIBLE",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Parties not in agreement",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "Although the parties have invited the Tribunal to give a ruling on the withholding claim, they are not agreed on what the Tribunal is to determine:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[17.1]",
+                  "content": "The University contends the sole issue for determination is whether there was a proper legal basis for withholding the information in 2013."
+                },
+                {
+                  "title": "[17.2]",
+                  "content": "Dr Turner submits the question is whether the documents should continue to be withheld from her. In addition Dr Turner has foreshadowed that in closing submissions she will argue the following issues will require determination by the Tribunal in the context of her claim to privilege:"
+                },
+                {
+                  "title": "[17.2.1]",
+                  "content": "Did the University at any stage notify Dr Turner that it held the particular pieces of personal information in the closed bundle?"
+                },
+                {
+                  "title": "[17.2.2]",
+                  "content": "Did the University follow the statutory requirements in Parts 4 and 5 of the Act and make and give notice of a decision to withhold information contained in each of the 78 documents and emails in accordance with the specific grounds in ss 29(1)(f) and 29(1)(b) and (3), with reasons?"
+                },
+                {
+                  "title": "[17.2.3]",
+                  "content": "If so, were these decisions substantively correct?"
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Parts 4 and 5 of the Act",
+                  "context": "Statutory requirements for making and giving notice of a decision to withhold information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 29(1)(f) and 29(1)(b) and (3)",
+                  "context": "Specific grounds for withholding information."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "Dr Turner will in closing make three alternative submissions:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[18.1]",
+                  "content": "The University failed to fulfil its legal duties under the Privacy Act in relation to the documents over which it has purported to claim privilege."
+                },
+                {
+                  "title": "[18.2]",
+                  "content": "The University did not make and give notice of any decision to withhold and it follows that the deeming provisions apply as set out in the second amended statement of claim dated 15 January 2016 at paras 102 to 109 and 131 to 135."
+                },
+                {
+                  "title": "[18.3]",
+                  "content": "The decision to withhold was wrong."
+                }
+              ]
+            },
+            {
+              "number": "[19]",
+              "content": "Dr Turner submits it is therefore inappropriate at this stage for the Tribunal to determine whether there was “a proper legal basis for withholding” as the University contends as this is (in her submission) a question for closing submissions. The Tribunal is requested to instead determine whether the documents should continue to be withheld or whether they should be disclosed prior to the hearing.",
+              "page": 4
+            },
+            {
+              "number": "",
+              "content": "Discussion",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "If we have correctly understood the case foreshadowed by Dr Turner, the challenge is not just to whether legal professional privilege applied to the withheld documents in 2013. It is to whether the claim to privilege was properly made in the first place. That is, made lawfully in a manner which complied with the requirements of the Privacy Act.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "Should the Tribunal find the claim to privilege was not made in accordance with the Act, the question whether the information was in truth protected by legal professional privilege would fall away except as to remedy. See s 85(4).",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(4)",
+                  "context": "Referenced in the context of remedy if the claim to privilege was not made in accordance with the Act."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Decision",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "In these circumstances we believe it would be both premature and unwise to determine the privilege issue before hearing the whole case. We accordingly decline to give any ruling on the legal professional privilege claim (and that based on s 29(1)(b)) until all the evidence and submissions have been received. For the avoidance of doubt this means we decline also to determine whether the documents should continue to be withheld and whether they should be disclosed prior to the resumption of the hearing.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(b)",
+                  "context": "Basis for a privilege claim that the tribunal declines to rule on prematurely."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "POINTS FOR COUNSEL TO CONSIDER",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[23]",
+              "content": "As the Tribunal will require the assistance of full argument at the resumed hearing, the following points are for the benefit of counsel. The Tribunal accepts the points are contestable and in offering them for consideration, is not to be taken to be expressing any preconceived view as to their merits. The cross-references are to the submissions of counsel for the plaintiff dated 18 March 2016.",
+              "page": 5
+            },
+            {
+              "number": "",
+              "content": "Para 13 - the withholding has been made as an ex post facto justification for failure to provide the information",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "It is to be submitted for the plaintiff that the claim for withholding has been made as an ex post facto justification for failure to provide information based upon a misunderstanding of the law, rather than a validly exercised discretion to withhold at the material time.",
+              "page": 5
+            },
+            {
+              "number": "[25]",
+              "content": "In addressing this submission counsel may wish to bear in mind that in previous decisions the Tribunal has held:",
+              "page": 5,
+              "quoted_material": {
+                "source": "previous decisions of the Tribunal",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[25.1]",
+                    "content": "The relevant date on which the agency must have good reason under ss 27 to 29 for refusing access to personal information is the date on which the decision is made whether the request is to be granted. See Watson v Capital and Coast District Health Board [2015] NZHRRT 27 at [84]."
+                  },
+                  {
+                    "identifier": "[25.2]",
+                    "content": "A decision is not given under s 40(1) unless the reason for the decision is also given, as required by s 44. See Armfield v Naughton [2014] NZHRRT 48 at [73]."
+                  },
+                  {
+                    "identifier": "[25.3]",
+                    "content": "The terms “reason” and “grounds” in s 44(a) are used in the converse manner to which they are normally used. See Kelsey v Minister of Trade [2015] NZHC 2497, [2016] 2 NZLR 218 at [127], interpreting s 19(a)(i) and (ii) of the Official Information Act 1982 which is materially the same as s 44(a)(i) and (ii) of the Privacy Act. That is, the term “reason” is a reference to the “reasons” permitted by ss 27 to 29 of the Privacy Act whereas “grounds” contemplates a decision-maker providing an explanation for the bases for his or her action refusing the information privacy request."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "",
+              "content": "Paras 15 to 67 – legal professional privilege",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "At para 16 reference is made to the fact that in two previous cases the Tribunal has treated s 54(1) of the Evidence Act 2006 as an appropriate definition of “legal professional privilege” in s 29(1)(f) of the Privacy Act. See Rafiq v Civil Aviation Authority of New Zealand [2013] NZHRRT 10 at [41] and Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [111]. A similar course was adopted in Jeffries v Privacy Commissioner [2010] NZSC 99, [2011] 1 NZLR 45 at [14].",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 54(1) of the Evidence Act 2006",
+                  "context": "Used as a definition for 'legal professional privilege'."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(f) of the Privacy Act",
+                  "context": "Section containing the term 'legal professional privilege'."
+                },
+                {
+                  "type": "case",
+                  "reference": "Rafiq v Civil Aviation Authority of New Zealand [2013] NZHRRT 10 at [41]",
+                  "context": "Example of a case where the Tribunal treated s 54(1) of the Evidence Act as the definition of legal professional privilege."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [111]",
+                  "context": "Another example of a case where the Tribunal used the Evidence Act definition."
+                },
+                {
+                  "type": "case",
+                  "reference": "Jeffries v Privacy Commissioner [2010] NZSC 99, [2011] 1 NZLR 45 at [14]",
+                  "context": "A case where a similar course was adopted."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "The adoption in Rafiq and Geary of the definition in s 54(1) was, however, clearly a matter of convenience. The Tribunal neither expressly nor impliedly challenged well-established law that the legal professional privilege provisions in ss 54 and 56 of the Evidence Act do not abolish the underlying common law. That is, outside of ss 54 and 56 of the Evidence Act the common law of legal professional privilege is unchanged. See for example Mathieson (ed) Cross on Evidence (9th ed, LexisNexis, Wellington, 2013) at EVA 53.1, EVA 53.4, EVA 53.5 and EVA 56.3.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Rafiq and Geary",
+                  "context": "Cases where s 54(1) definition was adopted for convenience."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 54 and 56 of the Evidence Act",
+                  "context": "Provisions on legal professional privilege that do not abolish the underlying common law."
+                },
+                {
+                  "type": "other",
+                  "reference": "Mathieson (ed) Cross on Evidence (9th ed, LexisNexis, Wellington, 2013) at EVA 53.1, EVA 53.4, EVA 53.5 and EVA 56.3",
+                  "context": "Reference confirming that common law of legal professional privilege is unchanged outside ss 54 and 56 of the Evidence Act."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "If this analysis is correct it is irrelevant that the present proceeding before the Tribunal is not a “proceeding\" within the meaning of s 4(1) of the Evidence Act ie a proceeding conducted by a “court”.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 4(1) of the Evidence Act",
+                  "context": "Defines a 'proceeding' as one conducted by a 'court', which the current Tribunal proceeding is not."
+                }
+              ]
+            },
+            {
+              "number": "[29]",
+              "content": "Recent examples of reported \"court\" privilege challenges are Robert v Foxton Equities Ltd [2014] NZHC 726, [2015] NZLR 1351 and Mitre 10 (NZ) Ltd v Thistle Dome Holdings Ltd [2015] NZHC 2719, [2015] NZAR 1909.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Robert v Foxton Equities Ltd [2014] NZHC 726, [2015] NZLR 1351",
+                  "context": "Example of a reported 'court' privilege challenge."
+                },
+                {
+                  "type": "case",
+                  "reference": "Mitre 10 (NZ) Ltd v Thistle Dome Holdings Ltd [2015] NZHC 2719, [2015] NZAR 1909",
+                  "context": "Another example of a reported 'court' privilege challenge."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Litigation privilege",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "As to the scope of litigation privilege at common law reference can usefully be made to Guardian Royal Exchange Assurance of New Zealand Ltd v Stuart [1985] 1 NZLR 596 at 602 line 11 and Jeffries v Privacy Commissioner at [16] in the specific context of the Privacy Act.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Guardian Royal Exchange Assurance of New Zealand Ltd v Stuart [1985] 1 NZLR 596 at 602 line 11",
+                  "context": "Reference for the scope of litigation privilege at common law."
+                },
+                {
+                  "type": "case",
+                  "reference": "Jeffries v Privacy Commissioner at [16]",
+                  "context": "Reference for the scope of litigation privilege in the context of the Privacy Act."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "The dominant purpose test adopted in Guardian Royal Exchange Assurance of New Zealand Ltd v Stuart was intended to limit the scope of litigation privilege. The dominant purpose test must therefore be applied with some rigor. See Beckham v R [2015] NZSC 98 at [84]. Confidentiality is a requirement of litigation privilege: Beckham v R at [93].",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Guardian Royal Exchange Assurance of New Zealand Ltd v Stuart",
+                  "context": "Adopted the dominant purpose test to limit litigation privilege."
+                },
+                {
+                  "type": "case",
+                  "reference": "Beckham v R [2015] NZSC 98 at [84]",
+                  "context": "States the dominant purpose test must be applied with rigor."
+                },
+                {
+                  "type": "case",
+                  "reference": "Beckham v R at [93]",
+                  "context": "States that confidentiality is a requirement of litigation privilege."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Paras 49 to 52 – implied waiver of privilege",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "While s 65 of the Evidence Act says that privilege may be waived expressly or impliedly, it further provides there will be no waiver if the disclosure occurred involuntarily or mistakenly or otherwise without the consent of the person who has the privilege. Any claim that privilege has been waived (or not) must accordingly be evidence-based.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 65 of the Evidence Act",
+                  "context": "Governs the express or implied waiver of privilege and exceptions to waiver."
+                }
+              ]
+            },
+            {
+              "number": "[33]",
+              "content": "The question whether the withholding claim was properly made by the University (as at 18 June 2013) is arguably not affected by any subsequent express or implied waiver of privilege.",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "Paras 53 to 67 – termination of litigation privilege",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "Similarly, the question of possible termination of litigation privilege may fall away if it is accepted the cut off date is 18 June 2013.",
+              "page": 7
+            },
+            {
+              "number": "",
+              "content": "Paras 68 to 76 - evaluative material",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "Of the 77 documents withheld, all but two were withheld under s 29(1)(f) (legal professional privilege). The two exceptions were withheld under s 29(1)(b) on the grounds the communication contained evaluative material. In eighteen instances both grounds were relied on in tandem.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(f)",
+                  "context": "Grounds for withholding (legal professional privilege)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(b)",
+                  "context": "Grounds for withholding (evaluative material)."
+                }
+              ]
+            },
+            {
+              "number": "[36]",
+              "content": "Dr Turner says she was completely unaware the University had withheld information on the “evaluative material” ground until 28 July 2015 when the email from Anderson Lloyd was provided. The evaluative material ground had not been asserted in the 18 June 2013 email.",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "The Tribunal will require evidence on this point from both parties, bearing in mind the requirements of ss 40 and 44 of the Privacy Act.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 40 and 44 of the Privacy Act",
+                  "context": "Requirements related to providing evidence."
+                }
+              ]
+            },
+            {
+              "number": "[38]",
+              "content": "The evidence and submissions will also need to deal with the Tribunal's recent decision in Director of Human Rights Proceedings v New Zealand Institute of Chartered Accountants [2015] NZHRRT 54 which addresses the s 29(1)(b) requirements in some detail.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v New Zealand Institute of Chartered Accountants [2015] NZHRRT 54",
+                  "context": "A recent Tribunal decision addressing s 29(1)(b) requirements."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(b)",
+                  "context": "Requirements addressed in a recent Tribunal decision."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Turner v The University of Otago (Legal professional privilege claim) [2016] NZHRRT 15.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

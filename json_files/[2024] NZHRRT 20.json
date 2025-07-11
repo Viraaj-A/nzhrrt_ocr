@@ -1,0 +1,467 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 6
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 20",
+        "reference_number": "HRRT 023/2018",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "22 April 2024",
+        "case_title": "Tao v Body Corporate 198693 (Costs)",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 6
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "AN LI TAO",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "BODY CORPORATE 198693",
+            "role": "FIRST DEFENDANT",
+            "type": "Company"
+          },
+          {
+            "name": "STRATA TITLE ADMINISTRATION LTD",
+            "role": "SECOND DEFENDANT",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms B Klippel",
+          "role": "Member"
+        },
+        {
+          "name": "Dr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms AL Tao",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr E St John and Mr S Maloney",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "On 15 November 2023 An Li Tao's allegations of discrimination by reason of her race, ethnicity and/or political opinion and of racial harassment against Body Corporate 198693 (Body Corporate) and Strata Title Administration Ltd (Strata) were dismissed.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "The Body Corporate and Strata have now applied for costs. In their submissions dated 28 November 2023 the Body Corporate and Strata say they incurred legal fees of $34,979.63 in defending this proceeding. They submit that the Tribunal should follow the established principles for costs which normally would be in the range of 40 to 70 per cent of those costs. They say that in determining the level of costs the Tribunal must consider the general principles when exercising its discretion, as described in Herron v Speirs Group Ltd.3",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smits v Santa Fe Gold Ltd",
+                  "context": "They submit that the Tribunal should follow the established principles for costs which normally would be in the range of 40 to 70 per cent of those costs.2"
+                },
+                {
+                  "type": "case",
+                  "reference": "Herron v Speirs Group Ltd",
+                  "context": "They say that in determining the level of costs the Tribunal must consider the general principles when exercising its discretion, as described in Herron v Speirs Group Ltd.3"
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "Ms Tao has made no submissions in relation to the applications for costs.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "Ms Tao and her parents were the registered proprietors of one of the units in a unit title development in Auckland. The Body Corporate is the body corporate for that development. Strata is the Body Corporate manager and provides certain secretarial services for the Body Corporate.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Ms Tao's original statement of claim, in addition to the discrimination referred to at [6] below, alleged she had been discriminated against in that she was not indemnified by the Body Corporate in respect of legal proceedings brought by her in 2015. Ms Tao said that was because of her ethnicity. Following a strike-out application made by the defendants, the Tribunal struck out that allegation4 noting that the matter had already been determined (against Ms Tao) and was therefore res judicata.5",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tao v Body Corporate 198693 (Strike-Out Applications) [2021] NZHRRT 58",
+                  "context": "Following a strike-out application made by the defendants, the Tribunal struck out that allegation4"
+                },
+                {
+                  "type": "case",
+                  "reference": "Tao v Strata Title Administration Ltd & Ors [2018] NZHC 848",
+                  "context": "noting that the matter had already been determined (against Ms Tao) and was therefore res judicata.5"
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "Following the partial strike-out, Ms Tao continued to allege a number of breaches of the Human Rights Act 1993 (HRA):",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[6.1]",
+                  "content": "Discrimination relating to nomination and votes at the 2016 AGM of the Body Corporate."
+                },
+                {
+                  "title": "[6.2]",
+                  "content": "Discrimination in relation to an alleged assault by the then Chairperson of the Body Corporate, against Ms Tao's father."
+                },
+                {
+                  "title": "[6.3]",
+                  "content": "Racial harassment by reason of emails that an employee of Strata sent to other unit owners following the 2016 AGM."
+                },
+                {
+                  "title": "[6.4]",
+                  "content": "Indirect discrimination."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA)",
+                  "context": "Following the partial strike-out, Ms Tao continued to allege a number of breaches of the Human Rights Act 1993 (HRA):"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE LAW",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "As referred to at [1] above, the Tribunal found there was no unlawful discrimination against, or racial harassment of, Ms Tao and dismissed all of Ms Tao's claims.6",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tao v Body Corporate 198693 [2023] NZHRRT 39",
+                  "context": "As referred to at [1] above, the Tribunal found there was no unlawful discrimination against, or racial harassment of, Ms Tao and dismissed all of Ms Tao's claims.6"
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "The Tribunal is empowered to award costs under the HRA as follows:",
+              "page": 3,
+              "quoted_material": {
+                "source": "HRA",
+                "content": "92L Costs",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In any proceedings under section 92B or section 92E or section 97, the Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Without limiting the matters that the Tribunal may consider in determining whether to make an award of costs under this section, the Tribunal may take into account whether, and to what extent, any party to the proceedings-"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "has participated in good faith in the process of information gathering by the Commission:"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "has facilitated or obstructed that information-gathering process:"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "has acted in a manner that facilitated the resolution of the issues that were the subject of the proceedings."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The matters referred to in section 92L(2) are, discretionary and are expressly stated not to limit the matters that the Tribunal may consider in determining whether to make an award of costs. The most relevant matter for the Tribunal in this case is section 92L(2)(c) which relates to whether a party has acted in a manner that facilitated the resolution of the issues that were the subject of the proceedings or not.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 92L(2)",
+                  "context": "The matters referred to in section 92L(2) are, discretionary and are expressly stated not to limit the matters that the Tribunal may consider in determining whether to make an award of costs."
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 92L(2)(c)",
+                  "context": "The most relevant matter for the Tribunal in this case is section 92L(2)(c) which relates to whether a party has acted in a manner that facilitated the resolution of the issues that were the subject of the proceedings or not."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "In Director of Proceedings v Smith (Costs) the Tribunal noted that the factors to be taken into account in section 92L(2) suggest that the motivations and behaviours of the parties are important in deciding whether there should be any costs award in the Tribunal's HRA jurisdiction.7",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Costs)",
+                  "context": "In Director of Proceedings v Smith (Costs) the Tribunal noted that the factors to be taken into account in section 92L(2) suggest that the motivations and behaviours of the parties are important in deciding whether there should be any costs award in the Tribunal's HRA jurisdiction.7"
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 92L(2)",
+                  "context": "the factors to be taken into account in section 92L(2) suggest that the motivations and behaviours of the parties are important"
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "Since the decision in Commissioner of Police v Andrews. 8 the Tribunal has explicitly rejected the civil litigation rule that the unsuccessful party will be ordered to pay a reasonable contribution to the costs of the successful party. The Tribunal has paraphrased the principles from the High Court decision of Andrews as follows:9",
+              "page": 3,
+              "quoted_material": {
+                "source": "High Court decision of Andrews",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[8.1]",
+                    "content": "A flexible approach can be taken by the Tribunal to costs. See [60]."
+                  },
+                  {
+                    "identifier": "[8.2]",
+                    "content": "There must be caution about applying the conventional civil costs regime in the Tribunal's jurisdiction. See [61]."
+                  },
+                  {
+                    "identifier": "[8.3]",
+                    "content": "The Tribunal has broad powers to do justice even if this means departing from the conventional rules applying to civil proceedings. See [62]."
+                  },
+                  {
+                    "identifier": "[8.4]",
+                    "content": "Costs orders should not have the effect of deterring claims involving human rights. See [64] and also Wall v Fairfax New Zealand Ltd (Costs) [2017] NZHRRT 28, (2017) 11 HRNZ 337."
+                  },
+                  {
+                    "identifier": "[8.5]",
+                    "content": "Nevertheless, some claims in the Tribunal should have costs consequences. See [65]."
+                  },
+                  {
+                    "identifier": "[8.6]",
+                    "content": "The three mandatory considerations identified in s 92L(2) recognise that it is relevant to enquire whether the claim by the plaintiff is frivolous or vexatious or was activated by improper motives. See [68]."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "The Tribunal's current approach to costs broadly reflects this and is set out in Beauchamp v B & T Co (2011) Ltd10 where it was noted that across all three of the Tribunal's jurisdictions costs are not routinely awarded to the successful party and a notional daily tariff is seldom applied. The reverse applies in proceedings in the High Court, District Court, Employment Court and Employment Relations Authority.11 The task for the Tribunal is to exercise a broad judgment based on the general principles identified in Smith and Turner and applied to the specific facts of the case12. In principle costs should not be awarded as a matter of course and, if awarded, the amount will usually be modest in nature 13.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "Also relevant in this case is Ms Tao's impecuniosity. A lack of means to pay can be a relevant consideration in exercising the discretion to award costs.14",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "Given the longstanding unhappy relationship between the parties in this case, no mediation facilitated by the Commission took place, so that the factors in sub-sections 92L(2)(a) and (b) are not in play. The matters referred to at [10] above are, however, still relevant.",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "Whether costs to be awarded",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "While this was not a case where the defendants were required to respond to prolix pleadings or evidence, there are factors which (when analysed in light of the above discussion of the law) support the grant of an award of costs in this case:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[15.1]",
+                  "content": "The defendants were initially put to the time and expense of seeking to strike-out (successfully) an allegation that had already been disposed of, in favour of the Body Corporate, in the High Court. 15"
+                },
+                {
+                  "title": "[15.2]",
+                  "content": "Ms Tao's original pleadings alleged racial harassment by reason of her race or ethnicity. During the hearing Ms Tao admitted that emails giving rise to her allegations did not discriminate against her on the basis of race or ethnicity. Instead, Ms Tao then alleged that the emails discriminated against her on the basis of her political opinion. Political opinion is not a ground for a claim of racial harassment. In any event, no political opinion was advanced by Ms Tao to support this allegation. The Body Corporate had, however, been put to the time and expense of preparing to defend an allegation on the basis of race or ethnicity, which was abandoned at the hearing."
+                },
+                {
+                  "title": "[15.3]",
+                  "content": "In relation to the alleged assault by the then Chairperson of the Body Corporate, against Ms Tao's father, it is noted that Ms Tao's father was not a party to these proceedings. The Body Corporate had therefore been put to the time and expense of preparing to defend an allegation which could not succeed."
+                },
+                {
+                  "title": "[15.4]",
+                  "content": "The duration of the hearing (and so the cost to the Body Corporate) was extended by Ms Tao's often unfocussed submissions and cross examination. Notwithstanding repeated directions to focus on the issues at hand, Ms Tao frequently strayed into matters not in issue before the Tribunal."
+                },
+                {
+                  "title": "[15.5]",
+                  "content": "This claim (and that in Xi v Body Corporate 19869316) was brought only after Ms Tao had been adjudged bankrupt. She, unsuccessfully, invoked this human rights claim before the High Court, in support of her application to set aside a bankruptcy notice,17 and in her opposition to the application to adjudicate her bankrupt18. Ms Tao commenced this claim in an attempt to defer the implementation of decisions made in another jurisdiction. Her unmeritorious claim before this Tribunal resulted in the diversion of time and resources from the Body Corporate in defending a claim brought to defer other proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "In the overall circumstances of this case and considering the Tribunal's approach to costs we conclude that an award of $3,000 against Ms Tao is appropriate. Given Ms Tao's circumstances we are giving her a generous time within which she must pay the award of costs.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The following orders are made:",
+              "page": 5
+            },
+            {
+              "number": "[17.1]",
+              "content": "An Li Tao is to pay to Body Corporate 198693 and Strata Title Administration Ltd costs of $3,000.",
+              "page": 5
+            },
+            {
+              "number": "[17.2]",
+              "content": "The costs awarded at [17.1] above are to be paid within three months of the date of this decision.",
+              "page": 6
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms B Klippel",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Tao v Body Corporate 198693 (Costs) [2024] NZHRRT 20.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Smits v Santa Fe Gold Ltd (1999) 5 HRNZ 593 (HC) at [11].",
+          "page": 2
+        },
+        {
+          "number": "3",
+          "content": "Herron v Speirs Group Ltd [2006] NZHRRT 12.",
+          "page": 2
+        },
+        {
+          "number": "4",
+          "content": "Tao v Body Corporate 198693 (Strike-Out Applications) [2021] NZHRRT 58 (Strike-out decision).",
+          "page": 2
+        },
+        {
+          "number": "5",
+          "content": "Tao v Strata Title Administration Ltd & Ors [2018] NZHC 848 and Strike-out decision above at [19].",
+          "page": 2
+        },
+        {
+          "number": "6",
+          "content": "Tao v Body Corporate 198693 [2023] NZHRRT 39.",
+          "page": 3
+        },
+        {
+          "number": "7",
+          "content": "Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 at [4] (Smith)",
+          "page": 3
+        },
+        {
+          "number": "8",
+          "content": "Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews).",
+          "page": 3
+        },
+        {
+          "number": "9",
+          "content": "Apostolakis v Attorney-General No. 3 (Costs), [2019] NZHRRT 11, at [8], citing Andrews, above n 2.",
+          "page": 3
+        },
+        {
+          "number": "10",
+          "content": "Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30 (Beauchamp) at [15] and [16].",
+          "page": 4
+        },
+        {
+          "number": "11",
+          "content": "Beauchamp as above, at [15]; referencing Smith at [5]; and Turner v University of Otago (Costs) [2021] NZHRRT 48, at [7.1].",
+          "page": 4
+        },
+        {
+          "number": "12",
+          "content": "See Smith at [47] and Turner at [7.2].",
+          "page": 4
+        },
+        {
+          "number": "13",
+          "content": "See Smith 4 at [5] and Turner at [7.1] and the table Costs Awarded published on the Tribunal's web page. [",
+          "page": 4
+        },
+        {
+          "number": "14",
+          "content": "Tao v Strata Title Administration Ltd [2016] NZHC 1821 at [34].",
+          "page": 4
+        },
+        {
+          "number": "15",
+          "content": "See [5] above.",
+          "page": 4
+        },
+        {
+          "number": "16",
+          "content": "Xi v Body Corporate 198693 [2023] NZHRRT 38.",
+          "page": 5
+        },
+        {
+          "number": "17",
+          "content": "Tao v Strata Title Administration Ltd & Ors [2018] NZHC 848.",
+          "page": 5
+        },
+        {
+          "number": "18",
+          "content": "Strata Title Administration Ltd & Ors v Tao [2019] NZHC 461.",
+          "page": 5
+        }
+      ]
+    }
+  ]
+}

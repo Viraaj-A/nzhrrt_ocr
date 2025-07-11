@@ -1,0 +1,474 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2022_NZHRRT_47.pdf",
+    "total_pages": 6
+  },
+  "cases": [
+    {
+      "case_number": 47,
+      "case_metadata": {
+        "decision_number": "[2022] NZHRRT 47",
+        "reference_number": "HRRT 047/2020",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA MANA TANGATA",
+        "jurisdiction": "AUCKLAND",
+        "hearing_date": "On the papers",
+        "decision_date": "29 November 2022",
+        "case_title": "Puriri v Church of Jesus Christ of Latter-Day Saints Trust Board (Media Application)",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON MEDIA APPLICATION TO TAKE PHOTOS AND MAKE AUDIO RECORDING",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 6
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "RAKAIPAKA PURIRI",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS TRUST BOARD, SUED IN RESPECT OF THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS",
+            "role": "FIRST DEFENDANT",
+            "type": "Organization"
+          },
+          {
+            "name": "PAUL ROSS COWARD",
+            "role": "SECOND DEFENDANT",
+            "type": "Individual"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "NZME",
+            "role": "Applicant for Media Coverage"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr H Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R Puriri",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr JLS Shaw",
+          "representing": "first and second defendants"
+        },
+        {
+          "counsel": "Mr Murray Jones",
+          "representing": "NZME"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The four-day hearing of this matter began on Monday 28 November 2022 at the Auckland District Court.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "By application dated Tuesday 22 November 2022 Mr Murray Jones of BusinessDesk NZ (part of NZME) sought permission to take photos and make an audio recording of the hearing (NZME Application). Permission to film the hearing is not sought.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "Mr Jones specified the intended use of recordings or photos from the hearing as publication in an (untitled) BusinessDesk podcast project and in BusinessDesk or the New Zealand Herald.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "NZME's Application was received by the Tribunal late on Thursday 24 November 2022. Ordinarily, media applications relating to District Court hearings are required to be made at least three working days in advance of the relevant hearing.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "The determination of NZME's Application has been made on the papers. Given the limited timeframe, the decision was communicated orally at the beginning of the hearing on 28 November 2022 and on that basis a written decision, prepared under urgency, would follow.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Position of the plaintiff",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "Mr Puriri supports NZME's Application being granted. He says that the press must be allowed to inform the public of these proceedings and that freedom of the press is critical to any human rights process.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Position of the defendants",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "Counsel for the defendants advised that his clients oppose the granting of the NZME Application because:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[7.1]",
+                  "content": "In the course of this proceeding, Mr Puriri has raised a number of serious but unfounded and extraneous allegations, well outside the scope of this Tribunal hearing and the Tribunal's jurisdiction."
+                },
+                {
+                  "title": "[7.2]",
+                  "content": "His clients have not addressed those allegations because they are quite clearly outside the scope of the hearing."
+                },
+                {
+                  "title": "[7.3]",
+                  "content": "It is very likely that Mr Puriri's argument and evidence will seek to address those and other extraneous allegations."
+                },
+                {
+                  "title": "[7.4]",
+                  "content": "As is addressed in the strike-out application filed, the defendants' position is also that the claim itself is baseless, has been manifestly disproven, and is otherwise frivolous and vexatious."
+                },
+                {
+                  "title": "[7.5]",
+                  "content": "There is a danger of prejudice and unfairness in the proceedings being recorded and witnesses or parties being photographed, particularly where extraneous allegations may be traversed which have not been addressed, and which may implicate third parties who do not have the opportunity to answer those allegations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LEGAL FRAMEWORK",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Matters relating to in-court media coverage are at the discretion of the Tribunal.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "Section 105 of the Human Rights Act 1993 (HRA) requires the Tribunal to act in accordance with the substantial merits of a case and without regard to technicalities. In exercising its powers and functions, the Tribunal must act in accordance with the principles of natural justice, in a manner that is fair and reasonable, and in accordance with equity and good conscience. Those requirements are relevant to the determination of the NZME Application.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 105",
+                  "context": "Cited as requiring the Tribunal to act in accordance with the substantial merits of a case, principles of natural justice, fairness, reason, equity, and good conscience."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "In this context, the parties have been given an opportunity to respond to NZME's application (albeit under urgency). The fact NZME's Application did not meet the technical requirement of being made at least three working days before the hearing commenced (being received just one working day and a few hours before the hearing) has not influenced the outcome.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "Section 107 of the HRA requires Tribunal hearings to be held in public except in special circumstances. In this way, the requirement to hold Tribunal hearings in public is not an absolute one. That is because in certain circumstances the Tribunal can hear all or part of a hearing in private and can make non-publication orders relating to evidence and documents produced at a hearing.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 107",
+                  "context": "Cited as requiring Tribunal hearings to be held in public except in special circumstances, allowing for private hearings or non-publication orders."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "The right of media to report, the presumption of open judicial proceedings, and freedom of expression (as provided for in s 14 of the New Zealand Bill of Rights Act 1990) are relevant to any Tribunal decision under s 107 to make non-publication orders or to hear all or part of the hearing in private: The Gay and Lesbian Clergy Anti-discrimination Society Inc v the Bishop of Auckland [2013] NZHRRT 16. Those considerations are also relevant to the decision on NZME's Application.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "New Zealand Bill of Rights Act 1990, s 14",
+                  "context": "Cited as providing for the right to freedom of expression, which is relevant to media reporting and open judicial proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "The Gay and Lesbian Clergy Anti-discrimination Society Inc v the Bishop of Auckland [2013] NZHRRT 16",
+                  "context": "Cited as authority that the right to report, open justice, and freedom of expression are relevant to decisions on non-publication or private hearings under s 107."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "New Zealand Courts accept that a visual image is a powerful mechanism for conveying information, but that open justice and freedom of expression are not the only considerations. Fairness considerations may warrant limitations on what is photographed or filmed: Television New Zealand v Green [2009] NZAR 69 (HC) at [27] and [28] and Polymer Group Ltd v South Vineyard Ltd HC Wellington CIV-2009-485-1298, 8 November 2010.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Television New Zealand v Green [2009] NZAR 69 (HC) at [27] and [28]",
+                  "context": "Cited as authority that fairness considerations can warrant limitations on filming or photography in court, despite principles of open justice."
+                },
+                {
+                  "type": "case",
+                  "reference": "Polymer Group Ltd v South Vineyard Ltd HC Wellington CIV-2009-485-1298, 8 November 2010",
+                  "context": "Cited as authority that fairness considerations can warrant limitations on filming or photography in court."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Media Guidelines",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "Further relevant considerations are contained in the In-Court Media Guidelines 2016 (2016 Guidelines). The 2016 Guidelines are set out in Appendix H of the Media Guide for Reporting the Courts and Tribunals, edition 4.1 (Media Reporting Guidelines).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "In-Court Media Guidelines 2016",
+                  "context": "Cited as containing relevant considerations for in-court media coverage."
+                },
+                {
+                  "type": "other",
+                  "reference": "Media Guide for Reporting the Courts and Tribunals, edition 4.1",
+                  "context": "Cited as the source document for the 2016 Guidelines."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "The Tribunal applies the Media Reporting Guidelines, adapted to its unique jurisdiction and processes.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "The 2016 Guidelines contain guiding principles to be applied to decisions and the exercise of discretion under the Media Reporting Guidelines. The principles include:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[16.1]",
+                  "content": "The need for a fair trial."
+                },
+                {
+                  "title": "[16.2]",
+                  "content": "The desirability of open justice,"
+                },
+                {
+                  "title": "[16.3]",
+                  "content": "The principle that the media have an important role in the reporting of trials as the eyes and ears of the public."
+                },
+                {
+                  "title": "[16.4]",
+                  "content": "Court obligations to the victims of offences."
+                },
+                {
+                  "title": "[16.5]",
+                  "content": "The interests and reasonable concerns and perceptions of the parties, victims and witnesses."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "In relation to media taking photographs and making audio recordings, the 2016 Guidelines contain standard conditions. The nature and scope of the protections contained in those standard conditions is also relevant to the exercise of the discretion to grant or refuse any in-court media coverage application.",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "The standard conditions relating to photographs include the photographer being in a position approved by the judicial officer, counsel papers not being able to be photographed, no photographs to be taken if the hearing is in chambers or is a closed hearing, members of the public attending cannot be photographed in a way that could lead to their identification, limitations on the nature of close-up photographs, and that photos taken can only be used in the print media or website nominated in an application.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Similar conditions apply to audio recordings (with relevant modifications). In addition, audio recordings cannot be used or published unless at least 10 minutes has passed (subject to exceptions). The media applicant is required to maintain a copy of all publications or broadcasts using audio recordings taken in court and must supply a copy to the court if a judicial officer requests a copy.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "The 2016 Guidelines provide that any party or witness in a civil hearing can apply for an order that a witness not be filmed, photographed or recorded (Guideline 11, 2016 Guidelines). Matters relevant to the judicial officer's exercise of the discretion under Guideline 11 are:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[20.1]",
+                  "content": "The guiding principles set out in Guideline 2."
+                },
+                {
+                  "title": "[20.2]",
+                  "content": "Whether covering the trial is likely to affect adversely the quality of the evidence to be given by the witness."
+                },
+                {
+                  "title": "[20.3]",
+                  "content": "Whether the presence of a camera or recorder is likely to lead to the witness not giving evidence."
+                },
+                {
+                  "title": "[20.4]",
+                  "content": "Whether being filmed, photographed or recorded may cause undue stress or anxiety to the witness, or may lead to intimidation or harassment of the witness."
+                },
+                {
+                  "title": "[20.5]",
+                  "content": "Whether the witness' privacy interests outweigh the public interest in publishing or using that witness' evidence, given the likely significance of the evidence."
+                },
+                {
+                  "title": "[20.6]",
+                  "content": "Any other matters the judicial officer considers relevant."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "Although the Media Reporting Guidelines do not have legislative force, they contain matters relevant to the central consideration, namely ensuring that justice is done. The interests of justice include the requirement that the evidence process is unaffected by unfair media coverage: R v Sila (Media Coverage) [2008] NZAR 294 (HC).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "R v Sila (Media Coverage) [2008] NZAR 294 (HC)",
+                  "context": "Cited to support that the interests of justice require the evidence process to be unaffected by unfair media coverage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "Against that background, a wide range of considerations must be weighed in determining whether the interests of justice are served by granting or refusing all or part of an application for in-court media coverage.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "The reasons for the objections raised by counsel for the defendants are focused on the likely content of the evidence to be given. No suggestion is raised that any of the defendants' witnesses would be affected by undue stress or anxiety, or that the quality of their evidence would be affected. Nor is any privacy interest of relevant witnesses raised. There is no suggestion by counsel for the defendants that the taking of photographs of the witnesses or the recording of evidence would have a chilling effect on the defendants' witnesses' evidence or affect the quality of their evidence.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "Rather the concern is fundamentally that extraneous and vexatious evidence will be given by Mr Puriri and/or that he will attempt to raise extraneous and vexatious questions with the defendants' witnesses. There is also the suggestion of unfairness to third parties who may be implicated but do not have an opportunity to answer extraneous or vexatious allegations.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Application to take photographs",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "The defendants' fundamental concerns relate to the content of likely evidence. They have no application to the issue of whether photographs can be taken.",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "There is no reasonable basis to conclude that the taking of photographs of witnesses when they are giving evidence would be unfair media coverage in the circumstances or otherwise not in the interests of justice. The Tribunal is therefore persuaded to grant the NZME Application to take photographs. The taking of photographs of witnesses is limited to when they are giving their oral evidence.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Application to make audio recording",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[27]",
+              "content": "In relation to the making of audio recordings, the starting point is the members of the press are ordinarily entitled to be present in court and take notes and use those notes as the basis of their media reports. It is in this way that they operate as the ‘eyes and ears' of the public that cannot attend.",
+              "page": 5
+            },
+            {
+              "number": "[28]",
+              "content": "In relation to the evidence that the defendants say will be extraneous and vexatious, this can be reported in the usual way by a member of the press attending the hearing and taking notes, and reported using those notes.",
+              "page": 5
+            },
+            {
+              "number": "[29]",
+              "content": "The Tribunal notes that it is its role to ensure that the conduct of the hearing is efficient and that evidence is confined to matters that are relevant to the issues in this proceeding and within the Tribunal's jurisdiction.",
+              "page": 5
+            },
+            {
+              "number": "[30]",
+              "content": "Refusing NZME's Application to make an audio recording will not prevent the mischief the defendants seek to avoid, because reporting in the ordinary way will enable any extraneous and vexatious evidence that may be mentioned in the hearing to be publicly reported, including any comments relating to third parties not participating in the hearing.",
+              "page": 5
+            },
+            {
+              "number": "[31]",
+              "content": "The logical question is whether there would be any additional prejudice to the interests of justice or other unfairness if the reporter is also allowed to make an audio recording of what is said. In the circumstances, it does not appear that any such prejudice or unfairness would arise.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "In a practical sense, an audio recording may be a practical means of checking the accuracy of notes taken by the journalist present in court. This may result in more accurate reporting.",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "Weighing the relevant matters noted above, the Tribunal concludes that NZME's Application to make an audio recording is to be granted. Audio recordings may be made only when Mr Jones is present in the hearing.",
+              "page": 6
+            },
+            {
+              "number": "[34]",
+              "content": "I note the mechanism available to the defendants in the event that extraneous but prejudicial evidence is given by Mr Puriri or referred to in his questioning of the defendants' witnesses which raises serious concerns for the defendants. Mr Shaw is able to apply for interim non-publication orders in respect of such specific evidence (s 107 HRA). This will enable an assessment by the Tribunal on a case-by-case basis.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 107 HRA",
+                  "context": "Cited as the mechanism for defendants to apply for interim non-publication orders for specific evidence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[35]",
+              "content": "In the result the following orders are made: <br><br> [35.1] NZME's Application dated 22 November 2022 to take photographs and make audio recordings of the hearing of this matter in the District Court is granted on the conditions that: <br><br> [35.1.1] Photographs of witnesses may only be taken when they are giving their oral evidence. <br><br> [35.1.2] An audio recording can be made only when Mr Jones is attending the hearing. <br><br> [35.1.3] The Media Guide for Reporting the Courts and Tribunals, edition 4.1, appropriately adapted to refer to the Tribunal, applies, including Appendix H (In-Court Media Guidelines 2016) and Schedules 2 and 3 of Appendix H, which prescribe the standard conditions for in-court audio recording and photographs. <br><br> [35.2] Leave is reserved to both parties and to NZME to make further application should the need arise.",
+              "page": 6
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr H Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Puriri v Church of Jesus Christ of Latter-Day Saints Trust Board (Media Application) [2022] NZHRRT 47.]",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "On-line version at https://www.justice.govt.nz/about/news-and-media/media-centre/media-information/media-guide-for-reporting-the-courts-and-tribunals-edition-4-1/.",
+          "page": 3
+        }
+      ]
+    }
+  ]
+}

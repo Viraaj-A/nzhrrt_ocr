@@ -1,0 +1,1660 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "[2019] NZHRRT 13",
+    "total_pages": 41
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 13",
+        "reference_number": "HRRT 036/2013",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT AUCKLAND",
+        "hearing_date": "28 and 29 October 2014 and 2 February 2015",
+        "decision_date": "12 March 2019",
+        "case_title": "Director of Human Rights Proceedings v Slater [2019] NZHRRT 13",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 41
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "THE DIRECTOR OF HUMAN RIGHTS PROCEEDINGS",
+            "role": "PLAINTIFF",
+            "type": "Statutory Body"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CAMERON JOHN SLATER",
+            "role": "DEFENDANT",
+            "type": "Individual"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "Mr Matthew Blomfield",
+            "role": "Aggrieved Individual"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr SRG Judd",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr CJ Slater in person assisted by Mr D Nottingham on 2 February 2015",
+          "representing": "Defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Slater operates a blog on the internet which he calls Whale Oil (www.whaleoil.co.nz). At issue in these proceedings is an allegation by the Director of Human Rights Proceedings (Director) that between 1 May 2012 and 7 October 2012 Mr Slater published on that website and on three others at least 46 documents containing personal information about Mr Matthew Blomfield, a business consultant who lives in Auckland. The documents were published as supposed justification for blogs written by Mr Slater for his website and in which he accused Mr Blomfield of dishonesty, theft, bribery, deceit, perjury and other criminal conduct. It was variously asserted Mr Blomfield was a “psychopath”, that he loves extortion and is a pathological liar. Another said “Drugs, fraud, extortion, bullying, corruption, collusion, compromises, perjury, deception, hydraulic-ing – its all there\". There was also reference to “a network of crooks\".",
+              "page": 3
+            },
+            {
+              "number": "[2]",
+              "content": "The Director's case is that the disclosures breached information privacy principle 11 (IPP 11), caused significant emotional harm to Mr Blomfield and thereby interfered with his privacy. Mr Slater's defence is that he is a news medium and therefore exempt from the Privacy Act 1993 because publication of Mr Blomfield's personal information was a news activity as defined in s 2(1) of that Act. Mr Slater does not dispute publication on the Whale Oil website or on www.scribd.com. Nor does he rely on any of the permitted exceptions to IPP 11.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Reference to the act from which the defendant claims exemption."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 2(1)",
+                  "context": "Reference to the definition of news activity."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "The issue in these proceedings is whether in relation to any or all of the disclosures of Mr Blomfield's personal information Mr Slater was a news medium whose business, or part of whose business, consisted of a news activity as defined in the Privacy Act, s 2(1).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 2(1)",
+                  "context": "Definition of news activity which is central to the issue."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "It is relevant to record Mr Blomfield has sued Mr Slater claiming he has been defamed by the material published on the Whale Oil website. In the context of those proceedings Mr Blomfield sought an order under the Evidence Act 2006, s 68(2) that Mr Slater be compelled to disclose the identity of the informants from whom he received Mr Blomfield's personal information. In Slater v Blomfield [2014] NZHC 2221, [2014] 3 NZLR 835 Asher J held in relation to s 68(1):",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "Civil judgment as evidence",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act 2006, s 68(2)",
+                  "context": "Order sought by Mr Blomfield in defamation proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "Slater v Blomfield [2014] NZHC 2221, [2014] 3 NZLR 835",
+                  "context": "High Court case where Asher J made a ruling on s 68(1)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act, s 68(1)",
+                  "context": "Section under which Asher J made his ruling."
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[4.1]",
+                    "content": "Mr Slater was a journalist within the meaning of the Evidence Act, s 68(5). See the judgment at [81] to [84]."
+                  },
+                  {
+                    "identifier": "[4.2]",
+                    "content": "A website blog can be a news medium within the meaning of the Evidence Act, s 68(5) if it desseminates news which involves provision of new information to the public about recent events of interest to the public. See [52], [54] and [65]."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[5]",
+              "content": "However, on the facts, Asher J made an order under the Evidence Act, s 68(2) that the protection given by subs(1) to journalists' sources not apply in the context of the defamation proceedings brought by Mr Blomfield.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act, s 68(2)",
+                  "context": "Order made by Asher J regarding protection of journalist's sources."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "The evidence given by Mr Slater to the High Court addressing the issue whether he is a journalist and a news medium for the purposes of the Evidence Act, s 68 was not filed by Mr Slater before the Tribunal in the present proceedings. Instead, at the hearing which commenced before the Tribunal on 28 October 2014 Mr Slater relied on the High Court judgment which had been delivered one month earlier on 12 September 2014. Mr Slater submitted the findings made by Asher J were binding on the Tribunal. This was a problematical submission given the Evidence Act, s 50(1) expressly provides to the contrary:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act, s 68",
+                  "context": "The Act under which the High Court made its judgment."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act, s 50(1)",
+                  "context": "Provision that contradicts Mr Slater's submission on the binding nature of the High Court judgment."
+                }
+              ],
+              "quoted_material": {
+                "source": "Evidence Act, s 50",
+                "content": "50 Civil judgment as evidence in civil or criminal proceedings",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Evidence of a judgment or a finding of fact in a civil proceeding is not admissible in a criminal proceeding or another civil proceeding to prove the existence of a fact that was in issue in the proceeding in which the judgment was given."
+                  },
+                  {
+                    "identifier": "(1A)",
+                    "content": "Evidence of a decision or a finding of fact by a tribunal is not admissible in any proceeding to prove the existence of a fact that was in issue in the matter before the tribunal."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "This section does not affect the operation of-\n(a) a judgment in rem; or\n(b) the law relating to res judicata or issue estoppel; or\n(c) the law relating to an action on, or the enforcement of, a judgment."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[7]",
+              "content": "When this provision was drawn to the attention of Mr Slater he responded that as a litigant in person he could not be expected to know legal complexities.",
+              "page": 4
+            },
+            {
+              "number": "[8]",
+              "content": "It was this misunderstanding of the law which led the Tribunal to grant Mr Slater leave to reopen his case and to file evidence to support his defence that for the purposes of the Privacy Act also he was a news medium and that the publication of Mr Blomfield's personal information by him (Mr Slater) was a news activity for the purposes of that Act. The Tribunal's reasons for that decision are recorded in the Minute [2014] NZHRRT 53 (29 October 2014):",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Minute [2014] NZHRRT 53",
+                  "context": "The source of the Tribunal's reasons for granting leave to reopen the case."
+                }
+              ],
+              "quoted_material": {
+                "source": "The decision to adjourn",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[17]",
+                    "content": "The frustration expressed by Mr Judd in his submissions is understandable. From the time of the first teleconference Mr Slater has had at least seven months to prepare his case and two timetable opportunities to file his evidence. While he is a litigant in person his litigation experience has been expanding both in the High Court and in the District Court. The rules regarding the need to file evidence can hardly be new to him. Nevertheless, the remedies sought by the Director are of a substantial nature (eg damages of $50,000 for emotional harm, the practical equivalent of a restraining order, a cease and desist order and a training order)."
+                  },
+                  {
+                    "identifier": "[18]",
+                    "content": "What the Tribunal cannot overlook is the need to comply with s 105 of the Human Rights Act 1993 which is incorporated into proceedings under the Privacy Act by s 89 of the latter Act. It requires the Tribunal to act according to the substantial merits of the case without regard to technicalities and in exercising its powers and functions the Tribunal must (inter alia) act in a manner that is fair and reasonable:\n105 Substantial merits\n(1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.\n(2) In exercising its powers and functions, the Tribunal must act—\n(a) in accordance with the principles of natural justice; and\n(b) in a manner that is fair and reasonable; and\n(c) according to equity and good conscience."
+                  },
+                  {
+                    "identifier": "[19]",
+                    "content": "The following factors, taken cumulatively, led the Tribunal to conclude Mr Slater should be given a final opportunity to file evidence to support the defence advanced in his closing submissions:"
+                  },
+                  {
+                    "identifier": "[19.1]",
+                    "content": "The proposed evidence goes directly to the heart of the primary issue in the case, namely whether Mr Slater was at the time a “news medium” carrying out a “news activity”."
+                  },
+                  {
+                    "identifier": "[19.2]",
+                    "content": "It would be artificial to determine the case by ignoring Mr Slater's assertion that there is evidence showing he was a news medium."
+                  },
+                  {
+                    "identifier": "[19.3]",
+                    "content": "Mr Slater is a litigant in person. Even a fundamental error by him (failing to file evidence) cannot deflect the Tribunal from the statutory obligation to decide the case on its substantial merits rather than on technicalities. The Tribunal's decision may well be seen by some as an over-generous indulgence but no real unfairness or prejudice to the Director by granting the adjournment has been identified."
+                  },
+                  {
+                    "identifier": "[20]",
+                    "content": "In these circumstances it was decided that Mr Slater should be given a final opportunity to file all evidence on which he intends relying when advancing his defence. As stressed at the hearing, “all evidence” means “everything”. Because Mr Slater has not in the past adhered to timetable directions and because the adjournment application was made in the last minute of the eleventh hour, such evidence as he files must be in the form of a sworn affidavit or affidavits. Hopefully this will reinforce the seriousness of the situation in which Mr Slater finds himself and the need for both the Director and the Tribunal to know that whatever Mr Slater's final position is with regard to the evidence, he is able to swear to the truth of his assertions."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "Subsequently Mr Slater filed affidavits sworn on 6 November 2014 and 17 December 2014 respectively.",
+              "page": 5
+            },
+            {
+              "number": "[10]",
+              "content": "Unfortunately this evidence did not fully or even partially replicate the evidence filed by Mr Slater in the proceedings heard by Asher J. When at the resumed hearing before the Tribunal on 2 February 2015 this was drawn to the attention of Mr Slater he once again responded that as a lay litigant he believed he could rely on the High Court judgment as proof of any fact in issue before the Tribunal.",
+              "page": 5
+            },
+            {
+              "number": "[11]",
+              "content": "The Director opposed admission of the High Court judgment as evidence but submitted, in the alternative, the Tribunal should apply the findings made by Asher J when concluding public interest factors required the journalist's exemption not protect Mr Slater's blogs.",
+              "page": 5
+            },
+            {
+              "number": "[12]",
+              "content": "We have determined that the evidence of Mr Slater as recorded in the judgment given by Asher J is to be admitted in evidence before the Tribunal. Our reasons follow:",
+              "page": 5,
+              "subsections": [
+                {
+                  "content": "[12.1] Prima facie the prohibition on the admission of the High Court judgment as evidence applies. The Evidence Act applies to the Tribunal in the same manner as if the Tribunal were a court. See the Human Rights Act 1993, s 106(4). [12.2] However, under the Human Rights Act, s 106(1)(d) the Tribunal has an overriding discretion to receive any evidence which may, in its opinion, assist it to deal effectively with the matter before it, whether or not it would be admissible in a court of law: [12.3] Of this section the Tribunal in DML v Montgomery [2014] NZHRRT 6 (12 February 20214) at [50] and [51] stated: [12.4] Section 106 of the Human Rights Act applies to proceedings under the Privacy Act by virtue of s 89 of the latter Act. The Tribunal's approach to evidence in proceedings before it has most recently been explained in Taylor v Corrections (Admissibility of Evidence) [2016] NZHRRT 10 at [12] to [17] and in Taylor v Corrections (No. 2) [2018] NZHRRT 43 at [11] to [18]. No purpose would be served by repeating or summarising what is said there. It is sufficient to note that if there is any inconsistency between the provisions of the Human Rights Act, s 106 and any provisions of the Evidence Act, the provisions of the Human Rights Act prevail. See the Evidence Act, s 5(1). [12.5] Mr Slater wants the judgment admitted and the Director, if unsuccessful in opposing admission, also wants the judgment admitted for certain purposes. In these circumstances we can see no real prejudice to either party by admitting the High Court judgment pursuant to the Human Rights Act, s 106(1)(d) subject to all questions of weight. [12.6] In the context of the indistinguishable provisions of the Lawyers and Conveyancers Act 2006, s 239 the Full Court in Orlov v New Zealand Lawyers and Conveyancers Disciplinary Tribunal [2014] NZHC 1987, [2015] 2 NZLR 606 at [78] to [80] held High Court judgments can be accepted by the New Zealand Lawyers and Conveyancers Disciplinary Tribunal as evidence notwithstanding the Evidence Act, s 50. Thereafter it is a question of weight to be given to the conclusions contained therein. The decision in the present case to admit in evidence the judgment of Asher J is therefore supported by authority."
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Act, s 106",
+                "content": "106 Evidence in proceedings before Tribunal\n(1) The Tribunal may—\n(a) call for evidence and information from the parties or any other person:\n(b) request or require the parties or any other person to attend the proceedings to give evidence:\n(c) fully examine any witness:\n(d) receive as evidence any statement, document, information, or matter that may, in its opinion, assist to deal effectively with the matter before it, whether or not it would be admissible in a court of law.\n(2) The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.\n(3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.\n(4) Subject to subsections (1) to (3), the Evidence Act 2006 shall apply to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act."
+              }
+            },
+            {
+              "number": "[13]",
+              "content": "On the question of weight, it must be noted that while Mr Slater was granted leave to appeal against the decision of Asher J (see Slater v Blomfield [2015] NZCA 240), he was also required to pay security for costs by 28 August 2015. An application by Mr Slater for leave to adduce further evidence was dismissed in Slater v Blomfield [2015] NZCA 562. For reasons not known to the Tribunal, the appeal was never heard.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Slater v Blomfield [2015] NZCA 240",
+                  "context": "Case where Mr Slater was granted leave to appeal."
+                },
+                {
+                  "type": "case",
+                  "reference": "Slater v Blomfield [2015] NZCA 562",
+                  "context": "Case where Mr Slater's application for leave to adduce further evidence was dismissed."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "The reasons for the long delay in publishing this decision are explained in Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8. It was not until enactment of the Tribunals Powers and Procedures Legislation Act 2018 that s 99AA of the Human Rights Act was on 14 November 2018 inserted to allow the Governor-General to appoint one or more Deputy Chairpersons of the Tribunal. As at the date of publication of this decision no such appointments had been made.",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "Delay",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+                  "context": "Case explaining the reason for the delay in publishing the decision."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Tribunals Powers and Procedures Legislation Act 2018",
+                  "context": "Act that inserted s 99AA into the Human Rights Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act, s 99AA",
+                  "context": "Section allowing for appointment of Deputy Chairpersons."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "The delay by the Tribunal is regretted and an apology is made to the parties.",
+              "page": 7
+            },
+            {
+              "number": "[16]",
+              "content": "By Minute dated 21 February 2019 the Tribunal offered the parties an opportunity to update their submissions and to comment on the Tribunal's research material. Further submissions were filed by the Director on 7 March 2019. Those submissions have been taken into account in the preparation of this decision. No additional submissions have been filed by Mr Slater but on 1 March 2019 notice was given to the Tribunal that on 27 February 2019 Mr Slater was adjudicated bankrupt on his own application under the Insolvency Act 2006, s 47. However, for the reasons explained in Fehling v Appleby (Bankruptcy) [2014] NZHRRT 17 at [7] to [12], s 76 of that Act is not engaged and the adjudication does not bring the present proceedings to an end.",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "Further submissions",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Insolvency Act 2006, s 47",
+                  "context": "Act under which Mr Slater was adjudicated bankrupt."
+                },
+                {
+                  "type": "case",
+                  "reference": "Fehling v Appleby (Bankruptcy) [2014] NZHRRT 17",
+                  "context": "Case explaining why the bankruptcy does not end the proceedings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE EVIDENCE",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "Mr Blomfield was the only witness called by the Director. He gave oral evidence and was cross-examined by Mr Slater. The only witness for the defence was Mr Slater but as he was not required by the Director for cross-examination on his affidavits sworn on 6 November 2014 and 17 December 2014 or on the evidence recorded in the judgment of Asher J, Mr Slater did not give oral evidence.",
+              "page": 7
+            },
+            {
+              "number": "[18]",
+              "content": "In the result there was little dispute as to the facts relevant to the issues to be determined by the Tribunal.",
+              "page": 7
+            },
+            {
+              "number": "[19]",
+              "content": "We begin with a brief summary of Mr Blomfield's evidence.",
+              "page": 7
+            },
+            {
+              "number": "[20]",
+              "content": "Mr Blomfield is a self-employed consultant. Over a ten year period he used a hard drive to back up his business emails, documents and other personal information. Without his authority that hard drive came into the possession of Mr Slater in or before May 2012 and it was from this hard drive that Mr Slater obtained the personal information about Mr Blomfield which Mr Slater then published on his website with his blog.",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "The evidence of Mr Blomfield",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "Mr Slater denies having been a party to the unlawful taking of the hard drive. But as to this we agree with the conclusion reached by Asher J at [134] of his judgment that:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Asher J at [134]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[134]",
+                    "content": "In the ordinary course of events persons do not legitimately come by the personal hard-drive and filing cabinets of other persons. Even if Mr Slater was not party to any illegality, it seems likely that the information was obtained illegally by the sources, and this diminishes the importance of protecting the source. There is less public interest in encouraging persons who are in a private dispute with others from going to the media with unlawfully obtained confidential material to hurt them. This material prima facie is in that category. This is a factor which supports a public interest in disclosure, and that further diminishes the public interest in protecting the source."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[22]",
+              "content": "Mr Blomfield said that between May 2012 and October 2012 at least 46 of his documents containing his personal information were published by Mr Slater. The documents comprised emails between Mr Blomfield and business associates, correspondence between lawyers and Mr Blomfield, bank statements showing payments to Mr Blomfield, photographs of Mr Blomfield and a police adult diversion scheme form for Mr Blomfield.",
+              "page": 7
+            },
+            {
+              "number": "[23]",
+              "content": "The Director's case, as set out in the statement of claim, is that the disclosures fell into four categories:",
+              "page": 8,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[23.1]",
+                    "content": "On at least 25 occasions between 14 May 2012 and 25 May 2012, Mr Slater disclosed documents containing personal information about Mr Blomfield on the website www.docshut.com."
+                  },
+                  {
+                    "identifier": "[23.2]",
+                    "content": "On at least 22 occasions between 6 May 2012 and 7 October 2012, Mr Slater disclosed documents containing personal information about Mr Blomfield on the website www.scribd.com."
+                  },
+                  {
+                    "identifier": "[23.3]",
+                    "content": "On at least 11 occasions between 6 May 2012 and 10 July 2012, Mr Slater disclosed documents containing personal information about Mr Blomfield on the website www.slashdocs.com."
+                  },
+                  {
+                    "identifier": "[23.4]",
+                    "content": "On at least 25 occasions between 1 May 2012 and 6 June 2012, Mr Slater disclosed documents containing personal information about Mr Blomfield on the website www.whaleoil.com."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[24]",
+              "content": "Mr Blomfield told the Tribunal he did not authorise publication of his information on Whale Oil or on any other website. He described the fallout of the disclosures as including:",
+              "page": 8,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[24.1]",
+                    "content": "As a consequence of his email address, phone number and other personal details being disclosed online, along with many of his documents, he received a number of text messages that threatened him and his family."
+                  },
+                  {
+                    "identifier": "[24.2]",
+                    "content": "He began to have difficulty sleeping and would struggle to fall asleep until well after midnight."
+                  },
+                  {
+                    "identifier": "[24.3]",
+                    "content": "He became concerned about the safety of his family comprising his partner and two young children. His partner was badly affected by this loss of the family's privacy and now feels uncomfortable in any situations involving large groups of people."
+                  },
+                  {
+                    "identifier": "[24.4]",
+                    "content": "His partner began double-checking doors and windows every night, prompting Mr Blomfield to install additional home security measures including gates and security lighting."
+                  },
+                  {
+                    "identifier": "[24.5]",
+                    "content": "For at least the first eighteen months after the disclosures began his partner would not stay home alone. Mr Blomfield was forced to work from home so that he could be present to support his wife during the day and to drop off and pick up the children from school."
+                  },
+                  {
+                    "identifier": "[24.6]",
+                    "content": "On 12 April 2014 he was attacked at his home by an unknown person. Mr Blomfield concedes this incident (the subject of a Police prosecution) cannot be shown to have been caused by Mr Slater's blogging activities."
+                  },
+                  {
+                    "identifier": "[24.7]",
+                    "content": "Mr Blomfield drastically changed his personal appearance so that he would be unrecognisable from the photographs Mr Slater posted on Whale Oil."
+                  },
+                  {
+                    "identifier": "[24.8]",
+                    "content": "The disclosures have had an immense impact on his life."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[25]",
+              "content": "Mr Slater does not deny responsibility for writing and publishing his blog. The only defence raised is that he is exempt from the Privacy Act and in particular from the information privacy principles, particularly IPP 11 which prohibits an agency from disclosing personal information about a person unless the agency believes on reasonable grounds that one of the exceptions permitted by IPP 11 applies.",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "The evidence of Mr Slater",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Slater acknowledges that if he fails to establish he is a news medium and that the blogs were news activity, none of the exceptions in IPP 11 apply.",
+              "page": 9
+            },
+            {
+              "number": "[27]",
+              "content": "Mr Slater admits all of Mr Blomfield's documents published on the Whale Oil website had been taken from the hard drive earlier referred to. The documents were used to illustrate blogs written by Mr Slater and published on his website. The documents were either linked to or embedded in the Whale Oil site with the blog so that they were available to persons who read the blog. The documents so linked or embedded were placed by Mr Slater on scribd.com.",
+              "page": 9
+            },
+            {
+              "number": "[28]",
+              "content": "Mr Slater denies placing any of the documents on docshut.com and on slashdocs.com. We note the Director cannot prove to the contrary.",
+              "page": 9
+            },
+            {
+              "number": "[29]",
+              "content": "In the result three of the alleged publications pleaded in the statement of claim are not proved, being items numbered as 13, 16 and 20 in the schedule to the statement of claim. This reduces the Director's case from 46 documents to 43.",
+              "page": 9
+            },
+            {
+              "number": "[30]",
+              "content": "The assertion by Mr Slater that all of the documents were published as integral parts of particular blogs is significant in the context of his defence that the publications were a news activity. This is because there is a shortfall in his evidence. Of the 46 disclosures listed in the schedule to the statement of claim, only in respect of 12 was the Tribunal provided with a copy of the blog as well as Mr Blomfield's documents. If we hold (as we do) that application of the news medium exemption must be determined in the context of the particular blog, Mr Slater is in some difficulty because of the 46 documents taken from Mr Blomfield's hard drive, the Tribunal has only 12 of the related blog commentaries by Mr Slater. Mr Slater explained this shortfall came about because by the time the Director came to download evidence from Whale Oil and scribd.com, he (Mr Slater) had already taken down a number of blogs in the hope such removal would assist settlement of Mr Blomfield's various legal proceedings against Mr Slater. In the result Mr Slater's news medium defence is necessarily confined to 12 blogs only.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "APPLICATION OF THE PRIVACY ACT TO MR SLATER – NEWS MEDIUM AND NEWS ACTIVITY",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[31]",
+              "content": "We address now the primary issue in these proceedings, being the application to Mr Slater of the news medium and news activity exemption to the Privacy Act.",
+              "page": 9
+            },
+            {
+              "number": "[32]",
+              "content": "The 12 information privacy principles apply only to an entity which is defined as an “agency” by s 2(1) of the Privacy Act. Only an agency as so defined can interfere with the privacy of an individual in terms of s 66 of the Act and it is only in respect of such interference by such agency that the Tribunal has jurisdiction under s 85 to grant a remedy.",
+              "page": 9
+            },
+            {
+              "number": "[33]",
+              "content": "The definition of “agency” in s 2(1) of the Act is therefore of critical importance to the jurisdiction of the Tribunal. The definition of the term is broad. Every person and entity in both the public and private sectors is included unless one of the stipulated exemptions applies. There are 14 such exemptions. The exemption relevant to the present case relates to the news activities of a news medium:",
+              "page": 9
+            },
+            {
+              "number": "[34]",
+              "content": "The terms “news medium” and “news activity” are, in turn, defined as follows:",
+              "page": 10
+            },
+            {
+              "number": "[35]",
+              "content": "Mr Slater's defence is that when he published Mr Blomfield's personal information he (Mr Slater) was a news medium and that the blogs relating to Mr Blomfield were a “news activity”. He relies heavily on the findings made by Asher J at [81] to [84] that at the time he (Mr Slater) was a journalist for the purpose of the Evidence Act, s 68, a provision which in certain circumstances will shield a “journalist” from disclosing the identity of his or her sources.",
+              "page": 10
+            },
+            {
+              "number": "[36]",
+              "content": "But as to this the terms “journalist” and “news medium” are separately defined in s 68(5) of the Evidence Act itself. The term journalist has no counterpart in the definition section of the Privacy Act and that Act's definition of “news medium” is different to the one in s 68(5) of the Evidence Act, a point regarded by Asher J at [43] fn 26 as having some significance. In these circumstances the Evidence Act provisions provide little assistance to the interpretation of the relevant Privacy Act provisions.",
+              "page": 10
+            },
+            {
+              "number": "[37]",
+              "content": "For the Director it was submitted the Privacy Act exemption recognises the important functions of the news media but a news medium should not use its exemption from the Privacy Act to cause unjustifiable harm. The media exemption should be restricted to media subject to a code of ethics and an independent complaints body.",
+              "page": 10
+            },
+            {
+              "number": "[38]",
+              "content": "Before addressing the statutory interpretation issues raised by Mr Slater's defence it is necessary to note a reverse onus of proof applies. See the Privacy Act, s 87:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "A reverse onus of proof",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[39]",
+              "content": "However, the facts being clear, nothing turns on the onus of proof.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "INTERPRETATION",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[40]",
+              "content": "A recurring theme in the Director's oral submissions was that when the Privacy Act was enacted in 1993 Parliament did not have blogs in mind and for that reason the media exemption did not apply to them. The benefit of the exemption only attaches to forms of media subject to statutory or voluntary regulation which prescribes minimum standards regarding accuracy, balance, fairness and associated ethics.",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "Ambulatory interpretation",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "The point has perhaps been best expressed by the Law Commission in The News Media Meets ‘New Media’: Rights, Responsibilities and Regulation in the Digital Age (NZLC, R128, March 2013) in the Summary of its Report at 3 and 4. These passages also explain the important role news media have in a democratic society and why certain privileges are enjoyed by the media. These are significant points:",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "The News Media Meets ‘New Media’: Rights, Responsibilities and Regulation in the Digital Age (NZLC, R128, March 2013)",
+                  "context": "Law Commission report expressing the point about media's role and privileges."
+                }
+              ]
+            },
+            {
+              "number": "[42]",
+              "content": "While the task of the Law Commission was to make recommendations as to how the law should respond to these challenges, the task of the Tribunal is to interpret and apply the law as it currently stands.",
+              "page": 11
+            },
+            {
+              "number": "[43]",
+              "content": "New media and blogging may well post-date enactment of the Privacy Act in 1993 but this is not a novel challenge for the law. The well-established common law principle now codified in the Interpretation Act 1999, s 6 is that statutes are to be applied to circumstances “as they arise”:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Interpretation Act 1999, s 6",
+                  "context": "Codification of the common law principle that statutes apply to circumstances 'as they arise'."
+                }
+              ]
+            },
+            {
+              "number": "[44]",
+              "content": "The principle that a statute is \"always speaking” applies unless the statute is one of the comparatively rare cases of an Act intended to be of unchanging effect. The distinction between the two categories of statutes and the \"always speaking” principle were addressed by Elias CJ (dissenting) in New Health New Zealand Inc v South Taranaki District Council [2018] NZSC 59, [2018] 1 NZLR 948 at [284] to [286]:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "New Health New Zealand Inc v South Taranaki District Council [2018] NZSC 59, [2018] 1 NZLR 948",
+                  "context": "Case where the 'always speaking' principle was addressed."
+                }
+              ]
+            },
+            {
+              "number": "[45]",
+              "content": "The Privacy Act is unquestionably a statute which addresses contemporary needs and we will shortly return to the point that in its application to blogs and internet sites, it must be interpreted not only in terms of its text and purpose, but also within the context of related statutes and of the contemporary context of the common law, particularly the law of defamation.",
+              "page": 12
+            },
+            {
+              "number": "[46]",
+              "content": "It will be seen that by application of these conventional statutory interpretation principles we have concluded Mr Slater was at the time a news medium but that his disclosure of Mr Blomfield's personal information was not a news activity.",
+              "page": 12
+            },
+            {
+              "number": "[47]",
+              "content": "The main guiding factors in statutory interpretation are text, purpose and context. See the Interpretation Act 1999, s 5:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "Principles of interpretation",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Interpretation Act 1999, s 5",
+                  "context": "Statute providing guiding factors in statutory interpretation."
+                }
+              ]
+            },
+            {
+              "number": "[48]",
+              "content": "Because the text of the Privacy Act plainly exempts news media from the Act in relation to news activity the focus must be on the purpose of the exemption.",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "Purpose of the exemption",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[49]",
+              "content": "It is clear from the sources about to be referred to that the end sought to be achieved by the exemption was recognition of the important role news media play in the democratic process and in protecting the right to freedom of expression. In The News Media Meets ‘New Media’: Rights, Responsibilities and Regulation in the Digital Age (NZLC, R128, March 2013) the Law Commission at [3.13] to [3.16] referred to this role as a “quasi-constitutional” function of the news media. In the pre-internet age the press was regarded as the chief agency for instructing the public on the main issues of the day. Democratic society needs a clear and truthful account of events, of their background and their causes; a forum for discussion and informed criticism; and a means whereby individuals and groups can express a point of view or advocate a cause.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "The News Media Meets ‘New Media’: Rights, Responsibilities and Regulation in the Digital Age (NZLC, R128, March 2013)",
+                  "context": "Law Commission report on the role of news media."
+                }
+              ]
+            },
+            {
+              "number": "[50]",
+              "content": "After addressing the step-change brought about by the digital revolution and the internet the Law Commission at [3.36] to [3.48] of the Report further concluded the changes had not eliminated the public's need for ready access to credible and authenticated sources of information about what is happening in their communities and the world at large:",
+              "page": 13
+            },
+            {
+              "number": "[51]",
+              "content": "These conclusions have recently been reinforced in the United Kingdom by Dame Frances Cairncross in The Cairncross Review: A Sustainable Future for Journalism (12 February 2019) which examined (inter alia) why society should care about the disruption of journalism (and high-quality journalism in particular) by the internet and by the digital revolution. Of interest in the present context the Cairncross Review notes there are two areas of public-interest news that matter greatly. Both are essential in a healthy democracy. One is investigative and campaigning journalism, especially investigations into abuses of power in both the public and the private sphere. The second is what is described as the “humdrum task” of reporting on the daily activities of public institutions and the machinery of government and justice, particularly at local level, such as the discussions of local councils or the proceedings in a local court. Key findings made in Chapter 1 are:",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "The Cairncross Review: A Sustainable Future for Journalism (12 February 2019)",
+                  "context": "UK review reinforcing conclusions about the importance of journalism."
+                }
+              ]
+            },
+            {
+              "number": "[52]",
+              "content": "It can be seen from these brief excerpts from the Law Commission report on new media and from the more recent Cairncross Review there are compelling reasons for the news medium exemption in the Privacy Act.",
+              "page": 14
+            },
+            {
+              "number": "[53]",
+              "content": "The Privacy of Information Bill which became the Privacy Act 1993 did not provide an exemption for the news media but the press lobbied strongly against the Bill. The exemption for the news media (and Members of Parliament) was introduced by the Select Committee. See Bruce Slane Necessary and Desirable: Privacy Act 1993 Review (1998) at 24 and para [1.4.49]. During the Second Reading of the Bill the then Minister of Justice (Hon Douglas Graham) stated it was intended both exemptions be re-examined and the outcome of the periodic statutory reviews of the Privacy Act (see s 26) should be to gradually bring the media (and others) within the scope of the Act, given the importance to them of the proper handling of personal information. See (20 April 1993) 534 NZPD (Privacy of Information Bill – Second Reading, Hon Douglas Graham).",
+              "page": 14
+            },
+            {
+              "number": "[54]",
+              "content": "Presently only the two State broadcasters (Radio New Zealand Ltd and Television New Zealand Ltd) remain subject to the IPP 6 and IPP 7 access and correction regimes and s 29(1)(g) of the Privacy Act makes provision for “a bona fide” news media journalist to protect his or her sources where an IPP 6 request is made to one of the two State broadcasters. While the Act does not define “journalist” or “bona fide news media journalist\" the qualitative element introduced by the term “bona fide” is significant. We return to this point later.",
+              "page": 14
+            },
+            {
+              "number": "[55]",
+              "content": "While in his 1998 Necessary and Desirable: Privacy Act 1993 Review at [1.4.50] to [1.4.52] the then Privacy Commissioner (Mr Slane) continued to support an exemption for the news media, he nevertheless expressed the view at [1.4.53] that a complete exemption is not the only approach which can be taken to reconciling the relevant competing human rights and public interests in issue.",
+              "page": 14
+            },
+            {
+              "number": "[56]",
+              "content": "The Law Commission in its Review of the Privacy Act 1993: Review of the Law of Privacy Stage 4 (NZLC, R123, 2011) did not recommend termination of the exemption. Rather the following points were made:",
+              "page": 14
+            },
+            {
+              "number": "[57]",
+              "content": "This recommendation has not been taken up by government.",
+              "page": 15
+            },
+            {
+              "number": "[58]",
+              "content": "The Law Commission returned to the point in its later Report in The News Media Meets ‘New Media’: Rights, Responsibilities and Regulation in the Digital Age (NZLC, R128, March 2013) at [3.62]. It proposed that accountability to a code of ethics be “hard-wired” into the statutory definition of the news media. It recommended at [3.101] to [3.102] that news media be defined by accountability criteria. The justification for this recommendation was earlier at [3.53] and [3.54] expressed in public interest terms: the provision to the public of a reliable and dispassionate source of information about what is happening in the world. Later the Law Commission listed its conclusions:",
+              "page": 15
+            },
+            {
+              "number": "[59]",
+              "content": "As to “news activity”, the Law Commission in its earlier Issues Paper Review of the Privacy Act 1993: Review of the Law of Privacy Stage 4 (NZLC, IP17, 2010) at [5.30] had expressed the view it would not be possible to define “news activity” with any greater precision than that achieved in the present Act and that the wording should be left as it is, leaving the Privacy Commissioner and the Tribunal to make judgment calls on a case by case basis:",
+              "page": 15
+            },
+            {
+              "number": "[60]",
+              "content": "In the subsequent Report at [4.34] the Commission confirmed that clarifying the meaning of “news activity” was not necessary:",
+              "page": 16
+            },
+            {
+              "number": "[61]",
+              "content": "More recently, the Privacy Bill which received its first reading on 10 April 2018 and which will repeal and replace the present Privacy Act 1993 proposes no material change to the definitions of agency, news medium and news activity.",
+              "page": 16
+            },
+            {
+              "number": "[62]",
+              "content": "On the question of the purpose of the exemption our conclusions follow:",
+              "page": 16,
+              "subsections": [
+                {
+                  "title": "Conclusions on the purpose of the exemption",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[63]",
+              "content": "Our conclusion is that the considerable advantages which flow from the exemption have been conferred by Parliament for good reason but with the intent the exemption carry with it the responsibility not to abuse the exemption.",
+              "page": 17
+            },
+            {
+              "number": "[64]",
+              "content": "We next address the key elements to the news media exemption, namely “news medium” and “news activity”.",
+              "page": 17
+            },
+            {
+              "number": "[65]",
+              "content": "It is to be recalled the Privacy Act has its own definition of news medium:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "News medium – interpretation",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[66]",
+              "content": "It is not clear whether the term “business” means no more than “activity” or whether it is intended there be a commercial element to that activity. The Director submitted a commercial element is required.",
+              "page": 17
+            },
+            {
+              "number": "[67]",
+              "content": "The issue does not arise on the facts. This is because Mr Slater's consistent position both in the High Court and before the Tribunal has been that it was his intention to operate Whale Oil as a commercial entity and he has pointed to unchallenged evidence regarding the sale of advertising space. He also referred to his blog as having grown into a business which at that time employed two staff members. The Tribunal was not given any information as to the degree of commercial success enjoyed by Mr Slater but for the Director it was conceded it is not necessary for the purpose of the Privacy Act definition that the news medium be commercially successful.",
+              "page": 17
+            },
+            {
+              "number": "[68]",
+              "content": "We accordingly find on the evidence that Mr Slater was at the relevant time operating a blog with a view to earning a living from it. If the definition requires a commercial element, such element was present to a sufficient degree. If, on the other hand, the definition requires “business” to be read as “activity”, then clearly that requirement was met.",
+              "page": 17
+            },
+            {
+              "number": "[69]",
+              "content": "The real issue in this case is whether the business consisted of a news activity. It is to that issue we now turn.",
+              "page": 17
+            },
+            {
+              "number": "[70]",
+              "content": "The Privacy Act provides a definition of “news activity” but not of “news” itself:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "News activity – interpretation of “news”",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[71]",
+              "content": "There are inherent dangers in attempting to define that which itself is a definition. It is nevertheless necessary that the Tribunal explain its understanding of the meaning of the key term “news”. In our view it is to be given its natural and ordinary meaning as explained in the OED Online:",
+              "page": 18
+            },
+            {
+              "number": "[72]",
+              "content": "This meaning accords with what most people would understand to be meant by “news”, particularly in the context of “news medium” and of “news activity”. As noted by Ross Carter in Burrows and Carter Statute Law in New Zealand (5th ed, LexisNexis, Wellington, 2015) at 309, “people should be entitled to rely on what they regard as an indisputably obvious meaning”. This statement was cited with approval by Glazebrook J (dissenting) in Wood-Luxford v Wood [2013] NZSC 153, [2014] 1 NZLR 451 at [37] fn 44.",
+              "page": 18
+            },
+            {
+              "number": "[73]",
+              "content": "In the analysis which follows reference will be made only to para (b) of the news activity definition because the complaint made by the Director is focused on the dissemination of Mr Blomfield's personal information, not on the para (a) gathering of news or the preparation or compiling of articles or programmes of or concerning news, or current affairs, for the purpose of dissemination to the public.",
+              "page": 18
+            },
+            {
+              "number": "[74]",
+              "content": "There is an issue as to whether the personal information proposed to be disclosed must itself be news, observations on news or current affairs before the statutory exemption applies.",
+              "page": 18,
+              "subsections": [
+                {
+                  "title": "News activity – whether the personal information which is disclosed must be news, observations on news or current affairs",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[75]",
+              "content": "In Talley Family v National Business Review (1997) 4 HRNZ 72 (CRT) (a decision which also adopted the dictionary definition of news) the Tribunal left open the question whether it was necessary to analyse the content of the personal information published by the National Business Review in its (annual) Rich List in order to determine whether it was news activity, or whether it was sufficient that the National Business Review published a business weekly newspaper containing articles of or concerning general business activity. On either approach the news medium exemption applied.",
+              "page": 18,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Talley Family v National Business Review (1997) 4 HRNZ 72 (CRT)",
+                  "context": "A prior decision where the issue of content analysis for news activity was left open."
+                }
+              ]
+            },
+            {
+              "number": "[76]",
+              "content": "However, in Wallingford v National Beekeepers Association of NZ [2001] NZAR 251 (CRT) the defendant published as part of its activities a magazine called the New Zealand Beekeeper. The plaintiff claimed a series of letters to the editor were intended to damage his reputation and sought under IPP 6 information from the Association about the identity of the author of the letters. The Association claimed the protection of the news medium exemption. The Complaints Review Tribunal at 255 held that it was the publication as a whole (ie the journal, newspaper or magazine) which was under scrutiny, not the individual pieces within that publication and which contained the personal information. On that basis the letters to the editor could not be considered separately from the rest of the magazine even though it was only in those letters that the personal information was to be found.",
+              "page": 19,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wallingford v National Beekeepers Association of NZ [2001] NZAR 251 (CRT)",
+                  "context": "A decision holding that the publication as a whole is under scrutiny for news medium exemption."
+                }
+              ]
+            },
+            {
+              "number": "[77]",
+              "content": "The issue raised by these two decisions is whether in terms of para (b) of the news activity definition the personal information which is disclosed (in prima facie breach of IPP 11) must qualify as news, observations on news or current affairs, or whether it is sufficient that the personal information be disseminated in a publication which contains unrelated news, observations on news or current affairs with no connection to the personal information. The point was neither raised nor addressed in Lau v ACP Media Ltd [2013] NZHC 1165 where proceedings brought by a litigant in person were summarily struck out by Associate Judge Faire.",
+              "page": 19,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lau v ACP Media Ltd [2013] NZHC 1165",
+                  "context": "A case where the relevant issue was not addressed."
+                }
+              ]
+            },
+            {
+              "number": "[78]",
+              "content": "In our view the personal information must itself qualify as news, observations on news or current affairs before the news medium exemption applies. Our reasons follow:",
+              "page": 19
+            },
+            {
+              "number": "[79]",
+              "content": "It is now necessary to address the question whether there is a requirement that the activity encompassed by paras (a) and (b) of the news activity definition must be carried out responsibly. That is, whether news activity is to be read as responsible news activity. This was not an issue addressed in Dotcom v Attorney-General [2014] NZHC 1343 and it is therefore not necessary that that decision be addressed.",
+              "page": 20,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Dotcom v Attorney-General [2014] NZHC 1343",
+                  "context": "A case where the issue of responsible news activity was not addressed."
+                }
+              ]
+            },
+            {
+              "number": "[80]",
+              "content": "It is implicit the news medium exemption from the Privacy Act is matched by a countervailing responsibility on that medium to act ethically and to act in a manner that is consistent with the public interest in fair and accurate reporting of news, observations on news or current affairs. This follows from the fact the reach of the news medium exemption is restricted by the public interest it is intended to protect. If publication of the personal information lies outside that interest, the exemption does not apply.",
+              "page": 20,
+              "subsections": [
+                {
+                  "title": "News activity – whether required to be responsible news activity",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[81]",
+              "content": "There are two aspects to the public interest. The first is the recognition the news media has a special legal status (as to which see the summary in the Law Commission Report The News Media Meets “New Media” at [2.1] to [2.24]) and that observance of the information privacy principles would severely inhibit the free-flow of information through the media. See the Law Commission Review of the Privacy Act 1993: Review of the Law of Privacy Stage 4 (NZLC, R123, 2011) at [4.26]. The second is that the privileges and the exemption must be exercised responsibly by a news medium claiming immunity from the information privacy principles and exemption from respecting the protection of the personal privacy of others. The exemption was not granted to facilitate the making of extreme and vitriolic allegations of the kind described by Asher J at [118] or to disseminate false news:",
+              "page": 20
+            },
+            {
+              "number": "[82]",
+              "content": "The reading into the news activity definition of a requirement to act responsibly simply gives effect to that which is already implicit in the Privacy Act. In the words of Burrows and Carter Statute Law in New Zealand at 320, one is just drawing out what is already implicit in the definition read in the context of the Act as a whole. Were the definition not to be so qualified the privileges and exemption granted to the news media in the public interest could be used as an engine of oppression, free of any countervailing duty to act responsibly.",
+              "page": 20
+            },
+            {
+              "number": "[83]",
+              "content": "The duty to exercise the freedom granted by the exemption in a responsible manner is a proportionate response to the competing public interests, being the clash between the right to freedom of expression on the one hand and the promotion and protection of individual privacy on the other. It is, in terms of the New Zealand Bill of Rights Act, s 5 a justified limitation on freedom of expression.",
+              "page": 20
+            },
+            {
+              "number": "[84]",
+              "content": "The public interest factors at work are seen also in analogous statutory settings with similar outcomes framed in terms of what might loosely be called responsibility:",
+              "page": 21
+            },
+            {
+              "number": "[85]",
+              "content": "Reading news activity as responsible news activity will ensure the exemption is aligned with these provisions. All Acts of Parliament must fit into the body of the law as a whole. It is therefore permissible in interpreting one Act to have regard to other legal rules, whether legislation or common law. See Burrows and Carter Statute Law in New Zealand at 267.",
+              "page": 21
+            },
+            {
+              "number": "[86]",
+              "content": "As to the common law, in Durie v Gardiner [2018] NZCA 278, [2018] 3 NZLR 131 it was held a defence of responsible communication on matters of public interest is now available in defamation proceedings. This holding is of particular importance given the law of defamation and the protection of personal privacy interests are related. See for example the decision at [53]:",
+              "page": 21,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Durie v Gardiner [2018] NZCA 278, [2018] 3 NZLR 131",
+                  "context": "Case establishing the defence of responsible communication in defamation proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[87]",
+              "content": "It is therefore appropriate that if at all possible, the qualitative standard we propose reading into “news activity” be tested against the standard which applies to the responsible communication defence in defamation law, a defence which recognises the role which bloggers can play in public discourse. Their contribution is sometimes for the good but at other times recklessness can lead to harm. All three members of the Court regarded the imposition of a responsibility requirement as highly desirable and a necessary safeguard for reputation and privacy rights. See [56](c):",
+              "page": 22
+            },
+            {
+              "number": "[88]",
+              "content": "As explained at [58], [64] to [68] and [104] the elements of the responsible communication defence on which all members of the Court were agreed are:",
+              "page": 22
+            },
+            {
+              "number": "[89]",
+              "content": "As regards determining whether the communication was responsible, that is to be determined by the judge having regard to all the relevant circumstances of the publication.",
+              "page": 22
+            },
+            {
+              "number": "[90]",
+              "content": "As to relevant circumstances, the Court at [67], [68] and [104] provided the following list:",
+              "page": 22
+            },
+            {
+              "number": "[91]",
+              "content": "Returning to the context of the Privacy Act four points must be made:",
+              "page": 23
+            },
+            {
+              "number": "[92]",
+              "content": "At the risk of oversimplifying the preceding discussion our primary conclusions in relation to the Privacy Act are:",
+              "page": 23,
+              "subsections": [
+                {
+                  "title": "Interpretation – conclusions – summary",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[93]",
+              "content": "It is now possible to address the blogs drafted by Mr Slater and placed by him on his Whale Oil website.",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "title": "THE PARTICULAR DISCLOSURES OF MR BLOMFIELD'S PERSONAL INFORMATION",
+          "page_start": 24,
+          "paragraphs": [
+            {
+              "number": "[94]",
+              "content": "The statement of claim alleges that between approximately May 2012 and October 2012 Mr Slater disclosed at least 46 documents containing personal information about Mr Blomfield. The disclosures were alleged to have been made on the Whale Oil website, on scribd.com, docshut.com and slashdocs.com. We have accepted Mr Slater's evidence that he was not responsible for the publication of the information on slashdocs.com and on docshut.com. The issues for determination relate only to the 43 documents published on Whale Oil and scribd.com.",
+              "page": 24
+            },
+            {
+              "number": "[95]",
+              "content": "Mr Slater contends he is and was at the time a news medium whose business, or part of whose business, consists of a news activity. But in relation to the 43 documents in question the Tribunal has before it only 12 of the blogs in which Mr Blomfield's personal information was accompanied by “any article or programme of or concerning news, observations on news or current affairs”. Consequently it is only in relation to those 12 blogs that the news medium defence can be considered. No defence has been raised by Mr Slater in relation to the balance of the disclosures made of Mr Blomfield's personal information.",
+              "page": 24
+            },
+            {
+              "number": "[96]",
+              "content": "Consistent with our earlier holding it is necessary that the 12 blogs be analysed blog by blog to determine whether the particular blog comprised “news activity”, or more accurately, \"responsible news activity”. The numbering of the headings which follow matches the\" item number in the schedule to the statement of claim. The headings are the titles given by Mr Slater to his blogs. Underlined passages denote the hyperlinks which were given to the source referred to in the blog.",
+              "page": 24
+            },
+            {
+              "number": "[97]",
+              "content": "In this blog a series of emails to and from Mr Blomfield or about Mr Blomfield were displayed as supposed evidence of Mr Blomfield's “dodgy arrangements” in organising his creditors' compromise. The blog itself compromised commentary by Mr Slater on the supposed \"evidence\":",
+              "page": 24,
+              "subsections": [
+                {
+                  "title": "Item 7 - Blomfield files: the compromise, ctd",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "BLOMFIELD FILES: THE COMPROMISE, CTD by Whaleoil on May 15, 2012",
+                "content": "This morning I blogged about Matt Blomfield's dodgy arrangements in organising his creditors compromise.\nAs a recap Matt Blomfield paid $10,000 to Time Capital prior to them being appointed, or in fact Mike Alexander appearing to introduce the two of them in an email of 18 February.\nTime Capital then set about consulting extensively with both Mike Alexander and Matt Blomfield about the Creditors Compromise and finally a document is issued that states that Time Capital were independently appointed despite the fact that Matt Blomfield paid them $10,000 and was introduced to them by Mike Alexander, who is looking more compromised day by day. Remember Matt Blomfield also say he will pay more.\nIn this email trail below we can see that this whole arrangement was organised by Mike Alexander as a favour for a \"client\" ...who was \"in funds\". Just a few months later Matt Blomfield went under and all his companies for more than $3.5 million. But not before Mike Alexander provided a glowing reference to Stuart Alexander Limited.\nTom Wilson says he would like to help despite the later email saying it wouldn't work out...perhaps the initial $10,000 deposit helped change his mind."
+              }
+            },
+            {
+              "number": "[98]",
+              "content": "We do not see anything in the content of this blog which would qualify as news activity. The dissemination was not news, observations on news or current affairs. The events were not recent as at mid-2012 (the emails are dated 2010) and the subject matter not worthy of discussion or of reporting by a news medium. Furthermore, there is no evidence from Mr Slater that the allegation of “dodgy arrangements” represented a balanced and accurate representation of the circumstances relating to the creditors' compromise. To the contrary, the blog has more the resemblance of a series of allegations purportedly supported by documents cherry-picked from the ten years of archive material on the hard drive.",
+              "page": 25
+            },
+            {
+              "number": "[99]",
+              "content": "In these circumstances we reject Mr Slater's contention that this blog of 15 May 2012 was a news activity as defined in the Privacy Act.",
+              "page": 25
+            },
+            {
+              "number": "[100]",
+              "content": "This blog commenced with introductory remarks by Mr Slater followed by a series of emails apparently downloaded from Mr Blomfield's hard drive. These were interspersed with further commentary by Mr Slater. We reproduce only the first part of the blog:",
+              "page": 25,
+              "subsections": [
+                {
+                  "title": "Item 21 - Who really ripped off KidsCan?",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "WHO REALLY RIPPED OFF KIDSCAN? by Whaleoil on May 3, 2012",
+                "content": "Regular readers will recall that Hell Pizza got into a spot of bother in respect to an alleged charity called KidsCan. I blogged about it at the time based on media stories.\nWhat I am about to reveal is the real story behind the scam at 'KidsCan and the involvement of Matt Blomfield in collusion with Stu \"McMillions\" McMullin to throw another director under the bus for the whole sorry issue.\nI am starting the story that I will break over coming days with a exploration of the truth behind the story, a truth that so far hasn't been reported. I will also explain using emails and documents exactly why the truth never came out.\nWith all of these posts, I will post extracts from emails, but also the complete email trail to show true context. This has never been done by the media, and I will explain why in a separate post in coming days.\nThe real story begins with an email confirming arrangement made between Warren Powell (Otis) and KidsCan and Warren Powell's reply."
+              }
+            },
+            {
+              "number": "[101]",
+              "content": "This lengthy blog ends with the statement by Mr Slater that:",
+              "page": 25,
+              "quoted_material": {
+                "content": "I have told this story first so that you may gain an understanding of the machinations afoot within Hell and the behaviour of Matt Blomfield. In further posts I will expose his other dealings where he tucks charities."
+              }
+            },
+            {
+              "number": "[102]",
+              "content": "The emails taken from the hard drive span the period 21 July 2009 to 13 August 2009 with the exception of two emails dated 19 November 2009 and 28 July 2011.",
+              "page": 25
+            },
+            {
+              "number": "[103]",
+              "content": "We accept that an allegation concerning the scamming of a charity would potentially engage the public interest notwithstanding the time gap and that by a narrow margin the blog concerned news, observations on news or current affairs. We are satisfied Mr Slater has established the news medium exemption in relation to this blog.",
+              "page": 26
+            },
+            {
+              "number": "[104]",
+              "content": "This blog commenced with a rhetorical question: Just who is Matt Blomfield? This question was followed by a large photograph of Mr Blomfield.",
+              "page": 26,
+              "subsections": [
+                {
+                  "title": "Item 23 - Knowing me, knowing you – Matt Blomfield",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[105]",
+              "content": "The photograph was followed by the statement:",
+              "page": 26,
+              "quoted_material": {
+                "content": "Matt is a Psychopath.\nHis pattern of behaviour fits the Textbook description.\nHe loves the notoriety."
+              }
+            },
+            {
+              "number": "[106]",
+              "content": "These descriptions were followed by an email from Mr Blomfield dated 5 September 2008 which does not in any way support the extravagant allegations made by Mr Slater.",
+              "page": 26
+            },
+            {
+              "number": "[107]",
+              "content": "Mr Slater then asserted:",
+              "page": 26,
+              "quoted_material": {
+                "content": "He loves extortion\nAfter further commentary Mr Slater stated:\nHe has no, and I mean NO conscience, NONE. Check out this email to his lawyer."
+              }
+            },
+            {
+              "number": "[108]",
+              "content": "The text of an email dated 10 December 2008 which followed does not provide support for the allegations made by Mr Slater. That email was then followed by the following additional commentary by Mr Slater:",
+              "page": 26,
+              "quoted_material": {
+                "content": "He is a pathological liar.\nHe lives out his lies. Daily. And enjoys it.\nAnd he hates being ignored - Matthew John Blomfield, 37, bankrupt of Greenhithe, welcome to the disinfectant cleansing of sunlight shining into your dark, shadowy world."
+              }
+            },
+            {
+              "number": "[109]",
+              "content": "This blog can only be described as a calculated attack on Mr Blomfield and an extended assassination of his character. On no sensible construction can this blog be described as the dissemination to the public or any section of the public, of an article or programme of or concerning news, observations on news or current affairs.",
+              "page": 26
+            },
+            {
+              "number": "[110]",
+              "content": "The blog was in the following terms:",
+              "page": 26,
+              "subsections": [
+                {
+                  "title": "Item 26 - Operation Kite",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "OPERATION KITE by Whaleoil on May 4, 2012",
+                "content": "In December 2008 Matthew Blomfield's empire was about to collapse. Westpac was pressing Matt Blomfield for a large sum of money and Matt was telling them that he had some money coming in one of his companies. That company, of which he was a shareholder and director, was Infrastructure NZ Ltd.\nWith Matt in this company was a fellow called Paul Claydon."
+              }
+            },
+            {
+              "number": "[111]",
+              "content": "It can be seen that in this particular blog Mr Blomfield was accused of illegal banking practice, conspiracy to steal a cheque and attempted money laundering. The supposed “proof” is negligible. We are also reminded of the conclusion reached by Asher J that Mr Blomfield is not a public figure, that the claims against him have not appeared to attract significant public interest and that the blogs arise out of a situation in which Mr Blomfield was in dispute with two other persons in relation to a failed business venture. There is nothing to show Mr Slater has been driven by altruistic motives in making his unfounded allegations of criminal conduct by Mr Blomfield.",
+              "page": 27
+            },
+            {
+              "number": "[112]",
+              "content": "There is also the fact that the events referred to in this blog allegedly occurred three and a half years earlier in December 2008.",
+              "page": 27
+            },
+            {
+              "number": "[113]",
+              "content": "In these circumstances we do not accept that this blog comprised news activity as defined in the Privacy Act. There was no news, observations on news or current affairs. The blog comprises gratuitous allegations of criminal conduct on the part of Mr Blomfield and others, including his lawyer.",
+              "page": 27
+            },
+            {
+              "number": "[114]",
+              "content": "Mr Slater, having returned from a weekend duck shoot, alleged Mr Blomfield had provided information to “tame” media contacts. The blog and the email correspondence taken from Mr Blomfield's hard drive follow:",
+              "page": 27,
+              "subsections": [
+                {
+                  "title": "Item 28 - Ghostwriting for repeaters 101",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "GHOSTWRITING FOR REPEATERS 101 by Whaleoil on May 8, 2012",
+                "content": "Ok so I've had a weekend Duck Shooting, unfortunately there weren't many ducks, which meant I had a great deal of time to think about Matt Blomfield while I was freezing my tits off in the maimai.\nSo.....there are heaps of bad news stories about Hell Pizza, and about how Warren Powell is this mad, evil, narcissistic demagogue controlling and manipulating everyone....it makes for good copy and that is exactly what Matt Blomfield did...copy, loads of internal emails to tame and lazy journalists...like Maria Slade at the Herald on Sunday.\nShe emails Matt two days before a story appears saying:"
+              }
+            },
+            {
+              "number": "[115]",
+              "content": "We do not see how correspondence dated 12 March 2010 between Mr Blomfield and a newspaper reporter from the Herald on Sunday can sensibly be described as comprising “news activity” in May 2012. In addition, the claim that Mr Blomfield had provided information to “tame media contacts” is not news activity as defined in the Privacy Act. It is not news, observations on news or current affairs. We find the news medium exemption is not established in relation to the disclosure of Mr Blomfield's personal information which occurred in the context of this blog.",
+              "page": 28
+            },
+            {
+              "number": "[116]",
+              "content": "The terms of this blog follows. At the foot there was a photograph of a hard drive with a handwritten notation \"Blomfield emails\":",
+              "page": 28,
+              "subsections": [
+                {
+                  "title": "Item 29 – Blomfield files: Free to a good home",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "BLOMFIELD FILES: FREE TO A GOOD HOME by Whaleoil on May 14, 2012",
+                "content": "I have now copied all of the Blomfield Files onto a portable dive. It is just over 1 Tb of juicy dirt\nAndrew Krukziener, Bruce Sheppard, Matt Blomfield, Mike Alexander, Bruce Johnson, Garry Whimp, Trevor Perry, Yuta Iguchi, Tania Iguchi/McRae, Rebecca Anderson/Blatchford/Blomfield, Roger Bowden, Stuart Gloyn, Paul \"Weeman\" Hinton, Glen Collins, Stu McMullin, Callum Davies, plus a famous All Black...are just some of the names of those who have aided and abetted Matt Blomfield's trail of destruction through business circles nationally.\nDrugs. fraud, extortion, bullying, corruption, collusion, compromises, perjury, deception. hydraulic-ing...its all there."
+              }
+            },
+            {
+              "number": "[117]",
+              "content": "This email was nothing more than an excuse for Mr Slater to assert Mr Blomfield was involved in drugs, fraud, extortion, bullying, corruption, collusion, compromises, perjury, deception and the like. He gratuitously inserted a suggestion that the hard drive also contained (originally) illegal movies and homemade porn.",
+              "page": 29
+            },
+            {
+              "number": "[118]",
+              "content": "There was no attempt to justify the allegations. The purpose was to sensationalise the campaign being run by Mr Slater against Mr Blomfield. The personal information about Mr Blomfield contained in this blog cannot, on any view, be described as news activity within the meaning of the Privacy Act.",
+              "page": 29
+            },
+            {
+              "number": "[119]",
+              "content": "The blog read:",
+              "page": 29,
+              "subsections": [
+                {
+                  "title": "Item 30 - the Blomfield files: The compromise",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "THE BLOMFIELD FILES: THE COMPROMISE by Whaleoil on May 15, 2012",
+                "content": "Matt Blomfield's house of cards was close to collapse, and his last ditch attempt to escape the reality of his nefarious business dealings was by taking a tact which is known as a \"Compromise\".\nMatt Blomfield had to deal with a substantial number of creditors to evade personal bankruptcy. On the recommendation of Mike Alexander, Matt Blomfield engaged a company called Time Capital and a couple of fellows Tom Wilson & Steve Wilkins, or Wilkie as friends like Matt Blomfield like to call him. Matt and Time Capital are introduced in February 2010, by Mike Alexander of Knight Coldicutt as a proposed creditors trustee.\nTime Capital are a little hesitant."
+              }
+            },
+            {
+              "number": "[120]",
+              "content": "This blog was accompanied by emails sent in February 2010 to and from Mr Blomfield, a firm of solicitors and third parties. The central allegation was that Mr Blomfield sought to evade personal bankruptcy and it was claimed the email correspondence backed up that allegation.",
+              "page": 29
+            },
+            {
+              "number": "[121]",
+              "content": "Once again we fail to see how the allegation and the publication of Mr Blomfield's personal information comprise news activity two years after the events. The blog was neither news, observations on news or current affairs.",
+              "page": 29
+            },
+            {
+              "number": "[122]",
+              "content": "The blog commenced as follows:",
+              "page": 29,
+              "subsections": [
+                {
+                  "title": "Item 32 – Blomfield files: Where is the vengeance money?",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "BLOMFIELD FILES: WHERE IS THE VENGEANCE MONEY? by Whaleoil on May 31, 2012",
+                "content": "Earlier today I busted the myth that Hoyts remain as the largest debtor of Vengeance Limited. In case you are still in doubt, this post will outline where the money went and to whom...and prove once and for all that Garry Cecil Whimp is acting only on behalf of Matthew John Blomfield and not the creditors.\nHere is a Statement of Account from Vengeance to Hoyts that shows that the amounts invoiced have been paid by Hoyts.\nSo where did ail the Hoyts money go?\nWell it didn't go to Megan Denize from the Marketing Team. She is still on the creditors list.\nIt didn't go to Trinity Media Group. They are still on the creditors list.\nIt didn't go to Shane McKillen from VNC Cocktails/XXX Motorsport."
+              }
+            },
+            {
+              "number": "[123]",
+              "content": "The blog reproduced emails from third parties to Mr Blomfield as “proof” Mr Blomfield and a third party \"nicked” money intended for another company's debts.",
+              "page": 30
+            },
+            {
+              "number": "[124]",
+              "content": "In our view the emails fail by a substantial margin to provide the claimed \"final proof\" represented by Mr Slater. In addition there is nothing about Mr Blomfield or the email exchanges in the period from October 2009 to June 2010 which constituted “news” when disseminated by Mr Slater at the end of May 2012. The tone and content of this blog was consistent with the sustained campaign then being run by Mr Slater against Mr Blomfield as an allegedly dishonest person.",
+              "page": 30
+            },
+            {
+              "number": "[125]",
+              "content": "This blog also dated 31 May 2012 asserted Mr Blomfield deserved time in prison. Beneath the claim was a photograph of Mr Blomfield (taken from the hard drive) which had been photo-shopped to resemble a police mugshot. The altered photograph had Mr Blomfield holding a board purportedly showing his personal details as follows:",
+              "page": 30,
+              "subsections": [
+                {
+                  "title": "Item 33 - Blomfield files: Where is the vengeance money?",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "content": "COCKSMOKER\nKNOWN ALIASES: MATJIK"
+              }
+            },
+            {
+              "number": "[126]",
+              "content": "Not on any view could this blog be sensibly described as a news activity as defined in the Privacy Act. It is another example of the unrelenting attack on Mr Blomfield, holding him up as a figure of contempt and ridicule.",
+              "page": 30
+            },
+            {
+              "number": "[127]",
+              "content": "The purpose of this blog was to further humiliate Mr Blomfield. In it Mr Slater disseminated a video (taken from the hard drive) of Mr Blomfield in a boxing ring:",
+              "page": 30,
+              "subsections": [
+                {
+                  "title": "Item 34 - It's a kind of Mattjik",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "IT'S A KIND OF MATTJIK by Whaleoil on June 6, 2012",
+                "content": "One of the more amusing things that I have found on the copy of Matt Blomfield's hard drive (able to be published) was this video of Matt \"training\"...actually blowing his arse out in the boxing ring.\nFeaturing in this video is also Joe Mansell. one of Matts' business partners in Cinderella. I will tell the story about how Matthew John Blomfield rorted $172,914.23 out of Cinderella via factoring company Scottish Pacific, also how Matt went to make Joe Mansell the fall-boy for his fraudulent practises by way of making a fabricated a fraud complaint that resulted in Joe Mansell being declared bankrupt.\nAnyway, back to Matt's boxing prowess Matt could barely complete one round, and I've plenty more rounds to come for him."
+              }
+            },
+            {
+              "number": "[128]",
+              "content": "In our view publication of the video had nothing at all to do with news activity. The sole purpose of publishing this personal information to the world at large was to make (once more) allegations that Mr Blomfield had been involved in criminal conduct and was a person to be held in contempt.",
+              "page": 31
+            },
+            {
+              "number": "[129]",
+              "content": "In this blog posted on 6 November 2014 Mr Slater stated he had received through his tip line a suggestion he examine Mr Blomfield's employment by McBreen Jenkins. The emails cover the period 2003 to 2005. The opening paragraphs of the blog were:",
+              "page": 31,
+              "subsections": [
+                {
+                  "title": "Item 45 - The Blomfield Files - McBreen Jenkins",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "THE BLOMFIEID FILES - MCBREEN JENKINS by Cameron Slater on November 6, 2014 at 1:04pm",
+                "content": "When I started shining light into the dark corners of Matthew John Blomfield's the tipline started to run hot. This message was sent thru:\nMatt Blomfield the same guy whom, when working for McBreen Jenkins sued his employer for sexual harassment on the part of his boss. His boss, happened to be a female colleague who took the flirty bait and got caught in his trap.\nMatt has always fancied himself as a master manipulator, as I'm sure you have discovered..\nThe most unfortunate aspect about Matt Blomfield's story so far is that despite the fact that he systematically and intentionally ruins lives, he is likely to continue down this path without oversight from the authorities. He will continue his seedy, criminal ways unless...I hope you can present a case for the SFO or police to investigate.\nKeep it up, for the good of society\nWell, what did I do? Of course I searched all the emails & files for McBreen Jenkins and the hundreds of documents and boy did I find a nasty little can of worms. This story is to show the modus operandi of Matthew John Blomfield when he comes calling at your company. He is almost always looking for trouble, he is almost always working for someone else and he very much has an agenda that isn't good for you or your company. Matt has used this matjik MO once successfully with Hell Pizza, once with Tasman Pacific Foods successfully and was setting up to have another crack at Hell Pizza...there are others as well and as yet I haven't fully researched them.\nLet's look at what Matthew John Blomfield did to his employer outside of the nasty little honey trap case.\nAfter his stunning success of tucking the Tindall Foundation and the Northland Community Foundation Matt set about lining up McBreen Jenkins so that he could be the facilitator in a hostile take over by Andrew Krukziener.\nBut not before he uses his connection with Stephen Tindall (we know how that turned out) to attempt to open some doors that normally would be closed to a sociopath like Matthew John Blomfield."
+              }
+            },
+            {
+              "number": "[130]",
+              "content": "At the conclusion of the blog Mr Slater asserted:",
+              "page": 31,
+              "quoted_material": {
+                "content": "This is a short little story but a good one about how Matthew John Blomfield once entrenched into a business or a business relationship sets about to divide, and gain from creating that division. Matt ultimately only got $2250 from Andrew Krukziener, but the emails show his pathology of operations."
+              }
+            },
+            {
+              "number": "[131]",
+              "content": "The emails taken from Mr Blomfield's hard drive predate the blog by some ten years and in addition the emails to and from Mr Blomfield which accompany the blog do not provide support for the allegations that Mr Blomfield is a sociopath, that his “operations\" show a “pathology” and that he is always looking for trouble. We do not see how it can sensibly be argued this blog was a news activity within the meaning of the Privacy Act.",
+              "page": 32
+            },
+            {
+              "number": "[132]",
+              "content": "This blog of 6 November 2014 was as follows:",
+              "page": 32,
+              "subsections": [
+                {
+                  "title": "Item 44 - Matt Blomfield and his bad mattitude, ctd",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "MATT BLOMFIELD AND HIS BAD MATTITUDE, CTD by Cameron Slater on November 6, 2014 at 1:22pm",
+                "content": "In the trail of destruction that is Matt Blomfield, I found this interesting email exchange where Matt Blomfield threatens to punch the face of the Signature Homes Managing Director for daring to insist they get paid.\nRemember, as I previously blogged Matt Blomfield was already on an assault charge for throwing a bailiff down a flight of stairs in April 2008.\nThis email exchange goes some way to understanding the pathology of the psychopathy of Matt Blomfield. When confronted he resorts to false complaints, then threatening, then out right bullying, pretty much where he is heading with me. Gavin Hunt was very perspicacious when he wrote this in 2008:\nAnd so there is. We hope that Gavin Hunt gets to read this post... He will, I'll email him the link.\nThe only difference this time is that I know everything about Matt Blomfield and he forgets that. know his plays, I know his methods and like Gavin Hunt from Signature Homes I'm not afraid to call Matt Blomfield on his bullshit and his lies (You should see his CVs)\nHave a read of this... it is highly entertaining and gives you an insight into matt's deluded mind. BTW he lost against Signature Homes, despite his endless and false counter claims."
+              }
+            },
+            {
+              "number": "[133]",
+              "content": "This blog shares many of the characteristics of the preceding items. First, the antiquity of the events referred to (April 2008), some six years in the past. Second, the accompanying emails taken from Mr Blomfield's hard drive do not support the claim that they go some way to assist an understanding of the “pathology and psychopathy” of Mr Blomfield or the claim that when confronted, he “resorts to false complaints, then threatening, then outright bullying\".",
+              "page": 32
+            },
+            {
+              "number": "[134]",
+              "content": "It is clear from the text that the purpose of Mr Slater's blog was to warn Mr Blomfield not to take on Mr Slater. Again, there is nothing in this blog which could possibly support a claim that it was news activity as defined in the Act.",
+              "page": 32
+            },
+            {
+              "number": "[135]",
+              "content": "With the one exception none of the blogs comprised news activity as defined in the Privacy Act.",
+              "page": 32,
+              "subsections": [
+                {
+                  "title": "Conclusion",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[136]",
+              "content": "That exception aside, liability is to be determined in relation to the balance of the documents listed in the statement of claim but not Items 13, 16, 20 and 21. For these documents there is no news medium defence.",
+              "page": 33
+            },
+            {
+              "number": "[137]",
+              "content": "The issue to be determined is whether in relation to the unjustified disclosure by Mr Slater of those documents Mr Slater breached information privacy principle 11 which provides:",
+              "page": 33
+            }
+          ]
+        },
+        {
+          "title": "WHETHER THERE HAS BEEN AN INTERFERENCE WITH PRIVACY",
+          "page_start": 33,
+          "paragraphs": [
+            {
+              "number": "[138]",
+              "content": "The effect of s 85(1) of the Privacy Act is that before the Tribunal has jurisdiction to grant a remedy under that Act, the Tribunal must be satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of the plaintiff(s). The definition of what is an interference with the privacy of an individual is set out in s 66. Only subs (1) is relevant to the present case:",
+              "page": 33,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 85(1)",
+                  "context": "Jurisdictional requirement for the Tribunal to grant a remedy."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 66",
+                  "context": "Definition of interference with privacy."
+                }
+              ]
+            },
+            {
+              "number": "[139]",
+              "content": "Applied to the facts of the case, the definition requires the Director to establish, on the balance of probabilities:",
+              "page": 34
+            },
+            {
+              "number": "[140]",
+              "content": "Addressing the first requirement of s 66(1), it is not in dispute there was a breach of IPP 11 by repeated disclosure of Mr Blomfield's email correspondence, his photographs and the video of him in a boxing ring in a gym. None of the exceptions permitted by IPP 11 have been relied on by Mr Slater. There is therefore no need to address the sequential steps identified in Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [190].",
+              "page": 34
+            },
+            {
+              "number": "[141]",
+              "content": "As to the second requirement, the Director relies only on s 66(1)(b)(iii). We accept the evidence given by Mr Blomfield that the sustained disclosure of his personal information over a period of some six months did result in significant humiliation, significant loss of dignity and significant injury to his feelings, including:",
+              "page": 34
+            },
+            {
+              "number": "[142]",
+              "content": "These consequences satisfy (to the probability standard) the requirement that Mr Blomfield experienced significant humiliation, significant loss of dignity and significant injury to his feelings as those terms were explained by the Tribunal in Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66 at [170].",
+              "page": 35
+            },
+            {
+              "number": "[143]",
+              "content": "The causation standard was explained in Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458 at [59] to [61]. We are satisfied Mr Slater's actions were a material cause of the harm inflicted on Mr Blomfield by dissemination of his personal information.",
+              "page": 35
+            },
+            {
+              "number": "[144]",
+              "content": "We accordingly conclude that in terms of s 66(1) of the Privacy Act there has been an action of Mr Slater which was an interference with the privacy of Mr Blomfield and that that action resulted in significant humiliation, significant loss of dignity and significant injury to his feelings.",
+              "page": 35
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 35,
+          "paragraphs": [
+            {
+              "number": "[145]",
+              "content": "The remedies sought by the Director in the statement of claim are:",
+              "page": 35,
+              "subsections": [
+                {
+                  "title": "The remedies sought by the Director",
+                  "content": "[145.1] A declaration of interference. [145.2] An order restraining Mr Slater from further disclosing personal information about Mr Blomfield. [145.3] Damages for humiliation, loss of dignity and injury to the feelings of Mr Blomfield. [145.4] An order requiring Mr Slater to remove all personal information about Mr Blomfield which he (Mr Slater) has disclosed online. [145.5] An order that Mr Slater undertake training on his obligations under the Privacy Act. [145.6] Costs."
+                }
+              ]
+            },
+            {
+              "number": "[146]",
+              "content": "Where the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual it may grant one or more of the remedies allowed by s 85 of the Act:",
+              "page": 35,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 85",
+                  "context": "Source of the Tribunal's power to grant remedies."
+                }
+              ]
+            },
+            {
+              "number": "[147]",
+              "content": "Section 88(1) relevantly provides that damages may be awarded in relation to three specific heads of damage:",
+              "page": 36,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 88(1)",
+                  "context": "Source providing the specific heads of damage."
+                }
+              ]
+            },
+            {
+              "number": "[148]",
+              "content": "Addressing s 85(4), it is no defence that the interference was unintentional or without negligence on the part of the defendant but the Tribunal must take the conduct of the defendant into account in deciding what, if any remedy to grant.",
+              "page": 36,
+              "subsections": [
+                {
+                  "title": "The conduct of Mr Slater",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[149]",
+              "content": "The blogs written by Mr Slater followed his coming into possession of Mr Blomfield's hard drive. It is not alleged Mr Slater stole the drive but it is relevant to note the finding made by Asher J at [134] that in the ordinary course of events persons do not legitimately come by the personal hard-drive and filing cabinets of other persons. Even if Mr Slater was not party to any illegality, it seems likely the information was obtained illegally by Mr Slater's sources. We respectfully agree with this finding.",
+              "page": 36
+            },
+            {
+              "number": "[150]",
+              "content": "Having come into possession of approximately ten years' worth of Mr Blomfield's personal information Mr Slater set about rummaging through it to see what he could find. He then relentlessly attacked Mr Blomfield, exposing him to ridicule and contempt. As also found by Asher J at [129], Mr Blomfield was not a public figure and there was no evidence that he or his company were the subject of ongoing public interest.",
+              "page": 36
+            },
+            {
+              "number": "[151]",
+              "content": "The allegations and assertions made by Mr Slater about Mr Blomfield were, as found by Asher J at [118], extreme. The relevant passage has already been referred to. For convenience it is reproduced again:",
+              "page": 36,
+              "quoted_material": {
+                "source": "Asher J at [118]",
+                "content": "... He accuses Mr Blomfield amongst other things of the exploitation of trust involving children, and of being involved in wrongly changing the amounts shown as donations. It is said that he ripped off a charity, that he is a psychopath and that he loves extortion, that he is a pathological liar, that he launders money, and that he is part of a network of crooks."
+              }
+            },
+            {
+              "number": "[152]",
+              "content": "The blogs complained of were published as part of a concerted campaign from May 2012 to October 2012, a period of six months. It is therefore difficult to find circumstances which might mitigate the remedies sought by the Director. As stated by Tugendhat J in Law Society v Kordowski [2011] EWHC 3185 (QB) at [133]:",
+              "page": 37,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Law Society v Kordowski [2011] EWHC 3185 (QB)",
+                  "context": "Case cited regarding unlimited punishment by public humiliation."
+                }
+              ]
+            },
+            {
+              "number": "[153]",
+              "content": "It is to be borne in mind, however, that the remedies prescribed by the Privacy Act do not have as their purpose the punishment of the defendant. But the circumstances of the case do explain why, subjectively, Mr Blomfield experienced humiliation, loss of dignity and injury to feelings to a significant degree. This is directly relevant to our assessment of the appropriate sum required to compensate for those forms of harm. The case vividly illustrates the information and power asymmetries which exist in cyberspace. Mr Slater ran the Whale Oil blog site, wrote the blogs, decided what personal information from the hard drive was to be cherry-picked and also encouraged user comments about Mr Blomfield. Mr Blomfield's feeling of powerlessness and humiliation were magnified by the knowledge that through Mr Slater's blog site his (Mr Blomfield's) personal and business affairs were being held up for ridicule.",
+              "page": 37
+            },
+            {
+              "number": "[154]",
+              "content": "While the grant of a declaration is discretionary, declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108].",
+              "page": 37,
+              "subsections": [
+                {
+                  "title": "Declaration",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414",
+                  "context": "Case cited on the principle that declaratory relief should not ordinarily be denied."
+                }
+              ]
+            },
+            {
+              "number": "[155]",
+              "content": "On the facts we see nothing that could justify the withholding from the Director of a formal declaration that Mr Slater interfered with Mr Blomfield's privacy and such declaration is accordingly made.",
+              "page": 37
+            },
+            {
+              "number": "[156]",
+              "content": "Section 85(1)(b) of the Privacy Act gives the Tribunal jurisdiction to make a restraining order:",
+              "page": 37,
+              "subsections": [
+                {
+                  "title": "Restraining order",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[157]",
+              "content": "While Mr Slater told the Tribunal he had taken down the blogs regarding Mr Blomfield the Tribunal was disconcerted by the ease with which Mr Slater was able to retrieve certain blogs and to annex several examples to his affidavit sworn on 6 November 2014. Given this circumstance and further given the level of distrust between Mr Slater and Mr Blomfield we make an order restraining Mr Slater from continuing or repeating the interferences with Mr Blomfield's privacy, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interferences, or conduct of any similar kind.",
+              "page": 37
+            },
+            {
+              "number": "[158]",
+              "content": "The primary effect of a restraining order is to bar future disclosure of personal information. This does not address the enduring nature of material already published on the internet. See by way of illustration Google Spain SL v Agencia Española de Protección de Datos (AEPD) (Case C-131/12) EU: C:2014:317, [2014] QB 1022 (ECJ) and NT1 v Google LLC [2018] EWHC 799, [2018] 3 All ER 581. As observed by Moreham and Warby (eds) in The Law of Privacy and the Media (3rd ed, Oxford, 2016) at [15.75]:",
+              "page": 38,
+              "subsections": [
+                {
+                  "title": "Take down order",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[159]",
+              "content": "The enduring nature of an online publication has been likened to a tattoo. See The Law of Privacy and the Media at [15.02] at fn 7:",
+              "page": 38
+            },
+            {
+              "number": "[160]",
+              "content": "In the result, while we have made a restraining order against Mr Slater, such order does not necessarily address the need for proactive steps to be taken to remove Mr Blomfield's personal information from www.whaleoil.co.nz and from www.scribd.com.",
+              "page": 38
+            },
+            {
+              "number": "[161]",
+              "content": "Section 85(1)(d) permits the Tribunal to order that:",
+              "page": 38
+            },
+            {
+              "number": "[162]",
+              "content": "We accordingly make an order that Mr Slater erase, destroy, take down and disable any personal information about Mr Matthew John Blomfield as may be on these websites. Mr Slater is to likewise erase, destroy, take down or disable any of Mr Blomfield's personal information published by Mr Slater and which may be found on any other website within Mr Slater's direction or control.",
+              "page": 38
+            },
+            {
+              "number": "[163]",
+              "content": "We turn now to s 88(1)(c), namely the assessment of damages for humiliation, loss of dignity and injury to feelings.",
+              "page": 38,
+              "subsections": [
+                {
+                  "title": "Damages for humiliation, loss of dignity and injury to feelings",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[164]",
+              "content": "The principles were reviewed in Hammond v Credit Union Baywide [2015] NZHRRT 6 (2 March 2015) at [170] and will not be repeated. It is sufficient to note that where, as here, it has been found for the purpose of s 66(1)(b)(iii) there was significant humiliation, significant loss of dignity and significant injury to the feelings of the plaintiff, it follows humiliation, loss of dignity and injury to feelings has been established for the purpose of s 88(1)(c) as this provision does not require that these forms of emotional harm be “significant”.",
+              "page": 38
+            },
+            {
+              "number": "[165]",
+              "content": "After a survey of awards for humiliation, loss of dignity and injury to feelings the decision in Hammond at [176] noted awards are fact-driven and vary widely. Nevertheless it is possible to recognise three bands. At the less serious end of the scale awards have ranged upwards to $10,000. For more serious cases awards have ranged between $10,000 to about (say) $50,000. For the most serious category of cases it is contemplated awards will be in excess of $50,000. The Tribunal emphasised, however, that these bands are simply descriptive. They are not prescriptive. At most they are a rough guide.",
+              "page": 38
+            },
+            {
+              "number": "[166]",
+              "content": "Hammond was itself an IPP 11 case and the award of damages for humiliation, loss of dignity and injury to feelings took into account the fact that personal information about Ms Hammond had been disclosed to her employer with the intent she be dismissed. Ms Hammond felt compelled to resign. In addition the personal information was sent to employment agencies in the Hawke's Bay area with a warning that Ms Hammond should not be employed. As a consequence Ms Hammond became unemployed for ten months. The damages for humiliation, loss of dignity and injury to feelings was $98,000.",
+              "page": 39
+            },
+            {
+              "number": "[167]",
+              "content": "The next IPP 11 case in which an award of damages was made was Director of Human Rights Proceedings v Crampton [2015] NZHRRT 35. An award of $18,000 was made following the disclosure by Mr Crampton of a letter sent by some members of the executive committee (of which he was one) of a student association addressed to the president of that association giving to the president a “written warning” alleging she was not meeting certain performance standards. The letter included information about the president of a personal and sensitive nature. A copy of the warning letter was provided to a reporter from a student magazine. That magazine then published an article in print and online making reference to the warning letter and quoting an excerpt from it.",
+              "page": 39
+            },
+            {
+              "number": "[168]",
+              "content": "More recently, in Tapiki and Eru v New Zealand Parole Board [2019] NZHRRT 5 the Tribunal awarded $16,000 to Ms Tapiki and $12,000 to Ms Eru following the disclosure of their address by the Parole Board in breach of IPP 11. That disclosure led to a tragic chain of events.",
+              "page": 39
+            },
+            {
+              "number": "[169]",
+              "content": "However, none of these IPP 11 cases have any real similarity with the facts of the present case.",
+              "page": 39
+            },
+            {
+              "number": "[170]",
+              "content": "Because damages are awarded not to punish a defendant for what he or she has done but to compensate the person aggrieved for the harm suffered, there is an inherently subjective element to the assessment of humiliation, loss of dignity and injury to feelings. See further Hammond at [177]. The focus in the present case is on Mr Blomfield though what Mr Slater has done is relevant to the issue of causation and to the degree of harm experienced by Mr Blomfield.",
+              "page": 39
+            },
+            {
+              "number": "[171]",
+              "content": "On the facts there can be little doubt the humiliation, loss of dignity and injury to feelings described by Mr Blomfield were caused by Mr Slater. In legal terminology we are satisfied Mr Slater's disclosure of Mr Blomfield's personal information was a material cause of the harm suffered by Mr Blomfield. See Taylor v Orcon [2015] NZHRRT 15, (2015) 10 HRNZ 458 at [59] to [61].",
+              "page": 39
+            },
+            {
+              "number": "[172]",
+              "content": "The elements which caused the most humiliation, loss of dignity and injury to feelings were:",
+              "page": 39
+            },
+            {
+              "number": "[173]",
+              "content": "In these circumstances we find this case comes within the third band identified in Hammond, but towards the lower end. We conclude that an appropriate sum to adequately compensate Mr Blomfield for the severe humiliation, severe loss of dignity and severe injury to feelings is $70,000.",
+              "page": 40
+            },
+            {
+              "number": "[174]",
+              "content": "We do not propose making a training order. The events in question occurred some time ago and much has happened since then, particularly extensive litigation between Mr Slater and Mr Blomfield. We are confident that upon publication of the present decision Mr Slater will appreciate that the news medium exemption from the Privacy Act is but a limited exemption. Whether a blogger is exempt from application of the information privacy principles is a question to be determined blog by blog, item of personal information by item of personal information. Only if the particular item of personal information comes within the definition of news activity is exemption from the Privacy Act triggered in relation to that particular item.",
+              "page": 40,
+              "subsections": [
+                {
+                  "title": "Training order",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 40,
+          "paragraphs": [
+            {
+              "number": "[175]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that it is satisfied on the balance of probabilities that an action of Mr Slater was an interference with the privacy of Mr Blomfield and: \n\n[175.1] A declaration is made under s 85(1)(a) of the Privacy Act 1993 that Mr Slater interfered with the privacy of Mr Blomfield by disclosing personal information about Mr Blomfield contrary to IPP 11. \n\n[175.2] An order is made under s 85(1)(b) of the Privacy Act 1993 restraining Mr Slater from continuing or repeating the interferences with Mr Blomfield's privacy, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interferences, or conduct of any similar kind. \n\n[175.3] An order is made under s 85(1)(d) of the Privacy Act 1993 that Mr Slater erase, destroy, take down and disable any personal information about Mr Matthew John Blomfield as may be held on www.whaleoil.co.nz and on www.scribd.com. Mr Slater is to likewise erase, destroy, take down or disable any of Mr Blomfield's personal information published by Mr Slater and which may be found on any other website or database which is within Mr Slater's direction or control. \n\n[175.4] Damages of $70,000 are awarded against Mr Slater under ss 85(1)(c) and 88(1)(c) of the Privacy Act 1993 for the humiliation, loss of dignity and injury to feelings experienced by Mr Blomfield.",
+              "page": 40
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 41,
+          "paragraphs": [
+            {
+              "number": "[176]",
+              "content": "Costs are reserved. Unless the parties are able to reach agreement on the question of costs, the following procedure is to apply: \n\n[176.1] The Director is to file his submissions within 14 days after the date of this decision. The submissions for Mr Slater are to be filed within a further 14 days with a right of reply by the Director within 7 days after that. \n\n[176.2] The Tribunal will then determine the issue of costs on the basis of the written submissions without any further oral hearing. \n\n[176.3] In case it should prove necessary, we leave it to the Chairperson of the Tribunal to vary the foregoing timetable.",
+              "page": 41
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Director of Human Rights Proceedings v Slater [2019] NZHRRT 13]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

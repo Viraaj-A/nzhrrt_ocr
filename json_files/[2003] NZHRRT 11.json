@@ -1,0 +1,109 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 2,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "11 /03",
+        "reference_number": "HRRT 18/02",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "1st day of April 2003",
+        "case_title": "JOHN BEVAN-SMITH AND TELEVISION NEW ZEALAND LIMITED",
+        "legal_basis": "",
+        "decision_type": "DECISION RESCINDING ORDER",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "JOHN BEVAN-SMITH",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "TELEVISION NEW ZEALAND LIMITED",
+            "role": "Defendant",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "P McDonald",
+          "role": "Member"
+        },
+        {
+          "name": "G Cook",
+          "role": "Member"
+        }
+      ],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "DECISION RESCINDING ORDER MADE 19 FEBRUARY 2003",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "1.",
+              "content": "On 19 February 2003 the Tribunal decided that it would initiate the process of applying for leave under section 122A of the Human Rights Act 1993 so as to facilitate a reconsideration by the High Court of the Chairperson's refusal to disqualify himself from this case.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 122A of the Human Rights Act 1993",
+                  "context": "The Tribunal initiated the process of applying for leave under this section."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "2.",
+              "content": "For the reasons set out in the attached minute of the Chairperson dated 20 March 2003, the order made by the Tribunal on 19 February 2003 in that regard is hereby rescinded.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson",
+          "date": "1st day of April 2003"
+        },
+        {
+          "name": "P McDonald",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "G Cook",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

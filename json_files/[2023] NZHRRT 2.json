@@ -1,0 +1,385 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 4
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2023] NZHRRT 2",
+        "reference_number": "HRRT 026/2020",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "2 February 2023",
+        "case_title": "Boyd v Legacy Church and Legacy Housing (Strike-Out)",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT THE CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "RACHEL BOYD",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "LEGACY CHURCH",
+            "role": "FIRST DEFENDANT",
+            "type": "Organization"
+          },
+          {
+            "name": "LEGACY HOUSING",
+            "role": "SECOND DEFENDANT",
+            "type": "Organization"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr S Hickey, MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms S Isaacs",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr CJ Tennet",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "No appearance",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT THE CLAIM¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Ms Boyd filed a statement of claim in the Tribunal on 21 August 2020. Ms Boyd alleges Legacy Church and Legacy Housing interfered with her privacy by failing to fulfil her October 2019 information privacy request in breach of Information Privacy Principle 6. Neither Legacy Church or Legacy Housing have responded to Ms Boyd's claim nor have they participated in any way in this matter.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Ms Boyd has however failed to progress her claim. Given this, the Tribunal must determine whether the claim has become an abuse of process and should be struck out under s 115A of the Human Rights Act 1993 (HRA).",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A of the Human Rights Act 1993 (HRA)",
+                  "context": "The Tribunal must determine whether the claim should be struck out under this section."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "In a Minute dated 18 December 2020 following a case management conference that day, directions were made requiring Ms Boyd to file her written statement of evidence and the bundle of documents on which she relies by 12 March 2021. At the teleconference it was Ms Boyd who proposed this date for filing her evidence.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Ms Boyd did not file her evidence as directed, nor did she seek further time to do so.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "On 24 June 2021 the Tribunal emailed Ms Boyd's counsel Mr Tennet, asking him to advise whether she still wished to progress this claim, and if so when her written statements of evidence would be filed. Mr Tennet advised that same day that Ms Boyd did wish to continue the claim, that there was difficulty contacting her and that he expected to be able to interview her for her evidence within the next fortnight. The Tribunal asked for an update to be provided as soon as Mr Tennet was able with a realistic timeframe for the filing of Ms Boyd's evidence.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "No update was received from Ms Boyd's counsel.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "In a Minute dated 25 March 2022 directions were made requiring Ms Boyd to file her evidence by 6 May 2022. It was noted in the Minute that Ms Boyd having bought the claim is obligated to progress it and was at risk of having the matter struck out for failure to do so.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "Ms Boyd did not file her evidence as directed, nor did she seek further time to do so or correspond with the Tribunal in respect of the matter.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "In a Minute dated 14 November 2022 it was noted given Ms Boyd's failure to progress her claim, the Tribunal was considering on its own motion whether to strike out the matter as an abuse of process under HRA, s 115A(1)(d). Directions were made requiring Ms Boyd to file her submissions opposing the Tribunal exercising its own motion to strike out the proceedings by 9 December 2022.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115A(1)(d)",
+                  "context": "The Tribunal was considering on its own motion whether to strike out the matter as an abuse of process under this section."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "No submissions have been received from Ms Boyd.",
+              "page": 2
+            },
+            {
+              "number": "[11]",
+              "content": "On 9 January 2023 the Tribunal received an email from Mr Tennet advising he was having difficulties contacting Ms Boyd, that she had also not maintained contact (although Mr Tennet noted that may not be the fault of Ms Boyd) and requesting until 27 January 2023 to file an updating email.",
+              "page": 2
+            },
+            {
+              "number": "[12]",
+              "content": "There has been no further correspondence from Mr Tennet.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[13]",
+              "content": "Pursuant to HRA, s 115A (which applies to these proceedings under s 111 of the Privacy Act 2020) the Tribunal has a power to strike out proceedings:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115A",
+                  "context": "The Tribunal has power to strike out proceedings pursuant to this section."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 111 of the Privacy Act 2020",
+                  "context": "This section makes HRA, s 115A applicable to these proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "The Tribunal can strike a proceeding under HRA, s 115A(1)(d) if it is satisfied it is an abuse of process.",
+              "page": 3,
+              "quoted_material": {
+                "source": "Human Rights Act 1993, Section 115A",
+                "content": "115A Tribunal may strike out, determine, or adjourn proceedings\n(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—\n(a) discloses no reasonable cause of action; or\n(b) is likely to cause prejudice or delay; or\n(c) is frivolous or vexatious; or\n(d) is otherwise an abuse of process",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[15]",
+              "content": "The Tribunal's exercise of the discretion to strike out a proceeding for an abuse of process involves a two stage test: whether there was an abuse of process; and if so, whether discretion should be exercised to strike out the proceeding, see Gwizo v Attorney-General [2002] NZHC 2717 (Gwizo).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Gwizo v Attorney-General [2002] NZHC 2717 (Gwizo)",
+                  "context": "Cited for the two-stage test for striking out a proceeding for an abuse of process."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "In Gwizo the High Court noted the Tribunal's strike out jurisdiction under HRA, s 115A is equivalent to the strike out jurisdiction of the High Court under r 15.1 of the High Court Rules, so the principles adopted by the High Court under r 15.1 inform the approach of the Tribunal to strike out decisions. The High Court discussed the jurisdiction to strike out a proceeding under r 15.1 as an abuse of process in two situations as follows:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Gwizo",
+                  "context": "Noted the Tribunal's strike out jurisdiction is equivalent to the High Court's."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115A",
+                  "context": "The Tribunal's strike out jurisdiction under this section."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "r 15.1 of the High Court Rules",
+                  "context": "The High Court's strike out jurisdiction under this rule."
+                }
+              ],
+              "quoted_material": {
+                "source": "Gwizo",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[43]",
+                    "content": "The High Court's jurisdiction to strike out a proceeding as an abuse of process is available in several situations. Two are potentially relevant here. Each sets a high threshold."
+                  },
+                  {
+                    "identifier": "[44]",
+                    "content": "The first is where there has been a consistent failure to comply with court orders. This will be an abuse of process only where the failure is deliberate. Failures, even repeated ones, and especially where the plaintiff is a lay litigant, will not always be deliberate. They may be a result of ignorance, disorganisation or anxiety. However, a consistent failure in the face of repeated warnings will be regarded as deliberate, particularly where the plaintiff was conscious of the breach and chose to do nothing."
+                  },
+                  {
+                    "identifier": "[45]",
+                    "content": "The second is where a plaintiff lacks any intention of bringing the proceeding to a conclusion in a timely way. This may be evidenced by a long period of inactivity."
+                  },
+                  {
+                    "identifier": "[46]",
+                    "content": "A finding that there has been an abuse of process on either of these two grounds does not (in contrast to some of the other grounds for striking out a proceeding) require the defendant to show any prejudice from the plaintiff's failures or inactivity. [Footnotes omitted]"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "WHETHER THE CLAIM SHOULD BE STRUCK OUT",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The issues for the Tribunal are whether Ms Boyd's claim is an abuse of process and, if so, whether it should be struck out under HRA, s 115A(1)(d).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115A(1)(d)",
+                  "context": "The section under which the claim may be struck out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Whether an abuse of process",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "As referred to above, the first issue is whether Ms Boyd's failure to progress her claim is an abuse of process. Relevant to this determination is the situation referred to in Gwizo at [45] as set out above.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Gwizo at [45]",
+                  "context": "Cited for the relevant situation determining an abuse of process."
+                }
+              ]
+            },
+            {
+              "number": "[19]",
+              "content": "The Tribunal is of the view that Ms Boyd lacks any intention of bringing the proceedings to a conclusion in a timely way, given the long period of inactivity by her on this matter. Ms Boyd has not taken any active step in this proceeding since the teleconference on 18 December 2020. She has failed to comply with any of the directions of the Tribunal and has not sought further time to do so.",
+              "page": 3
+            },
+            {
+              "number": "[20]",
+              "content": "In the past two years the Tribunal has only received correspondence from Ms Boyd's counsel on two occasions. The 24 June 2021 email responding to the Tribunal's enquiry and the 9 January 2023 email, see above at [5] and [11]. Although the 24 June 2021 email advised Ms Boyd did want to continue the claim no further steps were taken by her to progress it. Nor has she filed any submissions opposing the claim being struck out.",
+              "page": 3
+            },
+            {
+              "number": "[21]",
+              "content": "It is unclear if there has been any contact between Ms Boyd and Mr Tennet for over 18 months. That time period should have been sufficient for Mr Tennet to seek instructions. It should also have been sufficient time to allow Ms Boyd to progress her claim through her counsel, which she has not done.",
+              "page": 4
+            },
+            {
+              "number": "[22]",
+              "content": "Ms Boyd having brought this claim was obliged to progress it. Despite being represented she has taken no steps to progress the matter over the past two years.",
+              "page": 4
+            },
+            {
+              "number": "[23]",
+              "content": "In these circumstances the Tribunal is satisfied that Ms Boyd lacks any intention to bringing the proceedings to a conclusion in a timely way. Accordingly, the Tribunal is satisfied Ms Boyd's claim is an abuse of process.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "Whether the Tribunal should exercise its discretion to strike out Ms Boyd's claim",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[24]",
+              "content": "The Tribunal must now consider whether to exercise its discretion to strike out the claim.",
+              "page": 4
+            },
+            {
+              "number": "[25]",
+              "content": "Having found Ms Boyd's claim is an abuse of process as she lacks any intention of bringing it to a conclusion in a timely manner the Tribunal considers it is appropriate to exercise its discretion to strike out the claim under HRA, s 115A(1)(d). To leave the claim extant would be an abuse of the Tribunal's processes.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 115A(1)(d)",
+                  "context": "The section under which the Tribunal exercises its discretion to strike out the claim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[26]",
+              "content": "The following order is made:\n\n[26.1] Ms Boyd's claim against Legacy Church and Legacy Housing is struck out in its entirety.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr S Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms S Isaacs",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Boyd v Legacy Church and Legacy Housing (Strike-Out) [2023] NZHRRT 2.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

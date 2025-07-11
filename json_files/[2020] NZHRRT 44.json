@@ -1,0 +1,591 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "[2020] NZHRRT 44",
+    "total_pages": 7,
+    "extraction_date": "2024-05-25"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 44",
+        "reference_number": "HRRT 043/2018",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AUCKLAND",
+        "hearing_date": "25 June 2020",
+        "decision_date": "4 November 2020",
+        "case_title": "Wise v Commissioner of Police",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 7
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "JEANETTE WISE",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "COMMISSIONER OF POLICE",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms BL Klippel",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms S Parker, lay advocate",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr G Boyd-Clark and Ms A Read",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Ms Wise is a former employee of the New Zealand Police (Police). Ms Wise was made redundant from the Police on 6 February 2015. After concluding her employment with the Police Ms Wise made a number of information privacy requests leading up to an information privacy request dated 19 June 2018 which is the subject of this claim.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Ms Wise did not receive a response to her information privacy request until 29 August 2019, which was after she had filed her claim in this Tribunal.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "Ms Wise claims this was an interference with her privacy. The Police accepted there was a delay in responding to the request.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "Ms Wise was employed by the Police between 11 December 2006 and 6 February 2015. Ms Wise's primary role was as a typist.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "After being made redundant due to restructuring, Ms Wise made a number of information privacy requests. On 19 June 2018 Ms Wise made the information privacy request which is the subject of this claim. The request was made via email to Annette Freese, Senior Human Resources Adviser. Ms Freese was on leave at the time, so an automated out of office response was sent to Ms Wise.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "After returning from leave, Ms Freese acknowledged the information privacy request and emailed Ms Wise three times regarding when the Police response would be provided. Ultimately, Ms Freese advised that a response would be provided by 3 September 2018.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Haley Murray, Strategic Business Partner with the Police, then took over responding to Ms Wise's information privacy request. On 4 September 2018, Ms Murray emailed Ms Wise and indicated her intention to have the response to Ms Wise by 10 September 2018.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "On 19 September 2018 Ms Murray sent an email with 368 attachments to Ms Wise. This email was never received by Ms Wise.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "In the meantime Ms Wise had complained to the Ombudsman about the failure of the Police to respond to her information privacy request. The Ombudsman referred her complaint to the Privacy Commissioner. On 19 September 2018 the Privacy Commissioner advised Ms Wise the Police had indicated they were providing their belated response to the information privacy request that week, so he would close his file.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "On 10 October 2018 the Privacy Commissioner confirmed the file closure and issued a Certificate of Investigation stating that Police had failed to make a decision on the request within 20 working days, which was an automatic interference with privacy under s 66(3) Privacy Act 1993.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(3) Privacy Act 1993",
+                  "context": "An automatic interference with privacy under s 66(3) Privacy Act 1993 occurred due to the failure to make a decision within 20 working days."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "On 29 August 2019, Ms Wise finally received the response to her information privacy request made on 19 June 2018.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "THE CLAIM BY MS WISE",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "At the hearing, Ms Wise reduced the amount of damages she was seeking from $30,000 to $5,000 and sought a declaration of interference with her privacy.",
+              "page": 2
+            },
+            {
+              "number": "[13]",
+              "content": "The Commissioner of Police accepted at the hearing that there was an undue delay in responding to Ms Wise's information privacy request and that this would be deemed a refusal to make that information available. The Police noted, however, that it was for the Tribunal to determine whether there was a proper basis for its refusal to make the information available.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "ISSUES TO BE DETERMINED",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "Given the Police concession above, the issues to be determined are:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[14.1]",
+                  "content": "Whether there was a proper basis for the undue delay in responding to Ms Wise's information privacy request; and"
+                },
+                {
+                  "title": "[14.2]",
+                  "content": "If not, what the appropriate remedy is for the interference with Ms Wise's privacy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE INFORMATION PRIVACY REQUEST",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[15]",
+              "content": "The Privacy Act 1993 (the Act) entitles an individual to make an information privacy request. It outlines the requirements for responding to that request and the limited range of grounds for refusing to respond.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "The Privacy Act 1993",
+                  "context": "Entitles an individual to make an information privacy request."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "Section 40 sets out a timeframe of 20 working days within which a decision on an information privacy request must be made. Ms Wise made the information privacy request on 19 June 2018. The Police were required to make a decision on this request by 17 July 2018.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 40",
+                  "context": "Sets out a timeframe of 20 working days for a decision on an information privacy request."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "The Police responded on 16 July 2018, which was within the required 20 working days. Having made the decision to respond, the Police were then required to provide the requested information without undue delay.",
+              "page": 3
+            },
+            {
+              "number": "[18]",
+              "content": "The response to the information privacy request was sent to Ms Wise on 19 September 2018. However the email was not received by Ms Wise.",
+              "page": 3
+            },
+            {
+              "number": "[19]",
+              "content": "Evidence provided by Prasad Weerasuriya, team leader at the Technical Support Service Desk for the Police, confirmed that the email was sent to Ms Wise, but that an undeliverable email notification was generated on 20 September 2018 for that email. It stated the email from Ms Murray to Ms Wise had not been sent to the recipient as the \"message is larger than the size limit for messages\". Ms Wise's evidence that she did not receive the email sent to her on 19 September 2018 is accordingly corroborated and accepted.",
+              "page": 3
+            },
+            {
+              "number": "[20]",
+              "content": "Ms Wise eventually received the response to her information privacy request on 29 August 2019, after she had filed this claim. As noted in [13], the Police have appropriately accepted that this late provision of the information did not comply with the requirements of the Act to provide the information without undue delay.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "THE INTERFERENCE WITH MS WISE'S PRIVACY",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[21]",
+              "content": "To obtain a remedy under the Act, it is not enough for the information to have been provided too late, there must have been an interference with privacy as defined in s 66. It is s 66(2) that is relevant for this proceeding. It reads:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66",
+                  "context": "Defines interference with privacy."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)",
+                  "context": "Relevant subsection for this proceeding."
+                }
+              ],
+              "quoted_material": {
+                "source": "s 66 Interference with privacy",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual, —"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "The action consists of a decision made under Part 4 or Part 5 in relation to the request, including-\n(i)\na refusal to make information available in response to the request; or\n(ii)\na decision by which an agency decides, in accordance with section 42 or section 43, in what manner or, in accordance with section 40, for what charge the request is to be granted; or\n(iii)\na decision by which an agency imposes conditions on the use, communication, or publication of information made available pursuant to the request; or\n(iv)\na decision by which an agency gives a notice under section 32; or\n(v)\na decision by which an agency extends any time limit under section 41; or\n(vi) a refusal to correct personal information; and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "Undue delay in making information available in response to an information privacy request for that information shall be deemed, for the purposes of subsection (2)(a)(i), to be a refusal to make that information available."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[22]",
+              "content": "Police have accepted that there was undue delay and that s 66(4) deems that a refusal to make that information available under s 66(2)(a)(i). This satisfies the first part of the definition of an interference with privacy in s 66(2).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(4)",
+                  "context": "Deems undue delay as a refusal to make information available."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)(a)(i)",
+                  "context": "Defines refusal to make information available as part of interference with privacy."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)",
+                  "context": "Defines interference with privacy."
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "Section 66(2)(b) then requires the Tribunal to determine whether Police had any proper basis for the refusal to make information available. The Police have made no submissions on this point and have not suggested there was any proper basis for its actions in this regard.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 66(2)(b)",
+                  "context": "Requires the Tribunal to determine if there was a proper basis for the refusal."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "Whether or not there is a proper basis for the undue delay (which is deemed to be a refusal to provide the information) is an issue that must be determined by the Tribunal on the facts of each claim. In this instance the delay was caused by staff on leave and a technological failure. No submissions have been advanced by Police suggesting that this provided any proper basis for the delay in providing the information. There is no exception in the Act which would encompass the length of this delay or the reasons behind this delay. Nor has any other justifiable reason for a delay of this sort been advanced.",
+              "page": 4
+            },
+            {
+              "number": "[25]",
+              "content": "The Tribunal therefore concludes that there is no proper basis for the undue delay in providing the information to Ms Wise. The Police actions in this claim were clearly an interference with Ms Wise's privacy as there was undue delay and there was no proper basis for the delay.",
+              "page": 4
+            },
+            {
+              "number": "[26]",
+              "content": "The Tribunal finds that the Police have interfered with Ms Wise's privacy.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[27]",
+              "content": "When the Tribunal determines that there has been an interference with privacy, as it has in Ms Wise's claim, it may grant one or more of the remedies set out in s 85 Privacy Act 1993.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85 Privacy Act 1993",
+                  "context": "Sets out the remedies the Tribunal may grant for an interference with privacy."
+                }
+              ],
+              "quoted_material": {
+                "source": "85 Powers of Human Rights Review Tribunal",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "damages in accordance with section 88:"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:"
+                  },
+                  {
+                    "identifier": "(e)",
+                    "content": "such other relief as the Tribunal thinks fit."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any remedy to grant."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[28]",
+              "content": "The damages the Tribunal may order under s 85(1)(c) are set out in s 88 under three specific heads.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(1)(c)",
+                  "context": "Allows the Tribunal to order damages."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 88",
+                  "context": "Sets out the types of damages that can be ordered."
+                }
+              ],
+              "quoted_material": {
+                "source": "88 Damages",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[29]",
+              "content": "The remedies sought by Ms Wise are:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[29.1]",
+                  "content": "A declaration that the Commissioner of Police interfered with her privacy."
+                },
+                {
+                  "title": "[29.2]",
+                  "content": "Damages of up to $5,000."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 85(4) – conduct of the defendant",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[30]",
+              "content": "Section 85(4) states that it is no defence that the interference with privacy was unintentional or without negligence, but the Tribunal is still required to take the conduct of the defendant into account when deciding what remedy if any to grant.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 85(4)",
+                  "context": "States that unintentional interference is not a defence, but the defendant's conduct should be considered for remedies."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "The Police did initially communicate on a regular basis with Ms Wise regarding her information privacy request after it had been received by Ms Freese. However, this communication stopped in September 2018, when Ms Murray mistakenly believed the response had been received by Ms Wise.",
+              "page": 5
+            },
+            {
+              "number": "[32]",
+              "content": "The fundamental and most significant delay in the Police's response to Ms Wise was caused by the fact that the Police mistakenly considered the response had been sent to Ms Wise on 19 September 2018. Ms Murray's evidence is that she had no knowledge of receiving a failed delivery notification. Mr Weerasuriya provided evidence, for the Police, that a delivery failure notice had been generated but he and his information technology team were unable to ascertain that this notification had been received by Ms Murray.",
+              "page": 5
+            },
+            {
+              "number": "[33]",
+              "content": "The Tribunal accepts that Ms Murray had no knowledge that the message she sent to Ms Wise was not received. Notwithstanding that, the Tribunal has determined for the reasons detailed above, that this amounted to an interference with Ms Wise's privacy.",
+              "page": 6
+            },
+            {
+              "number": "[34]",
+              "content": "The intention to comply with the Act, the actual work undertaken on the response, the regular communication and the subsequent prompt provision of the information when it became apparent it had not been received, are however accepted as mitigating factors relevant to consideration of the appropriate remedy in this claim.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Declaration",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[35]",
+              "content": "The grant of a declaration is discretionary but declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLS 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108].",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLS 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108]",
+                  "context": "Cited for the principle that declaratory relief should not ordinarily be denied."
+                }
+              ]
+            },
+            {
+              "number": "[36]",
+              "content": "The Tribunal see nothing to justify the withholding from Ms Wise of a formal declaration that Police interfered with her privacy.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Damages for pecuniary loss and expenses incurred",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "Ms Wise seeks $500 for pecuniary losses incurred in preparing the common bundle. The Police submit this is a cost of the proceeding, it is not a pecuniary loss arising from the interference with privacy.",
+              "page": 6
+            },
+            {
+              "number": "[38]",
+              "content": "Costs incurred in the preparation of a claim for hearing are ordinarily claimed as costs after a substantive decision is made. Accordingly, these costs will not be awarded as pecuniary losses, but the Tribunal has issued directions at the conclusion of this decision allowing for the filing of an application for costs.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Damages for humiliation, loss of dignity and injury to feelings",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[39]",
+              "content": "Ms Wise also claims damages for humiliation, loss of dignity and injury to feelings. The only evidence of this is Ms Wise's own assertions that this has caused her significant stress and that it has taken her time to progress this matter. While proceedings of this nature can be stressful, when Ms Wise was asked to further explain the nature of the stress she was unable to provide any evidence that it was linked to the delayed response to the information privacy request. Accordingly, there is no basis upon which this Tribunal could justify awarding damages for humiliation, loss of dignity or injury to feelings.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[40]",
+              "content": "The Tribunal is satisfied on the balance of probabilities that an action of the Commissioner of Police was an interference with the privacy of Ms Wise.",
+              "page": 6
+            },
+            {
+              "number": "[41]",
+              "content": "A declaration is made under s 85(1)(a) Privacy Act 1993 that the Commissioner of Police interfered with Ms Wise's privacy by failing to respond to her information privacy request as required by the Privacy Act 1993.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(1)(a) Privacy Act 1993",
+                  "context": "The legal basis for making the declaration."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[42]",
+              "content": "Costs are reserved. Should Ms Wise consider applying for costs, she is to note the only recoverable costs are the disbursements incurred in preparing and presenting the case. An itemised list will have to be sent to the Commissioner of Police for comment.",
+              "page": 6
+            },
+            {
+              "number": "[43]",
+              "content": "Unless the parties come to an arrangement on costs, the following timetable is to apply:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "[43.1]",
+                  "content": "Ms Wise is to file her submissions within 14 days after the date of this decision. The submissions for the Commissioner of Police are to be filed within the 14 days which follow. Ms Wise is to have a right of reply within 7 days after that."
+                },
+                {
+                  "title": "[43.2]",
+                  "content": "The Tribunal will then determine the issue of costs on the basis of the written submissions without further oral hearing."
+                },
+                {
+                  "title": "[43.3]",
+                  "content": "In case it should prove necessary, we leave it to the Chairperson of the Tribunal to vary the foregoing timetable."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms BL Klippel",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Wise v Commissioner of Police [2020] NZHRRT 44.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

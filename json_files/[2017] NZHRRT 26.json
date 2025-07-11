@@ -1,0 +1,778 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 12
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2017] NZHRRT 26",
+        "reference_number": "HRRT 073/2015",
+        "court_tribunal": "Human Rights Review Tribunal",
+        "jurisdiction": "",
+        "hearing_date": "26 and 27 June 2017",
+        "decision_date": "21 July 2017",
+        "case_title": "Williams v Accident Compensation Corporation",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 12
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "RAYMOND KEITH WILLIAMS",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ACCIDENT COMPENSATION CORPORATION",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms L J Alaeinia",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M J M Keefe JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R K Williams",
+          "representing": "Plaintiff (in person)"
+        },
+        {
+          "counsel": "Mr S M Kinsler",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Ms S K Shaw",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "During 2014 Mr Williams was receiving weekly earnings-related compensation payments from the Accident Compensation Corporation (ACC). On 24 December 2014 he was advised by ACC those payments would cease after 21 January 2015 because ACC believed the medical information held showed Mr Williams' injury did not prevent him from being able to do the job he had when he was injured.",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "In mid-April 2015 Mr Williams challenged this decision on the basis that the information relied on by ACC was not accurate or up to date.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "ACC thereupon reconsidered its decision and very promptly, on 24 April 2015, acknowledged the decision had been made in breach of information privacy principle 8, that is without taking reasonable steps to ensure the medical information on which the decision was based was accurate, up to date, complete, relevant and not misleading. Mr Williams' weekly compensation payments were reinstated and a formal written apology made on 24 April 2015.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "information privacy principle 8",
+                  "context": "ACC acknowledged the decision had been made in breach of information privacy principle 8."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "In addition to admitting the breach of principle 8, ACC accepts that in terms of s 66(1)(a)(i) and (b)(ii) of the Privacy Act 1993 there has been an interference with the privacy of Mr Williams. In simple terms, liability is admitted.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(1)(a)(i) and (b)(ii) of the Privacy Act 1993",
+                  "context": "ACC accepts that in terms of s 66(1)(a)(i) and (b)(ii) of the Privacy Act 1993 there has been an interference with the privacy of Mr Williams."
+                },
+                {
+                  "type": "other",
+                  "reference": "principle 8",
+                  "context": "In addition to admitting the breach of principle 8..."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "Liability having been accepted by ACC, the issue in this case is whether, in all the circumstances, a remedy is to be granted to Mr Williams and if so, the nature of that remedy (or remedies).",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The non-publication order",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "The narrative of events recited by the parties in their evidence has included reference to two medical reports dated 10 April 2014 and 22 December 2014 obtained by ACC from Dr Roderick Douglas, an occupational medicine specialist. While the reports have a direct bearing on the assessment of Mr Williams' incapacity, they are largely (but not exclusively) peripheral to the Tribunal's determination of the remedy to be granted to Mr Williams under the Privacy Act. In these circumstances Mr Williams seeks orders preventing ACC (including its employees, agents and counsel in these proceedings) from disclosing the content of the two reports to any third party. Counsel for ACC has filed a memorandum consenting to an order being made in the terms sought by Mr Williams.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Accordingly, at the commencement of the hearing on 26 June 2017 the following final non-publication orders were made.",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[7.1]",
+                  "content": "The medical reports dated 10 April 2014 and 22 December 2014 provided by Dr Roderick Douglas to ACC are not to be disclosed by ACC, its employees or agents or by counsel who in these proceedings represent ACC to any third party, person or organisation."
+                },
+                {
+                  "title": "[7.2]",
+                  "content": "There is to be no search of the Tribunal file without leave of the Chairperson or of the Tribunal."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "These orders do not apply to such part of the medical reports as may be referred to or quoted in this the Tribunal's decision.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "In the interests of clarity the suppression orders are set out again in the formal orders which follow at the conclusion of this decision.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "CENTRAL FACTS NOT IN DISPUTE",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "Given ACC's concession of liability, the central facts are not in dispute. A short summary follows.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "Mr Williams has a long history of lower back pain dating back to an injury in 1984. In late 2012 he sustained further injury to his neck and spine in the course of his employment as a truck driver. In support of his ACC claim he submitted a number of medical reports. At the request of ACC he was on 10 April 2014 seen and assessed by Dr Roderick Douglas, Occupational Medicine Specialist. In a report dated 10 April 2014 addressed to ACC Dr Douglas expressed the opinion that while Mr Williams had injured his neck and back, he was physically capable of sedentary to medium roles that allowed some flexibility of movement. He would not be capable of roles requiring frequent or prolonged bending or heavy lifting.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "On 22 December 2014, again at the request of ACC, Dr Douglas submitted a second report addressing the question whether Mr Williams was incapacitated in respect of his pre-injury employment as a truck driver. Dr Douglas did not further examine or speak to Mr Williams. In this second report Dr Douglas confirmed that at the time of his April 2014 assessment he was of the view Mr Williams was capable of working as a truck driver as long as the role did not involve any significant lifting and carrying. By this, he meant that the role should not involve anything more than occasional medium level lifting and carrying. Dr Douglas concluded his second report with a proviso which, in the circumstances of the case, is of critical importance. That proviso was that his opinion assumed there had been no further injury or significant deterioration in Mr Williams' health since April 2014. The last paragraph of Dr Douglas' report was in the following terms:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Dr Douglas' report",
+                "content": "Unless there has been a further injury or a significant deterioration since I saw him this would continue to be my opinion ie in my opinion he is capable of working in his pre-injury work role as a truck driver."
+              }
+            },
+            {
+              "number": "[13]",
+              "content": "Without asking Mr Williams whether there had been \"further injury or a significant deterioration\" ACC on 24 December 2014 told Mr Williams the weekly compensation payments would cease on 21 January 2015. The letter relevantly stated:",
+              "page": 3,
+              "quoted_material": {
+                "source": "ACC Letter dated 24 December 2014",
+                "content": "We've received a medical follow up report from Dr Rod Douglas.\nAfter looking carefully at all the medical information available we're unable to continue with your entitlements after the 21st January 2015 ...\nWe're unable to continue providing you with this support as the medical information shows that your injury is not preventing you from being able to do the job you had when you were injured.\nThe medical report stated that you are now medically able to return to your pre-injury employment role as a truck driver ..."
+              }
+            },
+            {
+              "number": "[14]",
+              "content": "Having no income after the 21 January 2015 cessation date Mr Williams sought and obtained social welfare assistance from WINZ.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "Mr Williams accepts he was informed he had a right to request a review of the ACC decision. He did in fact make such request but in view of what he believed were the complex medical-legal issues involved he decided to take a different course with the aim of having the decision overturned as soon as possible. So in early March 2015 he filed in the High Court an application for judicial review. The hearing was scheduled for early April 2015 but on the appointed day only an Associate Judge was available and the case had to be rescheduled to a later date for hearing by a Duty Judge. It was at this point Mr Williams became aware of information privacy principle 8 and by email dated 13 April 2015 wrote to ACC drawing attention to the proviso expressed by Dr Douglas in the report dated 22 December 2014. In his email Mr Williams pointed out that had ACC sought up to date, accurate, complete and relevant medical information relating to his",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "information privacy principle 8",
+                  "context": "It was at this point Mr Williams became aware of information privacy principle 8 and by email dated 13 April 2015 wrote to ACC drawing attention to the proviso..."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "injury he would have provided additional and new information which neither ACC nor Dr Douglas were aware of in December 2014. In these circumstances Mr Williams contended the decision to terminate his entitlement was a decision made in breach of principle 8.",
+              "page": 4
+            },
+            {
+              "number": "[16]",
+              "content": "The response by ACC was prompt. On the very same day (13 April 2015), Ms Fiona Colman, a Privacy Officer at ACC, advised Mr Williams that his complaint was being investigated and that ACC would be in touch with him as soon as possible.",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "By email dated 22 April 2015 ACC notified Mr Williams that even though he had withdrawn his request for an internal review by ACC, ACC had re-visited the original decision and had decided that it should be overturned in favour of Mr Williams because ACC agreed due process had not been followed when the 24 December 2014 decision was made. Mr Williams was advised ACC would reinstate his entitlement to weekly compensation and that this would be backdated to the date of cessation.",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "The following day (23 April 2015) Ms Colman sent an email to Mr Williams acknowledging the breach of principle 8. She also advised him that ACC's Rotorua Branch would be providing a written apology within a matter of days. We set out only the relevant part of Ms Colman's letter:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Ms Colman's letter",
+                "content": "Principle 8 of the Act states that an agency should not use information without taking reasonable steps to ensure, having regard to the purpose for which the information is proposed to be used, it is accurate, up-to-date, complete, relevant and not misleading. On balance, I consider that ACC is in breach of this principle.\nIt is clear that eight months had elapsed between Dr Douglas' original IMA - received in April 2014, and his subsequent report - received in December 2014. The letter advice, which found that you could work in your pre-injury role, was made on the proviso that you had experienced no deterioration in your condition or sustained any further injuries since April 2014. However, there is no evidence that ACC sought to corroborate your current injury status or obtain more recent medical information. As the information from Dr Douglas was being used to stop your weekly compensation, this would have been a reasonable expectation.\nACC's Rotorua Branch has agreed to revoke its decision of 24 December 2014 and to reinstate your weekly compensation. I have also asked them to provide you with a written apology. These actions should be completed within the next seven to ten days.\nYour capacity to return to your pre-injury employment will still need to be investigated."
+              }
+            },
+            {
+              "number": "[19]",
+              "content": "On the following day, 24 April 2015, the Branch Manager of the ACC Rotorua Branch wrote to Mr Williams formally acknowledging the breach of principle 8 and apologising for this departure from expected standards of service. The letter of apology was in the following terms:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Letter from Branch Manager of the ACC Rotorua Branch",
+                "content": "I am in receipt of the findings of the Privacy Office dated 23 April 2015.\nI have taken the opportunity to review the claim activity against those findings, and agree and apologise for the departure from the expected standards of service you have received from this office.\nPrinciple 8 of the Act states that an agency should not use information without taking reasonable steps to ensure, having regard to the purpose for which the information is proposed to be used, it is accurate, up-to-date, complete, relevant and not misleading. As per the concerns outlined in your letter and the response from the Privacy Office, I also agree that on balance ACC is in breach of this principle.\nI have instructed my management team to ensure their teams are fully aware of this principle and that my expectation is that this situation should not arise again."
+              }
+            },
+            {
+              "number": "",
+              "content": "Please accept my sincere apologies for what was clearly an unacceptable level of service provided to you.\nFinally if I can be of further assistance to you in the future please do not hesitate to contact me direct.",
+              "page": 5
+            },
+            {
+              "number": "[20]",
+              "content": "By email dated 30 April 2015 Mr Williams acknowledged receipt of the apology but contended that the matter should not be considered settled until agreement had been reached on damages to compensate him for what he described as the significant mental anguish, stress and humiliation which had followed the decision to terminate his compensation payments. Mr Williams sought payment of $10,000.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "It is not necessary to rehearse the correspondence which then followed. It is sufficient to note ACC declined to pay damages, contending that by reversing its decision and providing a written apology sufficient steps had been taken to address Mr Williams' complaint. On 18 May 2015 Mr Williams sought an investigation by the Privacy Commissioner. On 19 June 2015 ACC paid into Mr Williams' bank account $3,139.39, being the backdated weekly compensation payments less the payments received by Mr Williams from WINZ.",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "While the Privacy Commissioner initially declined to investigate the complaint, that decision was later reversed. In the course of the investigation by the Privacy Commissioner ACC made a settlement offer of $1,037 being the difference between the amount of weekly compensation due to Mr Williams and the payments received by him from WINZ. Mr Williams rejected this offer, maintaining he should be paid $10,000 for emotional harm. The Privacy Commissioner closed the investigation on 17 November 2015 whereupon Mr Williams filed the present proceedings in the Tribunal.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "THE SUBMISSIONS BY THE PARTIES",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[23]",
+              "content": "On these undisputed facts the primary points made by Mr Williams in support of his submission that he is entitled to damages for humiliation, loss of dignity or injury to his feelings include the following:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[23.1]",
+                  "content": "The decision by ACC to terminate his weekly compensation payments was not an administrative or human error. He points (inter alia) to the KPMG audit report Independent Privacy Follow-up Review (17 December 2014) which makes reference to the fact that all ACC staff receive mandatory, comprehensive and ongoing training in their obligations under the Privacy Act. It is stated at page 35 that ACC's privacy policies specific to each of the twelve information privacy principles are “comprehensive, easy to understand and readily available to all staff. The IPPs are well known by staff and the Privacy Team provides additional advice when required\". Mr Williams submits it is to be inferred ACC staff members who made the decisions in his case did so in full knowledge their actions were in breach of principle 8."
+                },
+                {
+                  "title": "[23.2]",
+                  "content": "As a result of the termination of his entitlements, Mr Williams suffered a loss of weekly compensation payments for 17 weeks in the period 21 January to 27 May 2015."
+                },
+                {
+                  "title": "[23.3]",
+                  "content": "The termination of his entitlements caused significant stress and anxiety over a prolonged period of time from 24 December 2014 to May 2015. This had a profound negative effect on his daily life. Not only in financial terms but also physically and mentally as the stress and anxiety and financial pressure continued to build."
+                },
+                {
+                  "title": "[23.4]",
+                  "content": "Mr Williams has been in the work force for 45 years and apart from a serious work accident in 1992, has been in continuous employment all of that time. He has worked hard all his life to support himself and his family and to get ahead. On termination of his compensation payments he was left without an income and it became necessary for him to seek immediate financial support from both WINZ and from his bank. Meeting face to face with WINZ staff and asking them for financial support because he had no income was for him a demeaning and humiliating experience. Equally, meeting face to face with bank staff and having to admit he was no longer able to meet his financial commitments was similarly demeaning and humiliating."
+                },
+                {
+                  "title": "[23.5]",
+                  "content": "Mr Williams described suffering from endless worry, nervousness and fear as he tried to deal with what he described as the precarious situation in which he found himself. He was constantly worried, nervous and fearful about the severe consequences that had followed from the termination of his weekly compensation payments. He spoke of financial insecurity, his inability to meet basic living costs, the strain on his relationship with his partner and difficulty facing an uncertain and unknown future."
+                },
+                {
+                  "title": "[23.6]",
+                  "content": "He was angry and frustrated that the decision made by ACC had not been based on information which was accurate and up to date. He felt ACC staff had abused their statutory power and had treated him with contempt. He felt alienated from a system which was supposed to protect his right to compensation for work-related injury."
+                },
+                {
+                  "title": "[23.7]",
+                  "content": "The significant stress and anxiety, loss of dignity and humiliation were a direct consequence of the termination of the weekly compensation payments. Had there been no breach of principle 8 he would not have suffered the harm described."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The evidence for ACC",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[24]",
+              "content": "Because ACC accept there has been an interference with Mr Williams' privacy as defined in s 66(1) of the Act, the evidence given on behalf of ACC was substantially focussed on ACC's approach to privacy in general and its approach to Mr Williams' case in particular.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(1) of the Act",
+                  "context": "Because ACC accept there has been an interference with Mr Williams' privacy as defined in s 66(1) of the Act..."
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "The primary witness for ACC was Ms Colman who is employed as a Privacy Officer. Currently her role is that of Principal Advisor (Privacy Officer) in ACC's Privacy Team. This role involves providing expert advice and support on all aspects of the privacy legislation and ensuring ACC improves its performance in managing personal information in its care.",
+              "page": 6
+            },
+            {
+              "number": "[26]",
+              "content": "Ms Colman described ACC's approach to privacy in the following terms:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[26.1]",
+                  "content": "Privacy is a core area of focus for ACC. It has a privacy policy, publicly available on a website, which sets out the principles used by ACC to collect, use, disclose and store personal and health related information. Personal information in ACC's care is to be managed carefully and respectfully."
+                },
+                {
+                  "title": "[26.2]",
+                  "content": "Under its privacy policy, ACC commits to only using or disclosing personal information for the purposes for which it is collected, taking reasonable steps to ensure it is complete, relevant and up to date. This policy applies to all business units, branches, service providers, suppliers and employees of ACC. It forms the basis for how ACC handles, processes, manages and destroys personal and health information."
+                },
+                {
+                  "title": "[26.3]",
+                  "content": "ACC has a broad strategic focus on privacy. In 2013 it adopted a comprehensive Privacy Strategy which has since been superseded by a Privacy Maturity Plan, which formalises ACC's approach to continue to improve ACC's privacy maturity between now and 2020. As noted at the outset of this Plan \"effective management of our customers' information is an essential element in creating a unique partnership with all New Zealanders”. ACC is committed to building on and strengthening its approach to privacy."
+                },
+                {
+                  "title": "[26.4]",
+                  "content": "Both ACC's privacy policy and the Privacy Maturity Plan are readily available to all ACC staff members. These documents are supported by a set of privacy policies specific to each of the twelve information privacy principles."
+                },
+                {
+                  "title": "[26.5]",
+                  "content": "As a large organisation, ACC deals with a considerable amount of information. The KPMG 2014 report earlier referred to at para 2.1 noted the volume of information includes:"
+                },
+                {
+                  "title": "[26.5.1]",
+                  "content": "25,000 letters sent each day."
+                },
+                {
+                  "title": "[26.5.2]",
+                  "content": "7,000 claims processed each day."
+                },
+                {
+                  "title": "[26.5.3]",
+                  "content": "24,000 calls answered each day."
+                },
+                {
+                  "title": "[26.5.4]",
+                  "content": "1,000,000 emails dealt with each month"
+                },
+                {
+                  "title": "[26.5.5]",
+                  "content": "80,000,000 documents on file"
+                },
+                {
+                  "title": "[26.6]",
+                  "content": "As part of an ongoing commitment to meet ACC's privacy obligations, privacy related training is included in staff and manager induction, and all staff complete an online refresher privacy module annually. There is also regular ongoing training for staff around privacy obligations and information management."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "After detailing ACC's response to the complaint made by Mr Williams with regard to principle 8 Ms Colman concluded her evidence by making the following two points:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "[27.1]",
+                  "content": "ACC's privacy vision involves an ongoing commitment to assessing and improving its privacy practices. ACC's Privacy team is committed to identifying mistakes and ensuring appropriate steps are taken to remedy any mistakes when they occur. Regular training is provided to assist staff with managing privacy obligations. These measures facilitate a culture of continual improvement."
+                },
+                {
+                  "title": "[27.2]",
+                  "content": "In the present case there had been an accepted failure in meeting ACC's own policies. This error was acknowledged and an apology provided. Staff had been reminded of the privacy policies in place at ACC. ACC strove to ensure mistakes do not happen, but when they do, ACC is committed to treating the matter seriously and taking steps to remedy it."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "In view of the contention by Mr Williams that the breach of principle 8 was deliberate and not the result of human error, ACC called Ms C Levings, a Team Manager at the Rotorua Branch Office of ACC. She had been responsible for approving the decision to suspend Mr Williams' entitlement. In her evidence she explained the decision had been based on an erroneous reading of the second report of Dr Douglas and that there had been no deliberate breach of principle 8.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "The closing submissions by Mr Williams and ACC",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[29]",
+              "content": "It is not intended to recite in any detail the closing submissions made by Mr Williams and by ACC. We intend to note only the most significant points.",
+              "page": 8
+            },
+            {
+              "number": "[30]",
+              "content": "Mr Williams submitted an award of damages was appropriate given the significant stress and anxiety he had experienced from December 2014 to May 2015. Those feelings had been far from trivial and had had a profound negative effect on his daily life, affecting him physically and mentally. He referred to the increase in migraines, tension in his chest, loss of appetite, sleepless nights, mental restlessness, worry and fatigue. All these feelings and symptoms were deeply felt. His feeling of humiliation was real as was his belief ACC had treated him unfairly. In these circumstances he contended his case fell at the upper end of the first band of awards described in Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66 at [176]. He also made reference to the fact that in Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458 the Tribunal had awarded $15,000 damages for a breach of principle 8.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66 at [176]",
+                  "context": "In these circumstances he contended his case fell at the upper end of the first band of awards described in Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66 at [176]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458",
+                  "context": "He also made reference to the fact that in Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458 the Tribunal had awarded $15,000 damages for a breach of principle 8."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "For ACC it was submitted:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[31.1]",
+                  "content": "Mr Williams had not established the required causal link between the interference with his privacy and his humiliation, loss of dignity and injury to feelings."
+                },
+                {
+                  "title": "[31.2]",
+                  "content": "The need for such causal link was highlighted in Hammond v Credit Union Baywide at [170.2]. Mr Williams had not established that ACC's staff had acted to deliberately breach his privacy interests."
+                },
+                {
+                  "title": "[31.3]",
+                  "content": "The Corporation had acted promptly to correct the error, had reinstated Mr Williams' entitlement, paid back-dated compensation and had provided a written apology."
+                },
+                {
+                  "title": "[31.4]",
+                  "content": "In these circumstances a declaration of interference with privacy was all that was justified and an award of damages would go beyond that which the circumstances required."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond v Credit Union Baywide at [170.2]",
+                  "context": "The need for such causal link was highlighted in Hammond v Credit Union Baywide at [170.2]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "REMEDY - ASSESSMENT",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "This is not a case in which credibility is an issue. We accept all witnesses gave truthful evidence.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[33]",
+              "content": "While Mr Williams sincerely believes the breach of principle 8 was deliberate, we find that viewed objectively, the cause was human error.",
+              "page": 9
+            },
+            {
+              "number": "[34]",
+              "content": "Nevertheless we are satisfied, on the balance of probabilities, there is a causal connection between the breach of principle 8 and the injury to feelings, humiliation and loss of dignity spoken of by Mr Williams. It is accepted he is not naturally eloquent or forthcoming when describing his feelings and emotions. He impressed as a reserved, quiet and private individual who has limited ability to speak freely about himself. Nevertheless we do not believe there can be much doubt he has experienced the emotional harm of which he spoke. As mentioned his credibility is not in issue.",
+              "page": 9
+            },
+            {
+              "number": "[35]",
+              "content": "The circumstances of the case are consistent with and reinforce the claim by Mr Williams he experienced humiliation, loss of dignity and injury to feelings. The announcement by ACC that his compensation payments would terminate was received on Christmas Eve. Over the holiday period he was left to contemplate a precarious future and the severe consequences which would inevitably flow from the termination of the payments on 21 January 2015. He could hardly have been anything other than worried, nervous and fearful about his financial insecurity, his inability to meet basic living costs and his uncertain and unknown future. It is not surprising his relationship with his partner came under strain. In the New Year, as a person who had been in continuous employment for 45 years and who took pride in supporting himself and his family, he found himself at Work and Income applying for social welfare assistance. He similarly had to face his bank with an admission that he was no longer able to meet his financial commitments. His mortgage had to be rearranged and his credit card debt addressed. His anger, frustration, humiliation and feeling of powerlessness is understandable.",
+              "page": 9
+            },
+            {
+              "number": "[36]",
+              "content": "On the facts found there is a clear causal connection between the termination of his compensation payments and his feelings of humiliation, loss of dignity and injury to feelings. We are further satisfied the nature and degree of this emotional harm was more than trivial or of a passing nature.",
+              "page": 9
+            },
+            {
+              "number": "[37]",
+              "content": "Equally we accept the apology by ACC was both genuine and immediate. The potential relevance of the apology is addressed next.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "The apology",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[38]",
+              "content": "An appropriate and timely apology can be taken into account under s 85(1)(4) of the Privacy Act when considering whether the defendant's conduct has ameliorated the harm suffered as a result of the breach of privacy. See AB v Chief Executive, Ministry of Social Development [2011] NZHRRT 16 at [37]:",
+              "page": 9,
+              "quoted_material": {
+                "source": "AB v Chief Executive, Ministry of Social Development [2011] NZHRRT 16 at [37]",
+                "content": "an appropriate apology given at the right time is a matter that can be taken into account under s.85(4) of the Act in considering whether and to what extent the defendant's conduct has ameliorated the harm suffered as a result of an interference with privacy. In this case, however, we think the apology came far too late to have been of any value in that respect."
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "In that case the defendant took one year to acknowledge the breach and another year to apologise for it. The Tribunal considered the apology had no mitigating effect, describing it as having been provided at the “eleventh hour”, after proceedings had been commenced and was considered to be motivated by litigation concerns.",
+              "page": 9
+            },
+            {
+              "number": "[40]",
+              "content": "The circumstances of the present case are the polar opposite in terms of speed, motivation and sincerity.",
+              "page": 9
+            },
+            {
+              "number": "[41]",
+              "content": "The apology cannot “erase” the humiliation, loss of dignity or injury to feelings caused by the interference with privacy. Nor is it a “get out of jail free” card. The question in each case is whether and to what degree the emotional harm experienced by the particular plaintiff has been ameliorated. While this is a fact specific inquiry it can be said that ordinarily an apology must be timely, effective and sincere before weight can be given to it. It is not inevitable an apology, even if sincerely and promptly offered, will ameliorate the emotional harm experienced by the plaintiff. Much will depend on who the particular plaintiff is and the particular circumstances of the case.",
+              "page": 10
+            },
+            {
+              "number": "[42]",
+              "content": "We turn then to the question of the remedies required by the circumstances of Mr Williams' case.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "A declaration",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[43]",
+              "content": "While the grant of a remedy under ss 85 and 88 of the Privacy Act is discretionary, declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 at [107] and [108] and Hammond at [164]. The submission for ACC is that a declaration is the only remedy required to vindicate Mr Williams' interests.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 85 and 88 of the Privacy Act",
+                  "context": "While the grant of a remedy under ss 85 and 88 of the Privacy Act is discretionary..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 at [107] and [108]",
+                  "context": "See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 at [107] and [108]"
+                },
+                {
+                  "type": "case",
+                  "reference": "Hammond at [164]",
+                  "context": "and Hammond at [164]."
+                }
+              ]
+            },
+            {
+              "number": "[44]",
+              "content": "While we agree a declaration must be made, we do not accept the circumstances are such that no other remedy is to be granted in this case. In our view the circumstances do require that an award of damages be considered.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "Damages - General principles",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[45]",
+              "content": "The general principles which must be taken into account when making an assessment of damages are outlined in Hammond at [170] and we do not intend repeating what is said there. In the context of the present case we note only the following:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "[45.1]",
+                  "content": "An award of damages is made to compensate for humiliation, loss of dignity and injury to feelings, not to punish the defendant."
+                },
+                {
+                  "title": "[45.2]",
+                  "content": "The very nature of the s 88(1)(c) heads of damages means there is a subjective element to their assessment. Not only are the circumstances of humiliation, loss of dignity and injury to feelings fact specific, they also turn on the personality of the aggrieved individual."
+                },
+                {
+                  "title": "[45.3]",
+                  "content": "The award of damages must be an appropriate response to adequately compensate the aggrieved individual for the humiliation, loss of dignity of injury to feelings he or she has suffered."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond at [170]",
+                  "context": "The general principles which must be taken into account when making an assessment of damages are outlined in Hammond at [170]..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Damages - Assessment",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[46]",
+              "content": "As earlier explained, we are satisfied the nature and degree of the emotional harm experienced by Mr Williams was more than trivial or of a passing nature. We are further satisfied the circumstances require an award of damages over and above the remedy of a declaration.",
+              "page": 10
+            },
+            {
+              "number": "[47]",
+              "content": "While it is not a defence to proceedings under the Act that the interference was unintentional or without negligence on the part of the defendant, s 85(4) nevertheless requires the Tribunal to take the conduct of the defendant into account in deciding what, if any, remedy to grant.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(4)",
+                  "context": "...s 85(4) nevertheless requires the Tribunal to take the conduct of the defendant into account in deciding what, if any, remedy to grant."
+                }
+              ]
+            },
+            {
+              "number": "[48]",
+              "content": "On behalf of ACC it is submitted the following factors are of significance in assessing what is an appropriate response to adequately compensate Mr Williams for the humiliation, loss of dignity and injury to feelings he has suffered:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[48.1]",
+                  "content": "ACC staff did not deliberately breach principle 8. While the decision to terminate the payments was a mistaken one, it was taken without malice or an intention to harm Mr Williams. It was a human error."
+                },
+                {
+                  "title": "[48.2]",
+                  "content": "ACC is committed to assessing and improving its privacy practices. It has a Privacy team committed to identifying mistakes and to ensuring appropriate steps are taken to remedy any mistakes when do they occur."
+                },
+                {
+                  "title": "[48.3]",
+                  "content": "On the same day Mr Williams lodged his complaint ACC responded with advice that the complaint was under investigation. Seven working days later (22 April 2015) ACC acknowledged due process had not been followed and that Mr Williams' entitlement to weekly compensation would be reinstated and backdated to the date of cessation. The following day (23 April 2015) Ms Colman acknowledged the breach of principle 8 and the day after that (24 April 2015) the Branch Manager of the Rotorua Branch sent a formal letter of apology to Mr Williams. In the result a complaint made on Monday 13 April 2015 had been addressed and remedied by the Friday of the following week."
+                },
+                {
+                  "title": "[48.4]",
+                  "content": "In these proceedings ACC has explicitly conceded the interference with privacy with the result the hearing was confined to the issues of causation and remedy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The remedies to be granted",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[49]",
+              "content": "The claim for $10,000 is not an extravagant one and Mr Williams is correct in submitting that the damages award here should be towards the top end of the first band spoken of in Hammond. He appropriately points to the award of $15,000 in Taylor v Orcon because that also was a case in which principle 8 was breached. The facts of that case were, however, very different and the humiliation, loss of dignity and injury to feelings experienced by Mr Taylor were more serious. In addition, as set out in the decision at [68] and [71] there were various features of the case which aggravated rather than mitigated the interference with privacy. In these circumstances we do not regard the award in that case as setting a precedent for Mr Williams' case. The amount claimed by Mr Williams also assumes the Tribunal will find in his favour that the interference with his privacy was deliberate. We have rejected that claim. In addition Mr Williams gave no real recognition to the speed with which the interference was recognised, acknowledged and remedied by ACC. But while the apology and the reinstatement of the payments did ameliorate the humiliation, loss of dignity and injury to feelings, neither of these factors taken singly or in combination expunged the emotional harm. Nor did the reduction of the period during which compensation payments were rescinded. At best these factors mitigated the harm. Mr Williams' real point is that the apology, on its own or even combined with the declaration of interference, is not sufficient to adequately compensate for what followed as a consequence of the interference with privacy.",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond",
+                  "context": "The claim for $10,000 is not an extravagant one and Mr Williams is correct in submitting that the damages award here should be towards the top end of the first band spoken of in Hammond."
+                },
+                {
+                  "type": "case",
+                  "reference": "Taylor v Orcon",
+                  "context": "He appropriately points to the award of $15,000 in Taylor v Orcon because that also was a case in which principle 8 was breached."
+                }
+              ]
+            },
+            {
+              "number": "[50]",
+              "content": "Weighing all these factors we agree and conclude that an appropriate response to Mr Williams' humiliation, loss of dignity or injury to feelings (over and above the grant of the declaration of interference) is an award of $7,500.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[51]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that it is satisfied on the balance of probabilities that an action of the Accident Compensation Corporation was an interference with the privacy of Mr Williams and:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "[51.1]",
+                  "content": "A declaration is made under s 85(1)(a) of the Privacy Act 1993 that the Accident Compensation Corporation interfered with the privacy of Mr Williams by using his personal information without taking reasonable steps to ensure that, having regard to the purpose for which the information was proposed to be used, the information was accurate, up to date, complete, relevant and not misleading."
+                },
+                {
+                  "title": "[51.2]",
+                  "content": "Damages of $7,500 are awarded against the Accident Compensation Corporation under ss 85(1)(c) and 88(1)(c) of the Privacy Act 1993 for humiliation, loss of dignity and injury to feelings"
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(1)(a) of the Privacy Act 1993",
+                  "context": "A declaration is made under s 85(1)(a) of the Privacy Act 1993..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 85(1)(c) and 88(1)(c) of the Privacy Act 1993",
+                  "context": "Damages of $7,500 are awarded against the Accident Compensation Corporation under ss 85(1)(c) and 88(1)(c) of the Privacy Act 1993..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[52]",
+              "content": "As a lay litigant Mr Williams is not entitled to costs, although he can make application to recover disbursements in the form of the photocopying of documents for the purpose of these proceedings. Given the amount of photocopying was likely inconsequential and further given counsel for ACC prepared the common bundle of documents (usually the responsibility of the plaintiff) we have decided that both Mr Williams and ACC are to bear their own costs.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "NON-PUBLICATION ORDERS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[53]",
+              "content": "The following non-publication orders are confirmed.",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "[53.1]",
+                  "content": "The medical reports dated 10 April 2014 and 22 December 2014 provided by Dr Roderick Douglas to the Accident Compensation Corporation are not to be disclosed by the Corporation, its employees or agents or by counsel who in these proceedings represented the Corporation to any third party, person or organisation."
+                },
+                {
+                  "title": "[53.2]",
+                  "content": "There is to be no search of the Tribunal file without leave of the Chairperson or of the Tribunal."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "These orders do not apply to any part of the medical reports referred to or quoted in the Tribunal's decision.",
+              "page": 12
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": "21 July 2017"
+        },
+        {
+          "name": "Ms LJ Alaeinia",
+          "role": "Member",
+          "date": "21 July 2017"
+        },
+        {
+          "name": "Mr MJM Keefe JP",
+          "role": "Member",
+          "date": "21 July 2017"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Williams v Accident Compensation Corporation [2017] NZHRRT 26]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

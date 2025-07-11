@@ -1,0 +1,549 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 7
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 11",
+        "reference_number": "HRRT 030/2021",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "12 March 2024",
+        "case_title": "Zhang v The First Org Ltd (Strike Out) [2024] NZHRRT 11",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT THE STATEMENT OF CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 7
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "TAIMING ZHANG",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE FIRST ORG LIMITED (TRADING AS RED HILL RESTAURANT)",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms ST Scott QSM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr T Zhang",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr J Todd",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Red Hill Restaurant (Red Hill) serves hotpot. On its menu Red Hill specifies that a minimum of two diners are required to order this dish. Mr Zhang alleges that this requirement or policy amounts to indirect marital status discrimination as it is less likely that a single person would be dining with another person who is prepared to share the cost of a hotpot meal.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Mr Zhang accepted that a person dining alone can still order hotpot but is required to pay the same price for that dish which is designed to be shared by (at least) two people. However, he says that charging a person eating alone the same price as two people eating hotpot is not justified. He said that previously he had been able to purchase hotpot for one at Red Hill and accepted that charging a bit over half the price for two diners would be justified (and therefore not discriminatory).",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "Red Hill denied that its actions were discriminatory. It said that the policy applied to everyone and was not limited to customers with a particular marital status. It admitted that it had previously allowed one paying customer to purchase a single portion of hotpot for less than the price of the menu item. However, in his affidavit supporting the application, Yutian Liu said that due to rising costs it was not economical for Red Hill to prepare a hotpot for one paying customer only.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Red Hill applied to strike out the claim on the basis that it:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[4.1]",
+                  "content": "Disclosed no reasonable cause of action;"
+                },
+                {
+                  "title": "[4.2]",
+                  "content": "Was frivolous, because the policy was common to many restaurants and because Mr Zhang's essential complaint was about the quantum of the additional charge paid for those eating alone rather than discrimination per se;"
+                },
+                {
+                  "title": "[4.3]",
+                  "content": "Was vexatious, because it was brought to annoy or irritate Red Hill after it changed its policy; and"
+                },
+                {
+                  "title": "[4.4]",
+                  "content": "Was an abuse of process because it was manifestly groundless and without foundation."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "Red Hill further argued that it would not be inappropriate to strike out the proceeding as there was no reasonable prospect of success, and that Mr Zhang's right of access to the Tribunal was outweighed by the desirability of freeing Red Hill from the burden of defending groundless litigation.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "The application is being dealt with on the papers pursuant to s 104(4A) of the Human Rights Act 1993 (HRA). The parties were given an opportunity to comment on whether it should be dealt with in this way and neither raised any objection.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 104(4A) of the Human Rights Act 1993 (HRA)",
+                  "context": "The application is being dealt with on the papers pursuant to s 104(4A) of the Human Rights Act 1993 (HRA)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The Tribunal's jurisdiction to strike out a claim is set out in s 115A of the HRA. That section provides:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A of the HRA",
+                  "context": "The Tribunal's jurisdiction to strike out a claim is set out in s 115A of the HRA."
+                }
+              ],
+              "quoted_material": {
+                "source": "115A Tribunal may strike out, determine, or adjourn proceedings",
+                "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[8]",
+              "content": "These grounds stand alone but may also overlap.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "The Tribunal's strike out jurisdiction is to be used sparingly, with the threshold for summarily ending a claim being deliberately set high. A claim should only be struck out if the Tribunal is certain it cannot succeed. If defects can be cured by repleading, an opportunity to do so should be made available.2 Nevertheless, the cautious approach to striking out a claim needs to be balanced against the desirability of freeing defendants from the burden of litigation which is groundless or is an abuse of process.3",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "Well established principles apply to strike out applications advanced on the basis that a proceeding discloses no reasonable cause of action:4",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[10.1]",
+                  "content": "Pleaded facts, whether or not they have been admitted, are assumed to be true, although this principle does not extend to allegations which are entirely speculative;"
+                },
+                {
+                  "title": "[10.2]",
+                  "content": "The Tribunal should be slow to strike out claims in new or developing areas of law; and"
+                },
+                {
+                  "title": "[10.3]",
+                  "content": "The jurisdiction is not excluded by the need to decide difficult questions of law requiring extensive argument."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "A claim is frivolous if it is of no value or importance, if it lacks the seriousness required for determination by courts and tribunals,5 and trifles with judicial processes.6 A vexatious claim is one that contains an element of impropriety.7",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "A claim that is otherwise an abuse of process often overlaps with the other grounds. However, what amounts to an abuse of process extends beyond those grounds to also capture other instances of the misuse of the Tribunal's processes such as deliberately failing to adhere to timetable and other directions.8",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "In this case, the reasons on which the abuse of process ground is advanced overlaps with the other grounds and need not be dealt with separately.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "INDIRECT DISCRIMINATION: THE LAW",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "The prohibition against discrimination in the provision of restaurant services is set out in s 44 of the HRA.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 44 of the HRA",
+                  "context": "The prohibition against discrimination in the provision of restaurant services is set out in s 44 of the HRA."
+                }
+              ],
+              "quoted_material": {
+                "source": "44 Provision of goods and services",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "It shall be unlawful for any person who supplies goods, facilities, or services to the public or to any section of the public—"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "to refuse or fail on demand to provide any other person with those goods, facilities, or services; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "to treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,—"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[15]",
+              "content": "Given the definition of marital status in s 21(1)(b) of the HRA, we have taken the status of single to be those who are not married, in a civil union or in a de facto relationship.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 21(1)(b) of the HRA",
+                  "context": "Given the definition of marital status in s 21(1)(b) of the HRA..."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "Mr Zhang accepts that Red Hill did not decline to provide hotpot to him because he is single. Nor does he claim it directly treated him less favourably for that reason. Rather his claim is its charging policy has the effect of treating him differently and is indirectly discriminatory by virtue of s 65 of the HRA.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 65 of the HRA",
+                  "context": "Rather his claim is its charging policy has the effect of treating him differently and is indirectly discriminatory by virtue of s 65 of the HRA."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "The prohibition against indirect discrimination in s 65 reads:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 65",
+                  "context": "The prohibition against indirect discrimination in s 65 reads:"
+                }
+              ],
+              "quoted_material": {
+                "source": "65 Indirect discrimination",
+                "content": "Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it."
+              }
+            },
+            {
+              "number": "[18]",
+              "content": "That section has been described by the Court of Appeal decision in Ngaronoa v Attorney-General in the following terms: 9",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Ngaronoa v Attorney-General",
+                  "context": "That section has been described by the Court of Appeal decision in Ngaronoa v Attorney-General"
+                }
+              ],
+              "quoted_material": {
+                "source": "Ngaronoa v Attorney-General",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[119]",
+                    "content": "Indirect discrimination under s 65 of the Human Rights Act can arise when a criterion in a law or policy, which is not on its face discriminatory, corresponds to a feature (or lack thereof) of all or part of a group and results in that group being treated differently on a prohibited ground. A Canadian example we will refer to is a policy in a public health system which does not fund the provision of translation services to deaf patients who could otherwise use state care. The provision did not mention deafness, and did not explicitly exclude deaf patients from the benefit of state care, but a failure to provide translation services to deaf patients effectively denied them equal access to important benefits that were available to other persons who were not deaf."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "ISSUES",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "The issues the Tribunal needs to consider are:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[19.1]",
+                  "content": "Does the indirect discrimination claim disclose a reasonable cause of action? and"
+                },
+                {
+                  "title": "[19.2]",
+                  "content": "Is the claim frivolous or vexatious?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IS THE CLAIM FRIVOLOUS OR VEXATIOUS?",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "We first consider whether the claim is frivolous.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "The right to be free from discrimination is a fundamental human right. To avoid trivialising the non-discrimination right, the disadvantage arising from differential treatment, when viewed in context, must not be theoretical, innocuous or de minimus.10",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "In this case, while Red Hill's menu states that the hotpot for the specified price is for a minimum of two people, the plain inference is that when hotpot is ordered the diner will receive sufficient food for two people in return for the price payable. If anyone wants to order that quantity of hotpot for that price, there is no prohibition preventing any diner from doing so. Had Red Hill simply set out the price for hotpot, no exception could be taken. Any discrimination alleged is therefore merely theoretical and does not give rise to material disadvantage.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "As a person dining alone, Mr Zhang objects to paying the full price for a serving of hotpot. He claims that he should be able to order a single portion of hotpot in return for which he agrees it is reasonable to pay more than half the price of the minimum two-person portion on offer. Given Mr Zhang accepted it would be appropriate to charge some additional amount for an individual serving size of hotpot, Red Hill argued that Mr Zhang's principal complaint is about the amount he is required to pay, rather than about discrimination per se and is frivolous for this reason.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "We agree that the essence of this claim is about the minimum charge for a serving of hotpot and how large that serving should be. For Mr Zhang to claim that the non-discrimination right is engaged by this question trivialises the right's importance.",
+              "page": 5
+            },
+            {
+              "number": "[25]",
+              "content": "The claim's overreach is demonstrated by the fact that, if successful, it would permit members of other groups such as Pacific people and Māori who are more likely to be on a lower income than the national average,11 or women who are more likely to be on a lower income than men,12 to also allege that restaurants which fail to serve them smaller portions of food at lower prices amounts to discrimination.13 Further, while any commercial justification put forward by the restaurant would likely prevail, restaurant owners would still face the burden of responding to such claims (as would the Tribunal).",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Zhang's claim lacks the seriousness necessary for it to proceed to trial. Having reached that decision, we consider the claim should be struck out on the ground that it is frivolous.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "Having struck the claim out on this basis, it is unnecessary to consider whether the claim is also vexatious because it was designed to annoy or irritate Red Hill after it changed its policy.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "For completeness, however, we consider whether the claim should be struck out on the basis that it fails to disclose a reasonable cause of action.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "DOES THE CLAIM DISCLOSE A REASONABLE CAUSE OF ACTION?",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[29]",
+              "content": "This issue requires the Tribunal to consider the statement of claim (as pleaded) in light of the relevant provisions of the HRA which have been set out above.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "A plaintiff claiming indirect discrimination based on their membership of a group protected from discrimination under the HRA, must plead (and bring evidence) showing that the group of which they are a member is disproportionately affected in comparison with those in another group by reason of a prohibited ground. Any indirect effects must also impose a material disadvantage, requiring a plaintiff to establish that the differential effect of any law or policy is significant. 14",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "Mr Zhang's claim contains no particulars to support his contention that Red Hill's policy regarding the two-person minimum price for a hotpot disproportionately affects those who are single or that it imposes a material disadvantage on single diners. Instead, the claim proceeds on the assumption that this is the case. We do not consider this is an appropriate matter over which to take judicial notice.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "As we have said above at [10.1], the principle that pleaded facts must be accepted to be true does not extend to allegations that are entirely speculative. There must be an objective factual basis for what is alleged. The Tribunal is not required to assume the factual correctness of allegations for which there is no foundation.15",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "Further, even if we were to accept that persons dining alone are more likely than not to be single, if most single people dined in groups of two or more the impact of Red Hill's policy may not be significant, and therefore would not constitute a material disadvantage to single people as a group. In those circumstances the claim would have no real prospect of success.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "There is also no indication that the relevant facts necessary to establish a prima facie case exist. There is no suggestion that information about how many people dine alone at Red Hill is available or what the marital status of those diners is. Nor will the marital status of those who dine in groups be known. We therefore find that the absence of particulars cannot be remedied by an opportunity to replead the claim.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[35]",
+              "content": "We agree with Red Hill that the proceeding is frivolous and that it discloses no reasonable cause of action. In our view, it is appropriate to strike it out in its entirety and exercise our discretion under s 115A of the HRA to do so. To allow the claim to proceed would be an abuse of the Tribunal's processes.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A of the HRA",
+                  "context": "exercise our discretion under s 115A of the HRA to do so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "Red Hill did not seek costs in relation to its strike out application although it did seek costs in its statement of reply. However, as Mr Zhang is no longer resident in New Zealand, it is unlikely there is any utility in making any award. No order for costs is made.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "The application to strike out HRRT 30/2021 is successful. The claim is struck out in its entirety.",
+              "page": 7
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms ST Scott QSM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Zhang v The First Org Ltd (Strike Out) [2024] NZHRRT 11.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Commissioner of Inland Revenue v Chesterfields Preschools Ltd [2013] NZCA 53 at [89].",
+          "page": 3
+        },
+        {
+          "number": "3",
+          "content": "Parohinog v Yellow Pages Group Ltd [2015] NZHRRT 14 at [31].",
+          "page": 3
+        },
+        {
+          "number": "4",
+          "content": "Attorney General v Prince and Gardner [1998] 1 NZLR 262 (CA) at 267; Couch v Attorney-General [2008] NZSC 45 at [33].",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Deliu v Hong [2011] NZAR 681 (HC) at [21]-[22].",
+          "page": 3
+        },
+        {
+          "number": "6",
+          "content": "Commissioner of Inland Revenue v Chesterfields Preschools Ltd as above n 2, at [89].",
+          "page": 3
+        },
+        {
+          "number": "7",
+          "content": "Commissioner of Inland Revenue v Chesterfields Preschools Ltd as above n 2, at [89].",
+          "page": 3
+        },
+        {
+          "number": "8",
+          "content": "Gwizo v Attorney-General [2022] NZHC 2717 at [44]-[45].",
+          "page": 3
+        },
+        {
+          "number": "9",
+          "content": "Ngaronoa v Attorney-General of New Zealand [2017] NZCA 351, [2017] 3 NZLR 643.",
+          "page": 4
+        },
+        {
+          "number": "10",
+          "content": "Child Poverty Action Group v Attorney-General HC Wellington CIV-2009-404-273, 25 October 2011 at [83] cited approvingly in Ministry of Health v Atkinson [2012] NZCA 184 at [106].",
+          "page": 5
+        },
+        {
+          "number": "11",
+          "content": "Hourly rate of pay for Pacific people is $26, for Māori it is $27, compared with the national median of $29.66. Statistics New Zealand \"Labour Market Statistics (Income): June 2022 Quarter\" <www.stats.govt.nz>",
+          "page": 5
+        },
+        {
+          "number": "12",
+          "content": "Median hourly earnings for all women is $30.15, compared to $33 for all men. Ministry for Women \"The Gender Pay Gap\" (September 2023) <www.women.govt.nz>.",
+          "page": 6
+        },
+        {
+          "number": "13",
+          "content": "HRA, s 21(1)(a), (f), and (g).",
+          "page": 6
+        },
+        {
+          "number": "14",
+          "content": "Ngaronoa v Attorney-General of New Zealand, above n 9 at [148]-[149].",
+          "page": 6
+        },
+        {
+          "number": "15",
+          "content": "Apostolakis v Rennie [2017] NZHRRT 42 at [14].",
+          "page": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 5
+  },
+  "cases": [
+    {
+      "case_number": 67,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 12",
+        "reference_number": "HRRT 067/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "5 March 2019",
+        "case_title": "A v Van Wijk (Access to File)",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF CHAIRPERSON GRANTING ACCESS TO TRIBUNAL FILE SUBJECT TO CONDITIONS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 5
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "A",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "MICHAEL VAN WIJK",
+            "role": "FIRST DEFENDANT"
+          },
+          {
+            "name": "THE BISHOP OF NELSON",
+            "role": "SECOND DEFENDANT"
+          },
+          {
+            "name": "THE VICAR OF BLENHEIM PARISH",
+            "role": "THIRD DEFENDANT"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr RW Kee, Director of Human Rights Proceedings",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr Van Wijk",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr JLS Shaw",
+          "representing": "second and third defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The plaintiff's two causes of action are based on the sexual harassment provisions of s 62(1) of the Human Rights Act 1993. She alleges that when providing her with pastoral care and counselling, the first defendant subjected her to language and physical behaviour of a sexual nature and that he made ongoing requests for sexual activity.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 62(1) of the Human Rights Act 1993",
+                  "context": "The plaintiff's two causes of action are based on the sexual harassment provisions of s 62(1) of the Human Rights Act 1993."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "In these proceedings Mr Van Wijk is self-represented while the second and third defendants (alleged to be vicariously liable for the actions of Mr Van Wijk pursuant to s 68 of the Act) have filed a joint defence.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 68 of the Act",
+                  "context": "alleged to be vicariously liable for the actions of Mr Van Wijk pursuant to s 68 of the Act"
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "By application dated 26 May 2017 the plaintiff applied for interim orders:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[3.1]",
+                  "content": "Prohibiting publication of the name, address, occupation and any other details which might lead to the identification of the plaintiff or of the plaintiff's husband or children in these proceedings."
+                },
+                {
+                  "title": "[3.2]",
+                  "content": "That there be no search of the Tribunal file without leave of the Tribunal or Chairperson."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interim orders in operation",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "By decision given on 18 July 2017 interim non-publication orders were made by the Chairperson pursuant to ss 95 and 107 of the Act. The orders are in the following terms:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 95 and 107 of the Act",
+                  "context": "interim non-publication orders were made by the Chairperson pursuant to ss 95 and 107 of the Act."
+                }
+              ],
+              "quoted_material": {
+                "source": "INTERIM ORDERS",
+                "content": "[23] The following orders are made pursuant to ss 95 and 107 of the Human Rights Act 1993.\n[23.1] Publication of the name, address, occupation and of any other details which could lead to the identification of the plaintiff in these proceedings is prohibited pending further order of the Chairperson or of the Tribunal.\n[23.2] Publication of the name, address, occupation and of any other details which could lead to the identification of the plaintiff's husband or children is prohibited pending further order of the Chairperson or of the Tribunal.\n[23.3] There is to be no search of the Tribunal file without leave of the Chairperson or of the Tribunal. The plaintiff and the defendants are to be notified of any request to search the file and given opportunity to be heard on that application.\n[23.4] Leave is reserved to all parties to make further application should the need arise."
+              }
+            },
+            {
+              "number": "[5]",
+              "content": "The proceedings have not been heard. The reasons for the long delay are explained in Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8. It was not until enactment of the Tribunals Powers and Procedures Legislation Act 2018 that s 99AA of the Human Rights Act was on 14 November 2018 inserted to allow the Governor-General to appoint one or more Deputy Chairpersons of the Tribunal. As at the present date no such appointments had been made.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+                  "context": "The reasons for the long delay are explained in Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 99AA of the Human Rights Act",
+                  "context": "enactment of the Tribunals Powers and Procedures Legislation Act 2018 that s 99AA of the Human Rights Act was on 14 November 2018 inserted"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The application for access",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "On 28 February 2019 at 2:58pm the Tribunal received from Ms Kirsty Johnston, Reporter, New Zealand Herald, an application to view the statement of claim and statement of reply. The request was in the following terms:",
+              "page": 3,
+              "quoted_material": {
+                "content": "Can I please request access to some documents on the Human Rights Review Tribunal file 067/2016.\nSpecifically, I would like to view the statement of claim, and if possible, the statement of defence.\nI realise the plaintiff has name suppression but either it can be redacted or we can abide the usual suppression laws.\nThe reason for the application is because we would seek to publish a story about the case. We would argue the matter is of significant public interest and therefore the information should be released."
+              }
+            }
+          ]
+        },
+        {
+          "title": "The submissions by the parties",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "As required by the terms of the interim orders notice of the access request was given to the plaintiff and all three defendants so that they had opportunity to be heard on the application.",
+              "page": 3
+            },
+            {
+              "number": "[8]",
+              "content": "Submissions have been received from the Director of Human Rights Proceedings (who represents the plaintiff) and from the solicitor representing the second and third defendants. Mr Van Wijk has made no submissions.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "While the plaintiff, in principle, neither opposes nor consents to Ms Johnston's application for access to the statement of claim and statements of reply, the plaintiff asks that the documents be redacted to protect her and her family's identity and to protect her against the potential harm of publication of facts detailed in the statement of claim without the full context that will emerge at trial. Accordingly redactions have been sought:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "To protect the plaintiff and the plaintiff's family's identity."
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "To protect against publication of facts without context."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "The second and third defendants do not oppose the application on the following conditions:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[10.1]",
+                  "content": "If access is to be permitted, such access should be limited to the statement of claim, the statements of reply and the plaintiff's reply to the statement of reply; and"
+                },
+                {
+                  "title": "[10.2]",
+                  "content": "Only the most recent versions of the statement of claim and statements of reply should be provided."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The Tribunal is given power by s 104(5) of the Act to regulate its procedure as it thinks fit. Pursuant to that power it draws, when appropriate, on High Court practice. In the present case guidance has been obtained from the Senior Courts (Access to Court Documents) Rules 2017. Those rules set out the matters to be considered by a judge when considering a request for access under Rule 11. Rule 13 makes a distinction between access requests made before the substantive hearing, during the substantive hearing and after the substantive hearing. See Rule 13. The text of Rules 12 and 13 follows:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 104(5) of the Act",
+                  "context": "The Tribunal is given power by s 104(5) of the Act to regulate its procedure as it thinks fit."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Senior Courts (Access to Court Documents) Rules 2017",
+                  "context": "In the present case guidance has been obtained from the Senior Courts (Access to Court Documents) Rules 2017."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Rule 11",
+                  "context": "Those rules set out the matters to be considered by a judge when considering a request for access under Rule 11."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Rule 13",
+                  "context": "Rule 13 makes a distinction between access requests made before the substantive hearing, during the substantive hearing and after the substantive hearing."
+                }
+              ],
+              "quoted_material": {
+                "source": "Senior Courts (Access to Court Documents) Rules 2017",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "12",
+                    "content": "Matters to be considered\nIn determining a request for access under rule 11, the Judge must consider the nature of, and the reasons given for, the request and take into account each of the following matters that is relevant to the request or any objection to the request:\n(a) the orderly and fair administration of justice:\n(b) the right of a defendant in a criminal proceeding to a fair trial:\n(c) the right to bring and defend civil proceedings without the disclosure of any more information about the private lives of individuals, or matters that are commercially sensitive, than is necessary to satisfy the principle of open justice:\n(d) the protection of other confidentiality and privacy interests (including those of children and other vulnerable members of the community) and any privilege held by, or available to, any person:\n(e) the principle of open justice (including the encouragement of fair and accurate reporting of, and comment on, court hearings and decisions):\n(f) the freedom to seek, receive, and impart information:\n(g) whether a document to which the request relates is subject to any restriction under rule 7:\n(h) any other matter that the Judge thinks appropriate."
+                  },
+                  {
+                    "identifier": "13",
+                    "content": "Approach to balancing matters considered\nIn applying rule 12, the Judge must have regard to the following:\n(a) before the substantive hearing, the protection of confidentiality and privacy interests and the orderly and fair administration of justice may require that access to documents be limited:\n(b) during the substantive hearing, open justice has-\n(i) greater weight than at other stages of the proceeding; and\n(ii) greater weight in relation to documents relied on in the hearing than other documents:\n(c) after the substantive hearing,-\n(i) open justice has greater weight in relation to documents that have been relied on in a determination than other documents; but\n(ii) the protection of confidentiality and privacy interests has greater weight than would be the case during the substantive hearing."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "The grant of access can be made without conditions or subject to any conditions that the judge thinks appropriate. Alternatively, the request can be refused. See Rule 11(7).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Rule 11(7)",
+                  "context": "See Rule 11(7)."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "The interim order decision made by me on 18 July 2017 records that as Chairperson, I have been satisfied:",
+              "page": 4,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[22.1]",
+                    "content": "The plaintiff has shown specific adverse consequences sufficient to justify an exception to the fundamental rule of open justice."
+                  },
+                  {
+                    "identifier": "[22.2]",
+                    "content": "The interests of justice require that that rule be departed from."
+                  },
+                  {
+                    "identifier": "[22.3]",
+                    "content": "The making of an interim order in the terms sought by the plaintiff is necessary in the interests of justice to preserve the position of the parties pending a final determination of the proceedings."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[14]",
+              "content": "On the present application there is no challenge to these findings or to the need for the interim orders to continue until the case has been heard and determined. The only issue is the degree to which the principle of open justice (including the encouragement of fair and accurate reporting of, and comment on, court hearings and decisions as well as the freedom to seek, receive, and impart information) is abridged by the unquestionable need in a sexual harassment case such as the present for suppression orders to be made. Granting access must not put at risk the interim orders.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "As recognised by the Senior Courts (Access to Court Documents) Rules, r 12 the plaintiff has a right to bring her proceedings without the disclosure of any more information about highly sensitive, private matters than is necessary to satisfy the principle of open justice. There are also the interests of her children and other family members. Furthermore r 13 recognises that before the substantive hearing the protection of confidentiality and privacy interests and the orderly and fair administration of justice may require that access to documents be limited.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Senior Courts (Access to Court Documents) Rules, r 12",
+                  "context": "As recognised by the Senior Courts (Access to Court Documents) Rules, r 12"
+                },
+                {
+                  "type": "regulation",
+                  "reference": "r 13",
+                  "context": "Furthermore r 13 recognises that before the substantive hearing the protection of confidentiality and privacy interests and the orderly and fair administration of justice may require that access to documents be limited."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "Having heard the plaintiff and second and third defendants and having considered the matters in r 12 and carried out the balancing exercise in r 13 I have determined that the statement of claim, the first amended statement of reply filed by Mr Van Wijk and the first amended statement of reply by the second and third defendants are to be released to Ms Johnston but subject to redactions sufficient to protect the privacy interests of the plaintiff, the orderly and fair administration of justice and the interim orders.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "r 12",
+                  "context": "having considered the matters in r 12"
+                },
+                {
+                  "type": "regulation",
+                  "reference": "r 13",
+                  "context": "carried out the balancing exercise in r 13"
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "The grant of access is, therefore, subject to conditions. Those conditions are recorded in the orders which follow.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "ACCESS ORDERS",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "Ms Kirsty Johnston, Reporter, New Zealand Herald, is granted limited, conditional access to the Tribunal file as follows:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[18.1]",
+                  "content": "Access is limited to the statement of claim, first amended statement of reply filed by Mr Van Wijk and the first amended statement of reply filed by the second and third defendants."
+                },
+                {
+                  "title": "[18.2]",
+                  "content": "Such access is limited to the redacted versions of the documents as attached to this decision."
+                },
+                {
+                  "title": "[18.3]",
+                  "content": "Such access is limited to use by Ms Johnston for the purpose of bona fide journalism."
+                },
+                {
+                  "title": "[18.4]",
+                  "content": "A copy of this decision is to be provided to the plaintiff, as well as the first, second and third defendants."
+                },
+                {
+                  "title": "[18.5]",
+                  "content": "Leave is reserved to all parties to make further application should the need arise."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as A v Van Wijk (Access to File) [2019] NZHRRT 12. Note non-publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

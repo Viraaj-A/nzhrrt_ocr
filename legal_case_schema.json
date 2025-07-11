@@ -1,0 +1,190 @@
+{
+  "title": "Legal Document Schema - Single or Multiple Cases",
+  "type": "object",
+  "properties": {
+    "document_metadata": {
+      "type": "object",
+      "properties": {
+        "total_cases": {"type": "integer", "minimum": 1},
+        "document_type": {
+          "type": "string", 
+          "enum": ["single_case", "multiple_cases"]
+        },
+        "file_name": {"type": "string"},
+        "total_pages": {"type": "integer"},
+        "extraction_date": {"type": "string"}
+      },
+      "required": ["total_cases", "document_type"]
+    },
+    "cases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "case_number": {"type": "integer"},
+          "case_metadata": {
+            "type": "object",
+            "properties": {
+              "decision_number": {"type": "string"},
+              "reference_number": {"type": "string"},
+              "court_tribunal": {"type": "string"},
+              "jurisdiction": {"type": "string"},
+              "hearing_date": {"type": "string"},
+              "decision_date": {"type": "string"},
+              "case_title": {"type": "string"},
+              "legal_basis": {"type": "string"},
+              "decision_type": {"type": "string"},
+              "page_range": {
+                "type": "object",
+                "properties": {
+                  "start_page": {"type": "integer"},
+                  "end_page": {"type": "integer"}
+                }
+              }
+            }
+          },
+          "parties": {
+            "type": "object",
+            "properties": {
+              "plaintiffs": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {"type": "string"},
+                    "role": {"type": "string"},
+                    "type": {"type": "string"}
+                  }
+                }
+              },
+              "defendants": {
+                "type": "array", 
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {"type": "string"},
+                    "role": {"type": "string"},
+                    "type": {"type": "string"}
+                  }
+                }
+              },
+              "other_parties": {
+                "type": "array",
+                "items": {
+                  "type": "object", 
+                  "properties": {
+                    "name": {"type": "string"},
+                    "role": {"type": "string"}
+                  }
+                }
+              }
+            }
+          },
+          "tribunal_members": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {"type": "string"},
+                "role": {"type": "string"}
+              }
+            }
+          },
+          "appearances": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "counsel": {"type": "string"},
+                "representing": {"type": "string"}
+              }
+            }
+          },
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": {"type": "string"},
+                "page_start": {"type": "integer"},
+                "paragraphs": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "number": {"type": "string"},
+                      "content": {"type": "string"},
+                      "page": {"type": "integer"},
+                      "subsections": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "title": {"type": "string"},
+                            "content": {"type": "string"}
+                          }
+                        }
+                      },
+                      "citations": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "type": {"type": "string"},
+                            "reference": {"type": "string"},
+                            "context": {"type": "string"}
+                          }
+                        }
+                      },
+                      "quoted_material": {
+                        "type": "object",
+                        "properties": {
+                          "source": {"type": "string"},
+                          "content": {"type": "string"},
+                          "internal_paragraphs": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "identifier": {"type": "string"},
+                                "content": {"type": "string"}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "signatures": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {"type": "string"},
+                "role": {"type": "string"},
+                "date": {"type": "string"}
+              }
+            }
+          },
+          "footnotes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "number": {"type": "string"},
+                "content": {"type": "string"},
+                "page": {"type": "integer"}
+              }
+            }
+          }
+        },
+        "required": ["case_number", "case_metadata", "parties", "sections"]
+      }
+    }
+  },
+  "required": ["document_metadata", "cases"]
+}

@@ -1,0 +1,378 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "16-02.pdf",
+    "total_pages": 10
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "16/02",
+        "reference_number": "HRRT 09/01",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "25 November 2002 (Christchurch)",
+        "decision_date": "20th day of December 2002",
+        "case_title": "DIRECTOR OF HUMAN RIGHTS PROCEEDINGS v BRYAN HISLOP SMITH and THE CHRISTCHURCH PRESS LIMITED",
+        "legal_basis": "Human Rights Act",
+        "decision_type": "Decision",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 10
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF HUMAN RIGHTS PROCEEDINGS",
+            "role": "Plaintiff",
+            "type": "Government Agency"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "BRYAN HISLOP SMITH",
+            "role": "First Defendant",
+            "type": "Individual"
+          },
+          {
+            "name": "THE CHRISTCHURCH PRESS LIMITED",
+            "role": "Second Defendant",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr G J Cook",
+          "role": "Member"
+        },
+        {
+          "name": "Ms A Knowles",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms C A Rodgers-Smith",
+          "representing": "Director of Human Rights Proceedings"
+        },
+        {
+          "counsel": "Mr C Hiavac",
+          "representing": "Mr Smith"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "This is a case about sexual harassment. It was commenced by the Proceedings Commissioner before the Human Rights Amendment Act 2001 came into force. The case has already been the subject of a hearing and decision in this Tribunal under its former name of the Complaints Review Tribunal. That decision was set aside by a judgment of the High Court dated 4 June 2002. As a consequence the matters must be heard again.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "One of the defences that Mr Smith has raised is that all matters at issue between himself and the complainant have been settled. It seems clear that an offer of settlement was made by a letter dated 18 April 2000. Although we have not seen the offer we are told that it was written by the Complaints Division of the Human Rights Commission on behalf of the complainant. It was apparently sent to an adviser then acting for Mr Smith. Mr Smith says that it was not in fact received by him at the time. He did not become aware of it until much later. He says that he accepted the offer on 11 June 2001, which was just a little less than 14 months after it was made. That was also the day before the first hearing of the case against him was to commence in the Tribunal.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "The Director of Human Rights Proceedings says that the offer of settlement was made under circumstances amounting to duress, as a result of which any purported acceptance is of no effect. In any event the Director says that when the offer was made it contained an implied term that it was only available for acceptance within a reasonable time, and that by 11 June 2001 it was too late for Mr Smith to purport to accept it.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "These are issues that will need to be decided in due course. In the meantime, the Director concedes that if it were to be found in due course that the case against Mr Smith has been settled, then, although the case against The Christchurch Press would remain, it would not be appropriate for the hearing of the substantive issues about sexual harassment to proceed against Mr Smith.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "The first question we have to decide is whether we have any jurisdiction to determine what is in reality an issue governed by the law relating to contracts, namely whether the case against Mr Smith has been settled.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Legislative Background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "The Human Rights Review Tribunal is a specialist Tribunal dealing with proceedings that can be brought under the Human Rights Act and various other Acts. It hardly needs to be said that it only has such jurisdiction as is conferred upon it by statute. It has, for example, no general jurisdiction to decide cases that involve claims in contract, negligence or otherwise.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Under the Act as it stood before the Human Rights Amendment Act 2001 came into force on 1 January 2002 the statutory scheme for dealing with complaints about unlawful discrimination were set out in Part III. The starting point was the Complaints Division of the Human Rights Commission which was established under section12. The Complaints Division had the primary obligation to receive and consider whether to investigate complaints. If an investigation was carried out then, as we understand, in practice it would most likely have been carried out by the Complaints Division.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "There was an emphasis on the settlement of complaints. The Complaints Division could, for example, effectively require parties to attend at a conciliation conference (see section 80 of the Act before amendment). In every case the Complaints Division was empowered to act as conciliator if it were to appear that a complaint might be capable of settlement (see section 9191)). The Complaints Division was obliged to use its bet endeavours to act as conciliator and try to secure settlements in every case in which it came to the view that the complaint had substance (section 81(2)).",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "The second step in the process involved the Proceedings Commissioner. In very general terms it fell to the Proceedings Commissioner to decide whether a matter was such that he or she ought to bring proceedings in the Complaints Review Tribunal. By virtue of section 83(1) of the Act as it stood before the 2001 amendment the Proceedings Commissioner could issue proceedings against a party notwithstanding a settlement reached on a previous occasion. Section 82(2) made it clear that this might be done where it appeared that the complaint was a result of a failure by the party concerned to observe the terms of the settlement. This meant that there was no general power for the Tribunal to determine issues of a contractual nature. This was because section 83(1) made it clear that civil proceedings before the Tribunal would only lie at the suit of the Proceedings Commissioner for alleged breaches of the antidiscrimination provisions of Part II of the Act. Thus even issues of settlement bad ultimately to be related to some substantive issue of unlawful discrimination. In their net effect these sections did little more than prevent a defendant in proceedings before the Tribunal from defeating the proceedings by relying on a settlement, where it was shown that the defendant was not honouring the settlement.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "For an analysis of the relevant sections see The Proceedings Commissioner v A [1999] 1 NZLR 189. In the conclusion to that decision Her Honour Justice Potter observed:",
+              "page": 3,
+              "quoted_material": {
+                "source": "The Proceedings Commissioner v A [1999] 1 NZLR 189",
+                "content": "\"I conclude that the tribunal was correct in deciding that it did not have jurisdiction to determine proceedings brought by the Commissioner to enforce the settlement agreement against the respondent, Mr A.\nI readily accept, as did the tribunal, that the consequence of limiting s.83 to proceedings for a breach of Part II of the Act, is inconvenient, costly and unwieldy for the commission and complainants. I also accept the point taken by the commission that there is difficulty for the [Complaints Division] in carrying out the 'best endeavours' requirements of the Act to resolve complaints by conciliation and settlement, if any resultant settlement agreement cannot be enforced by the Commissioner, which leaves the complainant to take proceedings for enforcement otherwise than pursuant to the Act. The failure to provide in the Act an appropriate regime for enforcement of settlement agreements reached pursuant to the Act, indeed seems an unfortunate, and serious omission. However, I am not able to derive from the Act any clear intention that the tribunal was to have jurisdiction to enforce settlement agreements. If the legislature intended that the tribunal should have the power to enforce such agreements then that power needs to be given to the tribunal, which derives its powers entirely from the Act. Furthermore, the extent of the powers of the tribunal in relation to the enforcement of settlement agreements would need to be defined. These are policy decisions and it is not for this Court to attempt to fill a gap which would invoke policy decisions. As Tipping J said at p 12 in m v Police in such cases:\n‘...Courts should be extremely chary of making the policy decision implicitly involved.’”"
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "We also note that an individual against whom a complaint had been made, or in respect of whom an investigation had been conducted, could not bring proceedings (see section 83(5)).",
+              "page": 4
+            },
+            {
+              "number": "[12]",
+              "content": "Mr Hlavac (who appeared for the defendant Mr Smith in the present case) accepted that prior to the 2001 Amendment Act Mr Smith could not have looked to this Tribunal to determine the issue as to whether the case against him had been settled. He agreed that the proper course would have been to seek appropriate relief in the Courts of general jurisdiction, most likely in the form of a declaration and/or an injunction to restrain the plaintiff from proceeding against him in the Tribunal.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "We turn to deal with the Act as it stands after amendment by the Human Rights Amendment Act 2001.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "The Complaints Division no longer exists (see section 148L). The Human Rights Commission is now identified as having the obligation to receive complaints and to try wherever possible to facilitate the resolution of them (see section 76(1)).",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "The Proceedings Commissioner has been replaced by a Director of Human Rights Proceedings. The Office of Human Rights Proceedings is part of the Human Rights Commission (see section 20(1)) but the Act provides that in exercising their functions both the Director of Human Rights Proceedings and his or her staff must act independently of the Commission (section 20(3)).",
+              "page": 4
+            },
+            {
+              "number": "[16]",
+              "content": "One of the Director's principal functions now is to decide who ought to represent the Office of Human Rights Proceedings in proceedings before the Tribunal. Where the Director does decide to take a case the complainant will in future ordinarily be shown as the plaintiff. Nevertheless the transitional provisions of the Act make it clear that all proceedings to which the Proceedings Commissioner was a party before 1 January 2002 must be continued and completed by the Director (see s.1481).",
+              "page": 5
+            },
+            {
+              "number": "[17]",
+              "content": "It was suggested at one point that the present case (which was brought and in fact determined by the Tribunal before 1 January 2002) should now be treated as a fresh case under the post-amendment regime. However we think it is clear that this case was commenced under the pre-amendment regime, and that what we will be doing when it comes to hearing it again will involve the re-hearing of a case the commencement of which predates the 2001 amendments to the Act. It follows that the proper plaintiff in this proceeding is the Director and not the complainant herself.",
+              "page": 5
+            },
+            {
+              "number": "[18]",
+              "content": "Of particular importance in the present case is section 92B(4) which provides:",
+              "page": 5,
+              "quoted_material": {
+                "source": "section 92B Civil proceedings arising from complaints",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(4)",
+                    "content": "If parties to a complaint under section 76(2)9a) have reached a settlement of the complaint (whether through mediation or otherwise) but one of them is failing to observe a term of the settlement, another of them may bring proceedings before the Tribunal to enforce the settlement.”"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[19]",
+              "content": "As an aside we note that the procedure contemplates the filing of fresh proceedings. We are not required to decide whether that could be done in the form of a counter claim, because it was agreed that if the section applies then fresh proceedings can and will be commenced by Mr Smith to conform with the section. Most likely the defendant to those proceedings would be the complainant rather than the Director, but at least in the present case these are issues rather of procedure than substance. This is because it was common ground that, if we do have jurisdiction to hear the argument about settlement, then appropriate orders can be made to see that the issues are determined on their merits, in an appropriate way and in an order which meets the requirement of justice.",
+              "page": 5
+            },
+            {
+              "number": "[20]",
+              "content": "Of more importance it is to be noted that s.92B(4) is not limited to the Director. Any of the parties to the settlement of a complaint under the Act can now take steps to enforce it through the Tribunal. Whether and to what extent that is to be treated as adding to the remedies that the Tribunal can otherwise provide is moot. For the present it is (as we have already noted) accepted that if there was a binding settlement of the issues as between the complainant and Mr Smith then the Director will not proceed with the case against Mr Smith.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "The application of s.92B(4) depends on s.76(2)(a) which provides:",
+              "page": 6,
+              "quoted_material": {
+                "source": "76 Functions of Commission under this Part",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(2)",
+                    "content": "The Commission has, in order to early out its function under subsection (1)(b), the following functions:"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "to receive and assess a complaint alleging that there has been a breach of Part 1A or Part 2, or both.\""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "The Issue",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "If the complaint against Mr Smith had been investigated and dealt with by the Human Rights Commission after the 2001 amendment it is clear that we would have the jurisdiction to enforce any settlement. It was agreed that such jurisdiction would extend to determining whether any settlement had been reached for the purpose of then enforcing or otherwise dealing with any term of the settlement'. (We presume one of the terms in this case was that the proceedings would be at an end, although it should be noted we have not seen any of the correspondence said to constitute the settlement.)",
+              "page": 6
+            },
+            {
+              "number": "[23]",
+              "content": "The difficulty is that the present complaint was in fact dealt with by the Complaints Division under the pre-amendment regime. The issue we have to decide is whether, notwithstanding that, the Act is to be read as conferring jurisdiction enabling us to deal with the issue of settlement in this case.",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "Mr Hlavac submitted that the Act should be read in that way. He argued that the effect of the transitional provisions in section 148M of the Act is that all complaints lodged prior to the commencement of the Amendment Act are now deemed to be complaints under s.76(20(a0 of the Act as amended. Section 148M provides:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Section 148M Outstanding complaints to be dealt with by Commission under new procedure",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "A complaint lodged with the Complaints Division before the commencement of this Act must be dealt with by the Commission under Part 3 (as substituted by section 9 of the Human Rights Amendment Act 2001) as if the complaint were made to the Commission under section 76(2)(a)."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "For the purposes of subsection (1), —"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "if the Complaints Division has called a conciliation conference under section 80(1) (as it read immediately before the commencement of this section) but the conference has not taken place, the Commission must instead offer to convene a dispute resolution meeting; and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "if section 79(2) applies to the complaint, the Commission must inform the Attorney-General of the details of the complaint as soon as practicable."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Despite subsection (1), if, in relation to a complaint, the Complaints Division has decided not to investigate the complaint further under section 76(1) or section 77(1)(a) (as they read immediately before the commencement of this section), the Commission must take no action or further action in relation to the complaint.\""
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[25]",
+              "content": "Mr Hlavac submitted that were that not the effect of section 148M then a situation might exist in which settlements reached in respect of complaints dealt with under the old Act because the pre-amendment sections were repealed by the Amendment Act thus leaving a vacuum in which even the Director could not bring proceedings consequent on the breach of settlement. He said that Parliament cannot have intended that outcome, and urged us to adopt a purposive interpretation of the new provision to hold that we do have the jurisdiction to deal with the settlement issue in this case.",
+              "page": 7
+            },
+            {
+              "number": "[26]",
+              "content": "We were also referred to section 105 which requires the Tribunal to act on matters before it according to the substantial merits and without regard to technicalities.",
+              "page": 7
+            },
+            {
+              "number": "[27]",
+              "content": "Finally Mr Hlavac drew our attention to section 920 which provides, amongst other things, that if the Tribunal determines that an act or omission is in breach of the terms of a settlement then it may refuse to grant a remedy that has retrospective effect. It was submitted that the section shows that we are entitled to consider settlement agreements and alleged breaches thereof retrospectively i.e. before the commencement of the Amendment Act.",
+              "page": 7
+            },
+            {
+              "number": "[28]",
+              "content": "We have considerable sympathy for the arguments advanced by Mr Hlavac. It is plain enough that the purpose of enacting section 92B(4) was, amongst other things, to confer jurisdiction on the Tribunal to enable it to deal with exactly the sort of situation that exists here - where one party is saying that the other ought not to be allowed to proceed because of a settlement. If we cannot deal with the argument then it will have to be dealt with by a Court of general jurisdiction, which will not have the first instance jurisdiction to deal with the substantive anti-discrimination issues. Thus there is the prospect not only of delay but also of unnecessary duplication of proceedings.",
+              "page": 7
+            },
+            {
+              "number": "[29]",
+              "content": "These were the very things that were of concern to Potter, J in The Proceedings Commissioner v A. We accept that the new section 92B(4) was designed to meet those concerns. We admit to harbouring a suspicion that when the 2001 amendments were being drafted the Legislature may have overlooked the need for an explicit transitional provision to make it clear that the new section 92B(4) jurisdiction would apply to complaints that were dealt with by the Complaints Division under the pre 2002 regime as well as the Human Rights Commission under the post 2002 regime. Certainly it is difficult to see what policy reason there might have been for excluding settlement issues arising out of cases dealt with by the Complaints Division from the Tribunal, when the decision had obviously been made to confer such jurisdiction in respect of cases dealt with by the Human Rights Commission post-2002.",
+              "page": 8
+            },
+            {
+              "number": "[30]",
+              "content": "For all that, in the end result we are not persuaded that it would be right to read section 92B(4) as conferring jurisdiction on the Tribunal to deal with the settlement issue that has been raised in this case. It is s.92B(4) which provides that it is a party to a complaint under s.76(2)(a) who can bring the relevant proceedings to the Tribunal. Section 76(2)(a) is clear in its terms. It relates only to the functions of the Commission, and the assessment of complaints by the Commission. There are no words in the text of sections 93B(4) or 76(2)(a) that can be regarded as having somehow included pre-2002 complaints that were dealt with by the Complaints Division, or which otherwise confer jurisdiction upon the Tribunal to do that which it plainly could not do before.",
+              "page": 8
+            },
+            {
+              "number": "[32]",
+              "content": "Furthermore, although it might have been more effective if it had been a deeming provision, the fact is that section 148M does not deem anything. All it says is that outstanding complaints must be dealt with by the Commission under Part III as amended as if the complaints were made to the Commission under section 76(2)(a). There is no reference to the Tribunal at all. We do not regard section 148M as dealing with proceedings in the Tribunal.",
+              "page": 8
+            },
+            {
+              "number": "[33]",
+              "content": "Nor do we think that sections 105 or 920 assist Mr Hlavac's argument. Section 105 relates to the way in which the Tribunal must deal with cases that are within its jurisdiction. It does not in our view apply to the determination of jurisdictional issues. Everything the Tribunal does must have a secure statutory basis. While the section plainly applies to the work that is within our jurisdiction it cannot in our view be relied upon to extend jurisdiction where it does not otherwise exist.",
+              "page": 8
+            },
+            {
+              "number": "[34]",
+              "content": "As far as section 920 is concerned again we do not see that the section can be treated as doing anything more than that which it is expressed to do, namely to provide the Tribunal with powers to impose or refuse various remedies in cases that are within the Tribunal's jurisdiction. It draws too long a bow to infer from the section that we should regard ourselves as having jurisdiction over substantive issues which are not expressly provided for elsewhere in the Act.",
+              "page": 9
+            },
+            {
+              "number": "[35]",
+              "content": "There was considerable argument about the application of the Interpretation Act 1999 and in particular section 18 of that Act. Ms Rodgers-Smith submitted that because of that section the provisions of the Act before amendment would still apply to cases that were commenced under the pre-Amendment Act, so that at least the Director would still have the power to bring proceedings despite an assertion of settlement by a defendant.",
+              "page": 9
+            },
+            {
+              "number": "[36]",
+              "content": "Mr Hlavac submitted that because of section 4 of the Interpretation Act we should regard the transitional provisions of the Human Rights Amendment Act 2001 as a complete code of the provisions effecting the changeover from the pre-2002 regime to the post-2002 regime. From that he said it followed that since section 1481(2) does not refer to section 83 of the pre- Amendment Act, even the Director does not retain such a power any longer. He argued that this made it the more appropriate for us to take a broad view of section 94B(2).",
+              "page": 9
+            },
+            {
+              "number": "[37]",
+              "content": "We do not consider that we are required to decide the point in this case, and we prefer to express no opinion on it. What we will say is if that is the effect of the amendment then it would not alter the fact that the Amendment Act does not contain express words to confer the jurisdiction for which Mr Hlavac contends on behalf of Mr Smith.",
+              "page": 9
+            },
+            {
+              "number": "[38]",
+              "content": "We wish to record our appreciation for the careful and cogent arguments that counsel have presented today. As we have said we feel considerable sympathy for the position that Mr Hlavac argued for and we think it regrettable that the Amendment Act does not make it clear that the new section 94B(2) jurisdiction applies to all cases before the Tribunal. Be that as it may, we feel considerable hesitation about adopting a purposive interpretation of the Act in order to assume jurisdiction over contractual issues (which are not issues that are naturally within our field of expertise) when there are no words in the Act to confer such jurisdiction in express terms.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "Decision",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[39]",
+              "content": "The Tribunal is only empowered to deal with those matters that Parliament has seen fit to entrust to it. For whatever reason, Parliament has not in our view conferred jurisdiction for us to deal with the settlement issue that Mr Smith wishes to raise in this case. It is our view that the appropriate procedure is for him to take the issue to a Court of general jurisdiction.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "Orders",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[40]",
+              "content": "It is appropriate to afford each of the parties an opportunity to reflect on their positions in light of this decision.",
+              "page": 10
+            },
+            {
+              "number": "[41]",
+              "content": "Accordingly the Tribunal directs that there will be a telephone conference on a date to be advised by the Registrar (but hopefully before the end of this calendar year) at which time the Chairperson of the Tribunal will address what timetable orders should be made.",
+              "page": 10
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson",
+          "date": "20th day of December 2002"
+        },
+        {
+          "name": "A Knowles",
+          "role": "Member",
+          "date": "20th day of December 2002"
+        },
+        {
+          "name": "G J Cook",
+          "role": "Member",
+          "date": "20th day of December 2002"
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

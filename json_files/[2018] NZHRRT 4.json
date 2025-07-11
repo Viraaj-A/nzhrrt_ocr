@@ -1,0 +1,346 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 4,
+    "extraction_date": "2024-06-04"
+  },
+  "cases": [
+    {
+      "case_number": 4,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 4",
+        "reference_number": "HRRT 072/2015, HRRT 078/2016, 008/2016, 010/2016, 049/2016, 029/2017, 039/2017, 046/2017",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WELLINGTON",
+        "hearing_date": "19 February 2018",
+        "decision_date": "22 February 2018",
+        "case_title": "Re Apostolakis No. 3 (Refusal of Name Suppression) [2018] NZHRRT 4",
+        "decision_type": "DECISION OF TRIBUNAL DISMISSING PLAINTIFF'S APPLICATION FOR NAME SUPPRESSION",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "KATHY APOSTOLAKIS",
+            "role": "Plaintiff"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ATTORNEY-GENERAL",
+            "role": "Defendant"
+          },
+          {
+            "name": "PETER GILBERT",
+            "role": "Defendant"
+          },
+          {
+            "name": "JACINDA RENNIE",
+            "role": "First Defendant"
+          },
+          {
+            "name": "JANA DE POLO",
+            "role": "Second Defendant"
+          },
+          {
+            "name": "ATTORNEY-GENERAL",
+            "role": "First Defendant"
+          },
+          {
+            "name": "ROB GARLICK",
+            "role": "Second Defendant"
+          },
+          {
+            "name": "SIMON NICHOLAS MIEKLE",
+            "role": "Third Defendant"
+          },
+          {
+            "name": "PUBLIC TRUST",
+            "role": "Defendant"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "KATHY APOSTOLAKIS",
+            "role": "IN THE MATTER OF INTENDED PROCEEDINGS BY"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mrs K Apostolakis",
+          "representing": "in person"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mrs Apostolakis has brought multiple proceedings before the Tribunal. In the 12 month period between November 2016 and December 2017 alone the Tribunal has published no fewer than 11 decisions. All of these decisions have been published (without redaction) on the Tribunal's website.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The application for name suppression",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "On Friday 4 August 2017 Mrs Apostolakis called at the office of the Tribunals Unit, Ministry of Justice, Wellington demanding that the decision in Re Apostolakis (Rejection of Statement of Claim) [2016] NZHRRT 35 (11 November 2016) be removed from the Tribunal website. She claimed to have name suppression. When the Secretary asked for proof of this claim Mrs Apostolakis returned on Monday 7 August 2017 and produced the cover page of a decision given by Grace DJ on 13 October 2009 in DDP v KA FAM-2006-085-000498. The banner at the top of the page read:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Re Apostolakis (Rejection of Statement of Claim) [2016] NZHRRT 35",
+                  "context": "The decision which Mrs Apostolakis demanded be removed from the Tribunal website."
+                },
+                {
+                  "type": "case",
+                  "reference": "DDP v KA FAM-2006-085-000498",
+                  "context": "The decision produced by Mrs Apostolakis as proof of name suppression."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 35A of the Property (Relationships) Act 1976",
+                  "context": "Cited in the banner of the decision produced as proof."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 11B to 11D of the Family Courts Act 1980",
+                  "context": "Cited in the banner of the decision produced as proof."
+                }
+              ],
+              "quoted_material": {
+                "content": "NOTE: Pursuant to s 35A of the Property (Relationships) Act 1976, any report of this proceeding must comply with ss 11B to 11D of the Family Courts Act 1980."
+              }
+            },
+            {
+              "number": "[3]",
+              "content": "As to this, the decision of the Tribunal in [2016] NZHRRT 35 makes no reference to any proceedings brought by Mrs Apostolakis under the Property (Relationships) Act 1976 or to the proceedings determined by Grace DJ. It follows any suppression orders made in the judgment of 13 October 2009 have no application or relevance.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "[2016] NZHRRT 35",
+                  "context": "The decision makes no reference to proceedings under the Property (Relationships) Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Property (Relationships) Act 1976",
+                  "context": "Proceedings brought by Mrs Apostolakis under this act are not referenced in the 2016 decision."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "It was in these circumstances that by letter dated 9 August 2017 the Secretary advised Mrs Apostolakis that she appeared to be of the fundamentally mistaken view that because in proceedings under the Property (Relationships) Act 1976 she had had the benefit of ss 11B to 11D of the Family Courts Act 1980, in every other proceeding brought by her in other fora, she had the right to name suppression. Mrs Apostolakis was advised the decision of the Tribunal in [2016] NZHRRT 35 would not be removed from the Tribunal's website.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Property (Relationships) Act 1976",
+                  "context": "Act under which Mrs Apostolakis had the benefit of suppression provisions."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 11B to 11D of the Family Courts Act 1980",
+                  "context": "Suppression provisions Mrs Apostolakis had the benefit of."
+                },
+                {
+                  "type": "case",
+                  "reference": "[2016] NZHRRT 35",
+                  "context": "The decision that the Tribunal advised would not be removed from its website."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "In concluding his response to Mrs Apostolakis, the Secretary reminded her that by previous letter dated 31 July 2017 in the matter of HRRT029/17: Apostolakis v Attorney-General & Others her attention had been drawn to the fact that a party seeking name suppression from the Tribunal must file and serve a formal application. She was asked to note that the decision in Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 (Waxman) sets out the principles to be applied when such application is made.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HRRT029/17: Apostolakis v Attorney-General & Others",
+                  "context": "The matter in which a previous letter was sent to Mrs Apostolakis."
+                },
+                {
+                  "type": "case",
+                  "reference": "Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 (Waxman)",
+                  "context": "Decision setting out principles for name suppression applications."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "In response to further correspondence from Mrs Apostolakis the Secretary on 31 July 2017, 5 December 2017 and 14 February 2018 wrote along similar lines reminding Mrs Apostolakis that a party seeking name suppression must file and serve formal application and that the application must necessarily address the relevant principles in Waxman.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waxman",
+                  "context": "Case containing relevant principles for the application."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "Eventually, by letter dated 19 February 2018 Mrs Apostolakis filed (but did not serve on any of the defendants) a one-page letter application in the following terms:",
+              "page": 3,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "1.",
+                    "content": "I received your letter dated 14 February 2018 today, the 19th February 2018."
+                  },
+                  {
+                    "identifier": "2.",
+                    "content": "Please treat this letter as a \"formal application\" for non-publication orders as in DDP v KA FAM 2006-085-498 on 15 September 2006 and 13 October 2009."
+                  },
+                  {
+                    "identifier": "3.",
+                    "content": "I have previously given the verification to Gareth Davies."
+                  },
+                  {
+                    "identifier": "4.",
+                    "content": "This application is made in reliance on: Y v Attorney General [2016] NZCA 474, [2016] NZAR 1512, SC 128/2016, [2017] NZSC 26."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 4,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "5.",
+                    "content": "On further grounds, that I have suffered abuse and ill treatment by government departments."
+                  },
+                  {
+                    "identifier": "",
+                    "content": "Yours faithfully"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[8]",
+              "content": "Enclosed was a letter dated 15 February 2018 from Mrs Apostolakis to the Privacy Commissioner complaining that the Secretary had:",
+              "page": 4,
+              "quoted_material": {
+                "content": "... acted with malice and lack of good faith and who acted with reckless disregard to the provisions of the Domestic Violence Act 1995 and protection orders and the non-publication of identifying particulars such as names and addresses of the parties."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "The essential issue is whether the interests of justice require that the general rule of open justice be departed from. If they do so require, such departure is permissible but only to the extent necessary to serve the ends of justice. See for example Erceg v Erceg [Publication restrictions] [2016] NZSC 135, [2017] 1 NZLR 310 at [3] cited in Waxman at [56] to [66].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Erceg v Erceg [Publication restrictions] [2016] NZSC 135",
+                  "context": "Example case for the principle of open justice."
+                },
+                {
+                  "type": "case",
+                  "reference": "[2017] 1 NZLR 310 at [3]",
+                  "context": "Citation for the principle of open justice."
+                },
+                {
+                  "type": "case",
+                  "reference": "Waxman at [56] to [66]",
+                  "context": "Where Erceg v Erceg was cited."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "Applying the law to the facts:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[10.1]",
+                  "content": "Mrs Apostolakis reasons that because in proceedings under the Property (Relationships) Act she had the benefit of the suppression provisions in ss 11B to 11D of the Family Courts Act 1980, in every other proceedings brought by her in other courts or tribunals she has the same right to name suppression. As previously mentioned, this is a fundamentally mistaken view."
+                },
+                {
+                  "title": "[10.2]",
+                  "content": "Mrs Apostolakis has been unable to point to any decision of the Tribunal in which the statutory suppression provisions relied on by her have been breached."
+                },
+                {
+                  "title": "[10.3]",
+                  "content": "The assertion by Mrs Apostolakis that she has “suffered abuse and ill treatment by government departments” is not a ground for granting name suppression."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "It follows Mrs Apostolakis has singularly failed to establish a case for name suppression.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "DECISION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "The application by Mrs Apostolakis for name suppression is dismissed.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Re Apostolakis No. 3 (Refusal of Name Suppression) [2018] NZHRRT 4]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

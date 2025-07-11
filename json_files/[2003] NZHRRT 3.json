@@ -1,0 +1,178 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "Decision No.3-03.pdf",
+    "total_pages": 3,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "3/03",
+        "reference_number": "HRRT 47/02",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Auckland",
+        "hearing_date": "",
+        "decision_date": "12th day of February 2003",
+        "case_title": "CHRISTOPHER JOSEPH O'NEILL AND MICHELLE",
+        "legal_basis": "Human Rights Act 1993",
+        "decision_type": "DECISION",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "CHRISTOPHER JOSEPH O'NEILL",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "MICHELLE",
+            "role": "Defendant",
+            "type": ""
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms P McDonald",
+          "role": "Member"
+        },
+        {
+          "name": "Mr G Cook",
+          "role": "Member"
+        }
+      ],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "DECISION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By Notice of Intention to Bring Proceedings dated 27 September 2002, the plaintiff has claimed that the use of certain phrases by the proposed defendant in submissions filed in another matter before the Tribunal amounts to an unlawful discrimination against him by reason of race (section 21 (f) of the Human Rights Act 1993 \"the Act\") and / or ethnic or national origins (section 21 (g) of the Act). This complaint is one of about ten separate claims that were commenced by Mr O'Neill in the Tribunal during 2002.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 21 (f) of the Human Rights Act 1993",
+                  "context": "discrimination against him by reason of race (section 21 (f) of the Human Rights Act 1993 “the Act”)"
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 21 (g) of the Act",
+                  "context": "discrimination against him by reason of ... ethnic or national origins (section 21 (g) of the Act)."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "The complaint relates to submissions filed in HRRT 2/02: Christopher Joseph O'Neill v Health & Disability Commissioner concerning a jurisdictional issue in that matter. Ms Donovan (who is counsel appearing for the Privacy Commission in that matter) used two Latin phrases in her submissions. The first was \"res ipa loquitur\" and the second was \"de novo\".",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HRRT 2/02: Christopher Joseph O'Neill v Health & Disability Commissioner",
+                  "context": "The complaint relates to submissions filed in HRRT 2/02: Christopher Joseph O'Neill v Health & Disability Commissioner concerning a jurisdictional issue in that matter."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "The plaintiff's complaint in this case is expressed in a letter to the Human Rights Commission dated 16 August 2002 in the following terms:",
+              "page": 1,
+              "quoted_material": {
+                "source": "letter to the Human Rights Commission dated 16 August 2002",
+                "content": "\"The submission by the Privacy Commissioner was not in order, in that it contained several words and phrases of a language foreign to me. I guessed this language to be Latin, the language of the law, and endeavoured to gain a translation to this foreign tongue via a Latin — English dictionary. This was not at all helpful as the translation made no sense to me....\nI cannot for one not accept that Michelle Donovan, the person acting for the Commission, would think me and ancient roman, and therefore fluent in the ancient, deed, illegal in New Zealand, and foreign language of ancient Rome. I believe that Ms Donovan's motives may well be to deliberately disadvantage me by her use, in an important document, of the ancient, deed, illegal in New Zealand and foreign language of Latin...\n...My complaint falls under RACE and ETHNIC or NATIONAL ORIGINS. I am not of the race, ancient roman, and only those of this race could be expected to understand the ancient, illegal in NZ, foreign, dead language of those now extinct people...\n... The act of discrimination was my being treated as unfairly, and less favourably than all other parties, as all other parties understand the language used...\""
+              }
+            },
+            {
+              "number": "[4]",
+              "content": "Arising out of this complaint Mr O'Neill sought in an unspecified way \"Compensation — apology — justice\".",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "The claim was referred to the Chairman of the Tribunal before the proceedings were served on the proposed defendant because there appeared to be a jurisdictional question as to whether the matter had been investigated by the Human Rights Commission. By minute dated 10 January 2003, the Chairman invited Mr O'Neill to file submissions showing reasons why the matter ought not be dealt with under section 115 of the Act. Mr O'Neill has done so by letter dated 26 January 2003.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 115 of the Act",
+                  "context": "showing reasons why the matter ought not be dealt with under section 115 of the Act."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "The Tribunal has considered the arguments advanced by Mr O'Neill but is satisfied that it cannot sensibly be argued that he has been the subject of unlawful discrimination under the Human Rights Act because Ms Donovan used these two Latin phrases in her submissions.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Having considered the submissions filed by Ms Donovan in the proceedings under HRRT 2/02 we do not believe that the way in which the phrases were used would have been such as to cause any real confusion. The substance of her argument is made clear in the context, and in one case (the reference to 'res ipsa loquitur') her submission went on after using the phrase to say what she meant in English.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HRRT 2/02",
+                  "context": "Having considered the submissions filed by Ms Donovan in the proceedings under HRRT 2/02"
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "The Tribunal accepts that lay people who appear in the Tribunal cannot be expected to understand the Latin tags that are familiar to lawyers. But that is a question of training and education rather than one relating to race or ethnic origin. It is empty to suggest that there has been discrimination against Mr O'Neill because he is not an ancient roman. In any event, we cannot see how Mr O'Neill could persuasively argue that in these circumstances the Tribunal ought to award compensation.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "Section 115 of the Act provides,",
+              "page": 2,
+              "quoted_material": {
+                "source": "Section 115 of the Act",
+                "content": "\"The Tribunal may at any time dismiss any proceedings under section 92 (B) or section 92 (E) of this Act if it is satisfied that they are trivial, frivolous or vexatious or are not brought in good faith\"."
+              }
+            },
+            {
+              "number": "[10]",
+              "content": "We are satisfied that this proceeding is trivial and frivolous. It is dismissed for those reasons.",
+              "page": 3
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson",
+          "date": "12th day of February 2003"
+        },
+        {
+          "name": "P McDonald",
+          "role": "Member",
+          "date": "12th day of February 2003"
+        },
+        {
+          "name": "G Cook",
+          "role": "Member",
+          "date": "12th day of February 2003"
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

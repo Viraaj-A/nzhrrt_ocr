@@ -1,0 +1,160 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "[2018] NZHRRT 15",
+    "total_pages": 2
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 15",
+        "reference_number": "HRRT 013/2018",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "24 April 2018",
+        "case_title": "Reekie v Corrections (Extension of Time)",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL GRANTING DEFENDANT AN EXTENSION OF TIME FOR FILING STATEMENT OF REPLY",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "NICHOLAS PAUL ALFRED REEKIE",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CHIEF EXECUTIVE DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr Reekie",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms A Todd and Ms L Dittrich",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL GRANTING DEFENDANT AN EXTENSION OF TIME FOR FILING STATEMENT OF REPLY",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Regulation 15(1) of the Human Rights Review Tribunal Regulations 2002 provides that a defendant who intends to defend proceedings must, within 30 days after the day on which the notice of proceedings is served on him or her, file in the office of the Tribunal a statement of reply to the plaintiff's claim and must serve a copy of the statement of reply on the plaintiff and any other party.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Regulation 15(1) of the Human Rights Review Tribunal Regulations 2002",
+                  "context": "Provides the timeframe for a defendant to file a statement of reply."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "In the present case the statement of reply was due to be filed on 20 April 2018.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "By memorandum dated 13 April 2018 the Chief Executive, Department of Corrections has sought an extension of time for filing his statement of reply until 30 May 2018. The grounds of the request are:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[3.1]",
+                  "content": "This claim relates to events that occurred between March 2012 and April 2015. It is proving time-consuming and difficult for Corrections to isolate the documents that may be relevant to this claim and which will enable Corrections to prepare its reply."
+                },
+                {
+                  "title": "[3.2]",
+                  "content": "Given the unprecedented increase in the Tribunal's workload and the practical constraints faced by the Tribunal in progressing individual cases, it is not anticipated that the extension will cause any prejudice or delay to the Tribunal process."
+                },
+                {
+                  "title": "[3.3]",
+                  "content": "Allowing time for Corrections to locate documents and to prepare its reply will assist the Tribunal and Mr Reekie to better understand Corrections' position, leading to a more efficient resolution of the claims."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "Mr Reekie by memorandum dated 24 April 2018 (received 23 April 2018) has advised he consents to the application.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "In the circumstances outlined the case for an extension of time is compelling.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Order",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "The application for extension of time is granted. The time for the Chief Executive, Department of Corrections to file his statement of reply is extended to 5pm on Wednesday 30 May 2018.",
+              "page": 2
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Reekie v Corrections (Extension of Time) [2018] NZHRRT 15]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 14,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 662016,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 55",
+        "reference_number": "HRRT 066/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WHANGAREI",
+        "hearing_date": "26 and 27 March 2019",
+        "decision_date": "19 December 2019",
+        "case_title": "Director of Human Rights Proceedings v Katui Early Childhood Learning Centre Ltd",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 14
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF HUMAN RIGHTS PROCEEDINGS",
+            "role": "PLAINTIFF",
+            "type": "Government Agency"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "KATUI EARLY CHILDHOOD LEARNING CENTRE LIMITED",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms MA Roche",
+          "role": "Co-Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R Robins",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr R Mark",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Dana Gin-Cowan was employed at Katui Early Childhood Learning Centre between May 2010 and February 2015. On 5 February 2015, she resigned to take up a position at the Waatea Early Childhood Centre in Mangere (Waatea) which is operated by Te Whare Wananga o MUMA (MUMA). Following Ms Gin-Cowan's resignation, the Tumuaki (principal) of MUMA, Tania Rangiheuea, rang Katui and spoke to the acting centre manager, Teinia Smith, about Ms Gin-Cowan's work performance at Katui. She also spoke to one of the Katui owners and directors, Tui Matthews. Following these conversations, Ms Rangiheuea did not proceed with Ms Gin-Cowan's employment with MUMA, leaving her without a job.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "The issue to be determined is whether Katui, in having discussions with Ms Rangiheuea about Ms Gin-Cowan, breached Principle 11 of the Privacy Act 1993 which prevents the disclosure of personal information except in certain circumstances and, if so, whether there was an interference with Ms Gin-Cowan's privacy.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Principle 11 of the Privacy Act 1993",
+                  "context": "The paragraph discusses a potential breach of Principle 11."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "In May 2010, Ms Gin-Cowan began working at Katui Early Childhood Learning Centre. The centre is owned and operated by Katui Early Childhood Learning Centre Limited (Katui). The directors and shareholders of Katui are a husband and wife, Tui and Kawhena Matthews. Ms Gin-Cowan was an experienced early childhood educator and holds a Diploma in Teaching (Early Childhood Education). About a year after starting work at Katui, Ms Gin-Cowan entered a de facto relationship with Mr and Mrs Matthews' son, Dane.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Difficulties arose on several occasions between Ms Gin-Cowan and the centre management. In 2012 a disciplinary meeting was held between Ms Gin-Cowan and the centre managers which was attended by Ms Gin-Cowan's union representative. Another disciplinary meeting was held in 2013 to discuss a large number of issues including Ms Gin-Cowan's failure to follow reasonable instructions, and accusations that she had been making personal use of the photocopier and using her personal cellphone at work, amongst other things. Another issue was the failure of Ms Gin-Cowan to complete professional development assessments which were required from the centre by the Education Review Office.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "In November 2014, Ms Gin-Cowan separated from Dane Matthews. The separation was acrimonious, and Ms Gin-Cowan considers that her relationship with Mr and Mrs Matthews, particularly Mrs Matthews, became difficult at this point. Around this time, a serious allegation about Ms Gin-Cowan was reported to Mr Matthews by a member of the public.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Mr Matthews sent Ms Gin-Cowan a series of letters requesting meetings to discuss the serious allegation. On 23 December 2014, a meeting eventually took place. The meeting was attended by Mr Matthews, Ms Gin-Cowan and Erana Tahere, the Katui centre manager, who took notes. A follow up to the meeting was arranged for 29 December 2014 but did not proceed due to Ms Gin-Cowan's absence.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "In January 2015, Ms Gin-Cowan learnt of a job opportunity at MUMA which was for the centre supervisor at the Waatea. This was a senior role that came with a substantial salary. She learnt of the vacancy from her former sister-in-law, Tatiana Greening, who worked at MUMA and was a close friend. On 3 February 2015, Ms Gin-Cowan was interviewed at MUMA for the position by Ms Rangiheuea and Ms Greenwood. She returned to MUMA the following day and was provided by Ms Greenwood with an individual employment agreement which she signed. The agreement was not signed by anyone on behalf of MUMA.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "There is a dispute between Ms Gin-Cowan and MUMA as to whether Ms Gin-Cowan was employed. She thought she was and on 5 February 2015 resigned from her position at Katui in reliance on her new employment. That evening, she was contacted by Ms Greening and requested to provide a curriculum vitae to MUMA. Ms Gin-Cowan did not have a curriculum vitae and so prepared one in haste which she sent to MUMA on the evening of Sunday 8 February 2015. On the curriculum vitae she named Erana Tahere as her referee and provided the telephone number of Katui as the contact number for Ms Tahere.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "Following Ms Gin-Cowan's resignation, Mr Matthews, Ms Tahere and Ms Smith met and agreed that Katui would not provide a written reference for Ms Gin-Cowan because of her unsatisfactory work performance.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "Either on or before 9 February 2015, Ms Rangiheuea rang the Katui number and asked to speak to Ms Tahere. The telephone was answered by the acting centre manager, Tania Smith. Ms Tahere had had medical complications following childbirth the previous year and had been away from Katui on an extended period of maternity leave and then sick leave. By early 2015 she was attending the centre for an hour or two on a regular basis while still recovering. Ms Smith advised Ms Rangiheuea that Ms Tahere was away on sick leave and that she was the acting centre manager. Ms Rangiheuea asked Ms Smith whether she would provide a reference for Ms Gin-Cowan. Ms Smith replied that she would not and volunteered that she and Ms Gin-Cowan did not get on. Ms Rangiheuea asked whether Ms Smith would re-employ Ms Gin-Cowan to which Ms Smith replied that she would not. She then gave Ms Rangiheuea the telephone number for Tui and Kawhena Matthews.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "Ms Rangiheuea then rang and spoke to Mrs Matthews. There is some dispute about what was said. In a sworn statement presented at the Employment Relations Authority, Ms Rangiheuea said that Mrs Matthews told her that Ms Gin-Cowan was often late to work, was unreliable, and had unsatisfactory work habits. Ms Rangiheuea repeated this evidence before the Tribunal.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "Ms Gin-Cowan had travelled to Auckland on 9 February 2015 thinking that she would be starting work at MUMA that day. However, there, Ms Rangiheuea advised her that her references had not been favourable, and that MUMA would not be proceeding with her employment. She also told Ms Gin-Cowan that she (Ms Rangiheuea) had been unaware Ms Gin-Cowan had been hired, and that as far as Ms Rangiheuea was concerned, she had not.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "Ms Gin-Cowan returned to Kaikohe that day. She now had no job and had to tell her children what had happened. Ms Gin-Cowan was the solo parent to five dependent children, and without a job, was under considerable financial strain. She had difficulty paying her mortgage and providing sufficient food for the family. Eventually, she made several job applications and obtained part time employment with the Ferns Education Trust - which was supplemented by a Work and Income benefit.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "On 5 January 2016, the Employment Relations Authority issued a determination concerning an employment dispute between Ms Gin-Cowan and MUMA. Ms Gin-Cowan claimed that she had been unjustifiably dismissed by MUMA while MUMA claimed that it had not employed Ms Gin-Cowan. The Authority found in Ms Gin-Cowan's favour but also found that she could not bring a personal grievance against MUMA because her employment was subject to a three-month trial. She was awarded four weeks salary in lieu of notice of her dismissal.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "On 26 March 2015, Ms Gin-Cowan complained to the Privacy Commissioner about the disclosures that had been made about her by Katui to MUMA. The Certificate of Investigation released on 11 April 2016 recorded that Ms Gin-Cowan's complaint had been investigated under Principle 11 and that the Commissioner's opinion was that there was a breach of Principle 11 and an interference with Ms Gin-Cowan's privacy.",
+              "page": 4
+            },
+            {
+              "number": "[16]",
+              "content": "On 5 October 2016, the Director of Human Rights Proceedings (DoHRP) filed proceedings in the Tribunal under the Privacy Act. The proceedings were brought pursuant to s 82(2) of the Privacy Act.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 82(2) of the Privacy Act",
+                  "context": "Cited as the legal basis for bringing proceedings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Legal issues",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "As noted earlier, it is necessary to determine whether there has been an interference with Ms Gin-Cowan's privacy. This first requires a determination as to whether there has been a breach of an information privacy principle. Principle 11 concerns the disclosure of personal information and provides:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Principle 11",
+                "content": "Limits on disclosure of personal information\nAn agency that holds personal information shall not disclose the information to a person or body or agency unless the agency believes, on reasonable grounds, —\n...\n(d) that the disclosure is authorised by the individual concerned; or",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(d)",
+                    "content": "that the disclosure is authorised by the individual concerned; or"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[18]",
+              "content": "Katui disputes that the information provided by Ms Smith and Mrs Matthews to Ms Rangiheuea was personal information. It also contends that, as Ms Gin-Cowan provided the Katui telephone number to Ms Rangiheuea in connection with her referee, Katui believed, on reasonable grounds, that Ms Gin-Cowan had authorised the disclosure of personal information about her by Katui to Ms Rangiheuea.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Section 66(1) provides:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Section 66(1) of the Privacy Act",
+                "content": "66 Interference with privacy\n(1) For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if, -\n(a) in relation to that individual, -\n(i) the action breaches an information privacy principle;\n(b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action-\n(i) has caused, or may cause, loss, detriment, damage, or injury to that individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual.",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if, -"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "in relation to that individual, -"
+                  },
+                  {
+                    "identifier": "(i)",
+                    "content": "the action breaches an information privacy principle;"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "in the opinion of the Commissioner or, as the case may be, the Tribunal, the action-"
+                  },
+                  {
+                    "identifier": "(i)",
+                    "content": "has caused, or may cause, loss, detriment, damage, or injury to that individual; or"
+                  },
+                  {
+                    "identifier": "(ii)",
+                    "content": "has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or"
+                  },
+                  {
+                    "identifier": "(iii)",
+                    "content": "has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[20]",
+              "content": "Katui denies that the provision of information to Ms Rangiheuea caused Ms Gin-Cowan any of the forms of harm described in s 66(1)(b).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(1)(b)",
+                  "context": "Referenced to describe the forms of harm Katui denies causing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Issues to be determined",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[21]",
+              "content": "The following issues require determination:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[21.1]",
+                  "content": "Was the information disclosed by Katui about Ms Gin-Cowan personal information? If so;"
+                },
+                {
+                  "title": "[21.2]",
+                  "content": "Did Katui believe, on reasonable grounds, that the disclosure was authorised by Ms Gin-Cowan? If not;"
+                },
+                {
+                  "title": "[21.3]",
+                  "content": "Did the disclosure cause one or more of the forms of harm described in s 66(1), so as to give rise to an interference with Ms Gin-Cowan's privacy? If so:"
+                },
+                {
+                  "title": "[21.4]",
+                  "content": "What remedy, if any should be ordered?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Burden of proof",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "Katui's position is that if it is found to have disclosed personal information about Ms Gin-Cowan to MUMA, it was reasonable for Katui to have believed that this disclosure was authorised by Ms Gin-Cowan who provided the Katui telephone number to MUMA in connection with her referee. It seeks to rely on the exception in Principle 11(d). Katui bears the onus of proof to establish that the exception it seeks to rely on applies. Section 87 of the Privacy Act provides:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Section 87 of the Privacy Act",
+                "content": "87 Proof of exceptions\nWhere, by any provision of the information privacy principles or of this Act or of a code of practice issued under section 46 or section 63, conduct is excepted from conduct that is an interference with the privacy of an individual, the onus of proving the exception in any proceedings under this Part lies upon the defendant.",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Personal information",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[23]",
+              "content": "Personal information is defined in s 2(1) of the Privacy Act as:",
+              "page": 5,
+              "quoted_material": {
+                "source": "s 2(1) of the Privacy Act",
+                "content": "personal information means information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995, or any former Act (as defined by the Births, Deaths, Marriages, and Relationships Registration Act 1995).",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[24]",
+              "content": "“Information” is not defined in the Privacy Act. In Watson v Capital and Coast District Health Board [2015] NZHRRT 27, the Tribunal noted the comments of McMillan J in Commissioner of Police v Ombudsman [1988] 1 NZLR 385 (CA) at 402, where he held that the word “information” denoted “that which informs, instructs, tells or makes aware”. In Watson the Tribunal observed at [71] that personal information must include opinion, otherwise there would be no need for the Act to provide in s 29(1)(b) and (3) that agencies can refuse requests for access to certain types of “evaluative or opinion material\" (particularly in the employment context).",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson v Capital and Coast District Health Board [2015] NZHRRT 27",
+                  "context": "Cited for the definition of 'information' and 'personal information'."
+                },
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Ombudsman [1988] 1 NZLR 385 (CA)",
+                  "context": "Cited for McMillan J's comments on the meaning of 'information'."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(b) and (3)",
+                  "context": "Cited to support the inclusion of opinion as personal information."
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "There are disputes between the parties as to exactly what was said to Ms Rangiheuea by Ms Smith and Mrs Matthews about Ms Gin-Cowan. However, it is agreed that Ms Smith said she would not give Ms Gin-Cowan a reference; that she and Ms Gin-Cowan did not get on; and, when asked, that she would not rehire her. Ms Rangiheuea gave evidence that Mrs Matthews told her that Ms Gin-Cowan was unreliable, often late to work, and had unsatisfactory work habits. While Katui denies these statements were made, it admitted in its statement of reply that Mrs Matthews told Ms Rangiheuea that there were a number of incidents that occurred over the years with regards to Ms Gin-Cowan's work performance. Mr Matthews gave evidence that his wife had told Ms Rangiheuea that she would not rehire Ms Gin-Cowan. Mrs Matthews unfortunately has been ill, and her memory is affected by this illness. She was unable to appear as a witness at the Tribunal.",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "While Katui submits that some of the information should not be categorised as personal information, in particular answers to questions as to whether Ms Gin-Cowan would be rehired by Katui, it accepted that the statements attributed to Mrs Matthews are personal information. Although there is a dispute about the wording used by Mrs Matthews, the gist, which has been admitted, is that there were performance issues concerning Ms Gin-Cowan during her employment at Katui.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "The information provided informed, instructed, told or made Ms Rangiheuea aware of performance issues regarding Ms Gin-Cowan at Katui. The statements were made in the context of a reference check from one employer to another, during work hours, concerning the suitability of Ms Gin-Cowan for employment. The information was personal information notwithstanding that the information encompassed opinions of Mrs Matthews and Ms Smith about Ms Gin-Cowan's suitability for employment and/or their working relationship.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "The Tribunal finds that personal information about Ms Gin-Cowan was provided by Katui to Ms Rangiheuea.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Did Katui believe on reasonable grounds that Ms Gin-Cowan authorised them to disclose personal information about her to Ms Rangiheuea?",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[29]",
+              "content": "There is a dispute between the parties as to whether, by giving the Katui telephone number as a contact number for her referee Erana Tahere, Katui reasonably believed that Ms Gin-Cowan had authorised the release of personal information about her by Katui.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "The position of Katui is that by providing MUMA with a referee's contact details, Ms Gin-Cowan was not only giving express authority to MUMA to contact the referee, but also giving implied authority to the management of the organisation, contacted by MUMA on the Katui business telephone number provided, to answer the employment questions asked. Katui says it had reasonable grounds for thinking there was authority to answer the questions asked by MUMA.",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "In his evidence, Mr Matthews stated that Teinia Smith and Tui Matthews believed that Ms Gin-Cowan had authorised them to answer questions about her because otherwise they would not have been rung at the centre for a reference. He said that Ms Tahere was on extended sick leave at the time and it must have been obvious to Ms Gin-Cowan that if she gave Katui's telephone number, MUMA would ring Katui and not be able to get through to Ms Tahere.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "The position of Ms Gin-Cowan is that, given that Ms Smith admits telling Ms Rangiheuea that she would not be a referee for Ms Gin-Cowan and that she did not get along with Ms Gin-Cowan, Ms Smith could not have reasonably believed that Ms Gin-Cowan had authorised Ms Smith to make comments about Ms Gin-Cowan to Ms Rangiheuea. In a similar vein, given that it was Ms Smith who suggested that Ms Rangiheuea talk to Mrs Matthews, and gave her Mrs Matthew's telephone number, Mrs Matthews could not have reasonably thought that Ms Gin-Cowan had authorised Mrs Matthews to make comments about her and disclose personal information about Ms Gin-Cowan to Ms Rangiheuea.",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "In making the disclosures about Ms Gin-Cowan, Katui relies on Principle 11(d), namely that its officers believed on reasonable grounds that the disclosure was authorised by Ms Gin-Cowan.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Principle 11(d)",
+                  "context": "Cited as the basis for Katui's reliance on authorised disclosure."
+                }
+              ]
+            },
+            {
+              "number": "[34]",
+              "content": "The onus of proof of the reasonable belief lies with Katui. In Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [202] the Tribunal observed “there is a subjective component (the belief) and an objective component (the reasonable grounds). It must be established that both elements existed as at the date of disclosure\". To succeed, Katui must show an actual belief on reasonable grounds that Ms Gin-Cowan authorised the disclosure.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34",
+                  "context": "Cited for the test of 'reasonable belief' involving subjective and objective components."
+                }
+              ]
+            },
+            {
+              "number": "[35]",
+              "content": "Turning to these two elements, namely the actual belief on reasonable grounds, as the disclosures were made by Ms Smith and Mrs Matthews, it is their belief on reasonable grounds that is relevant.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Ms Rangiheuea's call to the Katui number supplied by Ms Gin-Cowan was made to speak to Ms Tahere, in the context of her providing a reference for Ms Gin-Cowan. Ms Smith in her evidence said that she did not get along with Ms Gin-Cowan, that Ms Gin-Cowan did not follow her directions, that Ms Smith found Ms Gin-Cowan difficult to manage, that Ms Gin-Cowan would not accept a letter or correspondence from Ms Smith in a separate employment matter and that Ms Gin-Cowan had told Ms Smith that if she wanted to communicate formally with Ms Gin-Cowan about her work performance she (Ms Smith) would have to do it through Mr Matthews. Given this background, the Tribunal finds Ms Smith cannot have believed on reasonable grounds that she was authorised by Ms Gin-Cowan to disclose any private information about her, especially in the employment context.",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "The other alleged disclosure of Ms Gin-Cowan's private information was made by Mrs Matthews. Unfortunately, Mrs Matthews has serious health issues and could not give evidence before the Tribunal. It is however clear that there were ongoing employment issues between Mr and Mrs Matthews and Ms Gin-Cowan. These were of such a degree of seriousness that it would not have been reasonable for Mrs Matthews to have expected Ms Gin-Cowan to have authorised disclosure of personal information about her in an employment context.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "As to Katui's contention that because Ms Gin-Cowan gave the Katui number in the knowledge that Ms Tahere would be on leave, thus impliedly authorising all Katui management to speak with Ms Rangiheuea, the evidence before the Tribunal was that although Ms Tahere was still on leave at that time, she was spending one or two hours a day at Katui. Given this and the difficult relationship between Ms Gin-Cowan and each of Ms Smith and Mrs Matthews, the Katui contention that Ms Smith and Mrs Matthews believed on reasonable grounds they were authorised to disclose information about Ms Gin-Cowan is not sustainable.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "It follows that Katui has not established that the exception in Principle 11(d) applies.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Did the disclosure cause one or more of the forms of harm described in s 66(1)?",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[40]",
+              "content": "Personal information about Ms Gin-Cowan was disclosed to Ms Rangiheuea by Katui. Katui has not discharged its burden of proving that the exception in Principle 11(d) applies. It is now necessary to determine whether there was an interference with Ms Gin-Cowan's privacy as defined in s 66 of the Privacy Act. This requires Ms Gin-Cowan to establish that one or more of the forms of harm set out in s 66(1)(b) has occurred. Ms Gin-Cowan bears the burden of proof in this regard: see Geary [2013] NZHRRT 34 at [190.3].",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66 of the Privacy Act",
+                  "context": "Cited to define interference with privacy."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary [2013] NZHRRT 34 at [190.3]",
+                  "context": "Cited to establish that Ms Gin-Cowan bears the burden of proof."
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "In terms of s 66(1)(b) Ms Gin-Cowan must establish, in the opinion of the Tribunal, the breach of Principle 11:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[41.1]",
+                  "content": "Has caused or may cause her loss, detriment, damage or injury; or"
+                },
+                {
+                  "title": "[41.2]",
+                  "content": "Has adversely affected, or may adversely affect, her rights, benefits, privileges, obligations, or interests; or"
+                },
+                {
+                  "title": "[41.3]",
+                  "content": "Has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to her feelings."
+                }
+              ]
+            },
+            {
+              "number": "[42]",
+              "content": "Ms Gin-Cowan claims that the disclosure of her personal information caused her pecuniary loss, adversely affected her rights, benefits, privileges and interests, and resulted in significant humiliation, significant loss of dignity, or significant injury to her feelings.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "Loss, detriment, damage or injury",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[43]",
+              "content": "The loss claimed by Ms Gin-Cowan relates to her employment with MUMA. As noted above, there was a dispute between Ms Gin-Cowan and MUMA as to whether or not Ms Gin-Cowan had been employed.",
+              "page": 8
+            },
+            {
+              "number": "[44]",
+              "content": "The position of MUMA was that while Ms Gin-Cowan had been provided with an individual employment agreement to look over, it had not been signed by MUMA and no formal offer of employment had been made. Ms Rangiheuea gave evidence to the Tribunal that the position, which had a salary of $75,229 gross per annum, was a high-level appointment at the Waatea and would not have been offered to Ms Gin-Cowan by Ms Rangiheuea without Ms Rangiheuea having sighted written references. Her evidence was that it was Ms Rangiheuea as Tumuaki who would need to have offered employment and although there was a “confused process”, and “things were being done in a rush”, Ms Gin-Cowan was simply never employed. She said she would never have been able to justify such employment without references to the Education Review Office (ERO) or to the Teachers Council.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "Ms Rangiheuea commented that evidence before the Tribunal, in the form of the text message exchanges between Ms Gin-Cowan and Ms Greening had not been available when the matter was heard before the Employment Relations Authority (ERA), and having reviewed those messages, Ms Rangiheuea now had a clearer understanding of what had taken place and believed that had the messages been before the ERA, the outcome would have been in MUMA's favour. She said that Ms Greening was herself a MUMA employee, that she had no authority in matters of employment, that she had overstepped in her communications with Ms Gin-Cowan, and that the two of them had \"hatched up” a short-term consultancy that then morphed in to the early childhood position.",
+              "page": 8
+            },
+            {
+              "number": "[46]",
+              "content": "Mr Robins described himself as “agnostic” as to whether Ms Gin-Cowan had actually been employed by MUMA or not. His position was that if Ms Gin-Cowan had been employed, the disclosure of her personal information by Katui had caused the termination of her employment. If, in the alternative, she had not been employed, she was on track for employment, and the disclosure resulted in this employment not proceeding.",
+              "page": 9
+            },
+            {
+              "number": "[47]",
+              "content": "The ERA found that Ms Gin-Cowan was employed by MUMA despite the employment agreement not being signed by MUMA and despite Ms Rangiheuea's evidence that references would be required before any formal offer was made.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "Ms Rangiheuea was a credible witness. We accept her evidence that as the Tumuaki, she was the person with authority to offer Ms Gin-Cowan the job and she would not do so in the absence of written references. Her evidence was that even had positive telephone references been received, she would have insisted on viewing written references before offering the position, as anybody could have been on the telephone, and the position was the “top job” at the Waatea.",
+              "page": 9
+            },
+            {
+              "number": "[49]",
+              "content": "There was some discussion at the hearing concerning the Children's (Requirements for Safety Checks of Children's Workers) Regulations 2015 which specifies the reference checking to be carried out by organisations employing children's workers. In her evidence, Ms Rangiheuea referred to ERO requirements for references. Mr Robins pointed out later in the hearing that the regulations did not come into effect until 1 July 2015. This does not persuade us that Ms Rangiheuea did not require written references for Ms Gin-Cowan.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Children's (Requirements for Safety Checks of Children's Workers) Regulations 2015",
+                  "context": "Discussed in relation to reference checking requirements."
+                }
+              ]
+            },
+            {
+              "number": "[50]",
+              "content": "It is unclear to us whether Ms Gin-Cowan's employment with MUMA commenced. We find however, that even if it had, it would not have continued in the absence of satisfactory references, including written references, being provided to Ms Rangiheuea. As the ERA found, the employment agreement was subject to a 90-day trial period during which dismissal without cause could occur.",
+              "page": 9
+            },
+            {
+              "number": "[51]",
+              "content": "We accept the evidence of Ms Tahere that it had been agreed between Mr Matthews, Ms Smith, and herself that they would not provide Ms Gin-Cowan with a written reference because of her unsatisfactory job performance. Ms Gin-Cowan was therefore unable to provide Ms Rangiheuea with a written reference from Katui. Had Ms Rangiheuea been able to speak to Ms Tahere, her refusal to provide a written reference may have been fatal to the employment process.",
+              "page": 9
+            },
+            {
+              "number": "[52]",
+              "content": "Ms Gin-Cowan claims that the disclosure (that Katui considered her to be an unsatisfactory employee) caused the loss of her employment with MUMA. However, we accept that without satisfactory written references, Ms Gin-Cowan would not have either been employed or remained employed.",
+              "page": 9
+            },
+            {
+              "number": "[53]",
+              "content": "Ms Rangiheuea gave evidence that if the person she had spoken to at Katui had simply declined to give a reference, she would have gone back to Ms Gin-Cowan and asked her to provide another referee. While it does not follow that Ms Gin-Cowan would have provided an alternative and satisfactory referee and so secured (or retained) the Waatea position, she lost the chance of doing so. She gave evidence at the hearing that she now has three referees on her current curriculum vitae that are unrelated to Katui.",
+              "page": 9
+            },
+            {
+              "number": "[54]",
+              "content": "Katui's disclosures stopped the employment process in its tracks. Ms Gin-Cowan lost the ability to provide the referee of her choice for a job that was important to her. We find that this was a loss or detriment in terms of s 66(1)(b)(i) of the Privacy Act.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(1)(b)(i) of the Privacy Act",
+                  "context": "Cited to classify the loss of opportunity as a loss or detriment."
+                }
+              ]
+            },
+            {
+              "number": "[55]",
+              "content": "It follows that an interference with the privacy of Ms Gin-Cowan is established. This conclusion makes it unnecessary to examine whether the disclosure caused Ms Gin-Cowan significant humiliation, loss of dignity or injury to feelings. The issue of injury to feelings will be considered later in this decision in the context of damages.",
+              "page": 10
+            },
+            {
+              "number": "[56]",
+              "content": "We conclude that in terms of s 66(1) of the Privacy Act there has been an action by Katui which was an interference with the privacy of Ms Gin-Cowan.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[57]",
+              "content": "As an interference with Ms Gin-Cowan's privacy has been established the Tribunal may grant one or more of the remedies allowed by s 85 of the Privacy Act:",
+              "page": 10,
+              "quoted_material": {
+                "source": "s 85 of the Privacy Act",
+                "content": "85 Powers of Human Rights Review Tribunal\n(1) If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:\n(b) an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:\n(c) damages in accordance with section 88:\n(d) an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:\n(e) such other relief as the Tribunal thinks fit.\n(2) In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party.\n(3) Where the Director of Human Rights Proceedings is the plaintiff, any costs awarded against him or her shall be paid by the Privacy Commissioner, and the Privacy Commissioner shall not be entitled to be indemnified by the aggrieved individual (if any).\n(4) It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any, remedy to grant.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[58]",
+              "content": "The Tribunal is not required by s 85 to grant a remedy. All remedies are discretionary.",
+              "page": 10
+            },
+            {
+              "number": "[59]",
+              "content": "Ms Gin-Cowan seeks:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "[59.1]",
+                  "content": "A declaration that Katui has interfered with her privacy: s 85(1)(a)."
+                },
+                {
+                  "title": "[59.2]",
+                  "content": "Damages for pecuniary loss and/or loss of a benefit in the sum of $7,611.69: s 85(1)(c) and s 88(1)(a) and (b)."
+                },
+                {
+                  "title": "[59.3]",
+                  "content": "Damages for humiliation, loss of dignity and injury to feelings in the sum of $30,000: s 85(1)(c) and s 88(1)(c)."
+                },
+                {
+                  "title": "[59.4]",
+                  "content": "An order requiring all of Katui's shareholders, directors and staff to attend an online \"Privacy 101” workshop run by the Office of the Privacy Commissioner, at Katui's expense: s 85(1)(d)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 85(4) – the conduct of the defendant",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[60]",
+              "content": "Section 85(4) provides that while it is no defence that the interference was unintentional or without negligence, the Tribunal must nevertheless take the conduct of the defendant into account in deciding what, if any, remedy to grant.",
+              "page": 11
+            },
+            {
+              "number": "[61]",
+              "content": "It was suggested by Mr Robins that by making negative comments about Ms Gin-Cowan to MUMA, the Katui officers, Ms Smith and Mrs Matthews, went out of their way to harm her proposects with her new employer. This is not accepted. Neither Mrs Matthews nor Ms Smith mentioned the serious allegation that had been made against Ms Gin-Cowan that Katui had been attempting to deal with at the time she resigned. They could have easily done so. While Mrs Matthews disclosed information about Ms Gin-Cowan when she could have declined to do so, her conduct and that of Ms Smith does not have a significant bearing on the issue of remedies.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "Declaration of interference",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[62]",
+              "content": "While the grant of a declaration is discretionary, declaratory relief should not ordinarily be denied: see Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 at [107]–[108] and Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66 at [164].",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414",
+                  "context": "Cited to support the principle that declaratory relief should not ordinarily be denied."
+                },
+                {
+                  "type": "case",
+                  "reference": "Hammond v Credit Union Baywide [2015] NZHRRT 6, (2015) 10 HRNZ 66",
+                  "context": "Cited to support the principle that declaratory relief should not ordinarily be denied."
+                }
+              ]
+            },
+            {
+              "number": "[63]",
+              "content": "Ms Gin-Cowan was entitled to not have personal information about her disclosed without her permission. The disclosure of her personal information to MUMA was made without her explicit or implied authorisation and Katui has not discharged the onus on it to prove otherwise. The Tribunal finds that Ms Gin-Cowan is entitled to a declaration that there has been an interference with her privacy and such declaration is accordingly made.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "Training order",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[64]",
+              "content": "The events that gave rise to these proceedings took place over four years ago. Neither Ms Smith nor Mrs Matthews now work at the Katui centre. In these circumstances, we are not satisfied that a training order should be made.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "Damages",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[65]",
+              "content": "Damages under three specific heads may be awarded pursuant to s 88(1), provided a causative link is established between the interference with Ms Gin-Cowan's privacy and the harm said to have been caused:",
+              "page": 11,
+              "quoted_material": {
+                "source": "s 88(1) of the Privacy Act",
+                "content": "88 Damages\n(1) In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual.",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Damages for pecuniary loss",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[66]",
+              "content": "Ms Gin-Cowan claims the sum of $7,611.69 being the difference between the quantum of twelve weeks salary at the Wateea, less the sum she was awarded by the ERA and her gross income received from other employment during this period.",
+              "page": 12
+            },
+            {
+              "number": "[67]",
+              "content": "The claim for pecuniary loss is based on Ms Gin-Cowan's claim that without the disclosure of personal information about her by Katui, she would have retained (or secured) the Waatea position.",
+              "page": 12
+            },
+            {
+              "number": "[68]",
+              "content": "We do not accept this. As noted earlier, the position in question was the “top job\" at the Waatea. Ms Rangiheuea was clear that the appointment would not have been made in the absence of satisfactory written references. Ms Gin-Cowan was unable to provide such a reference from Katui, her employers for the previous four years. It is unknown whether, in the absence of written references from her former employer, Ms Gin-Cowan would have been able to provide written references sufficient to secure the “top” MUMA position, there is no evidence before us to this effect. The unwillingness of Katui to provide a reference for Ms Gin-Cowan may have of itself been fatal to her prospects.",
+              "page": 12
+            },
+            {
+              "number": "[69]",
+              "content": "Although we have found that Ms Gin-Cowan lost the chance to provide an alternative referee, it does not follow that she would have secured the Waatea position even had the opportunity to provide alternative referees been available.",
+              "page": 12
+            },
+            {
+              "number": "[70]",
+              "content": "The claimed pecuniary loss, for twelve weeks salary less appropriate deductions, is not established.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "Damages for loss of benefit",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[71]",
+              "content": "The breach of Ms Gin-Cowan's privacy resulted in the loss by her, of the chance or opportunity to provide a referee of her choice for a job that was very important to her. However, Ms Gin-Cowan's own role in the Principle 11 breach that took place is both significant and relevent to the issue of whether damages should be awarded, damages being a matter of discretion (Winter v Jans HC Hamilton CIV-2003-419-854, 4 February 2004 at [53]).",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans HC Hamilton CIV-2003-419-854",
+                  "context": "Cited to establish that awarding damages is a matter of discretion."
+                }
+              ]
+            },
+            {
+              "number": "[72]",
+              "content": "Ms Gin-Cowan's evidence was that there had been a difficult relationship between her and Mrs Matthews and between her and Ms Smith. In her brief she expressed the view that Mrs Matthews was vindictive towards her and that Ms Smith did not like her.",
+              "page": 12
+            },
+            {
+              "number": "[73]",
+              "content": "When Ms Gin-Cowan gave the Katui number as the contact number for her referee, she was aware that Ms Smith was the acting centre manager and it was entirely forseeable that Ms Smith or Mrs Matthews would answer the phone. Ms Tahere was on long term sick-leave attending the centre only an hour or so at a time as part of her rehabilitation. The chances of Ms Tahere answering the telephone when Ms Rangiheuea called were slim.",
+              "page": 12
+            },
+            {
+              "number": "[74]",
+              "content": "We have considered whether the provision of the number constituted implied authorisation on the part of Ms Gin-Cowan to allow Katui to disclose her personal information and found that it did not. However, in our view, Ms Gin-Cowan bears much of the responsibility for what took place. Despite the high risk that the wrong person would answer the phone and provide a poor reference, no attempt was made by Ms Gin-Cowan to mitigate this risk. She did not request that Ms Rangiheuea speak to no-one other than Ms Tahere. She did not provide personal numbers for Ms Tahere.",
+              "page": 12
+            },
+            {
+              "number": "[75]",
+              "content": "In these circumstances we decline to award damages for loss of benefit.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Humiliation, loss of diginity, injury to feelings",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[76]",
+              "content": "The events of 9 February 2015 undoubtedly caused Ms Gin-Cowan significant humiliation, loss of dignity and injury to her feelings. She had travelled to Auckland expecting to commence her employment at MUMA and instead returned to Kaikohe unemployed. Thereafter she endured financial hardship and considerable stress as the sole provider for her dependent children.",
+              "page": 13
+            },
+            {
+              "number": "[77]",
+              "content": "The Tribunal accepts the evidence of Ms Gin-Cowan's sister that what had happened to Ms Gin-Cowan was a severe blow to her and that she was distraught and devastated. Her future plans for herself and her children were taken away.",
+              "page": 13
+            },
+            {
+              "number": "[78]",
+              "content": "We also accept the evidence of Ms Gin-Cowan's brother that Ms Gin-Cowan was embarassed and humiliated by what had happened. Her brother gave evidence that Kaikohe is a small town where everyone knows everyone, and that the fact that most people in the town knew that something had happened at Katui and possibly in Mangere, would have intensified the sense of shame that Ms Gin-Cowan was feeling.",
+              "page": 13
+            },
+            {
+              "number": "[79]",
+              "content": "We find however that the significant humiliation, loss of dignity, and injury to her feelings Ms Gin-Cowan experienced (hereafter injury to feelings) is attributable in a large measure to her own actions, and those of MUMA, rather than to the breach of Principle 11 by Katui.",
+              "page": 13
+            },
+            {
+              "number": "[80]",
+              "content": "As noted above, Ms Gin-Cowan took no steps to ensure that Ms Rangiheuea understood that she should speak only with Ms Gin-Cowan's referee at Katui. Ms Gin-Cowan resigned from her employment at Katui before becoming aware that MUMA intended to carry out reference checks and required written references. She did so on the understanding that she was being appointed to the Waatea job. Katui, however, is not responsible for this. The injury to feelings Ms Gin-Cowan experienced as a result of the events of 9 February 2015 was for the most part caused by miscommunication between Ms Greening, Ms Gin-Cowan and Ms Rangiheuea. Ms Rangiheuea was unaware of Ms Gin-Cowan's “appointment” and of the fact that her resignation had been tendered when the employment process (reference checking) had not been completed.",
+              "page": 13
+            },
+            {
+              "number": "[81]",
+              "content": "Accordingly, we find that only a very minor part of the injury to Ms Gin-Cowan's feelings is attributable to the breach of Principle 11 by Katui. The remainder is due to confusion and errors in the MUMA employment process, which led to Ms Gin-Cowan resigning from Katui before her position at MUMA was secure. In these circumstances, although the injury to feelings suffered by Ms Gin-Cowan overall was at a high level, we determine that the appropriate level of damages payable by Katui in respect of this is $3,000.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Formal orders",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[82]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that:\n\n[82.1] A declaration is made under s 66(1)(a) that Katui interfered with the privacy of Ms Gin-Cowan.\n\n[82.2] Damages of $3,000 are awarded against Katui under s 88(1)(c) of the Privacy Act for humiliation, loss of dignity and injury to the feelings of Ms Gin-Cowan.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Costs",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[83]",
+              "content": "Costs are reserved. Any application for costs is to be filed within 15 working days from the date of this decision. Should such application be received, the Tribunal will set a timetable for the filing of opposition and reply submissions.",
+              "page": 14
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms MA Roche",
+          "role": "Co-Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Director of Human Rights Proceedings v Katui Early Childhood Learning Centre Ltd [2019] NZHRRT 55.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

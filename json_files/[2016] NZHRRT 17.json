@@ -1,0 +1,919 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 13
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2016] NZHRRT 17",
+        "reference_number": "HRRT 030/2014",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "21, 22 and 23 March 2016",
+        "decision_date": "11 May 2016",
+        "case_title": "Sansom v Department of Internal Affairs [2016] NZHRRT 17",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 13
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "BLYTH SANSOM",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CHIEF EXECUTIVE, DEPARTMENT OF INTERNAL AFFAIRS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms B Sansom in person",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms SA Dyhrberg and Ms AK Webster",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "THE FACTS",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Credibility not being in issue the facts can be shortly stated.",
+              "page": 1,
+              "subsections": [
+                {
+                  "title": "Introduction",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "In about 2005 Ms Sansom began working as an assistant librarian at the Alexander Turnbull Library, a division of the National Library.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "On 16 December 2010 she suffered a workplace injury when she slipped and fell on a wet washroom floor. Her right arm bone fractured near the shoulder joint resulting in her being on full-time ACC sick leave until 5 January 2011 when she returned to work, though remaining in considerable pain and unable to use her right arm.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "On 1 February 2011 the National Library was integrated with the Department of Internal Affairs. In the restructuring which followed Ms Sansom was advised her position as Assistant Collections Librarian had been formally disestablished.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Although she applied for positions within the restructured National Library, Ms Sansom was unsuccessful in her endeavours. By letter dated 30 May 2011 she was notified her employment would terminate on 30 June 2011 by reason of redundancy.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Ms Sansom has felt aggrieved by these circumstances, particularly the manner in which she believes she was treated by the Department over her workplace injury, her treatment during the restructuring process, her non-selection for roles and her eventual redundancy. She also believes staff spread malicious rumours about her and that both within and outside the workplace she was the victim of sexual harassment. These grievances did not, however, motivate Ms Sansom to bring a personal grievance claim under the Employment Relations Act 2000.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "But she has made a number of requests under the Privacy Act 1993 for access to personal information held by the Department.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Employment Relations Act 2000",
+                  "context": "A personal grievance claim was not brought under this act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Requests for access to personal information were made under this act."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "In these proceedings Ms Sansom complains that in responding to a particular request made by her on 21 March 2013 for information spanning the period 16 December 2010 to 21 March 2013, the Department failed to make full disclosure and thereby interfered with her privacy.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "For its part the Department admits non-compliance with the Act in two respects:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[9.1] First, it accepts certain handwritten notes taken in the course of a review of appointment were not disclosed although the review itself was."
+                },
+                {
+                  "title": "",
+                  "content": "[9.2] Second, it acknowledges that when providing the requested information to Ms Sansom it did not comply with Principle 6(2) which stipulates that where an individual is given access to personal information, the individual must be advised that, under Principle 7, the individual may request correction of that information."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "The primary issues in this case are first, whether the Department failed in any other respect to comply with Principle 6; second, whether there has been an interference with Ms Sansom's privacy and third, the nature of the remedy to be granted.",
+              "page": 2
+            },
+            {
+              "number": "[11]",
+              "content": "Because the issues are within a narrow compass we do not intend referring at length to the evidence heard over three days. Much of that evidence was of little help. This is not a criticism of the parties. Being self-represented Ms Sansom found it difficult to confine her evidence to that relevant to the claim under the Privacy Act. At times it seemed that notwithstanding the repeated cautions given by the Chairperson during the lengthy pre-hearing stages and during the course of the substantive hearing itself, Ms Sansom was of the firm belief the Tribunal was an appropriate forum in which to air her grievances about her accident, the process followed by the Department in the restructuring, her redundancy and the alleged harassment she experienced by departmental staff both before and after her employment by the Department ceased.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The lead up to the personal information request",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "The information privacy request which is the subject of these proceedings was made on 21 March 2013 that is, one year and ten months after Ms Sansom had left the employ of the Department. This was not her first information request. Several had been made earlier in time. As they are not in issue in these proceedings only passing reference will be made to them. They do, however, provide context.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "The first access request was made on 25 September 2011 when Ms Sansom sought opportunity to inspect her personal file and access to photocopying facilities. That request was complied with immediately. When Ms Sansom complained the personal file did not contain much information about her injury she was told there was a separate health and safety file. The Department asked if she wanted a copy. It is not clear whether Ms Sansom responded to that enquiry but there was contact with (inter alia) Mr Christopher Szekely who since 2007 has been the Chief Librarian at the Alexander Turnbull Library. This process culminated in an email sent by Ms Sansom on 11 April 2012 to Mr Szekely advising she wished to put the whole matter behind her:",
+              "page": 3,
+              "quoted_material": {
+                "content": "Dear Chris,\n\nPerhaps you will be interested to hear that I have decided to draw a line under my recent experiences with Turnbull. I wish to put the whole matter behind me."
+              }
+            },
+            {
+              "number": "[14]",
+              "content": "However, on 15 November 2012 Ms Sansom complained again of the harassment to which she had allegedly been subjected to while in the employ of the Department. In this connection she made reference to an event said to have taken place in July 2012, one year after her employment had ended. On 10 December 2012 Ms Sansom wrote to Mr Szekely asking that the Department enter into mediation in relation to her complaint of unfairness in the redundancy. That request was declined by Mr Szekely by letter dated 18 December 2012.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "Ms Sansom renewed her request by email dated 21 December 2012. Mr Szekely firmly rejected the request on 30 January 2013. Undaunted Ms Sansom on 31 January 2013 pressed her request only to be refused once more on 7 February 2013.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "On 8 February 2013 Ms Sansom asked for specific information from the Department in the form of certain emails as well as the information held on her workplace accident file. That information was provided by the Department under cover of a letter dated 6 March 2013.",
+              "page": 3
+            },
+            {
+              "number": "[17]",
+              "content": "On 11 March 2013 Ms Sansom challenged the comprehensiveness of the information which had been provided. In its reply of 18 March 2013 the Department disputed the claimed inadequacy of the disclosure and suggested Ms Sansom inspect the file in person and mark the pages she wanted copied. That inspection took place on 21 March 2013 but again Ms Sansom was dissatisfied with the completeness of the information held on the file. The email she sent later that day forms the basis of the present proceedings.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The request",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "In her email of 21 March 2013 complaining about the inadequacy of the information seen by her when inspecting the file earlier in the day, Ms Sansom concluded by making an \"everything\" request for the period 16 December 2010 to 21 March 2013:\n\nThank you for undertaking to supply copies of the marked information on my personal file.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The Department's response",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "To confirm, the information on the personal file I saw today is extremely limited, so I would like copies of all information about me from all sources and all files held at DIA or at ATL. This includes information about me, my accident, my complaint to the NZ Police, my re-organisation job applications and interviews, notes of interviews with other ATL staff about my complaints of harassment by NL staff, and any other information about me, in the period, December 16, 2010 to the present. Please forward copies of this information or state your reasons for failing to provide it.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Section 40(1) of the Privacy Act 1993 required the Department within 20 working days to make a decision whether the access request was to be granted and to give notice of that decision to Ms Sansom. Because Good Friday fell on Friday 29 March 2013 and Easter Monday on 1 April 2013 the 20 working day period expired on Monday 22 April 2013.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 40(1) of the Privacy Act 1993",
+                  "context": "Required the Department to make a decision within 20 working days."
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "By letter dated 26 March 2013 the department made an initial response in which it:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[20.1] Provided copies of the information marked by Ms Sansom on the occasion of her inspection of the file on 21 March 2013."
+                },
+                {
+                  "title": "",
+                  "content": "[20.2] Advised that in relation to an email requested by Ms Sansom and said to be dated around the 7th or 8th of March 2011 and sent by a Mr Eagles to Ms Sansom, the Department had no information such email existed."
+                },
+                {
+                  "title": "",
+                  "content": "[20.3] There was only a one year retention period for emails."
+                },
+                {
+                  "title": "",
+                  "content": "[20.4] The Department held no information about a complaint said to have been made by Ms Sansom to the New Zealand Police."
+                },
+                {
+                  "title": "",
+                  "content": "[20.5] Research was continuing into Ms Sansom's request for information about her job applications and interviews and notes of interviews about her complaints of harassment by National Library staff."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "By subsequent letter dated 19 April 2013 the Department provided seven items of additional information requested by Ms Sansom. The letter concluded with a statement that together with copies of information previously provided to Ms Sansom, the enclosures comprised all the information requested by Ms Sansom.",
+              "page": 4
+            },
+            {
+              "number": "[22]",
+              "content": "On Ms Sansom complaining to the Privacy Commissioner the Department conducted a further review of its records and discovered that Anna Finlayson, who conducted a review of an appointment affecting Ms Sansom, had made handwritten notes of the interviews she conducted with Gillian Lee and David Small. As these handwritten notes had not previously been provided to Ms Sansom, they were immediately sent to Ms Sansom via the Privacy Commissioner. The Department emphasises Ms Finlayson's report had already been provided to Ms Sansom on 19 April 2013 and that the handwritten notes add little to what is said in that report.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "Findings",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[23]",
+              "content": "The three witnesses called by the Department were Mr Szekely, Chief Librarian of the Alexander Turnbull Library, Ms Meredith Atkinson, Human Resources Engagement Manager and Mr Peter Askwith who at the time of his retirement in 2013 was the Senior Human Resources Advisor.",
+              "page": 4
+            },
+            {
+              "number": "[24]",
+              "content": "We are satisfied by their evidence that the Department was diligent and thorough in its search for the personal information requested by Ms Sansom on 21 March 2013. Compare Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [125].",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [125]",
+                  "context": "Compared to establish the Department was diligent and thorough in its search."
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "Subject to one exception, Ms Sansom's claim that personal information was wrongly withheld from her has no basis in fact given:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[25.1] The one year retention period for emails."
+                },
+                {
+                  "title": "",
+                  "content": "[25.2] While one allegation of sexual harassment was investigated and the record of that investigation released to Ms Sansom, the balance of her allegations were so vague they were dealt with informally and either not investigated or left to the Police to investigate. In these instances information about the allegations was never held."
+                },
+                {
+                  "title": "",
+                  "content": "[25.3] Neither Mr Szekely nor Ms Atkinson nor Mr Askwith were aware of the rumours alleged by Ms Sansom to be circulating within the National Library. Nor were any staff of whom they made inquiry."
+                },
+                {
+                  "title": "",
+                  "content": "[25.4] Neither of the two documents from the Clio system said by Ms Sansom to be examples of documents withheld from her contain personal information about Ms Sansom and were accordingly not disclosable under Principle 6. It can be seen from the face of the documents they are part of a generic rehabilitation guide setting out the process to be followed whenever a work injury is reported. Nowhere on the documents is any reference made to Ms Sansom or to her ACC claim."
+                },
+                {
+                  "title": "",
+                  "content": "[25.5] A document dated 10 January 2011 also relied on by Ms Sansom as evidence the Department withheld information is, on close examination, undoubtedly a document created by ACC when processing Ms Sansom's injury claim. It is a document which was never provided by ACC to the Department and Ms Sansom accepts it is a document she found on her ACC file, not on any of the files held by the Department of Internal Affairs."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Principle 6",
+                  "context": "Cited in relation to the non-disclosability of documents from the Clio system."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "The only failures by the Department in complying with the information privacy request of 21 March 2013 were:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[26.1] The non disclosure of the handwritten notes made by Ms Finlayson. Those notes were not disclosed to Ms Sansom until mid-July 2013 during the course of the inquiry by the Privacy Commissioner."
+                },
+                {
+                  "title": "",
+                  "content": "[26.2] When releasing to Ms Sansom the information requested by her the Department did not, in terms of Principle 6(2) advise her she could request correction of the provided information."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Principle 6(2)",
+                  "context": "The Department failed to advise Ms Sansom of her right to request correction of information under this principle."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "As to the first point, the Department submitted the delay in making the information available was to be measured over the three months from 19 April 2013 to mid-July 2013 and was not “undue” in terms of s 66(4).",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(4)",
+                  "context": "The Department argued the delay was not 'undue' in terms of this section."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "We do not agree. As stated in Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39 at [6] the term “undue delay” carries its ordinary meaning of inappropriate or unjustifiable. What is undue delay is fact specific. In this respect our findings are:",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39 at [6]",
+                  "context": "Cited for the definition of 'undue delay'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39 at [6]",
+                "content": "the term “undue delay” carries its ordinary meaning of inappropriate or unjustifiable. What is undue delay is fact specific."
+              }
+            },
+            {
+              "number": "[28.1]",
+              "content": "The Department is clearly aware that some members of staff keep notebooks in which they record, for example, what is said or what takes place at meetings, particularly meetings in respect of which they are subsequently to prepare a report. In her evidence Ms Atkinson deposed that knowing handwritten notes of meetings are made by some staff, she made inquiry of Ms J McCracken and Ms R MacEarchen whether they had made written notes of meetings concerning Ms Sansom but it seemed it was only by accident Ms Atkinson later learnt Ms Finlayson had made handwritten notes of her interviews with Ms Lee and Mr Small. As best we understand, no specific inquiry was made of Ms Finlayson similar to that made of Ms McCracken and Ms MacEarchen.",
+              "page": 5
+            },
+            {
+              "number": "[28.2]",
+              "content": "In our view knowledge that the making of handwritten notes is a common practice within the Department together with the failure to make specific inquiry of those who prepared reports affecting Ms Sansom was a deficiency in the process by which personal information was gathered for disclosure to Ms Sansom.",
+              "page": 6
+            },
+            {
+              "number": "[28.3]",
+              "content": "A delay of three months was, in the circumstances, “undue”.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "The legal consequences of these findings is now addressed.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "THE LEGAL ISSUES",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[30]",
+              "content": "The request made by Ms Sansom for access to her personal information was made under information privacy Principle 6 which gives a right of access to personal information:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Principle 6 Access to personal information",
+                "content": "(1) Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled—\n(a) to obtain from the agency confirmation of whether or not the agency holds such personal information; and\n(b) to have access to that information.\n(2) Where, in accordance with subclause (1)(b), an individual is given access to personal information, the individual shall be advised that, under principle 7, the individual may request the correction of that information.\n(3) The application of this principle is subject to the provisions of Parts 4 and 5."
+              }
+            },
+            {
+              "number": "[31]",
+              "content": "Refusal of access is permitted only in the circumstances identified in ss 27 to 29. In the present case only s 29(2)(b) is relevant. It provides:",
+              "page": 6,
+              "quoted_material": {
+                "source": "29 Other reasons for refusal of requests",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "An agency may refuse a request made pursuant to principle 6 if—\n(a) the information requested is not readily retrievable; or\n(b) the information requested does not exist or cannot be found; or\n(c) the information requested is not held by the agency and the person dealing with the request has no grounds for believing that the information is either—\n(i) held by another agency; or\n(ii) connected more closely with the functions or activities of another agency."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": ""
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[32]",
+              "content": "The Privacy Act does not impose a specific timeframe within which the information must be made available. Instead it provides in s 66(4) that undue delay in providing the information is \"deemed\" to be a refusal to make the information available. As earlier mentioned, the Tribunal in Koso v Chief Executive, Ministry of Business, Innovation, and Employment at [6] held the term “undue delay\" carries its ordinary meaning of inappropriate or unjustifiable. What amounts to undue delay is fact specific.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(4)",
+                  "context": "Provides that undue delay is deemed a refusal to make information available."
+                },
+                {
+                  "type": "case",
+                  "reference": "Koso v Chief Executive, Ministry of Business, Innovation, and Employment at [6]",
+                  "context": "Cited for the definition of 'undue delay'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Burden of proof and the reverse burden of proof",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[33]",
+              "content": "To establish a breach of Principle 6, a plaintiff must show:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[33.1] He or she made an information privacy request; and"
+                },
+                {
+                  "title": "",
+                  "content": "[33.2] The agency to whom that request was addressed failed within the time fixed by s 40(1) of the Act to confirm whether or not the agency held personal information about the plaintiff or failed to allow access to the information."
+                }
+              ]
+            },
+            {
+              "number": "[34]",
+              "content": "Where an agency relies on any of the withholding grounds in ss 27 to 29 of the Act, the onus is reversed in that the agency has the burden of proving the exception. See s 87:",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 27 to 29 of the Act",
+                  "context": "Withholding grounds for which the agency has the burden of proof."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 87",
+                  "context": "Reverses the onus of proof for exceptions."
+                }
+              ],
+              "quoted_material": {
+                "source": "87 Proof of exceptions",
+                "content": "Where, by any provision of the information privacy principles or of this Act or of a code of practice issued under section 46 or section 63, conduct is excepted from conduct that is an interference with the privacy of an individual, the onus of proving the exception in any proceedings under this Part lies upon the defendant."
+              }
+            },
+            {
+              "number": "[35]",
+              "content": "Expressed another way, before the Tribunal can grant a remedy, s 85(1) of the Act requires Ms Sansom to satisfy the Tribunal, on the balance of probabilities, that any action of the Department of Internal Affairs was an interference (as defined in s 66) with her privacy. As the Department contends (inter alia) that the information requested does not exist or cannot be found it carries the burden of establishing that proposition to the balance of probabilities standard. The relevant date on which the agency must have good reason for refusing access to personal information is the date on which the decision is made whether the request is to be granted.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(1) of the Act",
+                  "context": "Requires the plaintiff to satisfy the Tribunal that an action was an interference with privacy."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66",
+                  "context": "Defines 'interference with privacy'."
+                }
+              ]
+            },
+            {
+              "number": "[36]",
+              "content": "In the present case, for reasons which have already been given we have found:\n\nThe first and third of these findings do not necessarily lead to the conclusion that a remedy should be granted to Ms Sansom. The Department's failings must first satisfy the definition of an interference with privacy as set out in s 66 of the Act.",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[36.1] Ms Sansom has established the handwritten notes taken by Ms Finlayson were not disclosed until some three months after expiry of the deadline and that in the circumstances, that delay was “undue” in terms of s 66(4)."
+                },
+                {
+                  "title": "",
+                  "content": "[36.2] The Department has established no other information was withheld and to the extent s 29(2)(b) is relied on by the Department, it has discharged its onus under s 29(2)."
+                },
+                {
+                  "title": "",
+                  "content": "[36.3] In failing to advise Ms Sansom she could request correction of her personal information the Department failed to comply with Principle 6(2)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SECTION 66",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "The Tribunal has jurisdiction to grant a remedy only if a plaintiff first establishes an interference with his or her privacy. Section 66 defines when such interference is established:",
+              "page": 7,
+              "quoted_material": {
+                "source": "66 Interference with privacy",
+                "content": "(1) For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if,—\n\n(a) in relation to that individual, -\n(i) the action breaches an information privacy principle; or\n(ii) the action breaches a code of practice issued under section 63 (which relates to public registers); or\n(iia) the action breaches an information privacy principle or a code of practice as modified by an Order in Council made under section 96J; or\n(iib) the provisions of an information sharing agreement approved by an Order in Council made under section 96J have not been complied with; or\n(iii) the provisions of Part 10 (which relates to information matching) have not been complied with; and\n(b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action—\n(i) has caused, or may cause, loss, detriment, damage, or injury to that individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+              }
+            },
+            {
+              "number": "(2)",
+              "content": "Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual, -\n(a) the action consists of a decision made under Part 4 or Part 5 in relation to the request, including-\n(i) a refusal to make information available in response to the request; or\n(ii) a decision by which an agency decides, in accordance with section 42 or section 43, in what manner or, in accordance with section 40, for what charge the request is to be granted; or\n(iii) a decision by which an agency imposes conditions on the use, communication, or publication of information made available pursuant to the request; or\n(iv) a decision by which an agency gives a notice under section 32; or\n(v) a decision by which an agency extends any time limit under section 41; or\n(vi) a refusal to correct personal information; and\n(b) the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision.",
+              "page": 8
+            },
+            {
+              "number": "(3)",
+              "content": "If, in relation to any information privacy request, any agency fails within the time limit fixed by section 40(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 40(1), that failure shall be deemed, for the purposes of subsection (2)(a)(i) of this section, to be a refusal to make available the information to which the request relates.",
+              "page": 8
+            },
+            {
+              "number": "(4)",
+              "content": "Undue delay in making information available in response to an information privacy request for that information shall be deemed, for the purposes of subsection (2)(a)(i), to be a refusal to make that information available.",
+              "page": 8
+            },
+            {
+              "number": "[38]",
+              "content": "There are, in effect, two separate definitions of an interference with privacy. The first is contained in s 66(1) and in the present case applies to the breach of Principle 6(2) while the second contained in s 66(2) applies to the handwritten notes which should have been provided but were not.",
+              "page": 8
+            },
+            {
+              "number": "[39]",
+              "content": "Under the first limb (ie s 66(1)) Ms Sansom must:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[39.1] Prove an action by the agency which has breached an information privacy principle; and"
+                },
+                {
+                  "title": "",
+                  "content": "[39.2] Satisfy the Tribunal that that action:\n[39.2.1] has caused or may cause her loss, detriment, damage or injury; or\n[39.2.2] has adversely affected, or may adversely affect, her rights, benefits, privileges, obligations, or interests; or\n[39.2.3] has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to her feelings."
+                }
+              ]
+            },
+            {
+              "number": "[40]",
+              "content": "Under the second limb of s 66 (ie s 66(2)) Ms Sansom must (in the particular circumstances of her case):",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[40.1] Establish a refusal to make personal information available. Such refusal is deemed to have occurred where:\n[40.1.1] The agency either fails to comply with the s 40(1) time limit for deciding whether a request is to be granted and for giving notice of that decision (s 66(3); or\n[40.1.2] There is undue delay in making the information available (s 66(4); and"
+                },
+                {
+                  "title": "",
+                  "content": "[40.2] Persuade the Tribunal to conclude there is no proper basis for that decision (s 66(2)(b))."
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "Breach of an information privacy principle does not on its own satisfy the statutory definition of “interference with the privacy of an individual” in s 66(1). Before the Tribunal can grant a remedy a harm threshold must be crossed and in addition, a causal connection established between that harm and the defendant's \"action\" as defined in s 2(1).",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "CAUSATION",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[42]",
+              "content": "In proceedings under the Privacy Act causation falls to be considered in two separate contexts:",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[42.1] First, in the context of the first limb of s 66 (ie s 66(1)), a causal link must be established between the action of the agency and one of the forms of harm listed in s 66(1)(b)(i) to (iii). Causation is not, however, an element of the second limb of s 66 (ie s 66(2)) particularly in those instances where the deeming provisions of s 66(3) and (4) operate."
+                },
+                {
+                  "title": "",
+                  "content": "[42.2] Second, before damages can be awarded for an interference with the privacy of an individual there must be a causal connection between that interference and one of the forms of loss or harm listed in s 88(1)(a), (b) or (c). See Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [33]. This causation requirement applies to both s 66(1) and s 66(2) cases."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [33]",
+                  "context": "Cited for the requirement of a causal connection between interference and harm before damages can be awarded."
+                }
+              ]
+            },
+            {
+              "number": "[43]",
+              "content": "In both contexts the causation standard is the same. The plaintiff must show the defendant's act or omission was a contributing cause in the sense that it constituted a material cause. See Taylor v Orcon Ltd [2015] NZHRRT 15 at [59] to [61]:",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Orcon Ltd [2015] NZHRRT 15 at [59] to [61]",
+                  "context": "Cited for the causation standard."
+                }
+              ],
+              "quoted_material": {
+                "source": "Taylor v Orcon Ltd [2015] NZHRRT 15",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[59]",
+                    "content": "While it has been accepted causation may in appropriate circumstances be assumed or inferred (see Winter v Jans HC Hamilton CIV-2003-419-8154, 6 April 2004 at [33]), it would appear no clear causation standard has yet been established in relation to s 66(1)."
+                  },
+                  {
+                    "identifier": "[60]",
+                    "content": "As pointed out by Gaudron J in Chappel v Hart (1998) 195 CLR 232, 238 (HCA), questions of causation are not answered in a legal vacuum. Rather, they are answered in the legal framework in which they arise. In the present context that framework includes the purpose of the Privacy Act which is to \"promote and protect individual privacy\" and second, the fact that s 66(1) does not require proof that harm has actually occurred, merely that it may occur. Given the difficulties involved in making a forecast about the course of future events and the factors (and interplay of factors) which might bring about or affect that course, the causation standard cannot be set at a level unattainable otherwise than in the most exceptional of cases. Even where harm has occurred it is seldom the outcome of a single cause. Often two or more factors cause the harm and sometimes the amount of their respective contributions cannot be quantified. It would be contrary to the purpose of the Privacy Act were such circumstance to fall outside the s 66(1) definition of interference with privacy. The more so given multiple causes present no difficulty in tort law. See Stephen Todd \"Causation and Remoteness of Damage\" in Stephen Todd (ed) The Law of Torts in New Zealand (6th ed, Thomson Reuters, Wellington, 2013) at [20.2.02]:"
+                  },
+                  {
+                    "identifier": "",
+                    "content": "Provided we can say that the totality of two or more sources caused an injury, it does not matter that the amount of their respective contributions cannot be quantified. The plaintiff need prove only that a particular source is more than minimal and is a cause in fact."
+                  },
+                  {
+                    "identifier": "[61]",
+                    "content": "Given these factors a plaintiff claiming an interference with privacy must show the defendant's act or omission was a contributing cause in the sense that it constituted a material cause. The concept of materiality denotes that the act or omission must have had (or may have) a real influence on the occurrence (or possible occurrence) of the particular form of harm. The act or omission must make (or may make) more than a de minimis or trivial contribution to the occurrence (or possible occurrence) of the loss. It is not necessary for the cause to be the sole cause, main cause, direct cause, indirect cause or \"but for\" cause. No form of words will ultimately provide an automatic answer to what is essentially a broad judgment."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[44]",
+              "content": "The basic flaw in Ms Sansom's case is that the harm about which she complains and for which she seeks a remedy flows from events which occurred in late 2010 and the first half of 2011 when she was employed by the Department, not from the Department's failure nearly two years later to comply with its obligations under the Privacy Act. The following extracts from her post-hearing submissions dated 30 March 2016 illustrate her focus on events not material to the causation issue:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[44.1] From the time of my work accident on Dec 16, 2010, information has been withheld from me by DIA, beginning with Ms McCracken's email of Dec 17, 2010, CB p2. My manager withheld her email from me, though she circulated the email to a great number of other staff."
+                },
+                {
+                  "title": "",
+                  "content": "[44.2] Withholding the email from me, the subject of the email, was itself bad but worse was that Ms McCracken had not checked the statements she made about my health and injury in the email, and these were not just misleading and trivialising but one was false. When I returned to the office, at my manager's request, on Jan 5, 2011, Ms McCracken must have realised that she had misunderstood the state of my health and injury, as she urged me to go home after a few hours."
+                },
+                {
+                  "title": "",
+                  "content": "[44.3] However, Ms McCracken's email had suggested that I would be fit for work shortly, so rather than tell me about her email and verify its content, my manager and the HR manager must have decided to act as if the email represented the true state of my health."
+                },
+                {
+                  "title": "",
+                  "content": "[44.4] Accordingly, they gave me no positive assistance, during the re-organisation but carried out some negative acts."
+                },
+                {
+                  "title": "",
+                  "content": "[44.5] Interview panels were not advised that I was seriously injured and unwell. Interview panels were not advised that I was not fit enough to work 8 hours a day, only 3 hours a day until February 10, 2011. The HR manager refused to re-schedule one of my interviews, so I had to withdraw from a scheduled interview. I was not successful in the re-organisation interviews."
+                },
+                {
+                  "title": "",
+                  "content": "[44.6] I did know why I was being treated in this way. It was not until my information request in early 2013 and I saw my manager's email from December 17, 2010, that I began to understand the events leading up to my redundancy."
+                },
+                {
+                  "title": "",
+                  "content": "[44.7] I suffered quite a lot in the period before my redundancy, I was humiliated and very disadvantaged. I was subjected to a re-organisation process that was inequitable and unfair and my health was seriously affected by the time of my redundancy."
+                },
+                {
+                  "title": "",
+                  "content": "[44.8] However, redundancy was not the end of my humiliations. Before my redundancy, I had been subjected to a series of very public sexual insinuations by the temporary HR manager After redundancy, a National Library manager ... made a number of unpleasant and unwelcome sexual approaches to me."
+                },
+                {
+                  "title": "",
+                  "content": "[44.9] I submit that both the initial withholding of Ms McCracken's email, CB p2, and the continued withholding of Ms McCracken's email has had very grave consequences for me. My career came to an end with my redundancy, as I now have a permanent impairment to my arm and shoulder, as a result of my work accident at DIA. Redundancy has meant financial disadvantage. I am extremely reluctant to use the libraries of National Library and Alexander Turnbull and I have been humiliated and disgusted by the sexual harassment and hounding I have been subjected to by DIA staff and managers."
+                }
+              ]
+            },
+            {
+              "number": "[45]",
+              "content": "On the facts, we find that the failure by the Department to comply with Principle 6(2) caused Ms Sansom none of the forms of harm listed in s 66(1)(b). It was abundantly clear throughout the hearing and emphasised by Ms Sansom in her closing submissions that her complaint relates to the fact that having suffered a serious injury while at work she received no assistance during the restructuring of the National Library, was made redundant without proper cause and was subjected to harassment by other staff. But even if accepted as proved, those factors cannot satisfy the causation requirement. By the time she made her request dated 21 March 2013 she had not been employed by the Department for one year and nine months, had not brought a personal grievance claim and the loss of opportunity to correct information held by the Department had no appreciable significance. There is no evidence at all of any of the consequences listed in s 66(1)(b)(i) to (iii). Without such evidence this limb of her case must fail.",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Principle 6(2)",
+                  "context": "Failure to comply with this principle was found not to have caused the harm listed in s 66(1)(b)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(1)(b)",
+                  "context": "Lists forms of harm which were not caused by the Department's failure."
+                }
+              ]
+            },
+            {
+              "number": "[46]",
+              "content": "As the Tribunal is not satisfied on the balance of probabilities that failure by the Department to comply with Principle 6(2) resulted in an interference with Ms Sansom's privacy, it has no jurisdiction to grant any remedy under the Privacy Act.",
+              "page": 11
+            },
+            {
+              "number": "[47]",
+              "content": "However, in relation to that part of her case based on s 66(2) and to which no causation requirement attaches, on the facts we have found Ms Sansom has established undue delay by the Department in making available the personal information recorded in Ms Finlayson's handwritten notes and we have further concluded there was no proper basis for that delay which is deemed, for the purposes of s 66(2)(a)(i) to be a refusal to make that information available. See s 66(4).",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)",
+                  "context": "Part of the case is based on this section, to which no causation requirement attaches."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)(a)(i)",
+                  "context": "The undue delay is deemed a refusal to make information available for the purposes of this section."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(4)",
+                  "context": "Supports the conclusion of undue delay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[48]",
+              "content": "As an interference with Ms Sansom's privacy has been established the Tribunal may grant one or more of the remedies allowed by s 85 of the Act:",
+              "page": 11,
+              "quoted_material": {
+                "source": "85 Powers of Human Rights Review Tribunal",
+                "content": "(1) If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:\n(b) an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:\n(c) damages in accordance with section 88:\n(d) an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:\n(e) such other relief as the Tribunal thinks fit.\n(2) In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party.\n(3) Where the Director of Human Rights Proceedings is the plaintiff, any costs awarded against him or her shall be paid by the Privacy Commissioner, and the Privacy Commissioner shall not be entitled to be indemnified by the aggrieved individual (if any).\n(4) It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any, remedy to grant.\nThe Tribunal is not required by s 85 to grant a remedy. All remedies are discretionary."
+              }
+            },
+            {
+              "number": "[49]",
+              "content": "Section 88(1) relevantly provides that damages may be awarded in relation to three specific heads of damage provided a causative link is established between the Department's omission and the harm said to have been caused:",
+              "page": 12,
+              "quoted_material": {
+                "source": "88 Damages",
+                "content": "(1) In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Section 85(4) – the conduct of the defendant",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[50]",
+              "content": "Section 85(4) provides that while it is no defence that the interference was unintentional or without negligence, the Tribunal must nevertheless take the conduct of the defendant into account in deciding what, if any, remedy to grant.",
+              "page": 12
+            },
+            {
+              "number": "[51]",
+              "content": "As will be apparent from our earlier findings we have been satisfied by the evidence given by Mr Szekely, Ms Atkinson and Mr Askwith the Department was in almost every respect diligent and thorough in its search for the personal information requested by Ms Sansom. The failure to locate the handwritten notes prior to the close off date of 22 April 2013 was an oversight and not deliberate. Furthermore, Ms Sansom had been provided (in time) with a copy of Ms Finlayson's report of 2 August 2011 which was based on the overlooked interview notes. The unintentional lapse did not result in any material information being withheld from Ms Sansom.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "Declaration",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[52]",
+              "content": "It is accepted that declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108].",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108]",
+                  "context": "Cited to support the principle that declaratory relief should not ordinarily be denied."
+                }
+              ]
+            },
+            {
+              "number": "[53]",
+              "content": "In Te Wini v Askelund [2015] NZHRRT 21 at [50] and in Deeming v Whangarei District Council [2015] NZHRRT 55 at [72] to [76] it was accepted delay by a plaintiff is relevant to the question whether a remedy by way of a declaration should be granted. In the present case the “everything” request was made nearly two years after Ms Sansom had left the Department's employ and a further delay of twelve months followed the conclusion of the investigation by the Privacy Commissioner on 23 August 2013 and the filing of these proceedings on 13 October 2014. However, as in Te Wini and Deeming, we have decided because Principle 6, alone among the information privacy principles, confers a legal right (see s 11) the circumstances do not cross the line of disqualification for a declaration. Accordingly a declaration of interference is made.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Te Wini v Askelund [2015] NZHRRT 21 at [50]",
+                  "context": "Cited for the relevance of plaintiff's delay to the granting of a declaration."
+                },
+                {
+                  "type": "case",
+                  "reference": "Deeming v Whangarei District Council [2015] NZHRRT 55 at [72] to [76]",
+                  "context": "Cited for the relevance of plaintiff's delay to the granting of a declaration."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Principle 6",
+                  "context": "Cited as conferring a legal right, justifying the grant of a declaration despite delay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Damages for pecuniary loss and loss of benefit",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[54]",
+              "content": "Ms Sansom produced no evidence at all of any pecuniary loss suffered as a result of the interference and similarly produced no evidence that she had lost any benefit she might reasonably have been expected to obtain but for the interference. Nor has she provided evidence to establish a causative link between the interference with her privacy and the alleged loss. Any income lost by Ms Sansom was caused by her redundancy and not by any breach of the Privacy Act by the Department. It follows no award of damages under s 88(1)(a) and (b) can be made.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 88(1)(a) and (b)",
+                  "context": "No award of damages under these subsections could be made due to lack of evidence and causation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Damages for humiliation, loss of dignity and injury to feelings",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[55]",
+              "content": "We turn finally to s 88(1)(c), namely the assessment of damages for humiliation, loss of dignity and injury to feelings.",
+              "page": 13
+            },
+            {
+              "number": "[56]",
+              "content": "The principles were recently reviewed in Hammond v Credit Union Baywide [2015] NZHRRT 6 (2 March 2015) at [170] and will not be repeated here.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond v Credit Union Baywide [2015] NZHRRT 6 (2 March 2015) at [170]",
+                  "context": "Cited for the principles regarding the assessment of damages for humiliation, loss of dignity and injury to feelings."
+                }
+              ]
+            },
+            {
+              "number": "[57]",
+              "content": "Once again the difficulty faced by Ms Sansom is that no evidentiary foundation was laid to justify a finding the Department's failure to provide the handwritten notes caused Ms Sansom to suffer humiliation, loss of dignity or injury to feelings. This is not surprising given access to the information was not requested until one year and nine months after Ms Sansom had been made redundant and in circumstances where Ms Sansom had not brought a personal grievance claim nor were any proceedings against the Department in contemplation by her requiring access to the notes. Above all there is no causative link between the alleged harm and the interference with privacy. The emotional harm for which Ms Sansom seeks damages is attributable to the events of late 2010 to mid-2011, not to the Department's 2013 failure to provide the few sheets of handwritten notes taken by Ms Finlayson.",
+              "page": 13
+            },
+            {
+              "number": "[58]",
+              "content": "In these circumstances no award of damages for humiliation, loss of dignity and injury to feelings can be made.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[59]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that:\n[59.1] It is satisfied on the balance of probabilities that the action of the Department of Internal Affairs in failing to provide Ms Finlayson's handwritten notes was an interference with the privacy of Ms Sansom and a declaration is made under s 85(1)(a) of the Privacy Act 1993 that the Department thereby interfered with the privacy of Ms Sansom.\n[59.2] Ms Sansom's claim is in all other respects dismissed.\n[59.3] The Tribunal confirms the order made on 21 March 2016 that there be no publication of the names or of other identifying details of the persons against whom Ms Sansom has made allegations of sexual harassment.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Costs",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[60]",
+              "content": "As each party has been successful in part no award of costs is made.",
+              "page": 13
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Sansom v Department of Internal Affairs [2016] NZHRRT 17. Note publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

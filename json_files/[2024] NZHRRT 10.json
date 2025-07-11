@@ -1,0 +1,561 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 9,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 10",
+        "reference_number": "HRRT 024/2017",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "On the papers",
+        "decision_date": "11 March 2024",
+        "case_title": "MATTHEW RICHARD BROWN v PROGRESSIVE ENTERPRISES LIMITED (NOW NAMED WOOLWORTHS NEW ZEALAND LIMITED)",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 9
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "MATTHEW RICHARD BROWN",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "PROGRESSIVE ENTERPRISES LIMITED (NOW NAMED WOOLWORTHS NEW ZEALAND LIMITED)",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member"
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr MR Brown",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr R Crotty",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT CLAIM¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Brown claims employees of Progressive Enterprises Limited² (PEL) at a Countdown store discriminated against him and victimised him in breach of the Human Rights Act 1993 (HRA) as they threatened to trespass him from the store and tried to provoke him into an altercation so he could be trespassed.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "In response to Mr Brown's claim, PEL filed an application to strike-out the claim. The basis of the PEL's strike-out application is that the claim discloses no reasonable cause of action in that even if Mr Brown's allegations were true (which is denied), they do not constitute allegations he was the subject of either discrimination or victimisation in breach of the HRA.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "The Tribunal must therefore determine whether this claim should be struck out because it discloses no reasonable cause of action.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "THE CLAIM",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "Mr Brown's statement of claim was filed on 5 May 2017. In his statement of claim Mr Brown states the relevant provisions of the HRA that PEL is alleged to have contravened are: “PART II”; “UNLAWFUL DISCRIMINATION 21(9)(i)” [sic]; “65 INDIRECT DISCRIMINATION”; and “66 VICTIMISATION (1)(a)(i)”.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "The statement of claim does not set out the facts of the case but refers to the attached documents: Mr Brown's complaint letter to the Human Rights Commission (HRC) dated 12 December 2016 and the HRC's reply dated 15 March 2017.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Mr Brown's HRC complaint letter alleges he was subjected to indirect discrimination and victimisation in the evening whilst shopping at the Countdown store. The alleged facts on which his claim is based are in summary that:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[6.1]",
+                  "content": "Within the last eight months a particular staff member said to Mr Brown that he \"did not have the balls to go through with” his claim against the store in the Human Rights Review Tribunal."
+                },
+                {
+                  "title": "[6.2]",
+                  "content": "Sporadically, no less than four times when exiting the store, he had been subjected to other staff members (always the same two) openly arguing about whether to trespass him. With the male staff member aggressively arguing to trespass him and the female staff member arguing against it."
+                },
+                {
+                  "title": "[6.3]",
+                  "content": "On 25 November 2016, when exiting the store, he was subjected to that same male staff member saying to two other staff members, “He wants him trespassed because he stares at children” to which one retorted “You are trying to provoke him\", which the male staff member denied."
+                },
+                {
+                  "title": "[6.4]",
+                  "content": "Mr Brown strongly believes that the male staff member (who was arguing to trespass him) is trying his utmost to provoke Mr Brown into an altercation which would allow him to be trespassed. Mr Brown also believes that staff member is motivated to provoke him by the former manager (and certain members of the Dunedin Police). Mr Brown says the former manager lied about venting to him on the phone in 2002, then verbally trespassed Mr Brown from the store and also lied claiming he was frequenting the store after being trespassed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "STRIKE-OUT APPLICATION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "PEL applied to strike-out the claim on 1 June 2017.",
+              "page": 3
+            },
+            {
+              "number": "[8]",
+              "content": "The basis of the strike-out application is that the claim does not disclose a reasonable cause of action. PEL says that even if the allegations in the claim were to be accepted as true (which is denied), they do not constitute allegations he was the subject of either discrimination or victimisation in breach of the HRA. PEL say that is because:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[8.1]",
+                  "content": "No identifiable prohibited ground of discrimination is pleaded or disclosed in Mr Brown's claim. Therefore, the allegations in the claim do not constitute discrimination in breach of s 44 (that prohibits discrimination in the provision of goods and services) or of s 65 (that prohibits indirect discrimination)."
+                },
+                {
+                  "title": "[8.2]",
+                  "content": "Mr Brown has not pleaded any facts that give rise to a reasonably arguable case that the PEL employees' comments constitute “less favourable treatment\" and that there is a causal link between the actions of the PEL employees and Mr Brown's intention to bring a claim against PEL under the HRA. Therefore, the allegations in the claim do not constitute victimisation in breach of s 66."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "Mr Brown filed various documents in response to the strike-out application.³ It is apparent from these documents that he opposes his claim being struck out and considers it unjust for the strike-out application to be determined on the papers.⁴ However, Mr Brown's submissions do not otherwise address any matters of substance that are relevant to whether his claim should be struck out on the basis it discloses no reasonable cause of action and do not clarify the prohibited ground of discrimination on which he relies. Rather, Mr Brown's submissions focus on grievances he has with how the Tribunal has dealt with previous matters.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "THE LAW",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The Tribunal has a discretionary power to strike-out proceedings, including on the basis that they disclose no reasonable cause of action. The Tribunal's jurisdiction to do so is now found in s 115A.⁵ Prior to the introduction of that section, when the strike-out application in this case was made, the power was conferred on the Tribunal under s 115.⁶",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "The principles to be applied by the Tribunal in its strike-out jurisdiction are consistent with the approach taken by the High Court under r 15.1 and the well-established principles adopted by the court that inform the approach to strike-out.⁷",
+              "page": 4
+            },
+            {
+              "number": "[12]",
+              "content": "Those principles relevantly include that it is inappropriate to strike-out a claim on the basis it does not disclose a reasonably arguable cause of action unless the Tribunal can be certain it cannot succeed.⁸ Given the fundamental constitutional importance of the right of access to courts and tribunals, the jurisdiction to strike-out a claim is one to be used sparingly, and particular care is required where the law is confused or developing.⁹ Nevertheless, the cautious approach to striking out a claim needs to be balanced against the desirability of freeing defendants from the burden of litigation which is groundless or is an abuse of process.¹⁰",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "A strike-out application on the basis the claim does not disclose a reasonably arguable cause of action generally proceeds on the basis that the pleaded facts are assumed to be true, whether or not they have been admitted.¹¹",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "A strike-out application on this basis generally involves an analysis of the statement of claim (the pleading) against the legal elements of the cause of action. If the facts set out (pleaded facts) in the statement of claim are incapable of making out the cause of action it may be struck out as it cannot succeed. Equally, if the pleaded facts in the statement of claim, if proven, are capable of establishing the cause of action, it is generally inappropriate to strike it out because the claim is not clearly unable to succeed.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "The Tribunal's exercise of jurisdiction to strike-out this claim requires the Tribunal to be satisfied both that the claim does not disclose a reasonably arguable cause of action, and if so, that the Tribunal should exercise its discretion to strike-out this claim.",
+              "page": 4
+            },
+            {
+              "number": "[16]",
+              "content": "Also of relevance is s 105, which requires the Tribunal to act in accordance with the substantial merits of the case, without regard to technicalities, but in accordance with the principles of natural justice and in a manner that is fair and reasonable and according to equity and good conscience.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "WHETHER THE CLAIM DISCLOSES A REASONABLY ARGUABLE CAUSE OF ACTION",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The Tribunal must first determine whether the claim discloses a reasonably arguable cause of action.",
+              "page": 5
+            },
+            {
+              "number": "[18]",
+              "content": "Mr Brown's claim can be taken as alleging the following three causes of action, that are each considered to determine whether they are a reasonably arguable on the pleaded fact.",
+              "page": 5
+            },
+            {
+              "number": "[19]",
+              "content": "As noted above this involves an analysis of the pleaded facts in Mr Brown's statement of claim against the legal elements of the cause of action. If the pleaded facts are incapable of making out the cause of action it may be struck out as it cannot succeed.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "First cause of action – unlawful direct discrimination",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "Mr Brown alleges he has been subjected to unlawful discrimination under Part 2 of the HRA (see above at [4]). Although Mr Brown does not expressly reference s 44, it can as PEL submits be assumed he is alleging discrimination in the provision of goods and services in breach of that provision.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "Section 44 (1) relevantly provides as follows:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Section 44 (1)",
+                "content": "44 Provision of goods and services\n(1) It shall be unlawful for any person who supplies goods, facilities, or services to the public or to any section of the public—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "to refuse or fail on demand to provide any other person with those goods, facilities, or services; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "to treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,—"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[22]",
+              "content": "The prohibited grounds of discrimination are set out in s 21(1)(a)-(m) of the HRA and are: sex, marital status, religious belief, ethical belief, colour, race, ethnic or national origins, disability, age, political opinion, employment status, family status and sexual orientation.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "For Mr Brown's claim under s 44(1) to be tenable the pleaded facts in his statement of claim must show, assuming they are true, that:¹²",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[23.1]",
+                  "content": "PEL supplies goods to the public; and"
+                },
+                {
+                  "title": "[23.2]",
+                  "content": "PEL treated Mr Brown less favourably in connection with the provision of those goods than would otherwise be the case; and"
+                },
+                {
+                  "title": "[23.3]",
+                  "content": "This less favourable treatment arose by reason of a prohibited ground of discrimination."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "The pleaded facts in Mr Brown's statement of claim do show the first and second elements set out above. The less favourable treatment for the second element is that Mr Brown was subjected to threats of trespass and provocation by staff whilst he was shopping.",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "The pleaded facts in the statement of claim do not however show the third element above. That is because the statement of claim:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[25.1]",
+                  "content": "Does not identify a prohibited ground of discrimination that exists under s 21."
+                },
+                {
+                  "title": "[25.2]",
+                  "content": "Does not set out facts that give rise to a tenable case that a prohibited ground of discrimination was why Mr Brown was subjected to the less favourable treatment."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Brown's statement of claim refers (in the part that is handwritten) to a particular subsection of s 21 that appears to be s 21(9)(i)[sic], or as PEL submit could possibly be s 21(q)(i). There are however no such subsections in s 21. There are no other references to s 21 in the statement of claim, that includes Mr Brown's complaint letter to the HRC. Nor does the statement of claim specify in any other way the prohibited ground that is relied on in respect of his claim of discrimination.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "Nor can it be inferred from the pleaded facts in the statement of claim that any of the prohibited grounds of discrimination were a reason why PEL staff treated him in the way he alleges. Rather, the statement of claim refers to staff's treatment of Mr Brown arising from the following reasons: that the staff member wanted him trespassed “because he stares at children”; and that the staff member was motivated to provoke him by the former manager (and certain members of the Dunedin Police). Neither of these reasons for the less favourable treatment are by reason of a prohibited ground of discrimination.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "Further and importantly, Mr Brown could have clarified the prohibited ground of discrimination on which his claim is based but he has failed to do so in any of the various documents he has filed.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "As the pleaded facts in Mr Brown's statement of claim, even if true, cannot establish his less favourable treatment arose by reason of a prohibited ground of discrimination, his claim of breach of s 44 cannot succeed.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "Accordingly, Mr Brown's first cause of action, unlawful direct discrimination in breach of s 44 is not reasonably arguable.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Second cause of action – indirect discrimination",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[31]",
+              "content": "Mr Brown alleges he has been subjected to indirect discrimination in breach of s 65 of the HRA (see above at [4]) in his statement of claim.",
+              "page": 7
+            },
+            {
+              "number": "[32]",
+              "content": "Section 65 provides as follows:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Section 65",
+                "content": "65 Indirect discrimination\nWhere any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it."
+              }
+            },
+            {
+              "number": "[33]",
+              "content": "In order for the Tribunal to find that Mr Brown's claim of indirect discrimination in breach of s 65 is tenable, his pleaded facts must show that the actions of PEL staff had the effect of treating him differently on one of the prohibited grounds of discrimination.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "As already discussed above, Mr Brown's statement of claim does not identify a prohibited ground of discrimination on which his claim of discrimination relies. Nor can one reasonably draw any inference from the pleaded facts as to what the prohibited ground of discrimination alleged is.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "As the pleaded facts in Mr Brown's statement of claim, even if true, cannot show the actions of PEL staff of which he complains had the effect of treating him differently on one of the prohibited grounds of discrimination, his claim of breach of s 65 cannot succeed.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Accordingly, Mr Brown's second cause of action, indirect discrimination in breach of s 65 is not reasonably arguable.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Third cause of action - victimisation",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "Mr Brown alleges he has been subject to victimisation in breach of s 66 of the HRA.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "Section 66 of the HRA makes it unlawful for a person to be victimised (that is treated or threatened to be treated less favourably than other persons in the same or substantially similar circumstances) because that person intends to or is making use of their rights under the HRA, or it is known or suspected that the person has done or intends to make use of their rights under the HRA.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "The test for victimisation requires a comparison between the treatment applied by PEL to Mr Brown with the treatment to which PEL would have applied to a person who had not expressed an intention to utilise their rights under the HRA or who PEL does not suspect that they intended to do so.¹³",
+              "page": 7
+            },
+            {
+              "number": "[40]",
+              "content": "For Mr Brown's claim of victimisation to be tenable, the pleaded facts must show that:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[40.1]",
+                  "content": "PEL treated him or threatened to treat him less favourably than others in the same or substantially similar circumstances; and"
+                },
+                {
+                  "title": "[40.2]",
+                  "content": "He intended to make use of his rights under the HRA or that PEL knew or suspected that he intended to make use of his rights under the HRA; and"
+                },
+                {
+                  "title": "[40.3]",
+                  "content": "There is a causal link between the less favourable treatment and his intention or suspected intention to use his rights under the HRA."
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "The pleaded facts in Mr Brown's statement of claim, if assumed to be true, show the first and second elements set out above. The necessary less favourable treatment for the first element is that Mr Brown was subjected to threats of trespass and provocation by staff whilst he was shopping. The Tribunal agrees with PEL's submission that the comment made to Mr Brown about pursuing a Tribunal claim does not amount to the necessary less favourable treatment for the first element. That comment is relevant to the second element; it shows PEL knew or suspected that he intended to use his rights under the HRA.",
+              "page": 8
+            },
+            {
+              "number": "[42]",
+              "content": "The pleaded facts, if assumed to be true, do not however show the third element above. Mr Brown has not pleaded or referred to any facts which would permit a finding that the less favourable treatment was because of his intention or suspected intention to use his rights under the HRA. Mr Brown's claim does not plead there is any link between the threats of trespass and provocation by a certain staff member and his intention or suspected intention to use his rights under the HRA. Instead, the claim pleads that the less favourable treatment arose because the staff member who made the threats and was trying to provoke him was motivated to so by the former manager (and certain members of the Dunedin Police).",
+              "page": 8
+            },
+            {
+              "number": "[43]",
+              "content": "As the pleaded facts in Mr Brown's statement of claim, even if true, cannot establish there is a causal link between the alleged less favourable treatment and Mr Brown's intention or suspected intention to use his rights under the HRA, his claim of victimisation in breach of s 66 cannot succeed.",
+              "page": 8
+            },
+            {
+              "number": "[44]",
+              "content": "Accordingly, Mr Brown's third cause of action, victimisation in breach of s 66 is not reasonably arguable.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "The Tribunal has found none of the three possible causes of action in Mr Brown's claim (unlawful direct discrimination in breach of s 44, indirect discrimination in breach of s 65 and victimisation in breach of s 66) are reasonably arguable.",
+              "page": 9
+            },
+            {
+              "number": "[46]",
+              "content": "Accordingly, the Tribunal has found Mr Brown's claim discloses no reasonably arguable cause of action.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "WHETHER THE TRIBUNAL SHOULD STRIKE-OUT THE CLAIM",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[47]",
+              "content": "Mr Brown's claim has been found to be baseless as it discloses no reasonably arguable cause of action. Given this finding the Tribunal has no hesitation in exercising its discretion to strike-out the claim. It would be inappropriate to allow this claim to progress when it has no prospect of success and PEL should not be put to any further cost of defending it.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "For these reasons, this proceeding should be struck out.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[49]",
+              "content": "PEL have been successful in their application to strike out this claim. Having regard to the Tribunal's general approach to costs,¹⁴ we are of the view that costs are to lie where they fall.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[50]",
+              "content": "Mr Brown's claim against Progressive Enterprises Limited is struck out in its entirety.",
+              "page": 9
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Ms EF Tait",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Brown v Progressive Enterprises Ltd (Strike-Out) [2024] NZHRRT 10.]",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Progressive Enterprises Limited's name was changed on 22 June 2018 to Woolworths New Zealand Limited.",
+          "page": 1
+        },
+        {
+          "number": "3",
+          "content": "Mr Brown did not file any opposition to the strike out when initially directed to do so in 2017. The Tribunal then did not progress any of Mr Brown's matters as he had appealed to the senior courts from the decision of the Tribunal declining his application for the Chairperson (Mr RPG Haines QC) to recuse himself from hearing any of his proceedings. In 2020 Mr Brown was provided a further opportunity to file any opposition to the strike-out before it was determined, and he filed documents in respect of this matter on 25 May 2020, 26 June 2020, 3 July 2020, 8 July 2020 and 14 July 2020.",
+          "page": 3
+        },
+        {
+          "number": "4",
+          "content": "In the Minute dated 21 August 2017 the Tribunal directed the strike-out application was to be determined following a hearing on the papers.",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Section 115A was introduced into the Human Rights Act on 14 November 2018.",
+          "page": 3
+        },
+        {
+          "number": "6",
+          "content": "That provision gives the Tribunal a wide discretionary power to strike-out proceedings in situations not dissimilar to those contemplated by r 15.1 of the High Court Rules, see Mackrell v Universal College of Learning HC Palmerston North CIV 2205-485-802, 17 August 2005 at [48].",
+          "page": 3
+        },
+        {
+          "number": "7",
+          "content": "Attorney-General v Prince [1998] 1 NZLR 262 (CA) endorsed by the Supreme Court in Couch v Attorney-General [2008] NZSC 45, [2008] 3 NZLR 725 at [33] per Elias CJ and Anderson J.",
+          "page": 4
+        },
+        {
+          "number": "8",
+          "content": "In Couch v Attorney-General at [33] Elias CJ and Anderson J, said \"It is inappropriate to strike-out a claim summarily unless the court can be certain that it cannot succeed\".",
+          "page": 4
+        },
+        {
+          "number": "9",
+          "content": "Attorney-General v Prince at 267; and Couch v Attorney-General at [33].",
+          "page": 4
+        },
+        {
+          "number": "10",
+          "content": "Parohinog v Yellow Pages Group Ltd [2015] NZHRRT 14 at [22]-[28].",
+          "page": 4
+        },
+        {
+          "number": "11",
+          "content": "Attorney-General v Prince at 267.",
+          "page": 4
+        },
+        {
+          "number": "12",
+          "content": "Vallant Hooker & Partners v Proceedings Commissioner [2001] 2 NZLR 357 (HC) at [15].",
+          "page": 5
+        },
+        {
+          "number": "13",
+          "content": "Read v Mitchell [2000] 1 NZLR 470 (HC) at 484.",
+          "page": 8
+        },
+        {
+          "number": "14",
+          "content": "Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30",
+          "page": 9
+        }
+      ]
+    }
+  ]
+}

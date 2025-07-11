@@ -1,0 +1,1679 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "[2020] NZHRRT 39",
+    "total_pages": 27,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 39",
+        "reference_number": "HRRT 041/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "5, 6, 7, 8, 9, 13 and 14 March 2018",
+        "decision_date": "15 October 2020",
+        "case_title": "McKeogh v Attorney-General",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 27
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "JANETTE KATHERINE MCKEOGH",
+            "role": "First Plaintiff",
+            "type": "individual"
+          },
+          {
+            "name": "DONNA ANNE LA FAUCI",
+            "role": "Second Plaintiff",
+            "type": "individual"
+          },
+          {
+            "name": "MALCOLM LEON LARSEN",
+            "role": "Third Plaintiff",
+            "type": "individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ATTORNEY-GENERAL OF NEW ZEALAND IN RESPECT OF THE MINISTRY OF SOCIAL DEVELOPMENT",
+            "role": "Defendant",
+            "type": "government_agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Ms ST Scott QSM",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R Kee, Director of Human Rights Proceedings and Mr G Robins",
+          "representing": "plaintiffs"
+        },
+        {
+          "counsel": "Mr PT Rishworth QC, Ms D Harris and Ms M Nicholson",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The plaintiffs are all eligible for New Zealand Superannuation (NZS), as are their spouses. However, the effect of s 70(1) of the Social Security Act 1964 (SSA) is that the plaintiffs receive NZS at a reduced rate because their spouses receive an overseas pension. The amount of that pension is deducted from the NZS payable to the spouse (\"direct deduction\"). If the overseas pension exceeds the NZS of the spouse, that excess is deducted from the NZS of the plaintiffs. This second category of deduction (which reduces the NZS payable to the plaintiffs) is colloquially known as the spousal deduction.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 70(1) of the Social Security Act 1964 (SSA)",
+                  "context": "The effect of this section is that plaintiffs receive NZS at a reduced rate."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "The plaintiffs acknowledge the overseas pension received by their respective spouses is comparable to NZS and properly subject to deduction under SSA, s 70.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "Acknowledging that the overseas pension is properly subject to deduction under this section."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "In these proceedings the plaintiffs claim s 70 discriminates against them on the ground of family status and on the ground of marital status.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 70",
+                  "context": "The section claimed to be discriminatory."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "The issue is whether SSA, s 70 is inconsistent with the New Zealand Bill of Rights Act 1990 (NZBORA), s 19 insofar as it requires spousal deduction.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "Whether this section is inconsistent with the NZBORA."
+                },
+                {
+                  "type": "statute",
+                  "reference": "New Zealand Bill of Rights Act 1990 (NZBORA), s 19",
+                  "context": "The act and section which SSA, s 70 is claimed to be inconsistent with."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "It is to be noted SSA, s 70 applies equally to married, civil union and de facto couples but for ease of reference and because each plaintiff is married to their respective spouse, this decision refers only to “spouses” and “spousal deduction”.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "Noting the scope of application of this section."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Legislative developments since the hearing",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "Legislative developments since the hearing",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "On 26 November 2018 the Social Security Act 2018 came into force. The provisions of that Act are generally the provisions of the former 1964 enactment in rewritten form and are intended to have the same effect as the corresponding provisions in the 1964 Act. See ss 5(10) and 9(3) of the 2018 Act.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Social Security Act 2018",
+                  "context": "Stating when this act came into force."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 5(10) and 9(3) of the 2018 Act",
+                  "context": "Sections indicating the new act has the same effect as the former."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "The former s 70 in the 1964 Act is now re-written as ss 187 to 191 of the 2018 Act.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 70 in the 1964 Act",
+                  "context": "The former section."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 187 to 191 of the 2018 Act",
+                  "context": "The rewritten sections in the new act."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "As we have received no submissions from the parties as to the relevance of the 2018 enactment to the evidence and submissions received by the Tribunal at the hearing in March 2018, we do not intend making further reference to the 2018 Act.",
+              "page": 3
+            },
+            {
+              "number": "",
+              "content": "Possible repeal of spousal deduction",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "Possible repeal of spousal deduction",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "The Tribunal has, however, received from counsel for the plaintiffs a memorandum dated 20 June 2019 drawing attention to a government proposal to remove the spousal deduction rule with effect from 1 July 2020. Few details have been made available and there is presently no Bill before Parliament. Counsel for the plaintiffs advise that if the proposals are enacted before a decision is issued by the Tribunal, the claim may become academic. However, until it becomes clear that the law will be amended to remove the alleged discriminatory effect, the claim remains live and should not be stayed.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "In these circumstances the Tribunal intends issuing its decision.",
+              "page": 3
+            },
+            {
+              "number": "",
+              "content": "The late amendment to the statement of claim",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "The late amendment to the statement of claim",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "In its original form as filed on 21 July 2016 the statement of claim alleged the spousal deduction affected or treated the plaintiffs differently on the basis of their family status (Human Rights Act 1993 (HRA), s 21(1)(I)(iii) “family status means ... being married to, or being in a civil union or a de facto relationship with, a particular person”).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 21(1)(I)(iii)",
+                  "context": "The legal basis for the original claim regarding family status."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "On the following day (6 March 2018), in closing his case, the Director handed up a draft amended statement of claim with the proposed changes shown in red, confirming that a second cause of action based on \"marital status\" was indeed to be added.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "For the Attorney-General, Mr Rishworth QC, consented to the amendment.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "Unfortunately the eleventh hour amendment to the claim did not assist a clear articulation of the plaintiffs' submissions on the two prohibited grounds and resulted in the Director requesting (and being granted) leave to file and present “interpolating” submissions in the middle of the closing submissions for the Attorney-General.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "SECTION 70(1) OF THE SOCIAL SECURITY ACT 1964",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[15]",
+              "content": "It was common ground at the hearing that the operation of SSA, s 70(1) had been accurately analysed in the defendant's opening submissions. We reproduce that analysis here with similar forms of emphasis.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The section of the act being analyzed."
+                }
+              ],
+              "quoted_material": {
+                "source": "SECTION 70(1) OF THE SOCIAL SECURITY ACT 1964",
+                "content": "70 Rate of benefits if overseas pension payable\n(1) For the purposes of this Act, if—\n(a) any person qualified to receive a benefit under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 is entitled to receive or receives, in respect of that person or of that person's spouse or partner or of that person's dependants, or if that person's spouse or partner or any of that person's dependants is entitled to receive or receives, a benefit, pension, or periodical allowance granted elsewhere than in New Zealand; and\n(b) the benefit, pension, or periodical allowance, or any part of it, is in the nature of a payment which, in the opinion of the chief executive, forms part of a programme providing benefits, pensions, or periodical allowances for any of the contingencies for which benefits, pensions, or allowances may be paid under this Act or under the New Zealand Superannuation and Retirement Income Act 2001 or under the Veterans' Support Act 2014 which is administered by or on behalf of the Government of the country from which the benefit, pension, or periodical allowance is received—\nthe rate of the benefit or benefits that would otherwise be payable under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 shall, subject to subsection (3), be reduced by the amount of such overseas benefit, pension, or periodical allowance, or part thereof, as the case may be, being an amount determined by the chief executive in accordance with regulations made under this Act:\nprovided that if the chief executive determines that the overseas benefit, pension, or periodical allowance, or any part of it, is in the nature of, and is paid for similar purposes as,—\n(a) compensation for injury or death for which payment could be made under the Accident Compensation Act 2001 if the injury or death had occurred in New Zealand after the commencement of that Act; or\n(b) a war pension or allowance granted under the Veterans' Support Act 2014 of a type which would not affect any recipient's entitlement to a benefit in accordance with section 72 unless the pension or allowance is a pension or payment granted under Part 6 of the Veterans' Support Act 2014; or\n(c) a disability allowance granted under this Act—\nsuch overseas benefit, pension, or periodical allowance, or part of it, as the case may be, shall be treated as if it were in fact such compensation, war pension or allowance, or disability allowance.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "Section 70(1)(a) contemplates three circumstances in which deduction may occur (assuming in each case person X is “qualified to receive a benefit ... under this Act ... or under the New Zealand Superannuation and Retirement Income Act 2001”):",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[16.1] Person X is entitled to receive or receives “in respect of that person” (ie, person X him or herself) a qualifying overseas benefit (emphasised in red bold). This describes direct deduction.",
+                  "content": ""
+                },
+                {
+                  "title": "[16.2] Person X is entitled to receive or receives “in respect of ... that person's spouse or partner or of that person's dependants” a qualifying overseas benefit (emphasised in blue italics). This describes a situation where person X's overseas benefit contains an additional element in recognition of their spouse or child.",
+                  "content": ""
+                },
+                {
+                  "title": "[16.3] Person X's spouse or partner is entitled to receive or receives a qualifying overseas benefit (emphasised in green underline). This describes spousal deduction.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "In each case the pension rate payable to person X is required to be reduced by the amount of such overseas pension (ie that pension they (in respect of themselves, or their dependant) or their spouse is entitled to receive).",
+              "page": 5
+            },
+            {
+              "number": "[17]",
+              "content": "Direct deduction of overseas pensions is not challenged by the plaintiffs. Their case is based on spousal deduction and a claim that it is discriminatory.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "EVIDENCE BY THE PLAINTIFFS",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "All three plaintiffs gave evidence as did Michael La Fauci Jr (husband of the second plaintiff) and Sigrid Stensrud (wife of the third plaintiff). Their evidence is conveniently summarised in the amended statement of claim.",
+              "page": 5
+            },
+            {
+              "number": "",
+              "content": "The first plaintiff: Mrs McKeogh",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "The first plaintiff: Mrs McKeogh",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[19]",
+              "content": "Mrs McKeogh became entitled to receive NZS in August 2013 and continues to be eligible to receive NZS. She is married to Marcus McKeogh who became entitled to receive NZS in August 2013. He is also entitled to receive two overseas pensions. The sum of those pensions exceeds his entitlement to NZS.",
+              "page": 5
+            },
+            {
+              "number": "[20]",
+              "content": "By virtue of the spousal deduction required by SSA, s 70(1), since April 2014 but with retrospective effect from August 2013, the amount Marcus McKeogh is entitled to receive (and does in fact receive) from his overseas pensions that exceeds his entitlement to NZS has been deducted from Mrs McKeogh's entitlement to NZS because she is married to Mr McKeogh.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The legal basis for the spousal deduction applied to Mrs McKeogh."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The second plaintiff: Mrs La Fauci",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "The second plaintiff: Mrs La Fauci",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "Mrs La Fauci became entitled to receive NZS in March 2015 and continues to be eligible to receive NZS. She is married to Michael La Fauci Jr who became entitled to receive NZS in June 2011. He is also entitled to receive an overseas pension. That pension exceeds his entitlement to NZS.",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "By virtue of the spousal deduction required by SSA, s 70(1), since May 2015 the amount that Michael La Fauci Jr is entitled to receive (and does in fact receive) from his overseas pension that exceeds his own entitlement to NZS has been deducted from Mrs La Fauci's entitlement to NZS because she is married to Mr La Fauci Jr.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The legal basis for the spousal deduction applied to Mrs La Fauci."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The third plaintiff: Mr Larsen",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "The third plaintiff: Mr Larsen",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "Mr Larsen became entitled to receive NZS in May 1999 and continues to be eligible to receive NZS. He is married to Sigrid Stensrud who became entitled to receive NZS in April 2002. She is also entitled to receive an overseas pension. That pension exceeds her entitlement to NZS.",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "By virtue of the spousal deduction required by SSA, s 70(1), since February 2005 the amount that Ms Stensrud is entitled to receive (and does in fact receive) from her overseas pension that exceeds her entitlement to NZS has been deducted from Mr Larsen's entitlement to NZS because he is married to Ms Stensrud.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The legal basis for the spousal deduction applied to Mr Larsen."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Mrs Burke",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "Mrs Burke",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "The Director also called Mrs JS Burke who is not a plaintiff but is affected by the spousal deduction through her marriage to a citizen of the United States of America. Her husband is not eligible for NZS but the entire amount of his overseas pension is deducted from Mrs Burke's pension.",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "Alleged differential treatment or effect",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "Alleged differential treatment or effect",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "In relation to the family status ground, the differential treatment or effect said to have been caused by the spousal deduction required by SSA, s 70(1) is that each plaintiff receives a lower amount of NZS than if they were married to a person who did not receive an overseas pension exceeding that person's entitlement to NZS. Therefore s 70(1) affects or treats the plaintiffs differently by reason that they are married to a particular person.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The section said to cause differential treatment."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Alleged discriminatory impact",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "Alleged discriminatory impact",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "The discriminatory impact or material disadvantage said to have been suffered is described as follows.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "For Mrs McKeogh she has received at least $14,000 less NZS since April 2014, feels compelled to continue working part-time to supplement her income, has experienced financial strain, stress and anxiety in connection with the calculation of her NZS entitlement and is unable to enjoy her retirement in the way she had planned to.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "Mrs La Fauci says she has received at least $31,000 less NZS since May 2015, feels she has been robbed of what she believes is a universal entitlement, feels the law is penalising her for “marrying the wrong man” and that her contributions to the New Zealand economy and society have been disregarded. She has lost her financial independence and is now reliant on her husband's overseas pension, has experienced a level of stress that has been detrimental to her mental and physical health and her marriage, feels uncertainty at not having a consistent rate of NZS paid to her and feels she and her husband have been singled out and income-tested as an economic unit when other New Zealand couples continue to enjoy their full NZS, even if they have higher incomes.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "Mr Larsen has received at least $10,000 less NZS since February 2005, feels aggrieved he and his wife are income tested when the same test does not apply to many other, wealthier couples, feels the state has broken a promise to pay him a pension that is normally a universal entitlement, feels a deep sense of unfairness and injustice that the Norwegian taxpayers are effectively paying for his pension, feels his contributions to the New Zealand economy and society have been disregarded (including 42 years' employment in the New Zealand public service), has lost his financial independence and feels genuine strain on his finances.",
+              "page": 7
+            },
+            {
+              "number": "[31]",
+              "content": "In relation to the second cause of action based on alleged discrimination on the basis of marital status the differential treatment or effect is said to be that each plaintiff receives a lower amount of NZS than if they were not married to their spouse. The discriminatory impact or material disadvantage is the same as in relation to the family status ground.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "THE EVIDENCE FOR THE DEFENDANT",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "The two witnesses who gave evidence for the Ministry of Social Development (MSD) were Mr AR McKenzie and Mr BJ Hogan. It is not practical to reproduce in this decision the 32 pages of detailed evidence in chief given by Mr McKenzie or the equally detailed 25 pages of evidence in chief given by Mr Hogan. A general overview only is possible. There was no material change to their evidence as a consequence of their cross-examination.",
+              "page": 7
+            },
+            {
+              "number": "",
+              "content": "The evidence of Mr AR McKenzie",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "The evidence of Mr AR McKenzie",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[33]",
+              "content": "Mr McKenzie is Principal Analyst in the Seniors and International Policy team at the MSD. This team is responsible for the provision of advice on retirement income policy which includes NZS and the interface between New Zealand's social security system and the pension systems of other countries. Mr McKenzie has been in this role since 2010. Prior to this he was employed in various policy and management roles at MSD and its predecessor organisations since 1993. During this time he has worked in a range of policy areas including retirement income, population ageing, employment and income support, student support, housing and urban development.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "Mr McKenzie's evidence (summarised at [35] to [61]) was divided into six sections and aimed to provide a comprehensive overview of NZS, the treatment of overseas pensions as specified in SSA, s 70 (the direct deduction policy) and spousal deduction which is one aspect of the direct deduction policy.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "The section specifying the treatment of overseas pensions."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "[34.1] Section 1 provided information on the origin and history of social security in New Zealand leading up to the establishment of a social security system;",
+                  "content": ""
+                },
+                {
+                  "title": "[34.2] Section 2 provided information on the purpose of NZS and how it is a core component of the New Zealand social security system;",
+                  "content": ""
+                },
+                {
+                  "title": "[34.3] Section 3 provided an explanation of the direct deduction policy and the rationale for that policy;",
+                  "content": ""
+                },
+                {
+                  "title": "[34.4] Section 4 provided an explanation of spousal deduction and how it fits with direct deduction;",
+                  "content": ""
+                },
+                {
+                  "title": "[34.5] Section 5 outlined the legislative changes to the direct deduction policy since 1938; and",
+                  "content": ""
+                },
+                {
+                  "title": "[34.6] Section 6 provided information on the reviews of the policy that have occurred since it was first introduced.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[35]",
+              "content": "In relation to the second section of his evidence Mr McKenzie established that the purpose of NZS is to assure a basic standard of living for older New Zealanders, subject to a residency requirement. NZS provides a simple, equitable, effective and secure foundation for retirement income because:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[35.1] it does not discourage personal saving as it is not income or asset tested;",
+                  "content": ""
+                },
+                {
+                  "title": "[35.2] those still in paid employment can receive it;",
+                  "content": ""
+                },
+                {
+                  "title": "[35.3] it is not contingent on past earnings history or contributions; and",
+                  "content": ""
+                },
+                {
+                  "title": "[35.4] annual indexing to wages and prices maintains its relativity with incomes of the general population.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[36]",
+              "content": "The social security system in New Zealand is unusual in its complete reliance on funding from general taxation and its focus on universal benefits (ie benefits that are not linked to previous periods of employment or the level of earnings or contributions). New Zealanders do not contribute to a social security fund; rather, current taxpayers pay for the social security benefits, including age pensions, of current claimants.",
+              "page": 8
+            },
+            {
+              "number": "[37]",
+              "content": "NZS is a fundamental component of the New Zealand social security system.",
+              "page": 8
+            },
+            {
+              "number": "[38]",
+              "content": "Section 3(1)(b) of the SSA 1964 defines NZS as a “benefit” and a recipient of NZS as a \"beneficiary\".",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 3(1)(b) of the SSA 1964",
+                  "context": "The section that defines NZS as a benefit."
+                }
+              ]
+            },
+            {
+              "number": "[39]",
+              "content": "In relation to the third section of his evidence (the direct deduction policy), Mr McKenzie said that this policy is set out in SSA, s 70. It is longstanding and provides a mechanism for assessing the amount of New Zealand benefit payable to people who are eligible for both a New Zealand benefit and a state-administered pension from another country. In summary, under the direct deduction policy, state-administered overseas pensions and benefits are deducted from NZS and other New Zealand social security benefits on a dollar-for-dollar basis.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "The section setting out the direct deduction policy."
+                }
+              ]
+            },
+            {
+              "number": "[40]",
+              "content": "Under the policy, an overseas pension is deductible if it:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[40.1] forms part of a programme providing benefits, pensions or periodic allowances for any of the contingencies for which New Zealand benefits, pensions or periodic allowances are provided (eg for the contingencies of old age, disability, death of a spouse); and",
+                  "content": ""
+                },
+                {
+                  "title": "[40.2] is administered by or on behalf of the overseas government paying the pension.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "Although the direct deduction policy applies to all New Zealand benefits, it predominantly affects New Zealand superannuitants with the consequence that in this section of his evidence Mr McKenzie focused on the relationship between overseas state pensions and NZS. However, as all plaintiffs acknowledge that the overseas pensions received by their spouse are subject to direct deduction, it is not intended to summarise this part of Mr McKenzie's evidence.",
+              "page": 8
+            },
+            {
+              "number": "[42]",
+              "content": "It is sufficient to note the evidence of Mr McKenzie established that the direct deduction policy is a core component of the New Zealand social security system. It ensures that people with overseas pensions do not receive more in the way of state-administered combined pensions than the amount of state-administered pension received by people who have lived their whole lives in New Zealand.",
+              "page": 9
+            },
+            {
+              "number": "[43]",
+              "content": "The current rationale for the direct deduction policy largely reflects the original rationale which is to ensure that all qualifying New Zealand residents receive an equitable level of state administered pension, whether the amount of that pension is fully funded by New Zealand, partially funded by New Zealand and another country, or fully funded by another country. “Equitable” here means having due regard for the interests of both New Zealanders who have lived most or all of their life in New Zealand and overseas pensioners who have lived in New Zealand for a shorter period and who may have lived overseas for a substantial proportion of their life.",
+              "page": 9
+            },
+            {
+              "number": "[44]",
+              "content": "In the case of couples, the amount of any overseas pension that is in excess of one partner's NZS entitlement is deducted from the other partner's entitlement (the spousal deduction). If only one person in the couple receives a New Zealand entitlement, any overseas pension that the other person receives is deducted from the New Zealand entitlement received by the first person. This provision reflects that a couple with no dependent children is part of the “core family” unit of assessment later explained by Mr Hogan.",
+              "page": 9
+            },
+            {
+              "number": "[45]",
+              "content": "The direct deduction policy is only applied to state-administered overseas pensions. Private pensions and savings plans that are similar to KiwiSaver are not covered by the policy. Reference was made to the fact that there are a number of cases in the High Court and Court of Appeal concerned with the question whether a particular overseas pension is in the category such that SSA, s 70 applies.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "Determining whether an overseas pension falls into the category to which this section applies."
+                }
+              ]
+            },
+            {
+              "number": "[46]",
+              "content": "The Ministry is aware that the direct deduction policy is unpopular with some people. Some perceive it to be unfair and there are those who seek to avoid the policy by failing to declare their foreign pension entitlements.",
+              "page": 9
+            },
+            {
+              "number": "[47]",
+              "content": "Much of the public's dissatisfaction with the direct deduction policy appears grounded in misunderstanding with regard to the fundamental nature of NZS and also the nature of the overseas pension schemes from which their overseas pension originate.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "Critics of direct deduction appear to view NZS as a modern pension rather than a benefit, and thereby regard a New Zealand person's eligibility for that pension as an entitlement that should be inviolate and not affected by their having an equivalent entitlement from another country.",
+              "page": 9
+            },
+            {
+              "number": "[49]",
+              "content": "Mr McKenzie said that when NZS is regarded in this way, people overlook the fact that the NZS is, at its core:",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "[49.1] a component of the New Zealand welfare system;",
+                  "content": ""
+                },
+                {
+                  "title": "[49.2] a benefit intended to ensure that eligible citizens are assured a basic standard of living in their retirement; and",
+                  "content": ""
+                },
+                {
+                  "title": "[49.3] it is therefore appropriate that the direct deduction policy applies to NZS so that it complies with the “one benefit\" principle which is that an individual should not receive two benefits in respect of the same contingency – here, age.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[50]",
+              "content": "As to the fourth section of his evidence (spousal deduction) Mr McKenzie stated that spousal deduction, as it is now known, was introduced by legislation in 1955 amending s 65 of the Social Security Act 1938. Section 65 had from its inception authorised direct deduction.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 65 of the Social Security Act 1938",
+                  "context": "The section amended in 1955 to introduce spousal deduction."
+                }
+              ]
+            },
+            {
+              "number": "[51]",
+              "content": "Spousal deduction was standard practice before 1955. However, the amendment in 1955 made it clear that if an overseas pension was payable “to or in respect of” the wife or husband of a person who received a benefit under the Act, the Social Security Commission could reduce the rate of benefits received by an amount up to the rate of the overseas pension. Hence the term “spousal deduction”, although it is now a term that covers partners as well.",
+              "page": 10
+            },
+            {
+              "number": "[52]",
+              "content": "In the result, spousal deduction is part of the direct deduction policy. As at the date of hearing it affected 588 couples.",
+              "page": 10
+            },
+            {
+              "number": "[53]",
+              "content": "Mr McKenzie said that spousal deduction is intended to be fair and ensures that couples receiving an overseas pension receive a combined amount of state-administered pensions equivalent to the amount of NZS received by other New Zealand couples. This is demonstrated in Table 1 below:",
+              "page": 10
+            },
+            {
+              "number": "[54]",
+              "content": "If the excess amount of overseas pension of one partner of a couple was not deducted from the other partner, couples in this situation would receive more state-administered pension compared with a couple where both partners receive NZS but have no overseas pension. This Mr McKenzie demonstrated in Table 2 below:",
+              "page": 10
+            },
+            {
+              "number": "[55]",
+              "content": "As shown in Table 2, if the excess amount of overseas pension is not deducted, the couple with the overseas pension receive a combined amount of state-administered pensions that is $13.70 a week (or around $712 a year) more than couples without an overseas pension.",
+              "page": 11
+            },
+            {
+              "number": "[56]",
+              "content": "As to the fifth section of his evidence, Mr McKenzie noted direct deduction, including spousal deduction, has been looked at in a number of reviews over the years. We do not intend in this decision to canvass those reviews except for the last.",
+              "page": 11
+            },
+            {
+              "number": "[57]",
+              "content": "In 2016, the Minister for Seniors requested a report setting out background information on the treatment of overseas pensions paid into New Zealand and whether there were viable alternatives to the current policy. On 4 November 2016 the Ministry provided a report to Minister Barry on the Treatment of Overseas Pensions Paid into New Zealand.",
+              "page": 11
+            },
+            {
+              "number": "[58]",
+              "content": "Relevantly, the briefing stated the direct deduction policy is designed to produce an equitable outcome for overseas pensioners and the taxpayer. It noted that while consideration has been given to alternatives to direct deduction over the years, as yet no option has been satisfactorily identified to replace the policy. With respect to spousal deduction, it noted the cost of removing it would be relatively inexpensive, but removing it would risk opening up the direct deduction policy to other more significant changes. It is unclear at this stage whether any work will be commissioned on the direct deduction policy in the future.",
+              "page": 11
+            },
+            {
+              "number": "[59]",
+              "content": "In relation to the sixth section of his evidence (problems with removing the spousal deduction) Mr McKenzie stated that removal of the deduction would undermine the fundamental principle of direct deduction. Further, removal of the spousal deduction would be inequitable because, while couples with an excess amount of overseas pension would have only part of the total overseas pension amount deducted from their New Zealand entitlements, the following groups would have the entire amount deducted:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[59.1] Married superannuitants where the overseas pension amount is less than one partner's NZS entitlement. In these instances, the entire amount of overseas pension is deducted and the couple receive a combined amount of state pension that is equivalent to the amount received by other couples without an overseas pension.",
+                  "content": ""
+                },
+                {
+                  "title": "[59.2] Single superannuitants who have the entire overseas pension amount deducted from NZS and, where there is an excess amount, that excess is deducted from any supplementary benefit payments also payable.",
+                  "content": ""
+                },
+                {
+                  "title": "[59.3] Working age beneficiary couples with an overseas pension who also have the entire amount of overseas pension deducted from the married rate of working age benefit and where the overseas pension is less than the married rate of the working age benefit.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[60]",
+              "content": "It is difficult to see how a distinction could be made to allow part of an overseas pension to be excluded from direct deduction where the entire overseas pension meets the criteria set out in SSA, s 70.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "The section setting out criteria for direct deduction of an entire overseas pension."
+                }
+              ]
+            },
+            {
+              "number": "[61]",
+              "content": "The following is a convenient summary (not exhaustive) of the main points made by Mr McKenzie in his evidence:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "[61.1] NZS is a fundamental component of the New Zealand social security system.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.2] The direct deduction policy is a core component of the New Zealand social security system. It ensures that people with overseas pensions do not receive more in the way of state-administered combined pensions than the amount of state-administered pension received by people who have lived their whole lives in New Zealand.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.3] Spousal deduction is a necessary extension of the direct deduction policy because it ensures that couples with overseas pensions receive an equivalent amount of state-administered pensions as other couples.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.4] While consideration has been given to alternatives to the direct deduction policy over the years, as yet no option has been satisfactorily identified to replace the policy.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.5] Removal of the spousal deduction policy would undermine the fundamental principle of direct deduction because it would allow some couples to receive more state-administered pensions than other couples.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.6] The review, which concluded in 2007, found that the overall policy approach for the treatment of overseas pensions was sound and provided very good protection for older New Zealanders.",
+                  "content": ""
+                },
+                {
+                  "title": "[61.7] Although a change to spousal deduction was recommended as part of this review, MSD believes that, in most cases, spousal deduction is fair and ensures that couples receiving an overseas pension receive a combined amount of state-administered pensions the same as the amount received by other New Zealand couples.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The evidence of Mr BJ Hogan",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "The evidence of Mr BJ Hogan",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[62]",
+              "content": "Mr Hogan is a Policy Manager in the Employment and Income Support team at the MSD. This team is part of the broader Policy Group within MSD which is the government's key provider of social policy advice. He has been in this role since January 2015. Prior to that he was employed in various policy roles at MSD since 2003 and has worked on policy areas such as retirement income, population ageing, disability, employment and income support.",
+              "page": 12
+            },
+            {
+              "number": "[63]",
+              "content": "The primary focus of Mr Hogan's evidence was to explain the “units of assessment\" used in the social security system. The unit of assessment refers to the individual or group of individuals that are taken into account when considering a person's benefit entitlement in the social security system.",
+              "page": 13
+            },
+            {
+              "number": "[64]",
+              "content": "It can be seen from the terms of SSA, s 70(1) that it treats a person and their partner (in other words, the couple) as an “economic unit” in which the resources of one are regarded as available to the other when it comes to meeting their basic needs.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The section that treats a person and their partner as an economic unit."
+                }
+              ]
+            },
+            {
+              "number": "[65]",
+              "content": "The purpose of Mr Hogan's evidence was to assist in explaining why s 70(1) so requires. He said the idea of the couple being an economic unit is a long-standing and well-established approach in the provision of New Zealand's social security. It has been both reviewed and reaffirmed. It reflects the way people live. It also explains the approach of the social security system which is premised on supporting people to alleviate hardship taking into account the resources available to them.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 70(1)",
+                  "context": "Explaining the requirement of this section."
+                }
+              ]
+            },
+            {
+              "number": "[66]",
+              "content": "The evidence of Mr Hogan (summarised at [67] to [90]) was divided into six sections with the aim of providing a comprehensive overview of the units of assessment in the social security system:",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "[66.1] Section 1 defined the social security system and outlined the principles underpinning this system.",
+                  "content": ""
+                },
+                {
+                  "title": "[66.2] Section 2 described what the unit of assessment is and how these units are used in the social security system.",
+                  "content": ""
+                },
+                {
+                  "title": "[66.3] Section 3 described how units of assessment have been used in the social security system since 1898.",
+                  "content": ""
+                },
+                {
+                  "title": "[66.4] Section 4 identified the major reviews of the units of assessment. The recommendations of each review were described and alternatives to the status quo identified.",
+                  "content": ""
+                },
+                {
+                  "title": "[66.5] Section 5 provided examples of how units of assessment are used in the provision of broader government services in New Zealand and overseas.",
+                  "content": ""
+                },
+                {
+                  "title": "[66.6] Section 6 brought together the major conclusions of the previous sections.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[67]",
+              "content": "In the first section of his evidence Mr Hogan described how social security includes assistance provided under the Social Security Act and the New Zealand Superannuation and Retirement Income Act 2001. He also pointed out that the purpose statement in SSA, s 1A makes specific reference to beneficiaries using the resources available to them before seeking state financial support and that any publicly funded sources of financial support be taken into account in determining eligibility for the provision of financial support under the SSA:",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 1A",
+                  "context": "The purpose statement of the Social Security Act."
+                }
+              ],
+              "quoted_material": {
+                "source": "SSA, s 1A",
+                "content": "1A Purpose\nThe purpose of this Act is—\n(a) to enable the provision of financial and other support as appropriate—\n(i) to help people to support themselves and their dependants while not in paid employment; and\n(ii) to help people to find or retain paid employment; and\n(iii) to help people for whom work may not currently be appropriate because of sickness, injury, disability, or caring responsibilities, to support themselves and their dependants:\n(b) to enable in certain circumstances the provision of financial support to people to help alleviate hardship:\n(c) to ensure that the financial support referred to in paragraphs (a) and (b) is provided to people taking into account—\n(i) that where appropriate they should use the resources available to them before seeking financial support under this Act; and\n(ii) any financial support that they are eligible for or already receive, otherwise than under this Act, from publicly funded sources:\n(ca) to provide services to encourage and help young persons to move into or remain in education, training, and employment rather than to receiving financial support under this Act:\n(d) to impose, on the following specified people or young persons, the following specified requirements or obligations:\n(i) on people seeking or receiving financial support under this Act, administrative and, where appropriate, work-related requirements; and\n(ii) on young persons who are seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements; and\n(iii) on people receiving certain financial support under this Act, social obligations relating to the education and primary health care of their dependent children.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[68]",
+              "content": "Mr Hogan pointed out the social security system is tailored to the needs of individuals and their families, with support targeted to those most in need of assistance. Financial support is targeted to low- and middle-income families and generally abates as a family's income increases. Employment assistance is targeted where it will have the largest results in moving beneficiaries into employment.",
+              "page": 14
+            },
+            {
+              "number": "[69]",
+              "content": "In this respect, the intention of SSA, s 70, in capturing pensions received by a spouse, partner or dependants, reflects the general purpose of the social security system to enable people to support themselves and their dependants, and the provision of assistance to individual and family units.",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "The intention of this section reflecting the general purpose of the social security system."
+                }
+              ]
+            },
+            {
+              "number": "[70]",
+              "content": "Addressing the circumstances of the present case, Mr Hogan observed that the issue arises out of the plaintiffs' concern as to the deduction of their NZS on account of the amount of their partner's overseas pension entitlements. The concerns are, therefore, essentially about the couple being used as the unit of assessment. In the balance of his evidence Mr Hogan explained why New Zealand law and policy was designed this way, and why, after various reviews, it remains that way.",
+              "page": 14
+            },
+            {
+              "number": "[71]",
+              "content": "In the second section of his evidence Mr Hogan deposed the unit of assessment refers to the individual or group of individuals that are taken into account when considering benefit entitlement in the social security system. The unit of assessment establishes what relationships are taken into account when assessing benefit entitlement.",
+              "page": 14
+            },
+            {
+              "number": "[72]",
+              "content": "The unit of assessment is fundamental to the social security system. It helps to determine who will have access to the system and to what extent. It determines whose circumstances will be taken into account when considering entitlement for financial and non-financial assistance. It plays an important role in assessing levels of need.",
+              "page": 14
+            },
+            {
+              "number": "[73]",
+              "content": "The social security system recognises either the individual or parts of the \"core family\" as the unit of assessment. When the individual unit is assessed, it means only the circumstances of the applicant are considered, regardless whether they have a partner or children. When the core family is assessed, it may take into account the following family types:",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "[73.1] single adult with no dependent children;",
+                  "content": ""
+                },
+                {
+                  "title": "[73.2] sole parent, with dependent children;",
+                  "content": ""
+                },
+                {
+                  "title": "[73.3] a couple with no dependent children; or",
+                  "content": ""
+                },
+                {
+                  "title": "[73.4] a couple with dependent children.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[74]",
+              "content": "Using the core family as the unit of assessment is based on four justifications:",
+              "page": 15,
+              "subsections": [
+                {
+                  "title": "[74.1] A couple provides an initial unit of reciprocal support and responsibility for the individuals within it, prior to state assistance. It is reasonable for individuals to seek financial support from their partner prior to seeking financial support from the state.",
+                  "content": ""
+                },
+                {
+                  "title": "[74.2] Caregivers have a responsibility to care for their children and children are economically dependent on their caregivers.",
+                  "content": ""
+                },
+                {
+                  "title": "[74.3] It recognises that, due to economies of scale, two individuals living together can live more cheaply than two single people.",
+                  "content": ""
+                },
+                {
+                  "title": "[74.4] It recognises that family members are generally financially interdependent.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[75]",
+              "content": "These justifications have been identified and affirmed in the various reviews of the unit of assessment. Those reviews are described in section 4 of his evidence but are not addressed in this decision.",
+              "page": 15
+            },
+            {
+              "number": "[76]",
+              "content": "Mr Hogan cautioned there is some complexity in how the unit of assessment is used in the social security system. The same benefit can use both the individual and the core family as the unit of assessment at different stages, and some benefits only acknowledge some variations of the core family. Mr Hogan gave illustrations of how entitlement to a benefit is assessed but it is not necessary to repeat that detail here.",
+              "page": 15
+            },
+            {
+              "number": "[77]",
+              "content": "It is sufficient to note that benefit entitlement involves three kinds of determination, each involving consideration of the unit of assessment:",
+              "page": 15,
+              "subsections": [
+                {
+                  "title": "[77.1] Eligibility. The unit of assessment varies according to benefit type. For example, for Job Seeker support, only the individual is considered. For Sole Parent support, the sole parent and children are the unit of assessment. This is one category of the core family.",
+                  "content": ""
+                },
+                {
+                  "title": "[77.2] Rate of payment. All variations of the core family are taken into consideration when setting rates of payment for first tier benefits. For example, the rates of payment for Job Seeker support vary according to whether the applicant is single (no children), a couple (no children), sole parent and couple with children. In the case of NZS different rates exist for:",
+                  "content": ""
+                },
+                {
+                  "title": "[77.2.1] single, living alone;",
+                  "content": ""
+                },
+                {
+                  "title": "[77.2.2] single, sharing accommodation; and",
+                  "content": ""
+                },
+                {
+                  "title": "[77.2.3] couple.",
+                  "content": ""
+                },
+                {
+                  "title": "[77.3] Actual rate of entitlement. This refers to the abatement rate set on benefits, which is the rate at which assistance reduces as other income increases. Such rate is also affected by the unit of assessment. NZS can be abated in two situations: where a beneficiary or their partner receives an overseas pension and where the beneficiary has a non-qualified partner. In both cases the unit of assessment is the couple.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[78]",
+              "content": "The following table summarises the examples given by Mr Hogan in his evidence:",
+              "page": 16
+            },
+            {
+              "number": "[79]",
+              "content": "Obligations and sanctions used in social security also require a unit of assessment. In order to receive a working-age benefit under the SSA, beneficiaries must agree to meet a range of obligations. Those obligations provide a clear message of what is expected of people receiving a benefit. The unit of assessment is the core family.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA",
+                  "context": "The act under which beneficiaries must agree to meet a range of obligations."
+                }
+              ]
+            },
+            {
+              "number": "[80]",
+              "content": "So when a couple receives a benefit, work obligations may be applied to both partners. Those obligations are tailored to their individual circumstance. For example, the primary recipient may receive a Supported Living Payment and have no work obligations. If the spouse is able to work, full-time work obligations will apply to the spouse only.",
+              "page": 16
+            },
+            {
+              "number": "[81]",
+              "content": "Where an individual does not comply with his or her obligations, a financial sanction may be imposed. Financial sanctions reinforce the expectations placed on beneficiaries by withdrawing support where someone fails to meet their obligations.",
+              "page": 16
+            },
+            {
+              "number": "[82]",
+              "content": "Different sanctions apply to different family units. For example, the maximum sanction for a single person is the cancellation of a benefit, whereas a client with children can only have 50 per cent of his or her benefit cancelled.",
+              "page": 16
+            },
+            {
+              "number": "[83]",
+              "content": "Mr Hogan emphasised that the unit of assessment is a foundational part of the social security system as it helps to determine who is eligible for assistance. It also affects who is subject to obligations and the sanctions that may be applied for failure to meet those obligations.",
+              "page": 16
+            },
+            {
+              "number": "[84]",
+              "content": "At different stages of the benefit process, either the individual or core family is used as the unit of assessment. Some benefits, such as NZS, only consider some categories of the core family as there is no separate rate for superannuitants with children. Assessing the core family allows financial assistance to be tailored to different family types.",
+              "page": 16
+            },
+            {
+              "number": "[85]",
+              "content": "In the third section of his evidence (the history of the unit of assessment in the social security system), Mr Hogan told the Tribunal that treating the core family as a unit of assessment is a historic part of the social security system.",
+              "page": 17
+            },
+            {
+              "number": "[86]",
+              "content": "After giving an account of its history he stated that obligations within the social security system now use the couple as the unit of assessment. This is in marked contrast with the pre-1990 social security system, which only placed obligations on the primary recipient of the Unemployment Benefit.",
+              "page": 17
+            },
+            {
+              "number": "[87]",
+              "content": "The fourth section of Mr Hogan's evidence addressed the reviews of the units of assessment. He referred to the fact that over a 36 year period from 1972 to 2008, use of the core family as the unit of assessment was extensively considered. While several alternatives were identified and at some points proposed, the core family continues to be used. Any change to what is considered as a unit could fundamentally reform the social security system.",
+              "page": 17
+            },
+            {
+              "number": "[88]",
+              "content": "In the fifth and final section of his evidence Mr Hogan stated that the core family is a concept extensively used in New Zealand in the provision of government services other than in the social security system. Three examples are:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "[88.1] Working for Families tax credits.",
+                  "content": ""
+                },
+                {
+                  "title": "[88.2] The Community Services Card.",
+                  "content": ""
+                },
+                {
+                  "title": "[88.3] The Student Allowance.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[89]",
+              "content": "Overseas jurisdictions also use the concept of the core family in assessing benefit entitlements. Examples include Australia, United Kingdom and Ireland.",
+              "page": 17
+            },
+            {
+              "number": "[90]",
+              "content": "In summary, the main points made by Mr Hogan were:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "[90.1] The unit of assessment is a foundational part of the social security system. That system considers either the individual or the core family as the unit of assessment. Using the core family allows assistance to be tailored to the needs of individuals and their families.",
+                  "content": ""
+                },
+                {
+                  "title": "[90.2] Use of the individual and core family as the unit of assessment has a long history in New Zealand's social security, dating back to at least the Old Age Pension Act 1898. Reforms since 1991 have extended the use of the core family to obligations in the social security system.",
+                  "content": ""
+                },
+                {
+                  "title": "[90.3] The unit of assessment is a well-reviewed part of the social security system, with substantial consideration occurring from the late-1980s to the mid-2000s. In 1991, the Government confirmed the core family would continue to be used as the unit of assessment.",
+                  "content": ""
+                },
+                {
+                  "title": "[90.4] A wide range of other government services utilise the core family, including Working for Families, Community Services Card and the Student Allowance. The core family is also used in overseas jurisdictions.",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ANALYSIS",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[91]",
+              "content": "The closing submissions for the plaintiffs were extensive (64 pages) and included \"interpolating” closing submissions (7 pages) and a reply (20 pages). The closing submissions for the MSD were 53 pages in length. Unsurprisingly, the parties diverge on a number of issues. We address only the key points relevant to our determination and begin with the test for discrimination, the formulation of which was not in issue.",
+              "page": 17
+            },
+            {
+              "number": "",
+              "content": "The test for discrimination",
+              "page": 18,
+              "subsections": [
+                {
+                  "title": "The test for discrimination",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[92]",
+              "content": "These being proceedings under HRA, Part 1A, s 20L(2) requires that the act complained of must limit the right to freedom from discrimination on a prohibited ground (here, family status or marital status). In Ministry of Health v Atkinson [2012] NZCA 184, [2012] 3 NZLR 456 at [55] and [109] (followed and applied in Attorney-General v IDEA Services Ltd [2012] NZHC 3229, [2013] 2 NZLR 512 at [125]) it was said there are two steps to determining whether there has been discrimination under s 19 of the Bill of Rights:",
+              "page": 18,
+              "subsections": [
+                {
+                  "title": "[92.1] First, there must be differential treatment or effects as between persons or groups in analogous or comparable situations on the basis of a prohibited ground of discrimination.",
+                  "content": ""
+                },
+                {
+                  "title": "[92.2] Second, there must be a discriminatory impact (meaning that the differential treatment imposes a material disadvantage on the person or group differentiated against).",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, Part 1A, s 20L(2)",
+                  "context": "The requirement for the act complained of to limit the right to freedom from discrimination."
+                },
+                {
+                  "type": "case",
+                  "reference": "Ministry of Health v Atkinson [2012] NZCA 184, [2012] 3 NZLR 456 at [55] and [109]",
+                  "context": "Source for the two-step test for discrimination."
+                },
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v IDEA Services Ltd [2012] NZHC 3229, [2013] 2 NZLR 512 at [125]",
+                  "context": "Case that followed and applied the Atkinson test."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 19 of the Bill of Rights",
+                  "context": "The section under which discrimination is determined."
+                }
+              ]
+            },
+            {
+              "number": "[93]",
+              "content": "Both sides made reference to Heads v Attorney-General [2015] NZHRRT 12, (2015) 10 HRNZ 203 at [120] as a convenient summary of the principles which guide the framing of the comparator group:",
+              "page": 18,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Heads v Attorney-General [2015] NZHRRT 12, (2015) 10 HRNZ 203 at [120]",
+                  "context": "Source for principles guiding the framing of the comparator group."
+                }
+              ],
+              "quoted_material": {
+                "source": "Heads v Attorney-General [2015] NZHRRT 12, (2015) 10 HRNZ 203 at [120]",
+                "content": "[120] It is necessary to go back to the principles which guide the framing of the comparator group:\n\n[120.1] The approach to the comparator issue should be guided by the underlying purpose of anti-discrimination laws and the context in which the issue arises: Air New Zealand Ltd v McAlister [2009] NZSC 78, [2010] 1 NZLR 153 at [51] per Tipping J.\n\n[120.2] It is necessary to avoid an approach which would impose too high a threshold and effectively cut out the inquiry into potential discriminatory action too soon. The intention of the Human Rights Act is to take what has been described as a \"purposive and untechnical\" approach to whether there is prima facie discrimination and so to avoid artificially ruling out discrimination at the first stage of the inquiry. See Child Poverty Action Group Inc v Attorney-General [2013] NZCA 402, [2013] 3 NZLR 729 at [48] (hereinafter CPAG v Attorney-General).\n\n[120.3] The \"mirror\" comparison analysis can lead to problems. First, the definition of the comparator group can determine the analysis and the outcome. Second, the search for a precisely corresponding comparator becomes a search for sameness, rather than a search for disadvantage, occluding the real issue. A range of criteria could be established for eligibility but with the knowledge that one of those criteria will effectively cut out and so discriminate against, for example, all those of a particular ethnic group. See CPAG v Attorney-General at [49] and [50].\n\n[120.4] It is also necessary to come back to why it is a comparison is being undertaken. The need to consider this exercise arises, at least in part, because legislation and policy decisions will involve to a greater or lesser extent differential treatment or the making of distinctions of some sort. What the decision-maker is trying to do by reference to the comparator is to sort out those distinctions which are made on the basis of a prohibited ground. The decision-maker is looking at the reality of the situation not in the abstract. See CPAG v Attorney-General at [51].\n\n[120.5] It is necessary also to be comparing apples with apples and hence the inquiry focuses on analogous or comparable situations. The comparator exercise is simply a tool in that analysis. In some cases, particularly those where there is a single criterion, the comparator analysis will effectively answer the first stage of the inquiry. See CPAG v Attorney-General at [51].\n\n[120.6] Where there are multiple statutory criteria or where effects-based discrimination is being considered, further analysis may be required. There may be questions about how the multiple criteria impact on the choice of comparator and whether the discrimination is on the basis of a prohibited ground. See CPAG v Attorney-General at [52].\n\n[120.7] The selection of the comparator group must be conducive to a determination of the potential impact of the impugned policy without a negation of its relevance. The comparator group selected should be one that enables a determination whether this difference is on the basis of age or on some other (non-discriminatory) basis. See IDEA Services at [139].",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "",
+              "content": "The meaning of the \"family status\" and \"marital status” prohibited grounds of discrimination",
+              "page": 19,
+              "subsections": [
+                {
+                  "title": "The meaning of the \"family status\" and \"marital status” prohibited grounds of discrimination",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[94]",
+              "content": "In circumstances we explain below, it has become necessary to address the meaning of the “family status” and “marital status” prohibited grounds of discrimination in HRA, s 21 relied on by the plaintiffs:",
+              "page": 19,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 21",
+                  "context": "The section defining prohibited grounds of discrimination."
+                }
+              ],
+              "quoted_material": {
+                "source": "HRA, s 21",
+                "content": "21 Prohibited grounds of discrimination\n(1) For the purposes of this Act, the prohibited grounds of discrimination are—\n(b) marital status, which means being—\n(ii) married, in a civil union, or in a de facto relationship; or\n(l) family status, which means—\n(iii) being married to, or being in a civil union or de facto relationship with, a particular person; or",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[95]",
+              "content": "The statement of claim as originally framed alleged discrimination on the basis of the plaintiffs' family status but in closing his case the Director sought (and was granted) leave to add a second cause of action based on marital status.",
+              "page": 19
+            },
+            {
+              "number": "[96]",
+              "content": "During the course of his closing submissions the Director was asked what the one ground did or achieved which the other did not. The Director replied that he had perhaps been over-cautious in adding the new ground to the claim and conceded that in the context of the present case it did not do anything for the plaintiffs which the family status ground did not. The Tribunal understood the Director to mean that on the facts, there was no practical difference between the two grounds. In his reply the Director made the comment that it “made sense” to treat complaints relating to “being married” that fit within “group identity\" as coming under the family status ground.",
+              "page": 19
+            },
+            {
+              "number": "[97]",
+              "content": "In these circumstances we do not intend exploring in detail the reach of the family status and marital status grounds. We note only that the “particular person\" in the phrase \"being married to ... a particular person” in this context means more than just “someone”. After all, every person is in one sense or another a particular person and the person one marries is, if nothing else, a particular person. But the description of “being married to ... a particular person” must mean more than just “married to”. Otherwise the family status ground will largely, if not entirely, overlap with the marital status ground. For this reason we are of the view the “particular person” must be relevant to some event or rule which results in the alleged discrimination. As stated in Andrew Butler and Petra Butler The New Zealand Bill of Rights Act: A Commentary (2nd ed, LexisNexis, Wellington, 2015) at [17.8.34], the distinction between family status and marital status lies in the importance of the relationship with a particular person, not of the relationship itself.",
+              "page": 19,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "Andrew Butler and Petra Butler The New Zealand Bill of Rights Act: A Commentary (2nd ed, LexisNexis, Wellington, 2015) at [17.8.34]",
+                  "context": "Source for the distinction between family status and marital status."
+                }
+              ]
+            },
+            {
+              "number": "[98]",
+              "content": "The short point made by the Ministry is that the family status ground does not apply because the difference in treatment complained about by the plaintiffs turns not on their being married to “a particular person”. It turns on the quantum of overseas pension that the marriage partner brings to the relationship. This is not discrimination on the basis of being married to a particular person. Each plaintiff could be married to the same person with a hypothetical lesser overseas pension. The different outcome would turn not on their relationship with that person but on the quantum of the overseas pension.",
+              "page": 20
+            },
+            {
+              "number": "[99]",
+              "content": "It is also necessary to address the issue whether NZS is an entitlement (as claimed by the plaintiffs) or a benefit (as submitted by the Ministry).",
+              "page": 20
+            },
+            {
+              "number": "",
+              "content": "Whether NZS an entitlement or a benefit",
+              "page": 20,
+              "subsections": [
+                {
+                  "title": "Whether NZS an entitlement or a benefit",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[100]",
+              "content": "The plaintiffs claim they are “entitled” to NZS and that they “deserve” it. Their submission is that the spousal deduction operates “under the guise\" of units of assessment and disregards their fundamental right not to be discriminated against on the ground of being married to a particular person. They submit the issue whether they are entitled to be treated as individuals is perhaps the critical thing in this case.",
+              "page": 20
+            },
+            {
+              "number": "[101]",
+              "content": "The MSD submits that to see NZS as akin to a personal investment due in full on attaining the age of eligibility regardless of the impact of the deductions mandated by SSA, s 70 fundamentally misunderstands NZS. It is a universal scheme designed to ensure a basic and adequate standard of living for retired persons. From its inception it has brought into the equation any analogous overseas pension received.",
+              "page": 20,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70",
+                  "context": "The section mandating deductions."
+                }
+              ]
+            },
+            {
+              "number": "[102]",
+              "content": "Its rationale is to deliver security. It is entirely consistent with that rationale that there be direct and spousal deduction. These do no more than ensure each person and each couple gets the guaranteed level of government-administered support when reaching qualifying age and residence. It is in no sense “levelling down”. Where overseas pensions are in play for individuals and couples that bring in more support than the amount of NZS, those overseas pensions are received in full but remove the need for NZS to be delivered to the couple.",
+              "page": 20
+            },
+            {
+              "number": "[103]",
+              "content": "Our finding on the evidence of Mr McKenzie (and on the fact that NZS is defined by SSA 1964, s 3(1)(b) and by Schedule 2 of the SSA 2018 as a benefit) is that the Ministry is correct in submitting the direct deduction policy has been a feature of the social welfare system since 1938. It was introduced to ensure those with overseas pensions should not receive more state assistance than those who had lived their whole lives in New Zealand. It is consistent with the “one pension” principle (which prevents people from receiving more than one social security benefit at the same time even if eligible for both) and with the principle that the system revolves around “need”. In the context of NZS in particular, if for any eligible person the need for an age-related benefit is satisfied, in full or part, by a provision made by an overseas pension analogous to NZS, then the need is not present. Or to put it another way, the need would be met twice if NZS were paid without there being reduction in light of an analogous overseas pension also being received. This is not \"means-testing”. It is identifying the extent to which the very need that confers eligibility (that is, age, as a proxy for inability to support one's self) is met by the provision of a benefit responding to the same need (or contingencies, as it is put in SSA, s 70(1)(b)). The need ought not to be met twice. This rationale for deduction was affirmed during the 1960s, and it remains that all New Zealand residents should receive an equitable level of state-administered pensions (regardless of the proportions – New Zealand and overseas in which that is made up). The plaintiffs' insistence that NZS is an entitlement fundamentally misconceives the statutory scheme and purpose.",
+              "page": 20,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA 1964, s 3(1)(b)",
+                  "context": "The section defining NZS as a benefit."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Schedule 2 of the SSA 2018",
+                  "context": "Schedule defining NZS as a benefit."
+                },
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)(b)",
+                  "context": "Reference to contingencies that a benefit responds to."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The unit of assessment",
+              "page": 21,
+              "subsections": [
+                {
+                  "title": "The unit of assessment",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[104]",
+              "content": "The evidence of Mr Hogan illustrated the fundamental importance of the unit of assessment to the social security system which considers either the individual or the core family as the unit of assessment. Using the core family allows assistance to be tailored to the needs of individuals and their families. In 1991 the government confirmed the core family would continue to be used as the unit of assessment.",
+              "page": 21
+            },
+            {
+              "number": "[105]",
+              "content": "The submission for the plaintiffs is that for the most part, there is nothing objectionable about using an economic unit as a tool to determine eligibility for, or the rate of, certain social security benefits, so long as the following points are recognised:",
+              "page": 21,
+              "subsections": [
+                {
+                  "title": "[105.1] The economic unit varies from benefit to benefit and at different stages of assessing each benefit. The evidence showed that the core family may include a single person or a person and their spouse with or without children. Rates for particular benefits may also take into account whether a person lives with their parents, receives parental support or shares accommodation with others. Within NZS, the economic unit might be only the individual (with respect to eligibility) or the core family (either singles or couples with respect to the actual rate of entitlement).",
+                  "content": ""
+                },
+                {
+                  "title": "[105.2] Use of the core family as an economic unit occurs primarily in the realm of working age benefits whereas NZS is available to all on a universal basis.",
+                  "content": ""
+                },
+                {
+                  "title": "[105.3] A core family economic unit may create disadvantages, particularly for women and children.",
+                  "content": ""
+                },
+                {
+                  "title": "[105.4] It is based on an outdated model of relationships (that most married women in New Zealand are financially dependent on their husbands).",
+                  "content": ""
+                },
+                {
+                  "title": "[105.5] Where a retired couple move overseas the spousal deduction no longer applies. It follows that the economic unit cannot be a key feature of the payment of NZS when one partner earns a government administered overseas pension.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[106]",
+              "content": "In approaching the comparator exercise the plaintiffs emphasise the basic eligibility criteria for NZS (which applies to individuals, not couples), the purposes of NZS (which are said to include rewarding a person for the contribution they have made to society) and the frequent references to NZS as a universal and non-means tested entitlement. These considerations lend themselves to an individual plaintiff and an individual comparator as suggested by the plaintiffs.",
+              "page": 21
+            },
+            {
+              "number": "[107]",
+              "content": "The Ministry points out that the plaintiffs do not challenge that it is appropriate to use the couple as the core unit and in addition, are mistaken in asserting that NZS is an individual entitlement. The Ministry position is that as is evident from the evidence of Mr Hogan, while NZS may assess eligibility on an individual basis, the rate at which it is paid (not challenged in this claim) and the actual entitlement are both assessed on a core family basis.",
+              "page": 21
+            },
+            {
+              "number": "[108]",
+              "content": "It is submitted by the Ministry the core family, in this case the couple, is an appropriate unit of assessment for several reasons. First, couples prima facie provide reciprocal support and responsibility (and it is reasonable to seek financial support from a partner before seeking it from the state), economies of scale allow two individuals living together to live more cheaply than two single people, and family members are generally financially interdependent.",
+              "page": 21
+            },
+            {
+              "number": "[109]",
+              "content": "We agree with the Ministry's submissions. Our finding is that NZS is neither a reward nor an entitlement and the points made by the plaintiffs do not support the comparator group advanced in their submissions.",
+              "page": 22
+            },
+            {
+              "number": "[110]",
+              "content": "As will be seen, the plaintiffs' approach to the comparator focuses on the NZS \"entitlements” payable to one member of each couple while the Ministry's comparison focuses on what each couple receives.",
+              "page": 22
+            },
+            {
+              "number": "[111]",
+              "content": "It is now possible to address the appropriate comparator.",
+              "page": 22
+            },
+            {
+              "number": "",
+              "content": "The relevant comparator – context",
+              "page": 22,
+              "subsections": [
+                {
+                  "title": "The relevant comparator – context",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[112]",
+              "content": "Hopefully it will be clear by now we are satisfied on the evidence given by Mr McKenzie and Mr Hogan that the various policies described by them (particularly that NZS is a benefit, the “one benefit principle” and the importance of the unit of assessment to the social security system) that SSA, s 70(1) achieves a fair result as between couples receiving only NZS and couples also receiving overseas pensions. As the Ministry submits, if spousal deduction did not apply, a couple receiving an overseas pension would be left better off than a couple receiving only NZS. Following spousal deduction, however, the couple collectively receives no less government-funded (ie funded by the New Zealand government or funded by an overseas government) pension than a couple receiving only NZS. This is illustrated in table 4 where, after spousal deduction, the couple receives $681.80 (the same as the full married rate of NZS):",
+              "page": 22,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA, s 70(1)",
+                  "context": "The section that achieves a fair result between couples."
+                }
+              ]
+            },
+            {
+              "number": "[113]",
+              "content": "The Ministry correctly submits this outcome reflects the fact that both spouses are eligible for NZS, being participants in New Zealand's welfare system:",
+              "page": 22,
+              "subsections": [
+                {
+                  "title": "[113.1] The couple has chosen to retire in New Zealand, where the social security system guarantees residents a minimum standard of living as determined from time to time by the New Zealand Government.",
+                  "content": ""
+                },
+                {
+                  "title": "[113.2] However, the “one benefit\" principle means they should not receive two benefits in respect of the same contingency – here, age.",
+                  "content": ""
+                },
+                {
+                  "title": "[113.3] Where one or both spouses are also entitled to an equivalent overseas pension (the equivalence of their spouses' overseas pensions is not challenged by the plaintiffs), s 70(1) ensures that both spouses receive the guaranteed minimum standard of living. That it is funded by more than one State is simply a reflection of the couple's contributions to each: the key point is that, having decided to retire in New Zealand, the couple has submitted to New Zealand's social security system which guarantees a minimum level of state-provided income.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[114]",
+              "content": "As can be seen from this table, the plaintiffs' approach to the comparator focuses on the NZS payable to one member of each couple while the Ministry's comparison focuses on what each couple receives.",
+              "page": 23
+            },
+            {
+              "number": "[115]",
+              "content": "The evidence did canvas the situation where one spouse receives a foreign pension but not NZS. In the interests of brevity we do not address the small number of cases (which do not include any of the plaintiffs) where this circumstance applies. We are satisfied that for the reasons set out in the Ministry's submissions that the spousal deduction produces an equitable result in the great majority of cases.",
+              "page": 23
+            },
+            {
+              "number": "",
+              "content": "The relevant comparator – family status",
+              "page": 23,
+              "subsections": [
+                {
+                  "title": "The relevant comparator – family status",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[116]",
+              "content": "The plaintiffs submit the appropriate comparator is an individual NZS recipient (spouse A) whose spouse does not receive a foreign pension exceeding their own NZS entitlement (spouse B). They add that this could include a situation where spouse B receives a “private pension”. This addition suggests a misunderstanding of the nature of NZS. Neither private pensions nor Kiwisaver are equivalent to NZS and are not subject to the \"one benefit” principle.",
+              "page": 23
+            },
+            {
+              "number": "[117]",
+              "content": "The Ministry objects that the analysis proposed by the plaintiffs requires a comparison of each individual plaintiff with an individual whose own NZS is not reduced by operation of spousal deduction. That is, the plaintiffs' comparator requires the Tribunal to ignore the plaintiffs' spouses (and the pension entitlements they bear), and substitute comparator spouse B (with lesser entitlements). On this approach the total revenue flowing from government-administered pensions into their comparator couple's household is therefore the same as it currently is for each plaintiff couple. All that changes is the mix of foreign pension and NZS. This is obscured by the plaintiffs' focus on one part of the picture (the impact on their own pension) and not the whole picture (the impact on the couple as a unit).",
+              "page": 23
+            },
+            {
+              "number": "[118]",
+              "content": "The competing comparators are illustrated by Table 5:",
+              "page": 23
+            },
+            {
+              "number": "",
+              "content": "The major difference is whether the comparator exercise should focus at an individual or couple level.",
+              "page": 24
+            },
+            {
+              "number": "[119]",
+              "content": "The Ministry submits (correctly) the outcome the plaintiffs really seek is that they receive full NZS with no deduction, while their spouses at the same time receive the full amount of their overseas pensions (which, in contrast to their proposed comparator group, is more than NZS) – so as to leave them better off than an equivalent couple entitled only to NZS because they have not lived overseas and gained eligibility to an overseas analogous pension. Their core challenge must therefore be to the treatment of the couple as a single economic unit (or alternatively, to the concept of direct deduction). But there can be no discrimination challenges to these and the plaintiffs have made no challenge to the concept of direct deduction.",
+              "page": 24
+            },
+            {
+              "number": "[120]",
+              "content": "Our finding is that the appropriate comparator is one that recognises the couple as a single economic unit a couple where both spouses receive NZS at the married rate. As Table 4 shows, when so compared, there is no difference and hence no discrimination. All receive the same amount by way of NZS or government-administered overseas pension.",
+              "page": 24
+            },
+            {
+              "number": "[121]",
+              "content": "We agree with the Ministry that this analysis supports the point that the family status ground in HRA, s 21(1)(I)(iii) is not truly engaged. It is not the fact of the plaintiffs' relationship with their foreign pension-bearing spouse so much as the amount of that spouse's entitlement that defines their proposed comparator. Were each plaintiff to be married to a spouse receiving a foreign pension at a rate less than or the same as the spouse's own NZS entitlement (a scenario expressly contemplated by their comparator analysis), s 70(1)(a) would still apply but would not in fact reduce their own entitlement. The plaintiffs' own reply submissions specifically contended that the relevant characteristic of their spouses was “their receipt of a large overseas pension\".",
+              "page": 24,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 21(1)(I)(iii)",
+                  "context": "The family status ground that is not truly engaged."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 70(1)(a)",
+                  "context": "The section that would still apply in a hypothetical scenario."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The relevant comparator – marital status",
+              "page": 24,
+              "subsections": [
+                {
+                  "title": "The relevant comparator – marital status",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[122]",
+              "content": "The submission for the plaintiffs is that the comparator group for the marital status ground comprises people who receive NZS and are not married to anyone. The Ministry agrees the comparator must necessarily be a person without the status of marriage. It submits, however, this would treat the plaintiffs and their spouses as individuals alone, overlooking the reality of their interdependent relationships. The Ministry's first submission is therefore that there is no useful comparator for this ground in the present case because single people do not have the same legal status as married, civil union or de facto people or the interdependence that status reflects. In the alternative the comparator is a person who is in a recognised legal relationship with another person, which is treated as an economic unit and which imposes legal duties on the parties as to each other. The Ministry relies on B v Chief Executive of the Ministry of Social Development [2012] NZHC 3165, [2012] 3 NZTR 22-034 and B v Chief Executive of the Ministry of Social Development [2013] NZCA 410, [2013] NZAR 1309 (B v CEMSD). The contrasting comparators are illustrated by Table 6.",
+              "page": 24,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "B v Chief Executive of the Ministry of Social Development [2012] NZHC 3165, [2012] 3 NZTR 22-034",
+                  "context": "Reliance for the alternative comparator."
+                },
+                {
+                  "type": "case",
+                  "reference": "B v Chief Executive of the Ministry of Social Development [2013] NZCA 410, [2013] NZAR 1309 (B v CEMSD)",
+                  "context": "Reliance for the alternative comparator."
+                }
+              ]
+            },
+            {
+              "number": "[123]",
+              "content": "The Ministry submits the inappropriateness of the plaintiffs' comparator is illustrated by both the High Court and Court of Appeal judgments in B v Chief Executive of the Ministry of Social Development.",
+              "page": 25,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "B v Chief Executive of the Ministry of Social Development",
+                  "context": "Case illustrating the inappropriateness of the plaintiffs' comparator."
+                }
+              ]
+            },
+            {
+              "number": "[124]",
+              "content": "The issue in that case was whether, in determining eligibility for a residential care subsidy, the MSD had correctly imposed a threshold for disposition of assets (prior to the gifting period) of $27,000 per annum, per couple. Mrs B contended the $27,000 threshold related to each separate member of the couple and that as a consequence of being treated as a couple she was being discriminated against on the grounds of her marital status. Couples were discriminated against compared to single people who could each claim a deduction of $27,000. This argument failed in the High Court and in the Court of Appeal.",
+              "page": 25
+            },
+            {
+              "number": "[125]",
+              "content": "In the High Court Collins J at [70] to [75] found real difficulty in applying the comparator methodology to the SSA 1964 bearing in mind:",
+              "page": 25,
+              "subsections": [
+                {
+                  "title": "[125.1] A comparator group or person must be materially similar to the person or group who is alleged to be the victim of discrimination. The comparator group must also be consistent with the statutory scheme and purpose of the law in order to have any value as a means of analysis.",
+                  "content": ""
+                },
+                {
+                  "title": "[125.2] It is also important when defining the comparator not to focus on differences between two groups that are inextricably linked with the possible ground of discrimination. For instance, by saying that men and women are not in comparable circumstances because men cannot conceive.",
+                  "content": ""
+                },
+                {
+                  "title": "[125.3] When these cautions are taken into account it becomes extremely difficult to find a meaningful comparator with couples who dispose of assets and who are all treated in the same way by the Act and legislation.",
+                  "content": ""
+                },
+                {
+                  "title": "[125.4] The suggestion that single or divorced individuals should be compared to persons in the position of Mr and Mrs B was totally artificial. That approach ignored the statutory scheme and purpose of the Act and Regulations which reflected the lawmaker's view that couples (regardless of their sex) co-mingle their assets and ought to be treated as a combined unit rather than two individuals when assessing the value of disposed assets. It would be artificial in these circumstances to try to compare a single person with couples.",
+                  "content": ""
+                },
+                {
+                  "title": "[125.5] As all couples were treated in the same way there was no useful comparator to couples. On this basis there is no discrimination because the lawmakers had not failed to treat like cases alike.",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "SSA 1964",
+                  "context": "The act to which comparator methodology was difficult to apply."
+                }
+              ]
+            },
+            {
+              "number": "[126]",
+              "content": "The Court of Appeal agreed with Collins J that the natural and ordinary meaning of the provision was not discriminatory and further agreed it was in the circumstances artificial to try to compare a single person with a couple:",
+              "page": 26,
+              "quoted_material": {
+                "source": "Court of Appeal",
+                "content": "[39] Mr Scragg argued that the appropriate persons in comparable situations were single persons. We do not agree. Single persons by and large organise their financial affairs on a different basis from couples. Certainly in this case, Mr and Mrs B lived together and set up their family trust together. They appeared to have pooled their assets and financial activities. In that regard, their financial position is different from a single person, and there is no analogy or comparable situation to a single person. We agree with Collins J that in these circumstances it is artificial to try to compare a single person with couples.\n[40] We see the correct comparator to be a person who applies for a residential care subsidy who, like the Bs, is in a long-term relationship with another person, where there are real economic consequences arising from the relationship. If the comparison is to such persons in a relationship, it is not possible to see a differential treatment between other persons in a relationship, and the treatment of the Bs.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[127]",
+              "content": "As submitted by the Ministry, the comparator group identified by the Court of Appeal required some form of relationship similar to that protected by the “marital status” discrimination ground. That is, a long term relationship with real economic consequences. Plainly the comparator had to share the features of a couple the Court considered salient – economic interdependence, something not present between single people. Both courts effectively recognised the legitimacy of the government's treatment of couples as economically interdependent in the comparator analysis stage.",
+              "page": 26
+            },
+            {
+              "number": "[128]",
+              "content": "The decision of the Court of Appeal in B v CEMSD underlines that the appropriate comparator in the present case involves taking a couple view, that is a relationship with salient characteristics such as economic interdependence. It follows the more logical and analogous couple comparator for family status purposes is one where both spouses are entitled to NZS at the married rate of NZS and have no overseas pension entitlements. In relation to the marital status discrimination ground there is no comparator (as in B v CEMSD) as it is artificial to try to compare a single person with couples.",
+              "page": 26,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "B v CEMSD",
+                  "context": "The case underlining the appropriate comparator."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "No differential treatment",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[129]",
+              "content": "By upholding the comparator advanced by the Ministry in the context of the family status claim it follows we find there is no differential treatment or effects as between the plaintiffs and the comparator group. As to the marital status ground there is no useful comparator but even if the comparator is taken to be a couple in a recognised legal relationship which is treated as an economic unit and which imposes legal duties on the parties, the outcome is the same as in B v CEMSD namely, that it is not possible to see differential treatment between the plaintiffs and other persons in a relationship.",
+              "page": 26,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "B v CEMSD",
+                  "context": "The outcome is the same as in this case."
+                }
+              ]
+            },
+            {
+              "number": "[130]",
+              "content": "The subjectively perceived difference in treatment of which the plaintiffs complain turns not on their being married to “a particular person” or on their marital status. It turns (as their proposed family status comparator affirms) on the quantum of overseas pension that the marriage partner brings to the relationship.",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 27,
+          "paragraphs": [
+            {
+              "number": "[131]",
+              "content": "As the plaintiffs' case fails the Atkinson steps it follows the claim must be dismissed. In the circumstances it is unnecessary for the issue of justification to be addressed.",
+              "page": 27,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Atkinson steps",
+                  "context": "The legal test which the plaintiffs' case failed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Costs",
+          "page_start": 27,
+          "paragraphs": [
+            {
+              "number": "[132]",
+              "content": "Neither party seeks an award of costs.",
+              "page": 27
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Ms ST Scott QSM",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as McKeogh v Attorney-General [2020] NZHRRT 39.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

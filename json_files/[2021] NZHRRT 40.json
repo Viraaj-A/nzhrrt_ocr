@@ -1,0 +1,521 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 8
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2021] NZHRRT 40",
+        "reference_number": "HRRT 087/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA MANA TANGATA",
+        "jurisdiction": "AT AUCKLAND",
+        "hearing_date": "15, 16, 17 and 18 March 2021",
+        "decision_date": "11 August 2021",
+        "case_title": "Beattie v Official Assignee (Costs) [2021] NZHRRT 40",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 8
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "IAN BEATTIE",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "OFFICIAL ASSIGNEE",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms BL Klippel",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr I Beattie in person",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Mr G Neil and Ms HH Ifwersen",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The Tribunal by decision in Beattie v Official Assignee [2021] NZHRRT 21 (21 April 2021) dismissed Mr Beattie's complaint of interference with his privacy. The Assignee now by application dated 12 May 2021 applies for costs of $20,000 comprising four days of hearing at $3,750 per day, increased to $5,000 per day to reflect what is submitted to be the unreasonable decline by Mr Beattie of the Assignee's Calderbank offer. Other conduct of Mr Beattie is said to have been unreasonable. The Assignee says he has incurred costs well in excess of $100,000 in responding to Mr Beattie's claim.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Beattie v Official Assignee [2021] NZHRRT 21 (21 April 2021)",
+                  "context": "Cited as the decision where the Tribunal dismissed Mr Beattie's complaint."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "It is to be noted that while Mr Beattie filed an appeal in the High Court, that appeal was struck out by Brewer J in Beattie v The Official Assignee [2021] NZHC 1607 (1 July 2021) as a consequence of Mr Beattie's failure to serve his notice of appeal on the Tribunal and on the Assignee. Such failure meant the appeal had been brought out of time.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Beattie v The Official Assignee [2021] NZHC 1607 (1 July 2021)",
+                  "context": "Cited as the judgment that struck out Mr Beattie's appeal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "The facts are fully set out in the Tribunal's decision delivered on 21 April 2021. It is not intended to restate those facts but abbreviated reference will be necessary to explain our decision on the application.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Adjudicated bankrupt on 30 April 2012 and discharged on 5 June 2015 Mr Beattie has felt aggrieved at certain actions of the Assignee. In pursuit of his grievances Mr Beattie has sought unrestricted access to the bankruptcy file held by the Assignee. A first IPP 6 request was made on 21 October 2013 and a second made on 23 September 2015.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "While the Assignee granted access to most of the information requested by Mr Beattie, some information was withheld. The Assignee relied on the provisions of the then Privacy Act 1993 (PA 1993) which expressly permitted an agency to withhold information from a requester in certain circumstances. The particular grounds relied upon were ss 27(1)(c), 29(1)(a) and 29(1)(f):\n\n• s 27(1)(c) - disclosure of the information would be likely to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences.\n• s 29(1)(a) - disclosure of the information would involve the unwarranted disclosure of the affairs of another individual.\n• s 29(1)(f) - disclosure of the information would breach legal professional privilege.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993 (PA 1993)",
+                  "context": "Cited as the legislation permitting an agency to withhold information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 27(1)(c), 29(1)(a) and 29(1)(f)",
+                  "context": "Cited as the specific grounds relied upon by the Assignee to withhold information."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "The statutory onus of proving these exceptions has always rested on the Assignee. See PA 1993, s 87. It has never been Mr Beattie's obligation to establish the withholding grounds did not apply to the information held back by the Assignee, information which Mr Beattie has never seen. The reverse onus provision in s 87 recognises that in withholding cases it is for the agency to justify, not the plaintiff to prove.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, s 87",
+                  "context": "Cited to establish that the statutory onus of proving exceptions rests on the Assignee."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "It was therefore necessary for the Tribunal to hold a closed hearing for the purpose of inspecting the withheld documents and hearing the Assignee's evidence and submissions in support of the withholding decision. For reasons which are self-evident Mr Beattie was excluded from the closed hearing, as explained in the Tribunal's decision at [4] to [7].",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The application for costs",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "The primary submissions made in support of the application for costs are:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "8.1",
+                  "content": "The breadth of Mr Beattie's claim necessitated a comprehensive opposition."
+                },
+                {
+                  "title": "8.2",
+                  "content": "The nature of the documents sought meant the Assignee had no choice but to defend the claim."
+                },
+                {
+                  "title": "8.3",
+                  "content": "Mr Beattie continued his broad demand for access up until the hearing itself, only refining it in discussion with the Tribunal."
+                },
+                {
+                  "title": "8.4",
+                  "content": "During the course of the hearing Mr Beattie sought to bring the first IPP 6 request within his claim. This put the Assignee to increased cost in identifying and compiling with urgency (and while the hearing was in progress) the information withheld in response to the first information request, adducing additional evidence through Mr Pullan and preparing and presenting supplementary legal submissions."
+                },
+                {
+                  "title": "8.5",
+                  "content": "Mr Beattie pursued his claim despite the Assignee's attempt to settle by making a Calderbank offer and despite the Privacy Commissioner's advice that there had been no breach of privacy."
+                },
+                {
+                  "title": "8.6",
+                  "content": "There are no factors personal to Mr Beattie which point against an award of costs."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "The Assignee submits that taken cumulatively, these factors warrant recognition in the form of a moderate adverse costs order.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "Mr Beattie's submissions on costs",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The relevant points made by Mr Beattie in his letter dated 31 May 2021 are:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "10.1",
+                  "content": "The payment demands made by the Assignee under the two deeds associated with the Beattie family trust (see the Tribunal's decision at [15] to [30]) left Mr Beattie aggrieved not only in relation to satisfaction of the demands but also in respect of the costs of administering his bankrupt estate. Mr Beattie submits he therefore had good reason to make the two information access requests. Not only did he have a right to the requested information, once it had been provided to him he intended requesting corrections pursuant to IPP 7."
+                },
+                {
+                  "title": "10.2",
+                  "content": "Mr Beattie believes he had good reason to refuse to deal with the Assignee's legal representatives (Meredith Connell) whom he described as a “mercenary crew”."
+                },
+                {
+                  "title": "10.3",
+                  "content": "He is retired and has no assets of value. He has no intention of paying any costs award."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS - GENERAL PRINCIPLES",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The principles to be applied by the Tribunal in deciding whether to award costs were recently reviewed in detail in Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 at [2] to [16] and no purpose would be served by repeating what has been said there.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 at [2] to [16]",
+                  "context": "Cited as a recent detailed review of the principles for awarding costs."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "As in Marshall v IDEA Services Ltd (Costs) [2021] NZHRRT 28 at [20], we emphasise in the context of the present case the following six principles:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "12.1",
+                  "content": "To be consistent with the Human Rights Act 1993 (HRA), s 105 and PA 1993, s 89, decisions on costs must be made by exercising a broad judgment based on general principles applied to specific fact situations. The jurisdiction should not be governed by complex and technical refinements or rules."
+                },
+                {
+                  "title": "12.2",
+                  "content": "The Tribunal has broad powers to do justice even if this means departing from the conventional rules applied to civil proceedings."
+                },
+                {
+                  "title": "12.3",
+                  "content": "The purpose of a costs order is not to punish an unsuccessful party. Access to the Tribunal should not be unduly deterred."
+                },
+                {
+                  "title": "12.4",
+                  "content": "Ordinarily, the Tribunal should not allow the prospect of an adverse award of costs to discourage a party from bringing proceedings (if a plaintiff) or from defending proceedings (if a defendant)."
+                },
+                {
+                  "title": "12.5",
+                  "content": "While litigants in person face special challenges and are to be allowed some latitude, they do not enjoy immunity from costs, especially where there has been needless, inexcusable conduct which has added to the difficulty and cost of the proceedings."
+                },
+                {
+                  "title": "12.6",
+                  "content": "It is essential the Tribunal does not use its discretion to award costs in a manner which might deter lay litigants (and for that matter, those represented by a lawyer) from the inexpensive and accessible form of justice which is the hallmark and strength of a tribunal. Simply expressed, the Tribunal must preserve meaningful access to justice."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (Costs) [2021] NZHRRT 28 at [20]",
+                  "context": "Cited to emphasize six principles regarding costs decisions."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 105",
+                  "context": "Cited in subsection [12.1] as legislation to be consistent with for costs decisions."
+                },
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, s 89",
+                  "context": "Cited in subsection [12.1] as legislation to be consistent with for costs decisions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[13]",
+              "content": "We address next the exercise of the discretion under the broad headings used by the Assignee in his submissions.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "The reverse onus and the need for a comprehensive defence of the claim",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "While an agency is permitted by PA 1993 (and now by the Privacy Act 2020) to refuse to disclose personal information on statutorily enumerated grounds, independent oversight of that decision is the responsibility of the Tribunal. Without such oversight by way of an adversarial hearing an individual requesting access to his or her personal information would have no ability to hold an agency to account. The Tribunal's role in withholding cases is therefore central to the achievement of the statutory purpose of promoting and protecting individual privacy while protecting the public interests recognised by PA 1993, ss 27 to 29 (now the Privacy Act 2020, ss 49, 50, 51, 52 and 53). There is no other forum or mechanism for a plaintiff to test an agency's withholding decision. Without the Tribunal's oversight a withholding decision would otherwise be almost impregnable.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 1993",
+                  "context": "Cited as the Act permitting refusal to disclose personal information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020",
+                  "context": "Cited as the current Act permitting refusal to disclose personal information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, ss 27 to 29",
+                  "context": "Cited as recognising public interests for withholding information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020, ss 49, 50, 51, 52 and 53",
+                  "context": "Cited as the current sections recognising public interests for withholding information."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "See also Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 at [6.4] to [6.7]. It is of course recognised the Assignee is a statutory officer with public responsibilities, particularly the administration of the Insolvency Act 2006. Those responsibilities include managing and administering the estate of a bankrupt and where necessary, the investigation of a bankrupt's financial affairs. For both principled and pragmatic reasons the Assignee must necessarily mount a meticulous defence to any information access request where the Assignee's maintenance of the law responsibilities are engaged, particularly where there is a risk of disclosure of investigation techniques or the disclosure of the identity of an informer or possible prejudice to the future investigation of a bankrupt's affairs.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 at [6.4] to [6.7]",
+                  "context": "Cited in relation to the near-impregnable nature of a withholding decision without Tribunal oversight."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Insolvency Act 2006",
+                  "context": "Cited as the source of the Assignee's public responsibilities."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "But while the Assignee has correctly submitted that the breadth of Mr Beattie's claim necessitated comprehensive opposition (as did the nature of the documents to which access was sought), these factors are not determinative because Mr Beattie had no other avenue to secure independent oversight of the Assignee's decision. The fact an individual (who cannot see the withheld information or hear the evidence in support of the withheld decision) has asked the Tribunal to carry out an independent audit should not on its own ordinarily justify an award of costs consequent upon the Tribunal upholding the decision made by the agency. The reverse onus exists for good reason.",
+              "page": 5
+            },
+            {
+              "number": "[17]",
+              "content": "The Calderbank offer must be seen in this context. Mr Beattie did not seek damages, only access to the withheld documents. The Calderbank letter cautioned Mr Beattie that unless he withdrew his claim within three weeks, upon the Assignee being successful in the proceeding the Assignee would seek from Mr Beattie a substantial contribution towards his (the Assignee's) costs. Mr Beattie declined to withdraw his claim because he wanted an independent review of the withholding decisions. The Calderbank offer therefore had limited practical utility in encouraging settlement. While the award of damages is discretionary, the Tribunal's function of independently assessing a withholding decision is not.",
+              "page": 5
+            },
+            {
+              "number": "[18]",
+              "content": "Consequently we attach little weight to the submission the Assignee was required to mount a comprehensive defence to the claim. Such defence and the reverse onus are inevitable once an agency relies on one of the statutory withholding grounds.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Broad demand maintained until the hearing",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "At the hearing in March 2021 Mr Beattie expressly acknowledged he did not challenge the Assignee's decision to withhold documents on the grounds of legal professional privilege (PA 1993, s 29(1)(f)). As recorded in the Tribunal's decision at [74] that concession was properly made.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, s 29(1)(f)",
+                  "context": "Cited as the grounds for legal professional privilege which Mr Beattie conceded."
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "However, the concession by Mr Beattie was not confirmed until his closing submissions on the morning of the fourth day of the hearing. In our view it was a concession made too late. The Assignee had by then already incurred the expense of dealing with the issue in the witness statements, in the closed common bundle and in submissions.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Claim not reasonably conducted",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[21]",
+              "content": "In at least four other respects Mr Beattie's conduct of his case was unreasonable.",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "First, he made repeated allegations of misconduct by the Assignee's lawyers, Meredith Connell, allegations which were entirely without foundation but which had to be addressed.",
+              "page": 6
+            },
+            {
+              "number": "[23]",
+              "content": "In a Minute issued on 15 June 2018 the then Co-Chairperson (Ms Martha Roche) noted that in his communications with the Tribunal Mr Beattie had made a number of scandalous allegations against Meredith Connell and that he had insisted that their involvement in the proceedings be “curtailed forthwith”. The Co-Chairperson treated the communication as seeking an order that Meredith Connell be prevented from acting as solicitors for the Assignee in the proceedings. Mr Beattie was ordered to file evidence and submissions in support of his allegations. The Assignee, in turn, was given opportunity to file his evidence and submissions in opposition. The response from Mr Beattie dated 22 June 2018 was to challenge the Co-Chairperson's impartiality. The Assignee was, of necessity, put to the expense of filing written submissions not only on the question whether the Tribunal has jurisdiction to remove a lawyer from acting in a proceeding but also Mr Beattie's continued refusal to serve documents at the Assignee's address for service (the offices of Meredith Connell).",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "Mr Beattie later advised he did not intend advancing the application to remove Meredith Connell. This necessitated the Co-Chairperson issuing a further Minute (dated 6 August 2018) directing that the allegations not be considered or referred to at the hearing. Mr Beattie was also instructed by the Co-Chairperson he could not unilaterally bypass the address for service for the Assignee and that he was to cease to deliver documents directly to the Assignee. All of these steps were an unjustifiable waste of the Tribunal's time.",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "Thereafter Mr Beattie continued to serve his documents on the Assignee directly, not at the offices of Meredith Connell. This caused administrative inconvenience to the Assignee, his lawyers and to the Tribunal.",
+              "page": 6
+            },
+            {
+              "number": "[26]",
+              "content": "Second, by letter dated 21 February 2019 Mr Beattie complained that the Co-Chairperson had a “conflict of interest”. See the Minute issued by the Co-Chairperson on 7 March 2019. Rather than waste time dealing with this baseless allegation the Chairperson (Rodger Haines ONZM QC) on 7 March 2019 issued a Minute noting that whether the complaints made by Mr Beattie regarding Ms Roche had any substance was not an issue which then required determination because a decision on the make-up of the Tribunal to hear the case could not be made until a firm fixture date had been allocated. For various reasons (including the COVID-19 lockdown periods) these proceedings were not able to be heard until mid-March 2021. As matters transpired, the Co-Chairperson's term in office expired prior to the March 2021 hearing and the objection fell away. But the objection was based on the flimsiest of grounds and unnecessarily added to the burden of the case.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "Third, at a teleconference convened on 10 July 2020 following the lifting of COVID-19 Level 3 and Level 4 restrictions, Mr Beattie claimed that at one of the teleconferences presided over by the Co-Chairperson he had raised the question whether he could be liable for costs. He was of the belief he had a right to litigate these proceedings at no cost to himself and could not be charged by anyone else with their costs. He claimed to have been told by Ms Roche that no order to pay costs would be made against him. See the Minute of Chairperson dated 10 July 2020. It was explained to Mr Beattie in this July 2020 teleconference that the claimed assurance could not have been given as the issue of costs only arises after a case has been heard and a decision given. It was suggested Mr Beattie had misunderstood what had been said by the Co-Chairperson. Mr Beattie was directed to provide particulars of what he believed had been said and the Assignee was given an opportunity to respond. On the provision by the parties of their respective accounts the Co-Chairperson on 28 October 2020 issued a Minute recording that while she had no specific recollection of the discussion at issue she did not think she would have said no order as to costs would be made because in practice, the issue of costs can only be addressed once the Tribunal has issued its decision on the merits of the plaintiff's claim. Once again the Assignee was put to the trouble and expense of dealing with a peripheral, if not time-wasting issue raised by Mr Beattie.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "The fourth and perhaps the most serious example of unreasonable conduct on the part of Mr Beattie relates to his opportunistic attempt to expand his claim in the course of the substantive hearing. As mentioned, two IPP 6 requests were made by Mr Beattie. The first request (dated 21 October 2013) sought all documents then held on the file. The Assignee responded on 2 December 2013. Most documents were provided but others were withheld. As recorded at [34] of the decision, Mr Beattie acknowledged he thereafter made no complaint (and had no need to complain) about the terms of the Assignee's response to the first request. Consequently there was no complaint to or investigation by the Privacy Commissioner and it followed the Tribunal had no jurisdiction in relation to the first request. However, at the hearing Mr Beattie at one point appeared to contend that because his second IPP 6 request duplicated the first, the second request allowed him to put in issue the correctness of the Assignee's hitherto unchallenged withholding of documents in the context of the first request.",
+              "page": 7
+            },
+            {
+              "number": "[29]",
+              "content": "As recorded in the decision at [35.2], the Assignee at short notice and at some inconvenience was able to prepare a closed bundle of documents (Exhibit E) comprising those documents which had been withheld from Mr Beattie under PA 1993, ss 27 and 29 in response to the first access request. Counsel for the Assignee was at similar short notice able to address the Tribunal on the legal issues raised by the new documents. Ultimately, the Tribunal having itself inspected the closed documents concluded it was satisfied that all had been properly withheld from Mr Beattie. But all this meant that while Mr Pullan was giving evidence in chief he was simultaneously required to give instructions in relation to the first request and supervise preparation of the additional bundle of closed documents. Counsel for the Assignee were similarly placed under the unreasonable pressure of having to prepare a defence to matters which had not been in issue.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, ss 27 and 29",
+                  "context": "Cited as the legal basis under which documents were withheld from Mr Beattie in response to his first access request."
+                }
+              ]
+            },
+            {
+              "number": "[30]",
+              "content": "Were it not for the able assistance which counsel for the Assignee provided to the Tribunal there had been a real risk of the hearing being adjourned for completion at a later date. But the resources required to address the surprise turn of events were intensive and undoubtedly put the Assignee to additional legal expense.",
+              "page": 7
+            },
+            {
+              "number": "[31]",
+              "content": "Cumulatively, Mr Beattie's failure to conduct his claim in a reasonable manner increased the time spent preparing the Assignee's defence and also made conduct of the defence needlessly challenging.",
+              "page": 7
+            },
+            {
+              "number": "[32]",
+              "content": "While it is accepted individuals ought not to be deterred from accessing the Tribunal and while it must be recognised the prospect of a costs award may discourage some individuals from seeking redress from the Tribunal, a balance is required. Hearing time before the Tribunal is a limited resource. Litigants ought to advance their claims in a restrained and responsible manner so as not to burden the opposing party with unnecessary cost. The wider public interest can in appropriate circumstances be reflected in an adverse cost award.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Conclusions",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[33]",
+              "content": "None of the four matters referred to arise from understandable procedural failings on the part of a self-represented litigant. It was inexcusable for Mr Beattie to make false accusations of corrupt practices against the Assignee's solicitors so that he could then apply to have them debarred. The eleventh hour concession that Mr Beattie no longer sought the release of legally privileged documents and that he had no interest in other categories of documents underlines Mr Beattie's indifference to the cost to which he was putting the Assignee. His opportunism was evidenced by his unrealistic attempt to expand his claim to include both IPP 6 requests. Overall, Mr Beattie's unreasonable conduct of his case had the dual effect of prolonging the hearing and increasing the Assignee's costs.",
+              "page": 8
+            },
+            {
+              "number": "[34]",
+              "content": "This is not a case in which a naïve self-represented litigant with no prior litigation experience has been the inadvertent cause of difficulty. Mr Beattie acknowledged his prior litigation experience by making frequent reference to his experience representing claimants before the Weathertight Homes Tribunal and in making requests under the Privacy Act on behalf of his clients.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "Cited in reference to Mr Beattie's experience making requests under this Act."
+                }
+              ]
+            },
+            {
+              "number": "[35]",
+              "content": "Taking into account the foregoing we have reached the conclusion an award of costs is justified, though not in the amount sought by the Assignee. In our view the particular circumstances justify an award of $2,500 as recognition of the additional cost the Assignee has faced as a consequence of the way in which Mr Beattie conducted his case. In making this award we have excluded the cost to the Assignee of discharging the reverse onus imposed by PA 1993, s 87.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 1993, s 87",
+                  "context": "Cited as the source of the reverse onus, the cost of which was excluded from the costs award."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ORDER",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "An award of costs is made against Mr Ian Beattie in the sum of $2,500.",
+              "page": 8
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms BL Klippel",
+          "role": "Member"
+        },
+        {
+          "name": "Mr M Koloamatangi",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Beattie v Official Assignee (Costs) [2021] NZHRRT 40. Note publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

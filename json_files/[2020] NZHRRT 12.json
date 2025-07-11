@@ -1,0 +1,294 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 3
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 12",
+        "reference_number": "HRRT 024/2018",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "On the Papers",
+        "decision_date": "18 May 2020",
+        "case_title": "Blyde v Eastside Medical Centre (Strike-Out Application) [2020] NZHRRT 12",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT PART OF AMENDED STATEMENT OF CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "PAUL BLYDE",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "EASTSIDE MEDICAL CENTRE",
+            "role": "DEFENDANT",
+            "type": "Organisation"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms AM Blyde",
+          "representing": "the plaintiff"
+        },
+        {
+          "counsel": "Mr AL Holloway",
+          "representing": "the defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT PART OF AMENDED STATEMENT OF CLAIM",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Paul Blyde has a long-term work-related injury. In 2017, Mr Blyde was a patient of Eastside Medical Centre (Eastside), when he became concerned about communications between Eastside and ACC. Mr Blyde made an information privacy request for his medical file, but he was not satisfied with the information provided. Mr Blyde subsequently complained to the Privacy Commissioner and then filed this claim.",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "THE APPLICATION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "On 17 July 2018 Eastside filed an application to strike out the claim by Mr Blyde. It submitted the problems with the claim included that it disclosed no reasonably arguable cause of action, it included claims against third parties and it was an abuse of process.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "At the direction of the Tribunal, on 14 August 2018 Mr Blyde filed an amended statement of claim; to attempt to remedy the matters raised in the application to strike out his claim.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Notwithstanding this, Eastside submitted the amended claim remained defective. It noted there was still no reasonably arguable cause of action and the claim was wider than the issues investigated by the Privacy Commissioner. Mr Blyde opposes the strike-out application.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "The Tribunal's jurisdiction to strike out proceedings has now been explicitly provided for in s 115A Human Rights Act 1993:",
+              "page": 2,
+              "quoted_material": {
+                "source": "s 115A Human Rights Act 1993",
+                "content": "115A Tribunal may strike out, determine or adjourn proceedings",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it -"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[6]",
+              "content": "When considering whether to strike out, the Tribunal is mindful that the jurisdiction to strike out should be used sparingly. See the Tribunal's previous discussion on this point in Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 at [30] and [31].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 at [30] and [31]",
+                  "context": "See the Tribunal's previous discussion on this point in Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 at [30] and [31]."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "This consideration must however be balanced against the need to ensure that a statement of claim is sufficiently accurate, clear and intelligible to enable the defendant to be fairly informed of the case to be met (as discussed by the Court of Appeal in Commissioner of Inland Revenue v Chesterfields Preschools Ltd [2013] NZCA 53, [2013] 2 NZLR 679 at [84]).",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Inland Revenue v Chesterfields Preschools Ltd [2013] NZCA 53, [2013] 2 NZLR 679 at [84]",
+                  "context": "as discussed by the Court of Appeal in Commissioner of Inland Revenue v Chesterfields Preschools Ltd [2013] NZCA 53, [2013] 2 NZLR 679 at [84]"
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "Furthermore, sections 82 and 83 of the Privacy Act 1993 limit proceedings in this Tribunal to matters where there has been an investigation by the Privacy Commissioner into the alleged interference with privacy.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "sections 82 and 83 of the Privacy Act 1993",
+                  "context": "limit proceedings in this Tribunal to matters where there has been an investigation by the Privacy Commissioner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SHOULD THE CLAIM BE STRUCK OUT?",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "Eastside submits that the claim should be struck out, primarily because the claim includes matters that were not investigated by the Privacy Commissioner and there is no reasonably arguable cause of action.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "The actions investigated by the Privacy Commissioner are detailed in the Certificate of Investigation dated 11 June 2018. They are:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[10.1]",
+                  "content": "Mr Blyde's request for a copy of his file, which resulted in him receiving a file which he considered had an email missing. This was investigated under Rule 6 of the Health Information Privacy Code (‘HIPC’)."
+                },
+                {
+                  "title": "[10.2]",
+                  "content": "The file provided to Mr Blyde by Eastside allegedly differed from the file he was provided by ACC. This complaint was investigated under Rule 5 HIPC."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "The amended statement of claim contains three sections, each of which has a self-explanatory heading:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[11.1]",
+                  "content": "“Withholding of private personal email regarding myself and my care\". This is clearly a cause of action based on HIPC, r 6;"
+                },
+                {
+                  "title": "[11.2]",
+                  "content": "“Missing notes on Patient file”. This is a reference to the matter which the Privacy Commissioner treated as a complaint under HIPC, r 5; and"
+                },
+                {
+                  "title": "[11.3]",
+                  "content": "“Being treated unfairly and disrespected”. This cause of action is not based on the HIPC and it is apparent from the Certificate of Investigation that this has not been investigated by the Privacy Commissioner."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "The first and second sections of the amended statement of claim relate to the two issues investigated by the Privacy Commissioner under HIPC Rules 5 and 6. While these sections may contain some detail that is not relevant, the meaning is clear and Eastside should be able to understand the intended causes of action. The claim will proceed based on these alleged breaches of Rules 5 and 6. The relevance of any matters raised outside of these alleged breaches can be assessed at the hearing.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "The final section of the amended statement of claim raises matters that do not relate to the HIPC, the information privacy principles or the Privacy Act 1993. In addition, there has been no investigation by the Privacy Commissioner of these issues. Accordingly, this third section of the amended statement of claim is struck out under s 115A(1)(a) Human Rights Act 1993, as it is not within the Tribunal's jurisdiction and therefore raises no reasonably arguable cause of action.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "matters that do not relate to the HIPC, the information privacy principles or the Privacy Act 1993"
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(a) Human Rights Act 1993",
+                  "context": "struck out under s 115A(1)(a) Human Rights Act 1993, as it is not within the Tribunal's jurisdiction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "The issue of costs is reserved.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[15]",
+              "content": "The application by Eastside to strike out Mr Blyde's claim is partially successful. The final part of the amended statement of claim under the heading “Being treated unfairly and disrespected” is struck out.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "The claim will proceed under HIPC Rules 5 and 6 only.",
+              "page": 3
+            },
+            {
+              "number": "[17]",
+              "content": "A case management conference is to be convened by the Secretary at the earliest available opportunity.",
+              "page": 3
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Blyde v Eastside Medical Centre (Strike-Out Application) [2020] NZHRRT 12.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

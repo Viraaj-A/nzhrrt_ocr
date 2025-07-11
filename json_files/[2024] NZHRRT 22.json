@@ -1,0 +1,1803 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 28,
+    "extraction_date": "24 April 2024"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 22",
+        "reference_number": "HRRT 28/2021",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AUCKLAND",
+        "hearing_date": "3-5 October 2022 (adjourned part heard)\nFurther written submissions 5 and 13 December 2022",
+        "decision_date": "24 April 2024",
+        "case_title": "DIJ v New Zealand Police",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "REDACTED DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 28
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIJ",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "NEW ZEALAND POLICE",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr P Davies",
+          "role": "Member"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms M Dew KC and Mr J Hansen",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr D Jones and Ms N White",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "REDACTED DECISION OF TRIBUNAL¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "(1)",
+              "content": "PERMANENT ORDER PROHIBITING RELEASE OF UNREDACTED DECISION TO PERSONS OTHER THAN THE PARTIES",
+              "page": 1
+            },
+            {
+              "number": "(2)",
+              "content": "PERMANENT ORDER PROHIBITING PUBLICATION OF NAME, ADDRESS, OCCUPATION AND IDENTIFYING DETAILS OF PLAINTIFF AND THE TRANSCRIPT REFERRED TO IN THIS DECISION",
+              "page": 1
+            },
+            {
+              "number": "(3)",
+              "content": "PERMANENT ORDER PREVENTING SEARCH OF THE TRIBUNAL FILE WITHOUT LEAVE OF THE TRIBUNAL OR OF THE CHAIRPERSON",
+              "page": 1
+            },
+            {
+              "number": "[1]",
+              "content": "In 2011 the plaintiff complained to New Zealand Police (Police) alleging unlawful sexual violation and indecent assault. Police investigated and considered the plaintiff's account of events was credible and believed the plaintiff. However, in June 2011 Police determined that the evidential threshold required to bring criminal charges was not met and no criminal charges were laid.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "Four years later, in February 2016, the plaintiff sought access to their personal information held by Police. The request was in the nature of an ‘everything' request, namely for all information held by Police relating to the plaintiff.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "After the expiry of the 20 working-day time limit specified in the Privacy Act 1993 (PA 1993),² Police had not released any documents. Police subsequently incrementally released investigation documents to the plaintiff over a period of years (including after this proceeding was issued).",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993 (PA 1993)",
+                  "context": "Cited as the legislation specifying the 20 working-day time limit for responding to information requests."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "Police accept that there were serious flaws in the way the plaintiff's privacy was handled and the way information was released to the plaintiff. Police accept liability in relation to the deemed interference in the plaintiff's privacy arising out of its failure to respond to the Information Privacy Principle 6 (IPP 6) request within the statutory timeframe in early 2016. Police also accept liability in relation to the personal information it subsequently released to the plaintiff, accepting that it had no lawful basis to have initially withheld those documents. Implicitly Police have also accepted that there has been undue delay in providing access to the released information.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Information Privacy Principle 6 (IPP 6)",
+                  "context": "The principle under which the plaintiff made a request for personal information."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "However Police do not accept that certain documents should be released to the plaintiff. There are two documents that have been the main focus of the dispute between the parties:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[5.1]",
+                  "content": "The transcript of Police's interview with the person the plaintiff accused (the Transcript). This is the central and key document the plaintiff seeks:"
+                },
+                {
+                  "title": "[5.1.1]",
+                  "content": "Police have refused access on the basis disclosure would involve the unwarranted disclosure of the accused's affairs and prejudice to the maintenance of the law."
+                },
+                {
+                  "title": "[5.1.2]",
+                  "content": "The plaintiff says that viewing the Transcript is critical for closure, in order to understand the decision not to prosecute and for therapeutic purposes in the context of their recovery from the serious impacts on their mental health of the 2011 events."
+                },
+                {
+                  "title": "[5.2]",
+                  "content": "A letter dated 21 March 2021 from the accused's lawyer to Police (the Lawyer's Letter), being written after the accused had been interviewed but before Police made a decision on whether to lay charges."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "In addition we must decide whether Police had a lawful basis to refuse access to documents in Police's Supplementary Closed Bundle dated 18 October 2022 (filed after the hearing).",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "Section 109 PA 2020 arrangements",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The Tribunal has had the benefit of submissions from Ms Dew KC on the Closed Bundle and Supplementary Closed Bundle documents. This was due to arrangements between counsel under which Ms Dew KC has had access to the Closed Bundle and Supplementary Closed Bundle on a counsel only basis for the purpose of being able to provide contradictor submissions to the Tribunal. We thank the parties for their cooperation in this regard, which has assisted the Tribunal while avoiding compromising the matters Police considered justified refusing access pending the Tribunal's determination.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 109 PA 2020",
+                  "context": "Title of the section under which arrangements were made for counsel to access closed bundle documents."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "The parties have provided an agreed chronology and the facts are not in dispute.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "It is clear to the Tribunal that whatever happened to the plaintiff in 2011 has had a profoundly negative impact on them and that their recovery process has been difficult and slow. It is unnecessary in the context of this Privacy Act claim to set out the details of what the plaintiff experienced that resulted in their complaint to Police in early 2011. However, it is necessary (for reasons explained below) to mention that the plaintiff complained to Police about two incidents. These are separated in time and location during the period the plaintiff was together with the person accused:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "The first incident underpinned the complaint of unlawful sexual violation. This occurred inside a house in a bedroom, and was first in time."
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "The second incident underpinned the complaint of indecent assault. This occurred later that same evening/early morning, after the plaintiff and the accused had interacted with Police in the street near the accused's home and were returning to the accused's home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Plaintiff's 2016 access request and Police's response",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The plaintiff asked Police in early February 2016 for access to “all information held by the Police about me.” All of the events narrated below relate to this 2016 request for access to information. In other words, there is not a series of separate requests made over time. Rather, the subsequent exchanges between the plaintiff (including via their lawyer) and Police in the following years were all related to the adequacy of Police's response to the 'everything' 2016 IPP 6 request.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "Police did not communicate with the plaintiff before the 20 working day time limit under s 40(1) of the PA 1993 for making decisions on IPP 6 requests. That was a deemed refusal to provide access,³ and an interference with the plaintiff's privacy.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 40(1) of the PA 1993",
+                  "context": "Statutory provision setting the time limit for making decisions on IPP 6 requests."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "Some two months later (4 May 2016) Police and the plaintiff met. Police released some information to the plaintiff at this time. It is common ground that the information released related to another matter and did not contain any documents relating to the plaintiff's 2011 complaint to Police. The plaintiff used the meeting opportunity to inform Police about the impact of Police's decision not to prosecute on their mental health and explained the personal information request was sought in order to assist their recovery from the trauma experienced. We consider the plaintiff's vulnerability would have been apparent to Police at this meeting. Police indicated they needed an extension of time to June 2016 to be able to provide access to the 2011 investigation related personal information.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "On 9 June 2016, Police advised the plaintiff that Police required a further extension of time, to 8 July 2016.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "On 8 July 2016, Police advised a partial review was complete. A disc with certain information was provided. However, Police sought an extension to 3 August 2016 to be able to fully respond. An offer was made to meet to hand over further information on 3 August.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "Police then extended the date for the meeting and handover of documents to 8 August 2016. At the 8 August meeting Police provided access to a number of witness statements taken during Police's criminal investigation. Police accept that no reason for withholding information was provided at this time.",
+              "page": 4
+            },
+            {
+              "number": "[16]",
+              "content": "A further tranche of witness statements was released to the plaintiff on 4 October 2016. Police advised names had been redacted to protect the identity of the witnesses but that none of the witnesses had been consulted on the release of their witness statements. As we come to later in this decision, Police have taken a quite different approach to the accused's witness statement.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "Developments in 2018",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The plaintiff instructed legal counsel who identified that Police's disclosure was incomplete. Ms Dew (as she then was) wrote to Police on 30 July 2018 advising that the plaintiff considered additional disclosure of information was required, because it should have been disclosed in 2016 (but was not). The missing information was identified as (among other things) the accused's statement to Police (i.e. the Transcript).",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "There was a long period of delay before Police responded, and only after further prompting by Ms Dew.",
+              "page": 5
+            },
+            {
+              "number": "[19]",
+              "content": "On 19 November 2018 Police provided the plaintiff with a spreadsheet of documents identifying those documents it had already released to the plaintiff. It is common ground that that spreadsheet was inaccurate. Police also advised Ms Dew KC (as she was by this time) they were still considering the request for the Transcript and were seeking legal advice on this document.",
+              "page": 5
+            },
+            {
+              "number": "[20]",
+              "content": "On 10 December 2018 Police released documents that were listed in the Police spreadsheet as having been previously released to the plaintiff (but which in fact had been withheld). No information was provided on other documents withheld or the reasons for doing so.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "Developments in 2019",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[21]",
+              "content": "Ms Dew KC wrote to Police on 26 August 2019 advising that there was still material missing from the documents provided by Police, including the Transcript and advice from Crown Law as it related to the plaintiff's complaint (among other information).",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "Police responded to Ms Dew KC two months later, on 18 October 2019, advising Police required more time to consider the request for the Transcript and declined to provide Crown Law's advice on the basis it was legally privileged.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "On 20 November 2019 Police formally advised that the Transcript was being refused under both the Official Information Act 1982 and s 29(1)(a) of the PA 1993 (unwarranted disclosure of the affairs of another). No reference was made to refusing access on the basis of avoiding prejudice to the maintenance of the law at this point in time.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Official Information Act 1982",
+                  "context": "One of the Acts under which Police refused access to the Transcript."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(a) of the PA 1993",
+                  "context": "The specific provision (unwarranted disclosure) under which Police refused access to the Transcript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Developments in 2020",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[24]",
+              "content": "The plaintiff complained to the Privacy Commissioner on 15 September 2020. The Commissioner proposed to Police that the plaintiff be allowed to view the Transcript or a summary of the Transcript be provided to the plaintiff. Police did not take up those options.",
+              "page": 5
+            },
+            {
+              "number": "[25]",
+              "content": "The Privacy Commissioner determined that there was an interference with privacy under s 66(2)(a)(i) of the PA 1993, because Police did not have a proper basis to withhold all the information in the Transcript.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66(2)(a)(i) of the PA 1993",
+                  "context": "The provision under which the Privacy Commissioner determined there was an interference with privacy."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "On 25 November 2020 Police offered to meet the plaintiff to discuss Police's decision not to lay charges and said it was also willing to provide a high-level written summary of the reasons after an in-person meeting.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Developments in 2021",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[27]",
+              "content": "The meeting between Police, the plaintiff and Ms Dew KC was scheduled for 28 January 2021. In advance of that meeting the plaintiff provided a written letter outlining the impact of the 2011 incidents on them, the distress arising from Police's response to their privacy request and that they wanted access to the information to which they were entitled, including the Transcript (among other information).",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "The plaintiff explained that the withholding of the Transcript was causing considerable mental distress and that in consultation with health professionals, they considered it would be useful for their recovery to read what the accused said about the events. The plaintiff also said they believed that having an explanation of why the complaint did not meet evidential sufficiency would aid their recovery.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "As it happened, the meeting was delayed until 2 February 2021. The plaintiff says that it became clear in that February meeting that there were yet further documents containing the plaintiff's information that had not been released and in respect of which no explanation had been given for why they had been withheld. Police agreed at the meeting to answer further queries the plaintiff had relating to the existence of additional documents and whether prosecution of the indecent assault complaint (the second incident) had been considered.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "Police respond to further document queries (March 2021)",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[30]",
+              "content": "On 23 March 2021 Police wrote advising that it could not tell from its records exactly what information the plaintiff had been provided with but that it was suspected that there was other information held by Police that had not been disclosed to the plaintiff. In addition, the plaintiff was advised (among other things) that Police's view on the release of the Transcript was unchanged. Police emphasised its view that the privacy interests of the accused and the wider maintenance of the law concerns were such that the Transcript should not be released.",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "Police hoped that the recent meeting and the explanation provided after the meeting would help the plaintiff understand why the Police did not prosecute.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "In relation to the plaintiff's query about whether the 'second incident' was considered for prosecution (indecent assault), Police's letter advised:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Police's letter",
+                "content": "This second incident is documented in the files and was identified as the potential source of a charge, along with the incident in the bedroom. If it was felt that the threshold for laying a charge was met for this second incident Police would have done so, even if there was not evidential sufficiency to charge in relation to the activity in the bedroom."
+              }
+            },
+            {
+              "number": "[33]",
+              "content": "To date that is the only explanation Police have provided to the plaintiff about why there was no criminal charge in relation to the second incident. The plaintiff's evidence was that the offered explanation was “completely inadequate.”",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "On 15 October 2021, Police released sixty further documents to the plaintiff, but not the two key documents identified in paragraph [5.1] above.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Discussion of further personal information at the 2023 hearing",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[35]",
+              "content": "During the hearing Police witness Sergeant Steven Harwood clarified the contents of a Police 258 report (Internal 258 Report) listed in Police's 2021 schedule of documents and identified as being withheld. In open court Sergeant Harwood confirmed that this document contained what he described as 'a blistering rebuttal' of the actions of the two Police officers who met the plaintiff and the accused in the street after the first incident and before the second incident.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Sergeant Harwood confirmed that this document was an internal criticism of the two police officers and agreed with Ms Dew KC that the document would contain a description of events at that crucial time. Sergeant Harwood accepted that the document therefore contained the plaintiff's personal information that should be disclosed (but redacted to remove the officers' employment related information).",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "Ms Dew KC was understandably surprised that new evidence was emerging in Police's oral evidence at the hearing and Police were admitting that there was yet further personal information in a document that should have been released. Ms Dew KC identified her client was hearing this information for the first time and that this was significant information for the plaintiff. As Ms Dew KC expressed it, she was genuinely taken aback that six years after the plaintiff's personal information request, such dramatic new information about her client's interaction with Police had emerged during the hearing. In her closing submissions Ms Dew KC asked the Tribunal to expressly consider whether Police should also be required to release relevant parts of this document.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "As this document had not been included in the Closed Bundle of documents, the Tribunal did not have access to it. It then became clear that the Closed Bundle Police had provided was not complete, because it did not contain all the information Police had refused to release to the plaintiff relating to the 2016 IPP 6 request. The parties agreed that a Supplementary Closed Bundle would be provided and that Police and Ms Dew KC would provide further submissions relating to those Supplementary Closed Bundle documents.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "In her December 2022 submissions on the Supplementary Closed Bundle Ms Dew KC advised that Internal 258 report had been disclosed to the plaintiff after the hearing – partly redacted. No challenge is made by Ms Dew KC to the appropriateness of the redactions made to this document. Ms Dew KC submits that the fact of the post hearing disclosure of this document is to be taken as an admission by Police that it did not have a lawful basis on which to refuse access to the unredacted parts of this document. Police appears to accept that submission, as do we.",
+              "page": 8
+            },
+            {
+              "number": "[40]",
+              "content": "We conclude that Police interfered with the plaintiff's privacy by not providing access to relevant parts of the Internal 258 Report.",
+              "page": 8
+            },
+            {
+              "number": "[41]",
+              "content": "As the plaintiff has been provided a redacted version of this document, and there is no suggestion by Ms Dew KC that the redactions are inappropriate, it is not necessary for us to consider whether to make an order that Police release this document.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "THE LIABILITY ISSUES",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[42]",
+              "content": "The following liability issues are to be determined:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[42.1]",
+                  "content": "Whether release of the Transcript would involve the unwarranted disclosure of the accused's affairs,⁴or would be likely to prejudice the maintenance of the law.⁵"
+                },
+                {
+                  "title": "[42.2]",
+                  "content": "Whether release of the Lawyer's Letter would involve the unwarranted disclosure of the accused's affairs.⁶"
+                },
+                {
+                  "title": "[42.3]",
+                  "content": "Whether there are additional documents in the Supplementary Closed Bundle that Police should provide access to."
+                }
+              ]
+            },
+            {
+              "number": "[43]",
+              "content": "Under s 69(3) of the PA 2020 Police will have interfered with the plaintiff's privacy if it cannot discharge the onus of establishing it has a lawful basis to refuse access to these documents.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 69(3) of the PA 2020",
+                  "context": "Cited as the provision establishing interference with privacy if a lawful basis for refusal of access is not established."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE TRANSCRIPT - UNWARRANTED DISCLOSURE OF ACCUSED'S AFFAIRS: Relevant law",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[44]",
+              "content": "IPP 6 sets out the fundamental right, expressed as an entitlement, for an individual to access their personal information held by an agency. It provides that upon request an individual is 'entitled' to receive access to their personal information.⁷ The entitlement is not absolute, as it is subject to relevant withholding grounds.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "Section 53 of the PA 2020 relevantly provides:",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 53 of the PA 2020",
+                  "context": "Cited as the relevant provision providing reasons for refusing access."
+                }
+              ],
+              "quoted_material": {
+                "source": "PA 2020, Section 53",
+                "content": "53 Other reasons for refusing access to personal information\nAn agency may refuse access to any personal information requested if-\n(a) ... or\n(b) the disclosure of the information would involve the unwarranted disclosure of the affairs of-\n(i) another individual; or\n(ii) a deceased person; or",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "... or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "the disclosure of the information would involve the unwarranted disclosure of the affairs of-"
+                  },
+                  {
+                    "identifier": "(i)",
+                    "content": "another individual; or"
+                  },
+                  {
+                    "identifier": "(ii)",
+                    "content": "a deceased person; or"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[46]",
+              "content": "This provision has two requirements. First, that the disclosure of the information would disclose the affairs of another person and second, that such disclosure would be unwarranted.⁸",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "The nature of the information in the Transcript",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[47]",
+              "content": "After reviewing the Transcript, we see it contains information about the accused. The first limb is satisfied. We note that some of the information is exclusively the accused's information, such as occupation and address. The Transcript also contains what we classify as process related information, for example information relating to the interview process itself. The plaintiff has no right under IPP 6 to these categories of information, as they are not the plaintiff's personal information.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "The Transcript also contains what is commonly referred to as 'mixed personal information.' With mixed information, release of one person's information also involves the release of the personal information of another. Most of the content of the Transcript is mixed personal information.",
+              "page": 9
+            },
+            {
+              "number": "[49]",
+              "content": "We turn to the more complex assessment of whether disclosure of the mixed information would be unwarranted.",
+              "page": 9
+            },
+            {
+              "number": "[50]",
+              "content": "Whether the refusal to release mixed personal information is warranted (or not) is a contextual assessment. As the Tribunal noted in Watson:⁹",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson",
+                  "context": "Cited for the contextual assessment of whether refusal to release mixed personal information is warranted."
+                }
+              ],
+              "quoted_material": {
+                "source": "Watson v Capital and Coast District Health Board [2015] NZHRRT 27, at [93]",
+                "content": "[93]\nAs to the second [requirement], it has been correctly said that particular weight needs to be given to the word \"unwarranted”. This, together with the use of the phrase \"the affairs of another individual\" rather than \"privacy\" appears to narrow the scope of the provision. See Taylor and Roth Access to Information (LexisNexis, Wellington, 2011) at [3.5.4]. In our view the term “unwarranted” requires the Principle 6 right of access held by the requester to be weighed against the competing interest recognised in s 29(1)(a). In that exercise consideration must be given to the context in which the information was collected and to the purpose for which the information was collected, held and used. As to how the balance is to be struck in a particular case and a determination made whether disclosure of the information would involve the \"unwarranted disclosure\" of the affairs of another individual will depend on the circumstances. See Director of Human Rights Proceedings v Commissioner of Police [2007] NZHRRT 22 at [63]. In that decision the Tribunal made reference to some of the considerations which may be relevant when weighing the competing interests. See also Geary v Accident Compensation Corporation at [78] to [88].",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[93]",
+                    "content": "As to the second [requirement], it has been correctly said that particular weight needs to be given to the word \"unwarranted”. This, together with the use of the phrase \"the affairs of another individual\" rather than \"privacy\" appears to narrow the scope of the provision. See Taylor and Roth Access to Information (LexisNexis, Wellington, 2011) at [3.5.4]. In our view the term “unwarranted” requires the Principle 6 right of access held by the requester to be weighed against the competing interest recognised in s 29(1)(a). In that exercise consideration must be given to the context in which the information was collected and to the purpose for which the information was collected, held and used. As to how the balance is to be struck in a particular case and a determination made whether disclosure of the information would involve the \"unwarranted disclosure\" of the affairs of another individual will depend on the circumstances. See Director of Human Rights Proceedings v Commissioner of Police [2007] NZHRRT 22 at [63]. In that decision the Tribunal made reference to some of the considerations which may be relevant when weighing the competing interests. See also Geary v Accident Compensation Corporation at [78] to [88]."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[51]",
+              "content": "This Tribunal has previously identified non-exhaustive factors that can assist in the balancing exercise involved in determining whether disclosure is unwarranted.¹⁰ These include the nature of the information and surrounding circumstances.",
+              "page": 10
+            },
+            {
+              "number": "[52]",
+              "content": "Police submit that in this case the Tribunal must weigh the benefits the plaintiff would gain from access to the Transcript with the disadvantage to the accused. We accept that is an appropriate approach in the present circumstances.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "No evidence from potentially affected third party",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[53]",
+              "content": "Where the withholding ground is unwarranted disclosure of the affairs of another, provision can be made to hear directly from a potentially affected third party¹¹ (in this case the accused).",
+              "page": 10
+            },
+            {
+              "number": "[54]",
+              "content": "Police confirmed that the accused was given notice of this proceeding. They have however taken no part in this proceeding (whether as a Police witness or as a non-party). Thus, we have no direct evidence from the accused of their concerns regarding the plaintiff's access to their personal information in the Transcript.",
+              "page": 10
+            },
+            {
+              "number": "[55]",
+              "content": "After evidence from Police witnesses was concluded, counsel for Police handed up a copy of a letter dated 19 January 2022 from the accused's solicitor to Police. This brief letter said the accused objected to the disclosure of the Transcript or any record of their police interview being provided to the plaintiff or anyone else.",
+              "page": 10
+            },
+            {
+              "number": "[56]",
+              "content": "As Ms Dew KC submitted, the letter did not contain any reasons or specify what the impact on the accused might be if Police provided the plaintiff with access to the Transcript. Neither she nor the Tribunal had had an opportunity to ask Police witnesses any questions arising from this letter and clearly Police had not called as a witness the person whose privacy interest Police say they were protecting. In this context it is difficult to place any weight on this 2022 letter. Even if weight were to be placed on it, it does not establish a basis for a reasonable expectation that the Transcript would not be disclosed.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "Police's submission",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[57]",
+              "content": "We accept Police's submission that the accused's privacy interests are engaged due to the sensitive nature of their information contained in the Transcript and that their privacy interest deserves weight.",
+              "page": 10
+            },
+            {
+              "number": "[58]",
+              "content": "Police submit that the accused's interest in their intimate information contained in the Transcript outweighs the plaintiff's. This is on the basis of the accused's expectation of privacy in the inherently intimate details contained in the Transcript and potential distress at their information entering the public domain. Police say this outweighs any benefit to the plaintiff in access to the Transcript.",
+              "page": 11
+            },
+            {
+              "number": "[59]",
+              "content": "Under cross-examination Detective Inspector Thompson accepted that Police never gave the accused an undertaking that their statement would not be shown to the plaintiff, and that in fact it would not be normal for Police to give any such undertaking.",
+              "page": 11
+            },
+            {
+              "number": "[60]",
+              "content": "In defending the accused's interest in the Transcript, Detective Inspector Thompson said that the accused had a clear expectation of privacy in the event no criminal charges were laid. He accepted that no such expectation could arise in the criminal context because:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[60.1]",
+                  "content": "Criminal disclosure rules would apply."
+                },
+                {
+                  "title": "[60.2]",
+                  "content": "If there was a prosecution, it would be a possibility that the interview (or parts of it) were played in open court."
+                }
+              ]
+            },
+            {
+              "number": "[61]",
+              "content": "We understand that what Detective Inspector Thompson was saying is that the accused cannot have had an expectation of privacy at the time of the interview, because it could not be known at that time whether charges would be laid. However he says an expectation of privacy could (or would) arise once it was known Police were not going to prosecute. In support of this proposition Detective Inspector Thompson referred us to a letter the accused's solicitor wrote to Police in May 2011. The letter was sent after Police had interviewed the accused but before a decision on whether to charge had been made.",
+              "page": 11
+            },
+            {
+              "number": "[62]",
+              "content": "The subject title of the letter was “Official Information Act.” The letter advised:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[62.1]",
+                  "content": "The accused would wish to be consulted about the release of any information to any person."
+                },
+                {
+                  "title": "[62.2]",
+                  "content": "Not all information on Police's file should be released in response, including due to privacy considerations."
+                },
+                {
+                  "title": "[62.3]",
+                  "content": "If there was a decision to release information, the accused would need the opportunity to seek a review of that decision before information was released."
+                },
+                {
+                  "title": "[62.4]",
+                  "content": "If necessary, the accused would issue proceedings to protect their privacy rights."
+                }
+              ]
+            },
+            {
+              "number": "[63]",
+              "content": "Police responded to the accused's solicitor on 1 June 2011 confirming that a reasonable opportunity to make any representations would be given in the event of requests under the Official Information Act or other grounds. Police (quite appropriately) did not give any blanket assurance that the accused's information could not or would not be released. Police advised the accused's solicitor: When responding to third party requests is such situations, New Zealand Police is careful to ensure the withholding ground under section 9(2)(a) and 9(2)(b)(a) are appropriately weighed. You can be assured that the privacy interests of your client would be to the fore in considering any Official Information Act request for access to relevant Police file material.",
+              "page": 11
+            },
+            {
+              "number": "[64]",
+              "content": "This exchange occurred after the accused had agreed to be interviewed. We do not see the solicitor's letter and Police's response to it as giving rise to any express assurance of absolute privacy. The process-based exchange does not, of itself, support Police's submission that the accused had a reasonable expectation of privacy in the event no charges were laid. It was an assurance only that the accused's privacy interests would be considered.",
+              "page": 12
+            },
+            {
+              "number": "[65]",
+              "content": "Detective Inspector Thompson said that disclosing suspects' statements outside of a criminal disclosure process in sexual assault cases “would be a step change from longstanding police practice and a change which has the potential to prejudice the investigation process.\" This could be interpreted as meaning that Police apply a blanket rule in such circumstances. However Detective Inspector Thompson also accepted that every Privacy Act request needed to be dealt with on a case by case basis and a blanket approach could not be adopted. We consider his two statements are not easily reconcilable.",
+              "page": 12
+            },
+            {
+              "number": "[66]",
+              "content": "A case-by-case assessment will at times favour access to mixed personal information. At other times it will not. In that context, a reasonable expectation of privacy is unlikely to arise.",
+              "page": 12
+            },
+            {
+              "number": "[67]",
+              "content": "We turn now to Police's submission that, in this case, the benefits to the plaintiff of access to the Transcript are lower than the disadvantage to the accused in access being granted.",
+              "page": 12
+            },
+            {
+              "number": "[68]",
+              "content": "Matters the Police identified, but said were of low benefit to the plaintiff, was the ability to understand the decisions not to prosecute and decide whether to commence a private prosecution. The reason Police rate these matters as of low benefit is primarily because Police say it has already released other information to the plaintiff that enables them to understand the decisions not to prosecute and decide whether to commence a private prosecution.",
+              "page": 12
+            },
+            {
+              "number": "[69]",
+              "content": "Police emphasise that the crucial parts of Transcript are set out in Police's Summary, which was a three page document explaining the decision not to prosecute the allegation of sexual violation. We note the following:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "[69.1]",
+                  "content": "The Summary does provide a reasonable summary of the elements of the offence of sexual violation and relevant evidence. But it is by its very nature high level. It does not address the question of why the indecent assault allegation was not prosecuted. Although Police say a similar summary relating to the allegation of indecent assault could be provided, Police have had years to do so, but have not done so."
+                },
+                {
+                  "title": "[69.2]",
+                  "content": "Police have conflated the Privacy Commissioner's suggestion that a summary of the Transcript be provided¹² and the plaintiff's desire to understand the reasons no prosecution was taken. The Summary is focused on the latter. While evidence from the Transcript expressly relating to the accused's reasonable grounds for their stated belief in consent is provided in the Summary, there is much more in the Transcript that is not summarised in the Summary. For example, the Summary identifies four short bullet pointed reasons the accused could rely upon for reasonable grounds for belief in consent. In contrast, the Transcript contains much more specific detail on what the accused said about the basis for their belief in consent."
+                },
+                {
+                  "title": "[69.3]",
+                  "content": "We do not consider that the Summary of the decision not to prosecute is an adequate summary of all of the accused's personal information in the Transcript."
+                }
+              ]
+            },
+            {
+              "number": "[70]",
+              "content": "In relation to the possible disadvantage to the accused of their personal information entering the public domain, the Police could have imposed conditions on the plaintiff's use of the Transcript or disclosure to another person under s 54 of the PA 2020. It chose not to do so.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 54 of the PA 2020",
+                  "context": "Cited as the provision allowing Police to impose conditions on the use or disclosure of the Transcript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Plaintiff's position",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[71]",
+              "content": "Ms Dew KC emphasised the starting point is the right of access provided by IPP 6 and that Police fall well short of discharging the onus of establishing that the PA 2020's s 53(b) withholding ground applies.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 53(b)",
+                  "context": "Cited as the withholding ground that Police failed to establish."
+                }
+              ]
+            },
+            {
+              "number": "[72]",
+              "content": "Ms Dew KC drew the Tribunal's attention to the lack of evidence of any basis for the accused's legitimate expectation that the Transcript be kept confidential. As we have indicated above, we agree with her submission on this point.",
+              "page": 13
+            },
+            {
+              "number": "[73]",
+              "content": "Any suggestion that the plaintiff should have to rely on the Summary of Police's decision not to prosecute was firmly rejected by Ms Dew KC, on the basis it is insufficient to assist the therapeutic objectives.",
+              "page": 13
+            },
+            {
+              "number": "[74]",
+              "content": "Ms Dew KC submitted that central to the balancing exercise was that the plaintiff wanted access to the Transcript to aid their therapeutic recovery. She says that due to the therapeutic reasons underpinning the plaintiff's pursuit of access to this document, and considering their vulnerability, the balancing exercise is struck soundly in favour of disclosure of all of the plaintiff's personal information contained within the Transcript.",
+              "page": 13
+            },
+            {
+              "number": "[75]",
+              "content": "Finally Ms Dew KC confirmed that there is no risk that the plaintiff would put the Transcript into the public arena and that the plaintiff is willing to give undertakings or abide by a Tribunal direction (including a non-publication order).",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[76]",
+              "content": "We consider it is significant that the plaintiff has confirmed that the benefit to them is intended to be therapeutic and that their evidence is supported by that of their counsellor (discussed in the section below relating to remedies). The circumstances in this regard are unique.",
+              "page": 14
+            },
+            {
+              "number": "[77]",
+              "content": "There is no evidence that Police considered and weighed the mental health benefits the plaintiff considered would flow from access to all their personal information and filling in memory blanks, despite being informed of this objective in 2016 (and later). They should have done so.",
+              "page": 14
+            },
+            {
+              "number": "[78]",
+              "content": "It is also significant that, to allay Police's concerns about any wider use of the accused's and the plaintiff's mixed personal information in the Transcript (via social media and the like), that the plaintiff will readily accept a restriction on use of the Transcript.",
+              "page": 14
+            },
+            {
+              "number": "[79]",
+              "content": "We consider that a non-publication order in respect of the Transcript is an appropriate mechanism of avoiding the Transcript entering the public domain, while also enabling the plaintiff to advance their therapeutic objectives.¹³",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[80]",
+              "content": "We conclude that Police has not discharged the onus of establishing release of an appropriately redacted Transcript¹⁴ would involve the unwarranted disclosure of the accused's affairs in the circumstances.",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "THE TRANSCRIPT: MAINTENANCE OF THE LAW WITHHOLDING GROUND",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[81]",
+              "content": "We now address whether release of the Transcript would be likely to prejudice the maintenance of the law. Section 53(c) of the PA 2020 provides:",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 53(c) of the PA 2020",
+                  "context": "The statutory provision regarding prejudice to the maintenance of the law."
+                }
+              ],
+              "quoted_material": {
+                "source": "PA 2020, Section 53",
+                "content": "53 Other reasons for refusing access to personal information\nAn agency may refuse access to any personal information requested if—\n\n(c) the disclosure of the information would be likely to prejudice the maintenance of the law by any public sector agency, including—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(c)",
+                    "content": "the disclosure of the information would be likely to prejudice the maintenance of the law by any public sector agency, including—"
+                  },
+                  {
+                    "identifier": "(i)",
+                    "content": "the prevention, investigation, and detection of offences, and"
+                  },
+                  {
+                    "identifier": "(ii)",
+                    "content": "and the right to a fair trial; or"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[82]",
+              "content": "The term “likely” is to be understood as requiring the agency to show there is a real and substantial risk to the interest being protected.¹⁵",
+              "page": 15
+            },
+            {
+              "number": "[83]",
+              "content": "This provision has routinely been used to protect the identity of confidential informants, for public policy reasons,¹⁶ and to limit the disclosure of law enforcement operational methods where disclosure could nullify their effectiveness.¹⁷ However neither context is relevant to the present circumstances.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "Police's position",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[84]",
+              "content": "Police's witnesses said that release of the accused's personal information would have a 'chilling effect' on future Police investigations. Mr Jones submits that the trust required for effective Policing would be undermined if information provided to Police for investigation purposes is given to third parties. No expert evidence was offered to support those assertions.",
+              "page": 15
+            },
+            {
+              "number": "[85]",
+              "content": "Mr Jones says if the Transcript becomes public, some defence lawyers may advise their clients not to make a statement to Police and points to a 'chilling effect'. He notes that in a criminal prosecution context, the complainant would not receive a copy of the accused's statement and that confidentiality can be protected via the Court's powers to suppress information relating to criminal charges.",
+              "page": 15
+            },
+            {
+              "number": "[86]",
+              "content": "Mr Jones submitted that disclosing the Transcript would be likely to prejudice Police's ability to effectively investigate allegations of offending, especially sexual offending. He argued it is important that Police obtain the suspect's version of events and any barrier to a suspect candidly giving their version of events is likely to increase the difficulties in carrying out sexual assault investigations. We note this submission must be read in the context of accused persons having a right to silence and of the IPP6 right in the Privacy Act 2020.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "Plaintiff's position",
+          "page_start": 16,
+          "paragraphs": [
+            {
+              "number": "[87]",
+              "content": "Ms Dew KC submits that Police's witnesses have provided speculative opinion evidence about the 'chilling effect' of requiring disclosure and that they have overstated this effect. She says that in real terms, Police are proposing a blanket approach to withholding suspect's interviews, and that this cannot be a lawful approach.",
+              "page": 16
+            },
+            {
+              "number": "[88]",
+              "content": "In addition, Ms Dew KC points to the fact that, in the context of suspects having a right to silence, their main objective in providing their version of events to Police will be to avoid prosecution, such that the fact the statement may be disclosed to a complainant is unlikely to affect the decision to give evidence.",
+              "page": 16
+            },
+            {
+              "number": "[89]",
+              "content": "She highlights a lack of case authority that confirms disclosure of an accused's Police statement to the complainant in similar circumstances would prejudice the maintenance of the law and says that disclosure in the present circumstances would not set a precedent affecting an on-going investigation. Her further submission is that the lack of any confidentiality undertaking to the accused did not prevent them providing a voluntary statement and that Detective Inspector Thompson accepted in cross-examination that the accused did not know how the Transcript would be controlled, and this was not an impediment to Police's investigation.",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 16,
+          "paragraphs": [
+            {
+              "number": "[90]",
+              "content": "Police's evidence on the chilling effect of disclosure in the present circumstances is unsubstantiated and speculative. A speculative outcome cannot satisfy the “likely” threshold, which requires there is real or substantial risk to investigations.¹⁸ Accordingly Police's submission that the chilling effect is a legitimate reason to refuse access to the Transcript under s 53(c) of the PA 2020 is not accepted.",
+              "page": 16
+            },
+            {
+              "number": "[91]",
+              "content": "We also agree with Ms Dew KC's submission that the defendant is in effect asking the Tribunal to endorse a blanket approach, at least in relation to suspect interviews relating to sexual offending but where no prosecution resulted. That is not the proper approach, as a case-by-case assessment is required.",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "title": "Conclusion: liability in relation to the Transcript",
+          "page_start": 16,
+          "paragraphs": [
+            {
+              "number": "[92]",
+              "content": "As neither of the withholding grounds (s 53(b) or 53(c) of the PA 2020) are made out, it follows that Police has interfered in the plaintiff's privacy by not providing a suitably redacted version of the Transcript to the plaintiff.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 53(b) or 53(c) of the PA 2020",
+                  "context": "Cited as the withholding grounds that were not made out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE LAWYER'S LETTER: UNWARRANTED DISCLOSURE OF ACCUSED'S AFFAIRS",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[93]",
+              "content": "Access to the 21 March 2011 Lawyer's Letter was not a key focus of the plaintiff's written or oral submissions. Similarly, Police's evidence and submissions did not specifically address this Letter. There is certainly no suggestion from Police that the maintenance of the law withholding ground is claimed in relation to this document. We therefore consider it only in relation to whether disclosure would involve the unwarranted disclosure of the accused's affairs.",
+              "page": 17
+            },
+            {
+              "number": "[94]",
+              "content": "Firstly, we note that the Letter contains information that the plaintiff has no right to under IPP 6 (because it is official information or the accused's personal information only). However, like the Transcript, it contains the accused's personal information mixed with the plaintiff's personal information.",
+              "page": 17
+            },
+            {
+              "number": "[95]",
+              "content": "The purpose of the Letter is to draw Police's attention to the evidence the accused provided in their police interview that would be relied upon to show reasonable belief that the plaintiff consented. An advocacy overlay is applied to that evidence, which the plaintiff has no IPP 6 right to access.",
+              "page": 17
+            },
+            {
+              "number": "[96]",
+              "content": "We consider that redacting that advocacy overlay, in combination with redacting the official information and the accused's stand-alone personal information would result in an incoherent document. For this reason we consider the balance weighs in favour of Police withholding this document.",
+              "page": 17
+            },
+            {
+              "number": "[97]",
+              "content": "We do not consider the plaintiff's objectives in accessing their personal information will be prejudiced by the lack of access to this particular document. We say this because the Lawyer's Letter only refers to selective parts of the evidence contained in the Transcript. In this regard, access to this Letter is much less likely to help the plaintiff fill in memory gaps. The best evidence for this purpose is the finer grained detail contained in the Transcript itself.",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "title": "Conclusion: liability in relation to the Lawyer's Letter",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[98]",
+              "content": "Police has not interfered in the plaintiff's privacy by not providing access to the Lawyer's Letter.",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "title": "SUPPLEMENTARY CLOSED BUNDLE DOCUMENTS",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[99]",
+              "content": "We have reviewed the documents provided in the Supplementary Closed Bundle dated 18 October 2022 and identified as withheld in their entirety (documents 1 to 30, pages 1 to 184).",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "title": "Supplementary bundle documents released to plaintiff",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[100]",
+              "content": "We are advised that documents numbered 12, 13, 20, 21, 25-28 and 30 were released to the plaintiff after the hearing. Ms Dew KC submits this is a further admission by Police of interference in the plaintiff's privacy. Police expressly accept that those documents have been unlawfully withheld. Implicitly Police accept there has been undue delay in providing them.",
+              "page": 18
+            },
+            {
+              "number": "[101]",
+              "content": "We accept that the delayed release of Supplementary Closed Bundle documents 12, 13, 20, 21, 25-28 and 30 can be taken as an admission there was no lawful basis to refuse to release them, and/or that there has been undue delay in providing them.",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "title": "Other documents in the Supplementary Closed Bundle",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[102]",
+              "content": "We agree that almost all of the remaining withheld documents are properly withheld on the basis of legal privilege or because they do not contain the plaintiff's personal information.",
+              "page": 18
+            },
+            {
+              "number": "[103]",
+              "content": "There are three documents that we consider should be released to the plaintiff for the same reasons a redacted version of the Transcript is to be released:",
+              "page": 18,
+              "subsections": [
+                {
+                  "title": "[103.1]",
+                  "content": "Document 4 page 17. Although in email form this is in substance a Police job sheet recording expert advice on the possible effects of alcohol on memory, including in relation to the plaintiff's alcohol consumption on the evening in question."
+                },
+                {
+                  "title": "[103.2]",
+                  "content": "Document 5 page 18. The majority of Police's email to the medical expert does not contain the plaintiff's personal information and so does not need to be released. However the paragraph of text written in italics in this email does contain the plaintiff's personal information and should be released to the plaintiff."
+                },
+                {
+                  "title": "[103.3]",
+                  "content": "Document 29 page 182. This is identified as an alternate version of Detective Inspector Johnson's 2011 job sheet that we understand has already been released to the plaintiff. The passage identified in the margin with the handwritten notation \"different in other copy” is to be released to the plaintiff."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conclusion: liability in relation to Supplementary Closed Bundle documents",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[104]",
+              "content": "Police have interfered in the plaintiff's privacy by refusing access to Supplementary Closed Bundle documents 12, 13, 20, 21, 25-28 and 30 and to the parts of documents 4, 5, and 29 referred to in the preceding paragraph.",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "title": "REMEDIES",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[105]",
+              "content": "Having determined that Police has interfered with the plaintiff's privacy, we turn to consider whether any remedies should be granted.",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "title": "Evidence relevant to remedies",
+          "page_start": 19,
+          "paragraphs": [
+            {
+              "number": "[106]",
+              "content": "The plaintiff's evidence is that following Police's decision not to prosecute the accused, they developed debilitating and severe mental health issues, including Post Traumatic Stress Disorder (PTSD). We accept this evidence, including because it is supported by that of Ms Piesse, the plaintiff's counsellor.",
+              "page": 19
+            },
+            {
+              "number": "[107]",
+              "content": "The plaintiff explained to Police in May 2016 that they were suffering mental health issues as a result of the assault and that memory loss was a factor and barrier to processing the trauma of the assault and why charges were not laid. Over the years that Police incrementally released information to the plaintiff, the plaintiff said they found the information provided difficult to receive but useful in piecing information together and processing it, and they were able to process it with the assistance of their mental health clinician.",
+              "page": 19
+            },
+            {
+              "number": "[108]",
+              "content": "The plaintiff says that the lack of access to all their personal information means they cannot process the trauma of the 2011 events and this prevented the resolution of their PTSD. They told us that if all their personal information had been released in 2016, they would have had six years of therapy to process it probably move on, such that their mental health would be much better.",
+              "page": 19
+            },
+            {
+              "number": "[109]",
+              "content": "The plaintiff emphatically rejected Police's proposition that they had been provided with what they needed in order to be able to understand the decision not to prosecute, especially in relation to the allegation of indecent assault.",
+              "page": 19
+            },
+            {
+              "number": "[110]",
+              "content": "We accept the plaintiff's evidence that while they considered the Transcript was the crucial piece of evidence for them in deciding whether to take a private prosecution, in fact a private prosecution was of less importance to them than having access to the Transcript to assist with memory recall of the events, to help them process the information in a therapeutic way.",
+              "page": 19
+            },
+            {
+              "number": "[111]",
+              "content": "Ms Piesse was the plaintiff's counsellor. Her evidence was that the lack of access to the Transcript was a recurring unresolved issue for a three-year period of treatment. She refers to the plaintiff expressing continuing distress, anxiety, frustration at the lack of information relating to the 2011 events. She said that lack of disclosure was a major factor in maintaining the plaintiff's levels of PTSD and hindered their therapeutic progress. We accept this evidence.",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "title": "Remedies sought",
+          "page_start": 19,
+          "paragraphs": [
+            {
+              "number": "[112]",
+              "content": "The plaintiff seeks a declaration that that their privacy has been interfered with. In addition the plaintiff relevantly seeks:",
+              "page": 19,
+              "subsections": [
+                {
+                  "title": "[112.1]",
+                  "content": "Orders requiring Police to provide access to the Transcript, any remaining personal information Police hold and a summary of the decision not to charge the accused with indecent assault (the latter being a document Police would need to create)."
+                },
+                {
+                  "title": "[112.2]",
+                  "content": "Damages in the amount of $10,000 for the loss of the benefits of:"
+                },
+                {
+                  "title": "[112.2.1]",
+                  "content": "Timely emotional closure."
+                },
+                {
+                  "title": "[112.2.2]",
+                  "content": "The opportunity to make an informed decision on whether to pursue a private prosecution of the accused."
+                },
+                {
+                  "title": "[112.3]",
+                  "content": "The opportunity to make a complaint to the Independent Police Conduct Authority."
+                },
+                {
+                  "title": "[112.4]",
+                  "content": "Damages in the amount of $60,000 for humiliation, loss of dignity and injury to feelings."
+                },
+                {
+                  "title": "[112.5]",
+                  "content": "Damages for legal expenses incurred in the complaint to the Privacy Commissioner."
+                },
+                {
+                  "title": "[112.6]",
+                  "content": "Reasonable legal costs in this proceeding."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DECLARATION",
+          "page_start": 20,
+          "paragraphs": [
+            {
+              "number": "[113]",
+              "content": "The grant of a declaration is discretionary but declaratory relief is not normally denied where there has been an interference with privacy.¹⁹ Police accept that a declaration of interference is appropriate.",
+              "page": 20
+            },
+            {
+              "number": "[114]",
+              "content": "It is appropriate in this claim that the Tribunal issue a formal declaration that the New Zealand Police has interfered with the plaintiff's privacy. This declaration is accordingly made.",
+              "page": 20
+            }
+          ]
+        },
+        {
+          "title": "ORDERS TO PROVIDE ACCESS TO INFORMATION",
+          "page_start": 20,
+          "paragraphs": [
+            {
+              "number": "[115]",
+              "content": "Police did not have a lawful basis to refuse access to:",
+              "page": 20,
+              "subsections": [
+                {
+                  "title": "[115.1]",
+                  "content": "An appropriately redacted version of the Transcript."
+                },
+                {
+                  "title": "[115.2]",
+                  "content": "The specified paragraphs contained in documents 4, 5 and 29 of the Supplementary Closed Bundle dated 18 October 2022 identified in paragraph [103] above."
+                }
+              ]
+            },
+            {
+              "number": "[116]",
+              "content": "It is appropriate that Police is ordered to produce those documents to the plaintiff.",
+              "page": 20
+            },
+            {
+              "number": "[117]",
+              "content": "In addition, considering the plaintiff's compelling evidence about the importance of understanding Police's reasons for their therapeutic recovery, we consider it appropriate to require Police under s 102(1)(d) of the PA 2020 to create and provide the plaintiff with a summary of the reasons not to prosecute the allegation of indecent assault.",
+              "page": 21,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 102(1)(d) of the PA 2020",
+                  "context": "The provision under which Police is required to create and provide a summary of reasons."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LOST BENEFITS CLAIMED",
+          "page_start": 21,
+          "paragraphs": [
+            {
+              "number": "[118]",
+              "content": "The plaintiff claims loss of the benefit of achieving timely emotional closure, the opportunity to make an informed decision on whether to pursue a private prosecution and of being able to make a complaint to the Independent Police Conduct Authority (IPCA).",
+              "page": 21
+            },
+            {
+              "number": "[119]",
+              "content": "Relevant legal principles to claims for loss of a benefit are not in dispute. These include:",
+              "page": 21,
+              "subsections": [
+                {
+                  "title": "[119.1]",
+                  "content": "The benefit claimed may be monetary, but it is not required to be so."
+                },
+                {
+                  "title": "[119.2]",
+                  "content": "There must be a causal connection between the interference in privacy and the loss of the benefit claimed."
+                },
+                {
+                  "title": "[119.3]",
+                  "content": "The act or omission must be a material cause to the loss or harm.²⁰"
+                },
+                {
+                  "title": "[119.4]",
+                  "content": "Causation can be inferred from the nature of the breach.²¹"
+                },
+                {
+                  "title": "[119.5]",
+                  "content": "In a litigation benefit context, it is necessary for the plaintiff to establish the claimed benefit was one which they might reasonably have been expected to obtain but for the interference.²² It does not have to be inevitable that the information would influence the outcome, but there must be some evidential basis for assuming it was potentially relevant.²³"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Loss of the benefit of timely emotional closure",
+          "page_start": 21,
+          "paragraphs": [
+            {
+              "number": "[120]",
+              "content": "This is a novel basis for a loss of a benefit claim.",
+              "page": 21
+            },
+            {
+              "number": "[121]",
+              "content": "We agree with Police's submission that this claim overlaps with, or is better addressed, under the humiliation, loss of dignity or injury to feelings head. We therefore reject the plaintiff's claim for the loss of this benefit.",
+              "page": 21
+            }
+          ]
+        },
+        {
+          "title": "Loss of the benefit relating to a private prosecution",
+          "page_start": 21,
+          "paragraphs": [
+            {
+              "number": "[122]",
+              "content": "We accept Police's submission that there is no time limit on bringing a private prosecution.",
+              "page": 21
+            },
+            {
+              "number": "[123]",
+              "content": "Ms Dew KC emphasised that the plaintiff needs to see all the information to assess whether or not to pursue a private prosecution. The claim is not put on the basis that the Transcript could be reasonably expected to contribute to a successful private prosecution outcome. The claim is in substance a claim for the loss of a chance to make a private prosecution decision.",
+              "page": 21
+            },
+            {
+              "number": "[124]",
+              "content": "As Police have noted in closing submissions, the plaintiff's oral evidence was that a private prosecution was quite low down on their list of reasons for requesting their personal information and their counsellor did not recall the plaintiff ever discussing the option of a private prosecution.",
+              "page": 22
+            },
+            {
+              "number": "[125]",
+              "content": "The evidence stops short of establishing that the plaintiff wished to take a private prosecution. Rather it was (and remains) a possibility. We therefore reject the plaintiff's claim for the loss of this benefit as too speculative.",
+              "page": 22
+            }
+          ]
+        },
+        {
+          "title": "Loss of the benefit of making a complaint to the IPCA",
+          "page_start": 22,
+          "paragraphs": [
+            {
+              "number": "[126]",
+              "content": "The claim for loss of the benefit of making a complaint to the IPCA was part of the claim as pleaded but formally abandoned by the plaintiff when opening their case. Ms Dew KC retracted that abandonment after the new evidence relating to the Internal 258 Report emerged during Police's oral evidence. Police did not object. We therefore proceed to address this claim.",
+              "page": 22
+            },
+            {
+              "number": "[127]",
+              "content": "We agree with Police's submission that there is no time bar on a complaint to the IPCA and that avenue remains open to the plaintiff.",
+              "page": 22
+            },
+            {
+              "number": "[128]",
+              "content": "Mr Jones correctly identified that the plaintiff did not give evidence relating to this claim. This followed as an inevitable consequence of the claim having been opened on the basis this loss of a benefit was not pursued. It was Police's evidence that resulted in the plaintiff's change of position on this aspect of the pleaded claim. These circumstances mean that we lack a proper evidential foundation for the claimed loss of a benefit. We must inevitably reject the plaintiff's claim for the loss of this benefit.",
+              "page": 22
+            },
+            {
+              "number": "[129]",
+              "content": "We note that after the hearing Police provided the plaintiff with a redacted version of the Internal 258 Report. To the extent the plaintiff wishes to make a complaint to the IPCA about those officers based on that document, the plaintiff has now had that opportunity (albeit a delayed opportunity).",
+              "page": 22
+            }
+          ]
+        },
+        {
+          "title": "HUMILIATION, LOSS OF DIGNITY OR INJURY TO FEELINGS",
+          "page_start": 22,
+          "paragraphs": [
+            {
+              "number": "[130]",
+              "content": "The deemed interference with the plaintiff's privacy was in March 2016 but was followed by years of trying to access the requested information. In relation to documents provided in incremental releases (including after the hearing), there has clearly been undue delay in providing them.",
+              "page": 22
+            },
+            {
+              "number": "[131]",
+              "content": "We accept the plaintiff's evidence that the harm caused by the privacy interference can be separated out from both the harm of the 2011 events themselves and Police's decision not to prosecute.",
+              "page": 23
+            },
+            {
+              "number": "[132]",
+              "content": "Police accept that the plaintiff has experienced injury to feelings and humiliation as a result of Police's response to the IPP 6 request. We consider Police's concession on causation is appropriately made.",
+              "page": 23
+            }
+          ]
+        },
+        {
+          "title": "Appropriate monetary remedy",
+          "page_start": 23,
+          "paragraphs": [
+            {
+              "number": "[133]",
+              "content": "Where the parties part company is on the appropriate remedy to be granted for the plaintiff's humiliation, loss of dignity and injury to feelings. Ms Dew KC submits the award of damages falls into the lower level of the upper band in Hammond v Credit Union Baywide (Hammond),²⁴ Band 3 (over $50,000) and that the award should be $60,000. Police say that the appropriate level of damages for this category of harm is $20,000, being the lower end of Hammond Band 2, ($10,000 to $50,000).",
+              "page": 23,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hammond v Credit Union Baywide (Hammond)",
+                  "context": "Cited as the authority for damage award bands."
+                }
+              ]
+            },
+            {
+              "number": "[134]",
+              "content": "The factors we consider relevant to the appropriate award under this head of damages are:",
+              "page": 23,
+              "subsections": [
+                {
+                  "title": "[134.1]",
+                  "content": "Police accept there has been exceptional delay, both in its extent and its implications for the plaintiff (for documents other than the Transcript and Lawyer's Letter, which it considered could lawfully be withheld)."
+                },
+                {
+                  "title": "[134.2]",
+                  "content": "We accept the plaintiff's evidence about the serious adverse impact on them of the interference with their privacy, including on their mental health. They say the two major impacts of the privacy interference is the inability to process the trauma from the 2011 events, and the trauma of the drawn out disclosure process, which has itself become a source of trauma. We accept this evidence."
+                },
+                {
+                  "title": "[134.3]",
+                  "content": "We consider that the impact of the privacy interference on the plaintiff has been serious."
+                },
+                {
+                  "title": "[134.4]",
+                  "content": "Police's conduct is relevant:²⁵"
+                },
+                {
+                  "title": "[134.4.1]",
+                  "content": "The history recounted above demonstrates Police's failure to be able to identify and assess documents within the scope of an IPP 6 request, its poor ability to keep track of what had been released or withheld and a failure to meet statutory timeframes."
+                },
+                {
+                  "title": "[134.4.2]",
+                  "content": "Police's October 2022 closing submission included that the plaintiff now had all the personal information to which they were entitled. But yet further documents were identified and disclosed after the hearing had concluded."
+                },
+                {
+                  "title": "[134.4.3]",
+                  "content": "As Police have submitted, many of the awards in the upper Hammond Band have been in circumstances where there has been deliberate wrongdoing or calculated attack. We agree with Police's submission that this is not a conclusion that can be made in relation to Police's conduct relevant to this proceeding. However, deliberate wrongdoing or calculated attack is not the only yardstick relevant to Band 3. Where the impacts are particularly serious, for example, Band 3 may be the appropriate Band."
+                }
+              ]
+            },
+            {
+              "number": "[135]",
+              "content": "As is often stated, fixing the level of damages for this head of loss is an inexact science.²⁶",
+              "page": 24
+            },
+            {
+              "number": "[136]",
+              "content": "We conclude that the appropriate award in the present case is on the cusp between the upper level of Hammond Band 2 and the lower level of Hammond Band 3. We consider an award in the amount of $50,000 for the plaintiff's humiliation, loss of dignity and injury to feelings is appropriate.",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "title": "PECUNIARY LOSSES",
+          "page_start": 24,
+          "paragraphs": [
+            {
+              "number": "[137]",
+              "content": "The plaintiff claims $4,560.33 for legal expenses incurred in pursing access to their personal information to the Privacy Commissioner stage. Ms Dew KC relies on NOP v Chief Executive, Ministry of Business, Innovation and Employment,²⁷ where legal costs arising out of legal assistance with an IPP 6 claim were awarded (albeit without discussion).",
+              "page": 24,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "NOP v Chief Executive, Ministry of Business, Innovation and Employment",
+                  "context": "Cited as precedent for awarding legal costs for an IPP 6 claim."
+                }
+              ]
+            },
+            {
+              "number": "[138]",
+              "content": "In the ordinary course, it should not be necessary for an individual to have to engage legal assistance in order to have an agency properly engage with an IPP 6 request. We note that Ms Dew KC's involvement resulted in Police disclosing a substantial volume of the plaintiff's personal information before the complaint to the Privacy Commissioner. Without her involvement that result may not have been achieved.",
+              "page": 24
+            },
+            {
+              "number": "[139]",
+              "content": "Police submit that in the event we conclude the Transcript should be disclosed, the plaintiff may be entitled to ‘some damages' for the expenses reasonably incurred.",
+              "page": 24
+            },
+            {
+              "number": "[140]",
+              "content": "In our view it is appropriate in the circumstances to take the unusual step of allowing recovery of legal costs arising before proceeding being issued. Accordingly we order that Police pay the plaintiff's claimed pecuniary losses in the amount of $4,560.33.",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "title": "NON-PUBLICATION ORDERS",
+          "page_start": 25,
+          "paragraphs": [
+            {
+              "number": "[141]",
+              "content": "The applicable legal principles relating to the Tribunal's express power to make non-publication orders²⁸ are well established and settled. The Tribunal must be satisfied it is 'desirable' to do so. The bar is however high.²⁹",
+              "page": 25
+            },
+            {
+              "number": "[142]",
+              "content": "An applicant must show specific adverse consequences which are sufficient in the interests of justice to justify an exception to the fundamental rule of an open system of justice.³⁰ The Tribunal must be satisfied that the suggested adverse consequences could reasonably be expected to occur.³¹ There must be some material upon which the Tribunal can reasonably reach the conclusion that there is a risk of specific adverse consequences arising from publication such that it is necessary to make an order prohibiting publication.³²",
+              "page": 25
+            },
+            {
+              "number": "[143]",
+              "content": "The Tribunal must first assess whether it is satisfied that a non-publication order is desirable (the threshold issue) and then, if the threshold is met, must assess whether to make a non-publication order (exercise of the discretion).³³",
+              "page": 25
+            },
+            {
+              "number": "[144]",
+              "content": "There is an existing 2011 Court Order prohibiting named defendants (or anyone with notice of that Court Order) publishing the plaintiff's name or particulars likely to identify them as the person who made the complaint to Police referred to in this decision. That Order has been provided to the Tribunal, which is therefore on notice of the existing Order and must comply with it.",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "title": "Names and identifying details of plaintiff",
+          "page_start": 25,
+          "paragraphs": [
+            {
+              "number": "[145]",
+              "content": "Interim non-publication orders were made by consent prohibiting the name, address, occupation and any other details that might lead to the identification of the plaintiff and their medical information.",
+              "page": 25
+            },
+            {
+              "number": "[146]",
+              "content": "A permanent order is sought. The parties agree a permanent order by this Tribunal prohibiting the publication of the plaintiff's name or particulars likely to identify them is appropriate in the circumstances.",
+              "page": 25
+            },
+            {
+              "number": "[147]",
+              "content": "Considering the existing 2011 Court Order, it is clearly desirable that we make the permanent suppression order sought relating to the plaintiff's identity in connection with the complaint referred to in this decision. There is no countervailing factors that warrant us refusing to exercise our discretion to make the order sought in relation to the plaintiff's name and identifying details.",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "title": "The Transcript",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[148]",
+              "content": "The Transcript contains sensitive intimate information relating to both the plaintiff and the accused. The nature of the inherently personal information in this document is relevant to whether it is desirable to order its suppression in the context of an order requiring Police to produce an appropriately redacted version of the Transcript to the plaintiff. Also relevant to the threshold issue (desirability) are:",
+              "page": 26,
+              "subsections": [
+                {
+                  "title": "[148.1]",
+                  "content": "The fact that the Transcript contains the name of the plaintiff that has the benefit of the 2011 Court order preventing them being identified as the complainant. Were the Transcript to enter the public domain, the interests recognised and protected by that Court order would be undermined."
+                },
+                {
+                  "title": "[148.2]",
+                  "content": "The reporting of the Tribunal's decision is not affected by the prohibition on publication of the Transcript, the details of which have not been necessary to include in our decision."
+                },
+                {
+                  "title": "[148.3]",
+                  "content": "The plaintiff's agreement to receive the Transcript subject to limitations on its use, for therapeutic purposes only."
+                },
+                {
+                  "title": "[148.4]",
+                  "content": "Removal of the possibility of the Transcript entering the public domain addresses one of Police's concerns about giving the plaintiff access to this document."
+                }
+              ]
+            },
+            {
+              "number": "[149]",
+              "content": "We consider it is desirable that the plaintiff's access to the Transcript is in the context of adequate protections of the accused's privacy interests. A permanent order preventing publication of the Transcript will aid that protection.",
+              "page": 26
+            },
+            {
+              "number": "[150]",
+              "content": "There are no countervailing factors that warrant us refusing to exercise our discretion to make an order to permanently suppress publication of the Transcript.",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "title": "Plaintiff's sensitive medical information",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[151]",
+              "content": "The parties consented to an interim order prohibiting publication of the plaintiff's health information. The plaintiff seeks a permanent order.",
+              "page": 26
+            },
+            {
+              "number": "[152]",
+              "content": "In her submissions Ms Dew KC indicated there would be no concern arising from the Tribunal's decision referring to certain high level medical conditions such as PTSD, but there was concern to protect the more sensitive underlying medical evidence.",
+              "page": 26
+            },
+            {
+              "number": "[153]",
+              "content": "It has not been necessary to refer to the plaintiff's sensitive medical information in this decision. Accordingly no permanent order preventing publication of that information is desirable.",
+              "page": 26
+            },
+            {
+              "number": "[154]",
+              "content": "There will be a permanent order preventing search of the Tribunal's file (which includes the sensitive medical information provided in evidence) without the consent of the Tribunal or Chairperson. The parties would be consulted on any such application. Any issue of suppression of the plaintiff's medical information can be addressed as it arises out of any future application to the Tribunal. We consider that is adequate safeguard in the circumstances.",
+              "page": 27
+            }
+          ]
+        },
+        {
+          "title": "Summary of reasons for not prosecuting",
+          "page_start": 27,
+          "paragraphs": [
+            {
+              "number": "[155]",
+              "content": "The parties consented to an interim order prohibiting publication of the Summary of Police's reasons for not prosecuting. The plaintiff seeks a permanent order.",
+              "page": 27
+            },
+            {
+              "number": "[156]",
+              "content": "It has not been necessary to refer to the intimate details contained in the Summary in this decision. Accordingly it is not necessary or desirable to issue a permanent suppression order in relation to the Summary. The restriction on searching the Tribunal's file is adequate safeguard in relation to this document.",
+              "page": 27
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 27,
+          "paragraphs": [
+            {
+              "number": "[157]",
+              "content": "The Tribunal is satisfied on the balance of probabilities that the actions of New Zealand Police were interferences with the privacy of [redacted], and makes the following orders:",
+              "page": 27,
+              "subsections": [
+                {
+                  "title": "[157.1]",
+                  "content": "A declaration is made under s 102(2)(a) of the Privacy Act 2020 that New Zealand Police interfered with [redacted's] privacy by failing to provide information held by Police as required."
+                },
+                {
+                  "title": "[157.2]",
+                  "content": "An order under s 102(2)(d) of the Privacy Act 2020 that within 5 working days of the expiration of the appeal period New Zealand Police provide [redacted] with:"
+                },
+                {
+                  "title": "[157.2.1]",
+                  "content": "A redacted version of the Transcript in which only information that is not [redacted's] personal information or is exclusively the accused's personal information is redacted."
+                },
+                {
+                  "title": "[157.2.2]",
+                  "content": "The Supplementary Closed Bundle documents, or portions of them, specified at paragraph [103] above."
+                },
+                {
+                  "title": "[157.2.3]",
+                  "content": "A Summary of the reasons for not prosecuting the plaintiff's allegation of indecent assault."
+                },
+                {
+                  "title": "[157.3]",
+                  "content": "New Zealand Police is to pay [redacted]:"
+                },
+                {
+                  "title": "[157.3.1]",
+                  "content": "Damages in the amount of $50,000 for humiliation, loss of dignity, and injury to feelings under s 103(1)(d) of the Privacy Act 2020."
+                },
+                {
+                  "title": "[157.3.2]",
+                  "content": "Pecuniary losses in the amount of $4,560.33 under s 103(1)(a) of the Privacy Act 2020."
+                }
+              ]
+            },
+            {
+              "number": "[158]",
+              "content": "The following non-publication and search orders are made:",
+              "page": 28,
+              "subsections": [
+                {
+                  "title": "[158.1]",
+                  "content": "There is to be no publication of the unredacted decision of the Tribunal."
+                },
+                {
+                  "title": "[158.2]",
+                  "content": "Publication of the name, address, occupation and identifying details of the plaintiff are prohibited."
+                },
+                {
+                  "title": "[158.3]",
+                  "content": "Publication of the Transcript referred to in this decision is prohibited."
+                },
+                {
+                  "title": "[158.4]",
+                  "content": "There is to be no search of the Tribunal file without leave of the Chairperson or of the Tribunal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 28,
+          "paragraphs": [
+            {
+              "number": "[159]",
+              "content": "As counsel are aware, costs are not routinely awarded by the Tribunal.³⁴ In the unusual circumstances of this claim, we consider the plaintiff is entitled to costs. In the event the parties are not able to agree costs:",
+              "page": 28,
+              "subsections": [
+                {
+                  "title": "[159.1]",
+                  "content": "Plaintiff's submissions on costs are due 10 working days after this decision is issued."
+                },
+                {
+                  "title": "[159.2]",
+                  "content": "Defendant's submissions on costs are due 15 working days after this decision is issued."
+                },
+                {
+                  "title": "[159.3]",
+                  "content": "The Tribunal's decision on costs will be made on the papers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr P Davies",
+          "role": "Member"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as DIJ v New Zealand Police [2024] NZHRRT 22. Note publication restrictions.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Being the Act then in force. While the Privacy Act 1993 (PA 1993) had initial application, it was repealed from 1 December 2020 by the Privacy Act 2020 (PA 2020) which came into force on that date. This proceeding was issued after the PA 2020 came into effect, but in relation to interferences with privacy under the previous Act. The effect of the transitional provisions in PA 2020 Schedule 1, Part 1, cl 9(1) is that the present proceedings must be continued and completed under the 2020 Act. The slight differences which can be found in IPP 6 of PA 1993 as compared with IPP 6 of PA 2020 are not material. Accordingly, in this decision the provisions of the PA 2020 will be referred to unless otherwise expressly indicated.",
+          "page": 2
+        },
+        {
+          "number": "3",
+          "content": "Section 66(3) Privacy Act 1993 (now s 69(4) Privacy Act 2020).",
+          "page": 4
+        },
+        {
+          "number": "4",
+          "content": "Privacy Act 2020, s 53(b).",
+          "page": 8
+        },
+        {
+          "number": "5",
+          "content": "Section 53(c).",
+          "page": 8
+        },
+        {
+          "number": "6",
+          "content": "Section 53(b).",
+          "page": 8
+        },
+        {
+          "number": "7",
+          "content": "Privacy Act 2020, s 22.",
+          "page": 8
+        },
+        {
+          "number": "8",
+          "content": "Watson v Capital and Coast District Health Board [2015] NZHRRT 27, at [91].",
+          "page": 9
+        },
+        {
+          "number": "9",
+          "content": "Watson v Capital and Coast District Health Board, as above n 8.",
+          "page": 9
+        },
+        {
+          "number": "10",
+          "content": "Director of Human Rights Proceedings v Commissioner of Police (2007) 8 HRNZ 428 (NZHRRT) at [64].",
+          "page": 10
+        },
+        {
+          "number": "11",
+          "content": "Director of Human Rights Proceedings v Commissioner of Police as above n 10.",
+          "page": 10
+        },
+        {
+          "number": "12",
+          "content": "Police also rejected the Privacy Commissioner's alternative suggestion that Police permit the plaintiff to view the Transcript.",
+          "page": 13
+        },
+        {
+          "number": "13",
+          "content": "In accordance with ASG v Hayne, Vice-Chancellor of the University of Otago [2017] NZSC 777,[2017] 1 NZLR 777 the non-publication order would not prevent the plaintiff's dissemination to persons with a genuine interest in conveying or receiving the information, such as their therapist providing confidential counselling services.",
+          "page": 14
+        },
+        {
+          "number": "14",
+          "content": "The redactions are to remove the information that is exclusively the accused's personal information and any other information that is not the plaintiff's personal information.",
+          "page": 14
+        },
+        {
+          "number": "15",
+          "content": "Pearce v Thompson [1988] 1 NZLR 385 (CA) at [391], [404] and [411]; and Nicholl v Chief Executive of the Department of Work and Income [2003] 3 NZLR 426 (HC) at [13]. See also Rafiq v Civil Aviation Authority of New Zealand [2013] NZHRRT 10, at [31]. To similar effect (but in a different context) see St Peter's College v The Crown [2016] NZHC 925, [2016] NZAR 788 at [10].",
+          "page": 15
+        },
+        {
+          "number": "16",
+          "content": "As stated by Rodney Hansen J in Nicholl v Chief Executive of the Department of Work and Income as above n 15, at [16] \"The decisions are firmly grounded in the words of the statute and in the pragmatic concerns which, since R v Hardy (1794) 24 St Tr 199, have conferred public interest immunity on police informants. For more than two centuries it has been accepted that the public interest favours preserving the anonymity of police informers by keeping open avenues of information which will assist in the detection and investigation of crime.\"",
+          "page": 15
+        },
+        {
+          "number": "17",
+          "content": "Beattie v Official Assignee [2021] NZHRRT 21 at [79.4].",
+          "page": 15
+        },
+        {
+          "number": "18",
+          "content": "Refer authorities at n 15 above and Beattie v Official Assignee above n 17, at [78].",
+          "page": 16
+        },
+        {
+          "number": "19",
+          "content": "See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 at [107] and [108].",
+          "page": 20
+        },
+        {
+          "number": "20",
+          "content": "Naidu v Royal Australasian College of Surgeons [2018] NZHRRT 23, at [49]; and Taylor v Orcan [2015] NZHRRT 15 at [61].",
+          "page": 21
+        },
+        {
+          "number": "21",
+          "content": "Winter v Jans HC Hamilton CIV 2003-419-854, 6 April 2004 at [33].",
+          "page": 21
+        },
+        {
+          "number": "22",
+          "content": "Attorney-General v Dotcom [2018] NZHC 2564, [2019] 2 NZLR 277 at [207].",
+          "page": 21
+        },
+        {
+          "number": "23",
+          "content": "As above, at [207].",
+          "page": 21
+        },
+        {
+          "number": "24",
+          "content": "Hammond v Credit Union Baywide [2015] NZHRRT 6 at [176].",
+          "page": 23
+        },
+        {
+          "number": "25",
+          "content": "Privacy Act 2020, s 102(3).",
+          "page": 23
+        },
+        {
+          "number": "26",
+          "content": "Butler v Ohope Chartered Club Inc [2021] NZEmpC 80; (2021) 18 NZELR 186 at [39].",
+          "page": 24
+        },
+        {
+          "number": "27",
+          "content": "NOP v Chief Executive, Ministry of Business, Innovation and Employment [2014] NZHRRT 16 at [25].",
+          "page": 24
+        },
+        {
+          "number": "28",
+          "content": "Human Rights Act 1993, s 107(3).",
+          "page": 25
+        },
+        {
+          "number": "29",
+          "content": "Director of Proceedings v Brooks (Application for Final Non-Publication Orders) [2019] NZHRRT 33; and Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 and the authorities referred to therein, including Erceg v Erceg [2016] NZSC 135, [2017] 1 NZLR 310.",
+          "page": 25
+        },
+        {
+          "number": "30",
+          "content": "As above.",
+          "page": 25
+        },
+        {
+          "number": "31",
+          "content": "JM v Human Rights Review Tribunal [2023] NZHC 228 (JM) at [99].",
+          "page": 25
+        },
+        {
+          "number": "32",
+          "content": "JM as above at [99].",
+          "page": 25
+        },
+        {
+          "number": "33",
+          "content": "JM at [84].",
+          "page": 25
+        },
+        {
+          "number": "34",
+          "content": "See for example the Tribunal's approach to costs in Beauchamp v B & T Co (2011) (Costs) [2022] NZHRRT 30 at [14] to [16].",
+          "page": 28
+        }
+      ]
+    }
+  ]
+}

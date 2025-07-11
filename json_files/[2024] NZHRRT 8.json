@@ -1,0 +1,1113 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 18
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 8",
+        "reference_number": "HRRT 040/2022",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA ΜΑΝΑ ΤΑNGATA",
+        "hearing_date": "21 August 2023",
+        "decision_date": "5 March 2024",
+        "case_title": "Hawkins v New Zealand Police",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 18
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ROGER KENNETH HAWKINS",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "NEW ZEALAND POLICE",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms D Hart",
+          "role": "Member"
+        },
+        {
+          "name": "Ms S Kai Fong",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr RK Hawkins",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms SK Shaw and Ms KC Grant",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Preliminary Orders",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "(1) ORDER PREVENTING PUBLICATION OF NAME, ADDRESS AND IDENTIFYING DETAILS OF COMPLAINANT REFERRED TO IN THIS PROCEEDING<br>(2) ORDER PREVENTING SEARCH OF THE TRIBUNAL FILE WITHOUT LEAVE OF THE TRIBUNAL OR OF THE CHAIRPERSON",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "DECISION OF TRIBUNAL",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "After Mr Hawkins was alleged to have harassed a certain person (the complainant), New Zealand Police (Police) came to Mr Hawkins' house on 20 May 2022 and delivered a letter known as a Criminal Harassment Notice (Notice). That Notice set out certain allegations made and put him on notice that any further contact with the identified complainant could result in criminal charges under the Harassment Act 1997.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Mr Hawkins made requests to Police under Information Privacy Principle 6 (IPP 6) to urgently access his personal information relating to the harassment complaint/s made against him (including a copy of the complaint from the complainant and a copy of a trespass notice he has previously issued against the complainant).",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "Mr Hawkins said he needed the information urgently to defend charges against him and was meeting with his legal team on 7 June 2022. At that point in time Mr Hawkins was facing a criminal charge of assaulting the constable that had delivered the Notice to him but was not facing (and has not faced) charges under the Harassment Act.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "A further reason for the urgency was that the information was needed in relation to a complaint he had made to the Independent Police Conduct Authority (the IPCA) relating to the constable that had delivered the Notice to him.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Police accorded the request urgency. The following day (3 June 2022) Police released a redacted version of a 15 page Case Summary Report² relating to the complaint Police had received and a complete copy of trespass notice.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Police told Mr Hawkins the Case Summary Report was redacted to protect the complainant's privacy, giving as an example where the complainant's feelings were discussed. Police also told him he had been provided with all the complaints the complainant had made against him.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Police deny it has interfered with Mr Hawkins' privacy and say the redactions were lawful as the redacted information was either not Mr Hawkins' personal information or was properly withheld under s 53(b) of the Privacy Act 2020 (PA 2020), as release of the redacted portions would involve the unwarranted disclosure of the complainant's affairs, including because of the fraught history between Mr Hawkins and the complainant.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 53(b) of the Privacy Act 2020 (PA 2020)"
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "Mr Hawkins takes the contrary view. Mr Hawkins' evidence and submissions included his wide ranging and extremely negative views and opinion about the complainant, who was neither a party to nor a witness in the proceeding. The fact the complainant was not involved in the Tribunal proceeding is not surprising, as the underlying privacy issues are separate and legally distinct from any issues between Mr Hawkins and the complainant.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "It is fair to say that Mr Hawkins demonstrated to the Tribunal a deep sense of grievance about being accused of harassment and being issued the Criminal Harassment Notice on what he says was an unsubstantiated complaint. Mr Hawkins' focus in his questions to Police's witness and in submissions to this Tribunal was that he is innocent of all alleged harassment. Those specific grievances are not matters in respect of which the Tribunal has jurisdiction. They are not relevant to the narrow PA 2020 issues before us. We make no comment on the merits of those grievances.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "At the hearing of the claim the Tribunal made an interim non-publication order in respect of the complainant's identity. After the hearing Police asked for that order to be made a permanent order.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "ISSUES",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The Tribunal must determine the following issues:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "11.1",
+                  "content": "In refusing Mr Hawkins' access to the information redacted from the Case Summary Report, has Police interfered with his privacy? This turns on whether the redacted information was not Mr Hawkins' personal information or whether its release would involve the unwarranted disclosure of the complainant's affairs."
+                },
+                {
+                  "title": "11.2",
+                  "content": "If yes, what if anything is the appropriate remedy?"
+                },
+                {
+                  "title": "11.3",
+                  "content": "Should permanent non-publication orders under s 107 of the Human Rights Act 1993 (HRA) be made in respect of the complainant's identity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "Mr Hawkins described a period of acrimony between himself and the complainant beginning some years ago.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "In November 2020 Mr Hawkins issued a Trespass Notice under the Trespass Act 1980 against the complainant. The complainant later issued a Trespass Notice against Mr Hawkins and on 29 May 2021 complained to Police that Mr Hawkins had entered the complainant's property contrary to that Trespass Notice.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Trespass Act 1980"
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "Matters came to a head when Police presented at Mr Hawkins' home on 20 May 2022 and delivered a letter which Police characterise as a Criminal Harassment Notice.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "Police's three page letter had a subject line “Re Police File – Complaint of Harassment.\" The letter informed Mr Hawkins that a harassment complaint had been made against him, identifying the complainant by name, and advising him that the complainant alleged Mr Hawkins had engaged in conduct that caused the complainant to fear for their safety. The conduct was described as “continued unwanted and unsolicited contact directed towards [the named complainant].” The letter advised Mr Hawkins that he was \"liable to prosecution for the offence of Criminal Harassment (Harassment Act 1997).\" He was cautioned to discontinue the actions specified in the letter above and have no further contact with the complainant.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "In substance Police's letter was a warning with no imminent legal consequences, provided there was no further contact with the complainant.",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "Attached to the 20 May 2022 letter was a half-page document, substantially redacted. This attachment appears to be the complainant's complaint in their own words. The unredacted parts of this document disclose that the complainant alleged:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "17.1",
+                  "content": "Mr Hawkins had continued to trespass on their property."
+                },
+                {
+                  "title": "17.2",
+                  "content": "Mr Hawkins had viewed and photographed the complainant inside their house."
+                },
+                {
+                  "title": "17.3",
+                  "content": "Mr Hawkins had erected a camera that pointed into exterior and interior parts of the complainant's property."
+                },
+                {
+                  "title": "17.4",
+                  "content": "The complainant had CCTV footage of Mr Hawkins trespassing and of an intimidating message he had painted on a fence."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "Two photographs were included with the attachment showing the placement of a camera allegedly pointing into the complainant's property.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Mr Hawkins has emphasised to the Tribunal that the letter did not specify any dates relating to the alleged offences and for this reason he felt he was not getting all the evidence. He says the allegations against him were not understood by him.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "On 23 May 2022 Mr Hawkins went to a Police station and made a written request to Police for information relating to the harassment allegation.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "The interactions between the Police Officers delivering that letter and Mr Hawkins resulted in Mr Hawkins being charged on 25 May 2022 with assaulting a Police Constable with intent to obstruct him in the execution of his duty. It also resulted in Mr Hawkins making a complaint to the IPCA relating to the Officer's conduct.",
+              "page": 4
+            },
+            {
+              "number": "[22]",
+              "content": "No criminal charges under the Harassment Act relating to harassment of the complainant were laid (then or later).",
+              "page": 4
+            },
+            {
+              "number": "[23]",
+              "content": "By email on 2 June 2022 to Police, Mr Hawkins referred to his 23 May request and the advice he had received about the timeframes for responses. He requested very specific documents under urgency. The information he asked for was:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "23.1",
+                  "content": "A copy of the complaint from the complainant alleging harassment as per the letter delivered to him on 20 May 2022."
+                },
+                {
+                  "title": "23.2",
+                  "content": "A copy of a trespass notice he had previously issued against the complainant."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "On 3 June 2022 Ms Art, a Police employee, released a redacted version of the Case Summary Report relating to the harassment complaint and an unredacted copy of the trespass notice to Mr Hawkins.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "The redacted Case Summary Report",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "The fifteen page Case Summary Report (which includes the Police letter of 20 May 2022 and its attachments, three pages in total) begins with an entry noting the service of the Criminal Harassment Notice.",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "There are significant redactions made to the contents of the Case Summary Report. Approximately 60 per cent of the Report has been redacted.",
+              "page": 5
+            },
+            {
+              "number": "[27]",
+              "content": "The unredacted parts of the Case Summary Report includes:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "27.1",
+                  "content": "A 2 March 2022 entry noting allegations of Mr Hawkins coming onto the complainant's property on an unspecified date and writing a message on the side of the fence facing into the complainant's property at a time he was trespassed from entering that property, with video footage of this incident able to be supplied by the complainant."
+                },
+                {
+                  "title": "27.2",
+                  "content": "A 1 March 2022 entry noting ongoing issues between Mr Hawkins and the complainant for the last few years, with a named Constable working with them to resolve matters."
+                },
+                {
+                  "title": "27.3",
+                  "content": "A 19 January 2022 entry noting ongoing issues between Mr Hawkins and the complainant that had appeared resolved but which have arisen again, with reference to Mr Hawkins writing something on the window of the complainant's house while they were overseas and now having put up a camera that faces into their back yard."
+                },
+                {
+                  "title": "27.4",
+                  "content": "A 21 October 2021 entry noting allegations that Mr Hawkins continued to come onto the complainant's property and stood outside their window and filmed the complainant in their house and had erected a camera facing into the complainant's rear deck and into the lounge/kitchen area of the complainant's house."
+                },
+                {
+                  "title": "27.5",
+                  "content": "A record of the efforts by Police to resolve matters between Mr Hawkins and the complainant over a period of time following an incident on 29 May 2021."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "Within hours of Mr Hawkins receiving Police's disclosure, he emailed Police asking why so much of the Case Summary Report was redacted. He strenuously denied the harassment allegations and said that he would be requesting copies of any video showing he had written on a window.",
+              "page": 5
+            },
+            {
+              "number": "[29]",
+              "content": "Ms Art promptly replied that same day (3 June) advising that information had been redacted to protect the complainant's privacy, giving as an example where the complaint had discussed their feelings. Importantly, Police advised Mr Hawkins “I have provided all the complaints [they have] made against you.\"",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "Ms Art also advised Mr Hawkins that it was uncertain whether Police had any video footage supplied by the complainant or whether Police had viewed it when visiting the complainant. Mr Hawkins was asked whether he would like Ms Art to find out more.",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "Mr Hawkins replied that same day saying he did want Ms Art to investigate whether he could see any video footage that the complainant had provided relating to writing on a window. Mr Hawkins again strenuously denied he would have done so and suggested Police should consider charging the complainant with making a false statement. He advised that the cameras on his property were fake cameras.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "Ms Art gave evidence for Police and was cross examined by Mr Hawkins in open court. Her open evidence included that Mr Hawkins' request was straightforward, that she searched Police's database to locate the relevant information, downloaded them and then assessed whether redactions were required.",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "Ms Art confirmed that some information was redacted because it was exclusively the complainant's personal information and that other information was redacted under s 53(b) of the PA 2020 and that her involvement with Mr Hawkins' privacy request ended after she provided him with the video footage he requested. She also confirmed that the complainant had not expressly insisted on privacy being maintained at the time of making the complaint, but that Police will always take another person's privacy interest into account when considering an IPP 6 request.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 53(b) of the PA 2020"
+                }
+              ]
+            },
+            {
+              "number": "[34]",
+              "content": "In relation to the criminal assault charges against Mr Hawkins, Police provided disclosure under s 14(1) of the Criminal Disclosure Act 2008 on 21 June 2022. Police submitted that the criminal disclosure regime should have provided all documents relating to the criminal assault charge Mr Hawkins was facing. Police have confirmed that the criminal charges against Mr Hawkins were withdrawn on the basis of Police diversion. The fact of this charge and what happened to them has some relevance to the issues in the proceeding because of Police's submissions. Its submissions included that Mr Hawkins did not require access to the redacted portions of the Case Summary Report in order to respond to the criminal charges, because the content of the Case Summary Report was irrelevant to the defence of the criminal charges and all relevant material relating to the charges was supplied under the criminal disclosure regime. We agree with Police's submission on this point.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 14(1) of the Criminal Disclosure Act 2008"
+                }
+              ]
+            },
+            {
+              "number": "[35]",
+              "content": "Mr Hawkins' evidence was that the redactions from the Case Summary Report meant that he was unable to understand what he was alleged to have done. In his evidence and submissions Mr Hawkins emphasised that he wants to be told “what I have been accused of” and “what must I stop doing.” He said that to this day, he still does not know what he is accused of. However, he also emphasised that all of the allegations are false and that he wants to see the complainant prosecuted for lying to the Police (and may take a private prosecution). Mr Hawkins emphasised “all I wanted to know was what had [the complainant] formally complained I had done.\" He submitted that Police's response prevented him from getting the information to prove his innocence and to be able to take steps against the complainant in other fora.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "In response Police submit that the basis of the harassment complaint has been clearly disclosed in the unredacted portions of the Case Summary Report, namely the alleged harassment was:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "36.1",
+                  "content": "On 29 May 2021 Mr Hawkins had entered the complainant's property and painted a message on the complainant's fence and that the complainant had provided CCTV footage of the incident to Police."
+                },
+                {
+                  "title": "36.2",
+                  "content": "Mr Hawkins had stood outside the complainant's window and photographed them inside the house."
+                },
+                {
+                  "title": "36.3",
+                  "content": "Mr Hawkins had put up a camera facing directly into the complainant's property (and had been given copies of the photos showing placement of that camera)."
+                }
+              ]
+            },
+            {
+              "number": "[37]",
+              "content": "Police say that Mr Hawkins' real concern is that the allegations against him are unfounded or inaccurate. We agree that that has been Mr Hawkins' main focus in the hearing before us.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Supplementary material",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[38]",
+              "content": "Following the hearing Mr Hawkins unilaterally filed further submissions on 23 August 2023, which he described as rebuttal. Counsel for Police advised the Tribunal that Police did not intend to respond to the rebuttal, noting it introduced new evidence that was not relevant to the issues the Tribunal is to decide and is therefore not admissible.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "The Tribunal can receive evidence even where it is not technically admissible.3 The supplementary submissions do contain new evidence but also repeat a number of the factual matters and submissions relating to the complainant that Mr Hawkins stated during the hearing of his claim. As an example, the rebuttal submissions state:",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, s 106(1)(d)",
+                  "context": "The Tribunal can receive evidence even where it is not technically admissible."
+                }
+              ]
+            },
+            {
+              "number": "[40]",
+              "content": "The Tribunal has received and admits Mr Hawkins' rebuttal submissions. However we have placed no weight on any new evidence provided, noting that the new evidence almost exclusively relates to Mr Hawkins' substantive issues with Police and the complainant which are not relevant to the issue of whether Police have interfered with Mr Hawkins' privacy.",
+              "page": 8,
+              "quoted_material": {
+                "content": "Critical point: was there ever and is there now ANY evidence that I harassed [the complainant] in ANY WAY?\nAnswer: Definitively NO, because it simply did not ever happen!"
+              }
+            },
+            {
+              "number": "[41]",
+              "content": "Mr Hawkins' emphasis in the rebuttal submission was on the question of whether he harassed the complainant. This is an extension and repetition of his approach at the hearing. However Mr Hawkins' innocence, or otherwise, is not a “critical point” for the Tribunal's purposes and is not relevant to the narrow privacy issue arising out of the redactions in Police's Case Summary Report.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "WAS THERE AN INTERFERENCE WITH MR HAWKINS' PRIVACY",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[42]",
+              "content": "Information Privacy Principle 6 sets out the fundamental right for an individual to access their personal information held by an agency. It provides that upon request an individual is 'entitled' to receive access to their personal information:4",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020, s 22",
+                  "context": "It provides that upon request an individual is 'entitled' to receive access to their personal information"
+                }
+              ],
+              "quoted_material": {
+                "source": "Principle 6 Access to Personal Information",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "An individual is entitled to receive from an agency upon request—"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "confirmation of whether the agency holds any personal information about them; and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "access to their personal information."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "If an individual concerned is given access to personal information, the individual must be advised that, under IPP 7, the individual may request the correction of that information."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[43]",
+              "content": "The legal right of access to personal information conferred by IPP 6 is a strong right. This right is a necessary precondition to the exercise of the entitlement in IPP 7 to request the correction of personal information.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "What constitutes an interference with privacy?",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[44]",
+              "content": "Section 69 provides:",
+              "page": 8,
+              "quoted_material": {
+                "source": "69 Interference with privacy of individual",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In this Act, an action of an agency is an interference with the privacy of an individual in any of the circumstances set out in subsection (2) or (3)."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "An action of an agency is an interference with the privacy of an individual if the action breaches, -"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "in relation to that individual, — (i) 1 or more of the IPPs; or (ii) the provisions of an approved information sharing agreement approved; or (iii) the provisions of an information matching agreement or section 179 or 181; or (iv) section 115 (which requires an agency to give notice to affected individuals or the public of a notifiable privacy breach); and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "the action— (i) has caused, or may cause, loss, detriment, damage, or injury to the individual; or (ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of the individual; or (iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of the individual."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "An action of an agency is an interference with the privacy of an individual if, in relation to a request made by a person under IPP 6 or 7, the agency has, without a proper basis, made, - (a) a decision to refuse a request under IPP 6; or (b) a decision to refuse a request under IPP 7; or (c) any other decision under Part 4 in relation to the request."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[45]",
+              "content": "Under s 69(3) it is not necessary to prove harm caused by the refusal of access for the purpose of establishing liability in relation to a breach of IPP 6 (causation remaining relevant to remedies however).",
+              "page": 9
+            },
+            {
+              "number": "[46]",
+              "content": "The IPP 6 entitlement to access personal information is qualified by ss 51, 52 and 53 of the PA 2020. Under those provisions, access to personal information can lawfully be refused provided relevant grounds exist. The onus is on the agency refusing access to establish that the basis of withholding applies. Section 53 is the relevant provision in this case.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 51, 52 and 53 of the PA 2020"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unwarranted disclosure of the affairs of another",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[47]",
+              "content": "Section 53 relevantly provides:",
+              "page": 9,
+              "quoted_material": {
+                "source": "53 Other reasons for refusing access to personal information",
+                "content": "An agency may refuse access to any personal information requested if—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "the information requested does not exist or, despite reasonable efforts to locate it, cannot be found; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "the disclosure of the information would involve the unwarranted disclosure of the affairs of— (i) another individual; or (ii) a deceased person; or"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[48]",
+              "content": "This provision has two requirements. First, that the disclosure of the information would disclose the affairs of another person and second, that such disclosure would be unwarranted.5",
+              "page": 10
+            },
+            {
+              "number": "[49]",
+              "content": "In summary, Police will have interfered with Mr Hawkins' privacy if the Tribunal is satisfied that there was no proper basis for Police to redact portions of the Case Summary Report in order to prevent the unwarranted disclosure of the affairs of another or because it was not his personal information.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "The redacted information",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[50]",
+              "content": "Police submit that the redacted information falls into two categories. The first is that the information is not Mr Hawkins' personal information. The second is that the information is mixed, containing both Mr Hawkins' and the complainant's personal information. In relation to the second category, Police say that the balancing exercise under s 53(b) requires that the mixed information is withheld, including because of the fraught history between Mr Hawkins and the complainant.",
+              "page": 10
+            },
+            {
+              "number": "[51]",
+              "content": "We agree this is an appropriate classification.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "Section 109 orders – closed evidence and closed hearing",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[52]",
+              "content": "To undertake the assessment of the redacted information the Tribunal received a full copy of the Case Summary Report and conducted part of the hearing in a closed courtroom only open to Police's counsel. Closed evidence and conducting part of the hearing in closed court was in accordance with orders made under s 109 of the PA 2020, which were made with the agreement of the parties.6",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 109 of the PA 2020"
+                }
+              ]
+            },
+            {
+              "number": "[53]",
+              "content": "Adopting those measures, the Tribunal has been able to avoid compromising the matters that Police consider justify refusing access to Mr Hawkins' personal information.",
+              "page": 10
+            },
+            {
+              "number": "[54]",
+              "content": "Having viewed the redacted information, the Tribunal is satisfied that it contains either information that is exclusively the complainant's personal information (so not Mr Hawkins' personal information) or mixed information.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "First category of withheld information: not Mr Hawkins' personal information",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[55]",
+              "content": "The PA 2020 only provides individuals with a right to access information that is their personal information.7",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 2020"
+                }
+              ]
+            },
+            {
+              "number": "[56]",
+              "content": "It is established law that redaction of another individual's personal information is lawful, even where that personal information is within a document that also contains the requester's personal information. An obvious example of this type of information would be the other person's contact details.",
+              "page": 11
+            },
+            {
+              "number": "[57]",
+              "content": "Information that comes within this first category of information (not Mr Hawkins' personal information) makes up the overwhelming majority of the information redacted from the Case Summary Report.",
+              "page": 11
+            },
+            {
+              "number": "[58]",
+              "content": "Numerous passages of the Case Summary Report that have been redacted are properly characterised as containing exclusively the complainant's personal information. This includes information about how the complainant was feeling (including in relation to safety) and when they received or requested an update from Police. Other personal information, such phone number, email address et cetera are also clearly within this category.",
+              "page": 11
+            },
+            {
+              "number": "[59]",
+              "content": "We consider that Police have not interfered with Mr Hawkins' privacy by redacting this category of information, as it is exclusively the complainant's personal information that Mr Hawkins does not have a right to access under IPP 6.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "Second category of withheld information: mixed personal information",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[60]",
+              "content": "Mixed personal information occurs where the personal information of two or more people is inextricably intertwined. Release of one person's personal information inevitably includes the release of another person's personal information.",
+              "page": 11
+            },
+            {
+              "number": "[61]",
+              "content": "A very limited number of the redacted portions of the Case Summary Report fall within this second category (most redactions coming within category one).",
+              "page": 11
+            },
+            {
+              "number": "[62]",
+              "content": "Whether the refusal to release mixed personal information is warranted (or not) is a contextual assessment.",
+              "page": 11
+            },
+            {
+              "number": "[63]",
+              "content": "The Tribunal noted in Watson:8",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson",
+                  "context": "The Tribunal noted in Watson"
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[93]",
+                    "content": "As to the second [requirement], it has been correctly said that particular weight needs to be given to the word \"unwarranted\". This, together with the use of the phrase \"the affairs of another individual\" rather than \"privacy\" appears to narrow the scope of the provision. See Taylor and Roth Access to Information (LexisNexis, Wellington, 2011) at [3.5.4]. In our view the term “unwarranted” requires the Principle 6 right of access held by the requester to be weighed against the competing interest recognised in s 29(1)(a). In that exercise consideration must be given to the context in which the information was collected and to the purpose for which the information was collected, held and used. As to how the balance is to be struck in a particular case and a determination made whether disclosure of the information would involve the \"unwarranted disclosure\" of the affairs of another individual will depend on the circumstances. See Director of Human Rights Proceedings v Commissioner of Police [2007] NZHRRT 22 at [63]. In that decision the Tribunal made reference to some of the considerations which may be relevant when weighing the competing interests. See also Geary v Accident Compensation Corporation at [78] to [88]."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[64]",
+              "content": "This Tribunal has previously identified non-exhaustive factors that can assist in determining whether disclosure is unwarranted.9 These include:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Commissioner of Police (2007) 8 HRNZ 428 (NZHRRT) at [64]"
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[64.1]",
+                    "content": "Whether a police informant was willing to have their identity known, or stipulated anonymity."
+                  },
+                  {
+                    "identifier": "[64.2]",
+                    "content": "The nature of the information."
+                  },
+                  {
+                    "identifier": "[64.3]",
+                    "content": "The characteristics of the informant and their situation, including their relationship with the requester."
+                  },
+                  {
+                    "identifier": "[64.4]",
+                    "content": "Whether disclosure is necessary in order for the requester to have a full and fair opportunity to respond to allegations against them."
+                  },
+                  {
+                    "identifier": "[64.5]",
+                    "content": "The size of the community in which the parties live (revelation may have a disproportionate effect in a smaller community)."
+                  },
+                  {
+                    "identifier": "[64.6]",
+                    "content": "What kind of harm might be suffered by the informant should the requester become aware of their identity."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[65]",
+              "content": "In relation to these factors, we note that:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "65.1",
+                  "content": "The complainant's identity was disclosed to Mr Hawkins in the 20 May 2022 letter. Anonymity of the informant is not a concern in the current proceedings and therefore factors one and six are not directly relevant. We note Mr Hawkins' submissions that the complainant is entitled to privacy in respect of the mixed information only if they expressly asked for this at the time the complaint was made. We do not accept that submission. Whether a person expressly turned their mind to, and indicated they had concerns about, their personal information other than their identity being released to another may be one of the contextual matters relevant to the balancing exercise required under s 53(b). However it cannot, on its own, be the sole determining factor."
+                },
+                {
+                  "title": "65.2",
+                  "content": "In relation to factor two, we note that the information is mixed personal information which can typically involve a complex balancing exercise. It is not appropriate to provide specific details of the redacted mixed personal information. It is sufficient to say it includes, as an example, the complainant's fears about what Mr Hawkins might do in response to a potential future event. It does not contain new allegations of harassment and would not better inform Mr Hawkins of what he 'should not do.'"
+                },
+                {
+                  "title": "65.3",
+                  "content": "In relation to factor three, we agree that the history between Mr Hawkins and the complainant is relevant context and warrants a degree of caution when undertaking the balancing exercise in relation to this category of information."
+                },
+                {
+                  "title": "65.4",
+                  "content": "In relation to factor four (full and fair opportunity to respond):"
+                },
+                {
+                  "title": "65.4.1",
+                  "content": "Mr Hawkins' key submissions in relation to this category of information was that he could not understand the allegations he was facing without seeing all the information."
+                },
+                {
+                  "title": "65.4.2",
+                  "content": "We consider the open parts of the Case Summary Report would have made it clear to Mr Hawkins what the complaints against him were. We note that the information in the Case Summary Report about the complaints (set out above) in substance mirror but expanded on the details in the unredacted portion of the document attached to the Criminal Harassment Notice. In addition, on 3 June 2022 Ms Art had advised Mr Hawkins that she had provided him with all the complaints made against him."
+                },
+                {
+                  "title": "65.4.3",
+                  "content": "Mr Hawkins fully engaged with the specific harassment allegations and refuted them, both in his communications to Police and in the hearing of his claim in the Tribunal."
+                },
+                {
+                  "title": "65.4.4",
+                  "content": "We accept Police's submission that Mr Hawkins' evidence has focused on disputing all allegations of harassment and that this demonstrates that he knew what the allegations were. We accept Police's submission that it is not credible for Mr Hawkins to say otherwise."
+                },
+                {
+                  "title": "65.4.5",
+                  "content": "At the time Mr Hawkins requested the information he advised that he needed it so as to be able to “defend the charges against me.” The only relevant charges at that time was the charge of assaulting a Police Constable. As we have stated above, we have accepted Police's submission that the redacted information relating to alleged harassment has no relevance to charges Mr Hawkins faced at the time."
+                }
+              ]
+            },
+            {
+              "number": "[66]",
+              "content": "Balancing the matters set out above and having carefully reviewed the redacted parts of the Case Summary Report that contain mixed personal information, we conclude that the redactions are appropriate and lawful in the circumstances.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Conclusion on liability",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[67]",
+              "content": "We find that Police has not interfered with Mr Hawkins' privacy. It is therefore unnecessary to consider the issue of what remedies should be granted.",
+              "page": 14
+            },
+            {
+              "number": "[68]",
+              "content": "So as to ally Mr Hawkins' suspicions, we confirm that none of the redacted extracts in the Case Summary Report contain other allegations against him. In other words, Police are not holding details of secret allegations against him.",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "PERMANENT NON-PUBLICATION ORDER",
+          "page_start": 14,
+          "paragraphs": []
+        },
+        {
+          "title": "Interim non-publication order",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[69]",
+              "content": "At the hearing of this matter counsel for Police made an oral application for an interim suppression order preventing publication of the complainant's name and identifying details and indicated that a permanent order may be sought.",
+              "page": 14
+            },
+            {
+              "number": "[70]",
+              "content": "The application was made on the basis the complainant's identity is not central to the privacy dispute between Mr Hawkins and Police and that they are not a party and have no right to participate in this proceeding, including in relation to any adverse comments made about them.",
+              "page": 14
+            },
+            {
+              "number": "[71]",
+              "content": "Mr Hawkins strongly opposed the complainant's name suppression on the basis he considered the complainant had instigated false accusations against him. He submitted it would be unfair if the complainant could protect themselves.",
+              "page": 14
+            },
+            {
+              "number": "[72]",
+              "content": "Mr Wilkinson for New Zealand Media and Entertainment was in attendance. He opposed suppression and submitted that although the complainant is not a party, they were a central figure in the narrative and that the suppression threshold was high.",
+              "page": 14
+            },
+            {
+              "number": "[73]",
+              "content": "To preserve the position in relation to name suppression, an interim order was made at the hearing preventing publication of the complainant's name and identifying details.",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "Permanent non-publication order",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[74]",
+              "content": "As foreshadowed, after the hearing Police applied for permanent non-publication orders of the complainant's name and identifying details. The complainant has sworn an affidavit in support of their name being permanently suppressed. They say Mr Hawkins is using the Tribunal forum to make a personal attack against them, that they view that attack as a continuation of ongoing harassment and advise that they had no idea the proceeding was on foot until they saw media coverage of the Tribunal's hearing. The complainant expresses concerns:",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "74.1",
+                  "content": "About damage to their professional reputation if, what the complainant describes as Mr Hawkins' one-sided account of events, is published because they say it will be impossible to correct public opinion about them once Mr Hawkins' allegations are linked to them."
+                },
+                {
+                  "title": "74.2",
+                  "content": "That Mr Hawkins is using this forum as a means of getting untrue allegations against the complainant into the public domain."
+                },
+                {
+                  "title": "74.3",
+                  "content": "At existing negative social media commentary (which Police submit is \"vitriolic”) which does not yet identify the complainant and the risk of them becoming the target of on-line abuse if their name becomes public."
+                },
+                {
+                  "title": "74.4",
+                  "content": "That if their name becomes public, people would be able to locate and contact them (because of their professional role), giving rise to personal safety concerns."
+                }
+              ]
+            },
+            {
+              "number": "[75]",
+              "content": "Police submit that the complainant's affidavit provides evidence of the harm they would suffer should their name be published and that the evidence indicates genuine reputation and safety risks arising from publication of their name.",
+              "page": 15
+            },
+            {
+              "number": "[76]",
+              "content": "Police emphasise that the complainant is not a party or a witness and in this context has had no opportunity to challenge or contradict the serious allegations Mr Hawkins has made against the complainant.",
+              "page": 15
+            },
+            {
+              "number": "[77]",
+              "content": "Counsel for Police rely on an earlier Tribunal decision in Jones v Waitemata District Health Board to support the proposition that witnesses have a greater claim to the protection offered by suppression than a party has, because witnesses have no interest in the proceedings.10 They say that the complainant has even less of an interest than a witness would have in the circumstances. In addition, Police say there is a low public interest in identifying the complainant, including because the allegations Mr Hawkins has made against the complainant are at best tangentially relevant to the issues in the proceeding and in many cases are wholly irrelevant to the privacy matters before the Tribunal.",
+              "page": 15,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Jones v Waitemata District Health Board",
+                  "context": "Counsel for Police rely on an earlier Tribunal decision in Jones v Waitemata District Health Board to support the proposition that witnesses have a greater claim to the protection offered by suppression than a party has, because witnesses have no interest in the proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "Jones v Waitemata District Health Board [2014] NZHRRT 52 at [51]"
+                },
+                {
+                  "type": "case",
+                  "reference": "JM v Human Rights Review Tribunal [2023] NZHC 228 [JM]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[78]",
+              "content": "Mr Hawkins filed a response to Police's application. He emphasised that the complainant had not requested anonymity at the time of making the complaint and should not be able to retrospectively apply for suppression and that someone making false allegations should not have name suppression. Mr Hawkins strongly objected to the complainant's name being suppressed.",
+              "page": 15
+            },
+            {
+              "number": "[79]",
+              "content": "The starting position is the fundamental principle of open justice and the reflection of that principle in s 107 of the Human Rights Act 1993.",
+              "page": 15,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 107 of the Human Rights Act 1993"
+                }
+              ]
+            },
+            {
+              "number": "[80]",
+              "content": "This does not mean that permanent suppression orders will never be appropriate. The Tribunal has express jurisdiction to make non-publication orders if satisfied it is 'desirable' to do so.11 The bar is however high.12 An applicant must show sufficient adverse consequences which are sufficient in the interests of justice to justify an exception to the fundamental rule of an open system of justice.13 Essentially, the Tribunal must be satisfied that the suggested adverse consequences could reasonably be expected to occur.14 There must be some material upon which the Tribunal can reasonably reach the conclusion that there is a risk of specific adverse consequences arising from publication such that it is necessary to make an order prohibiting publication.15",
+              "page": 16
+            },
+            {
+              "number": "[81]",
+              "content": "The Tribunal must first assess whether it is satisfied that a non-publication order is desirable (the threshold issue) and then, if the threshold is met, must assess whether to make a non-publication order (exercise of the discretion).16",
+              "page": 16
+            },
+            {
+              "number": "[82]",
+              "content": "Turning to the threshold issue, the application is in respect of third-party interests (the complainant). Protection of third-party interests does not require a high threshold of desirability to be achieved, as the impact on the open justice rule is lower than in other situations.17",
+              "page": 16
+            },
+            {
+              "number": "[83]",
+              "content": "We note the following considerations:",
+              "page": 16,
+              "subsections": [
+                {
+                  "title": "83.1",
+                  "content": "The complainant is not a party to Mr Hawkins' claim and has not appeared as a witness in the proceeding. The bar is therefore lower than if the complainant was a party to a Tribunal proceeding and seeking name suppression."
+                },
+                {
+                  "title": "83.2",
+                  "content": "In giving his evidence to the Tribunal Mr Hawkins made serious and adverse comments about the complainant in a hearing open to the public, for which he enjoys certain privileges and immunities.18 The complainant has had no right of or ability to reply in a forum where they would have those same privileges and immunities."
+                },
+                {
+                  "title": "83.3",
+                  "content": "The dispute between Mr Hawkins and the complainant is not relevant to whether Police lawfully or unlawfully withheld portions of the Case Summary Report. Its lack of relevance means the public interest in the complainant's identity is not high."
+                },
+                {
+                  "title": "83.4",
+                  "content": "The Tribunal has no jurisdiction to consider, and has not considered, whether the allegations against Mr Hawkins are false accusations. Mr Hawkins has not produced any evidence of a finding in another forum that the complainant has made a false allegation against him."
+                },
+                {
+                  "title": "83.5",
+                  "content": "We accept, for the reasons stated by the complainant, that there could be real adverse consequences for the complainant if their name was published in the circumstances (on-line and possible in-person abuse). The evidence is neither vague nor speculative."
+                }
+              ]
+            },
+            {
+              "number": "[84]",
+              "content": "In light of those considerations, we consider it is desirable to grant the permanent order sought protecting the name of the non-party to this proceeding. The threshold is met.",
+              "page": 17
+            },
+            {
+              "number": "[85]",
+              "content": "We consider it appropriate to exercise our discretion to make the order as we see no reason not to in the circumstances. In determining this we have considered:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "85.1",
+                  "content": "The complainant's identity is irrelevant to the issues we are determining."
+                },
+                {
+                  "title": "85.2",
+                  "content": "The fact that the right of the media to report the result of Mr Hawkins' proceeding is not affected by a non-publication order relating to the complainant."
+                },
+                {
+                  "title": "85.3",
+                  "content": "The granting of the order is a very limited intrusion on the fundamental principal of open justice."
+                }
+              ]
+            },
+            {
+              "number": "[86]",
+              "content": "We conclude that the permanent non-publication order sought should be granted.",
+              "page": 17
+            },
+            {
+              "number": "[87]",
+              "content": "Accordingly, we grant the application for permanent suppression of the complainant's name and identifying details.",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 17,
+          "paragraphs": [
+            {
+              "number": "[88]",
+              "content": "The following permanent orders are made pursuant to s 107 of the HRA:<br>[88.1] Publication of the name, address and other identifying details of the complainant referred to in this proceeding is prohibited.<br>[88.2] There is to be no search of the Tribunal's file without the leave of the Tribunal or Chairperson. The parties are to be notified of any request to search the file and given an opportunity to be heard on that application.",
+              "page": 17,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 107 of the HRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 18,
+          "paragraphs": [
+            {
+              "number": "[89]",
+              "content": "The defendant has been successful. However, there is no reason to depart from the Tribunal's usual approach to costs,19 namely that costs lie where they fall.",
+              "page": 18
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms K Anderson",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms D Hart",
+          "role": "Member"
+        },
+        {
+          "name": "Ms S Kai Fong",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Hawkins v New Zealand Police [2024] NZHRRT 8].",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Twelve pages of Report with a three page attachment (being the Police's letter of 20 May 2022 with its 2 pages of attachments).",
+          "page": 2
+        },
+        {
+          "number": "3",
+          "content": "Human Rights Act 1993, s 106(1)(d).",
+          "page": 7
+        },
+        {
+          "number": "4",
+          "content": "Privacy Act 2020, s 22.",
+          "page": 8
+        },
+        {
+          "number": "5",
+          "content": "Watson v Capital and Coast District Health Board [2015] NZHRRT 27 at [91].",
+          "page": 10
+        },
+        {
+          "number": "6",
+          "content": "Minute dated 4 April 2023.",
+          "page": 10
+        },
+        {
+          "number": "7",
+          "content": "Relevantly defined as \"information about an identifiable individual\": PA 2020, s 7.",
+          "page": 11
+        },
+        {
+          "number": "8",
+          "content": "Watson v Capital and Coast District Health Board, as above n 5.",
+          "page": 11
+        },
+        {
+          "number": "9",
+          "content": "Director of Human Rights Proceedings v Commissioner of Police (2007) 8 HRNZ 428 (NZHRRT) at [64].",
+          "page": 12
+        },
+        {
+          "number": "10",
+          "content": "Jones v Waitemata District Health Board [2014] NZHRRT 52 at [51] and JM v Human Rights Review Tribunal [2023] NZHC 228 [JM].",
+          "page": 15
+        },
+        {
+          "number": "11",
+          "content": "Human Rights Act 1993, s 107(3).",
+          "page": 16
+        },
+        {
+          "number": "12",
+          "content": "Director of Proceedings v Brooks (Application for Final Non-Publication Orders) [2019] NZHRRT 33; and Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 and the authorities referred to therein (including Erceg v Erceg [2016] NZSC 135, [2017] 1 NZLR 310 (SC).",
+          "page": 16
+        },
+        {
+          "number": "13",
+          "content": "As above.",
+          "page": 16
+        },
+        {
+          "number": "14",
+          "content": "JM at [99].",
+          "page": 16
+        },
+        {
+          "number": "15",
+          "content": "JM at [99].",
+          "page": 16
+        },
+        {
+          "number": "16",
+          "content": "JM at [84].",
+          "page": 16
+        },
+        {
+          "number": "17",
+          "content": "Director of Proceedings v Brooks as above n 12, at [81].",
+          "page": 16
+        },
+        {
+          "number": "18",
+          "content": "Human Rights Act 1993, s 112.",
+          "page": 16
+        },
+        {
+          "number": "19",
+          "content": "Beauchamp v B & T Co (2011) Ltd (Costs) [2022] NZHRRT 30 and the authorities cited therein.",
+          "page": 18
+        }
+      ]
+    }
+  ]
+}

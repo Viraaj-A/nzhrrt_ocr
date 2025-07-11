@@ -1,0 +1,871 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2021-NZHRRT-27.pdf",
+    "total_pages": 12,
+    "extraction_date": "2024-05-23"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2021] NZHRRT 27",
+        "reference_number": "HRRT 046/2018",
+        "court_tribunal": "Human Rights Review Tribunal",
+        "jurisdiction": "New Zealand",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "9 June 2021",
+        "case_title": "Turner v Itchyfoot Pty Ltd",
+        "legal_basis": "The Privacy Act 2020",
+        "decision_type": "Decision of Tribunal",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 12
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "REGINALD ERIC JOHN TURNER",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ITCHYFOOT PTY LIMITED TRADING AS KIWI HOUSE SITTERS",
+            "role": "Defendant",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms NJ Baird",
+          "role": "Member"
+        },
+        {
+          "name": "Dr NR Swain",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R Turner",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Mr N Fuad",
+          "representing": "Director of defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "BACKGROUND",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Turner is a home owner. He had an overseas trip planned in mid-2017 and wanted a house sitter to take care of his house and his dog while he was away.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "Itchyfoot Pty Limited runs an organisation called Kiwi House Sitters. Kiwi House Sitters permits home owners to place an advertisement for a house sitter on its website. Mr Turner did so and through the website engaged a house sitter for the five weeks he was out of the country.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "The house sitting arrangement was not a happy one for either Mr Turner or the house sitter. Complaints from both parties were made to Kiwi House Sitters. The house sitter described her complaint as a “heads up” and it was not investigated. Mr Turner’s complaint was a formal one. It was followed up by Kiwi House Sitters. In its statement of reply Kiwi House Sitters said it was a “he said she said” scenario which it was not able to take further. Kiwi House Sitters said Mr Turner was not able to accept this.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "On 21 July 2017, Mr Turner was removed as a registered owner from the Kiwi House Sitters website. His continued membership was considered, by Mr Fuad, to give rise to duty of care issues.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "On 5 June 2018, Mr Turner (through his lawyer) requested copies of all personal information held by Kiwi House Sitters about himself. In a letter to Kiwi House Sitters, Mr Turner’s lawyer said it was anticipated that the personal information would include communications between Kiwi House Sitters and Mr Turner’s house sitter.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "On 12 June 2018, Mr Fuad, the Managing Director of Kiwi House Sitters, responded to Mr Turner’s lawyer. He attached a number of emails which comprised the correspondence between Kiwi House Sitters and Mr Turner. Mr Fuad advised Mr Turner’s lawyer he had requested permission from the house sitter to provide a copy of the correspondence between her and Kiwi House Sitters but had not yet had a reply to that request.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "Mr Turner’s lawyer replied to Mr Fuad on the same day advising him that the house sitter’s permission was not required if the communications concerned Mr Turner.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "In his statement of evidence dated 30 January 2020, Mr Fuad said that the house sitter denied permission for Mr Turner to be provided with the emails and it would breach Kiwi House Sitters’ own privacy policy to do so without her permission.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "Mr Turner claims that Kiwi House Sitters interfered with his privacy when it failed to provide him with all the personal information it held about him.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "Whether it did so is the key issue for this proceeding. While Mr Turner continues to express the view that he has been wronged more widely by both the house sitter and Kiwi House Sitters, he accepts that those are not matters over which the Tribunal has jurisdiction.",
+              "page": 2
+            },
+            {
+              "number": "[11]",
+              "content": "This claim was originally filed under the Privacy Act 1993. On 1 December 2020 that Act was repealed and replaced by the Privacy Act 2020. The transitional provisions in Privacy Act 2020 Schedule 1, Part 1, cl 9(1) provide that these proceedings must be continued and completed under the 2020 Act. However, that does not alter the relevant legal rights and obligations in force at the time the actions subject to this claim were taken. Accordingly, all references in this decision are to the Privacy Act 1993 (Privacy Act) unless otherwise stated.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "The claim was originally filed under this Act, and its legal rights and obligations are referenced throughout the decision."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020",
+                  "context": "This Act replaced the 1993 Act, and its transitional provisions govern the continuation of the proceedings."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020 Schedule 1, Part 1, cl 9(1)",
+                  "context": "This specific clause provides that proceedings must be continued and completed under the 2020 Act."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE HEARING",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Hearing on the papers",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "By Minute of 19 June 2020, both parties were directed to advise the Tribunal in writing their view on whether the case ought to be determined on the papers, which is permitted by s 104(4A) of the Human Rights Act 1993 (Human Rights Act). Mr Turner agreed it would be appropriate. Kiwi House Sitters withdrew its participation in the proceeding before it expressed any view on that question.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, s 104(4A)",
+                  "context": "This section permits a case to be determined on the papers."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "The Tribunal considers it is appropriate to decide the claim on the papers:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[13.1]",
+                  "content": "The relevant material facts in this case are not in dispute. Both parties acknowledge that emails from the house sitter to Kiwi House Sitters which contain Mr Turner’s personal information were withheld from him. The principal issue is whether any personal information which should have been provided was not."
+                },
+                {
+                  "title": "[13.2]",
+                  "content": "Section 106 of the Human Rights Act empowers the Tribunal to receive as evidence: \n\nany statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matter before it, whether or not it would be admissible in a court of law."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act, Section 106",
+                  "context": "Empowers the Tribunal to receive various forms of evidence."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "While not sworn, in our view there is no prejudice to either party if the written statements of evidence filed in the proceeding are taken into account. It is also appropriate for the Tribunal to consider the documentary evidence filed by both parties.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "The evidence on which the Tribunal bases its decision is as follows:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[15.1]",
+                  "content": "For Mr Turner, this is his written statement of evidence filed on 27 January 2020, the documents he attached to that evidence, and a number of documents filed on 2 December 2019 and on 13 December 2019, which he had indicated were to be included in the common bundle of evidence. Also taken into account are the emails filed by Mr Turner on 8 July 2020, which comprised emails between the house sitter and Kiwi House Sitters that Mr Turner had in his possession."
+                },
+                {
+                  "title": "[15.2]",
+                  "content": "For Kiwi House Sitters, this is the emails contained within the closed bundle and a statement of evidence from Mr Fuad dated 30 January 2020."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "Mr Turner also filed submissions. These submissions along with the relevant parts of the statements of claim and reply have also been considered by the Tribunal in reaching this decision.",
+              "page": 3
+            },
+            {
+              "number": "",
+              "content": "Open and closed bundles of documents",
+              "page": 3
+            },
+            {
+              "number": "[17]",
+              "content": "The parties agreed it was appropriate for this case to be dealt with under the Tribunal’s open and closed hearing process. That process has been devised so that consideration can be given by the Tribunal to whether information was properly withheld without having to disclose the very information the agency sought to withhold. This process is now mandated by s 109 of the Privacy Act 2020. Under this process, the Tribunal (but not the plaintiff) is provided with the information in the form of a closed bundle of documents which enables it to form a view as to whether the information ought to have been disclosed.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020, s 109",
+                  "context": "Mandates the open and closed hearing process for considering withheld information."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "On 29 May 2020 Kiwi House Sitters filed the closed bundle of documents with the Tribunal. The closed bundle contained a number of email chains that had been withheld from Mr Turner. However, it is not entirely clear where each email chain begins or ends, whether there were parts of the chain that had been omitted, or when each email in the chain was sent or received. In the 19 June 2020 Minute, Kiwi House Sitters was directed to file each email separately.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "It has not done so. Instead, in an email dated 25 June 2020, Mr Fuad said Kiwi House Sitters would not be participating in any further communications. He said he was not prepared to waste any more time on this matter as he had a company to run. Mr Fuad had expressed the same sentiment during the 19 June 2020 teleconference and was made aware the case would still proceed even if Kiwi House Sitters took no further active role. See s 115(A)(2)(b) of the Human Rights Act.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act, s 115(A)(2)(b)",
+                  "context": "Referenced in relation to the case proceeding despite a party taking no further active role."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MATTERS TO BE DETERMINED",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "It is not in dispute that Mr Turner requested his personal information through his lawyer on 5 June 2018.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "Nor do the pleadings suggest there is any dispute that Kiwi House Sitters did not provide the email correspondence between Kiwi House Sitters and the house sitter following that request. However, it is apparent from the evidence filed that Mr Turner was in possession of at least some of these emails. During the teleconference on 19 June 2020 Mr Turner said he may have received them from Kiwi House Sitters. Mr Turner was directed to file the emails he held between the house sitter and Kiwi House Sitters.",
+              "page": 4
+            },
+            {
+              "number": "[22]",
+              "content": "Having reviewed the emails we find they were not provided to Mr Turner by Kiwi House Sitters:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[22.1]",
+                  "content": "In Mr Turner’s cover letter to the Tribunal enclosing the emails, he says the emails were included in papers sent to him by the house sitter’s lawyer in the context of two Disputes Tribunal hearings against the house sitter."
+                },
+                {
+                  "title": "[22.2]",
+                  "content": "The emails he held were annexures to an affidavit of the house sitter sworn at North Shore District Court in December 2017. This is evident from the exhibit notes on the emails he provided to the Tribunal."
+                },
+                {
+                  "title": "[22.3]",
+                  "content": "While there is some ambiguity about whether Kiwi House Sitters provided any of the emails to Mr Turner’s lawyer in July 2017, Mr Fuad’s evidence unequivocally states the emails were not provided to Mr Turner because permission to do so was denied by the house sitter."
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "Therefore, the issue is whether there has been an interference with Mr Turner’s privacy (as defined by s 66 of the Privacy Act) and in particular:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 66",
+                  "context": "Defines what constitutes an interference with privacy."
+                }
+              ],
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[23.1]",
+                    "content": "Whether the withheld emails contained any personal information of Mr Turner;"
+                  },
+                  {
+                    "identifier": "[23.2]",
+                    "content": "If so, whether there was a legitimate statutory reason to withhold them or did the refusal to provide Mr Turner’s personal information to him amount to an interference with his privacy; and"
+                  },
+                  {
+                    "identifier": "[23.3]",
+                    "content": "If there was an interference with his privacy, what remedies, if any, are appropriate."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "DID KIWI HOUSE SITTERS INTERFERE WITH MR TURNER’S PRIVACY?",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Access to personal information",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "The Privacy Act is intended to protect individual privacy in general accordance with the OECD Guidelines Concerning the Protection of Privacy and Transborder Flows of Personal Data (See Privacy Act Long Title). The Explanatory Memorandum which accompanied the 1980 OECD Guidelines, the Guidelines in force at the time the Privacy Act was passed, said at [58]:",
+              "page": 5,
+              "quoted_material": {
+                "content": "The right of individuals to access and challenge personal data is generally regarded as perhaps the most important privacy protection safeguard."
+              }
+            },
+            {
+              "number": "[25]",
+              "content": "In keeping with those principles, the Tribunal has held that the Privacy Act creates a strong right to access personal information. See Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [67].",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [67]",
+                  "context": "Cited to support the principle that the Privacy Act creates a strong right to access personal information."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "Information Privacy Principle 6 (IPP 6) sets out the entitlement of individuals to access personal information held about them.",
+              "page": 5,
+              "quoted_material": {
+                "source": "Principle 6 Access to personal information",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled—\n(a) to obtain from the agency confirmation of whether or not the agency holds such personal information; and\n(b) to have access to that information."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Where, in accordance with subclause (1)(b), an individual is given access to personal information, the individual shall be advised that, under principle 7, the individual may request the correction of that information."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "The application of this principle is subject to the provisions of Parts 4 and 5."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[27]",
+              "content": "Personal information is defined in s 2 of the Privacy Act to mean “information about an identifiable individual”.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 2",
+                  "context": "Cited for the definition of 'personal information'."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "The meaning and application of this definition was extensively considered in Taylor v Corrections [2018] NZHRRT 35 (Taylor v Corrections). In that decision, the Tribunal held that personal information was not limited to that which was particularly sensitive, intimate or private. While broad, the Tribunal said the definition is not without limits. A key limit is the requirement that the information be “about” a particular individual. The Tribunal further held that there is no bright line test by which to separate obviously personal information about someone from that which is not. Rather, a fact-based contextual approach to this question is required. See Taylor v Corrections at [80]–[81], [83]–[85], [100] and [106]–[122].",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Corrections [2018] NZHRRT 35",
+                  "context": "Cited as the leading case on the meaning and application of the definition of personal information."
+                }
+              ]
+            },
+            {
+              "number": "[29]",
+              "content": "On appeal, the High Court agreed that the definition of personal information was broad and not limited to that which was sensitive, intimate or private. The Court also agreed that the question of whether information is “about” an identifiable individual required an examination of both the information and the context of the request. See Taylor v Corrections [2020] NZHC 383 at [45] and [63]–[65].",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Corrections [2020] NZHC 383",
+                  "context": "Cited for the High Court's agreement on appeal regarding the broad definition of personal information."
+                }
+              ]
+            },
+            {
+              "number": "[30]",
+              "content": "The emails filed in the Tribunal by Kiwi House Sitters, which comprise the closed bundle of withheld information, appear to date from June 2017 to October 2017. What those emails reveal is that a dispute between the house sitter and Mr Turner was being conducted through Kiwi House Sitters:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[30.1]",
+                  "content": "On 15 June 2017, within days of commencing the house sit, the house sitter contacted Kiwi House Sitters to raise concerns about Mr Turner. She sent what she described as a “heads up” to Kiwi House Sitters in which she expressed concern that she had heard that he has ended up in disputes with previous sitters. She also voiced disquiet about some of his behaviour, which she described as needy, demanding and inappropriate."
+                },
+                {
+                  "title": "[30.2]",
+                  "content": "Shortly after his return, Mr Turner emailed the house sitter to complain about the manner of her departure, her failure to replace items used or to leave the house in the same state it was in when she arrived. He also complained about the fact that she had driven 3,300 kms in his car while he was away and that she had failed to leave it with a full tank of petrol. Further complaints followed."
+                },
+                {
+                  "title": "[30.3]",
+                  "content": "Mr Turner’s emails to the house sitter were forwarded by her to Kiwi House Sitters, along with comments from her about his allegations. There was also separate correspondence between her and Kiwi House Sitters regarding the complaints. Some of the content of these emails was private and sensitive and had nothing to do with Mr Turner."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "Having reviewed the emails, there is no doubt many contain information about Mr Turner. Some also contain the personal information of the house sitter, the significance of which is discussed later.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "The question therefore arises, does the failure to provide Mr Turner with the requested personal information amount to an interference with his privacy?",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "Section 66 of the Privacy Act sets out what constitutes an interference with privacy:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Privacy Act, section 66",
+                "content": "66 Interference with privacy\n(1) For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if, —\n(a) the action breaches an information privacy principle: or\n(2) Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual,—\n(a) the action consists of a decision made under Part 4 or Part 5 in relation to the request, including—\n(i) a refusal to make information available in response to the request; or\n(b) the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision."
+              }
+            },
+            {
+              "number": "[34]",
+              "content": "As is evident from s 66(2)(a)(i) and s 66(2)(b), information requested but not provided, in circumstances where the Tribunal does not consider there is a proper basis for that decision, amounts to an interference with privacy.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 66(2)(a)(i)",
+                  "context": "Cited to show that a refusal to make information available can be an interference with privacy."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 66(2)(b)",
+                  "context": "Cited to show that if the Tribunal finds no proper basis for a decision, it amounts to an interference with privacy."
+                }
+              ]
+            },
+            {
+              "number": "[35]",
+              "content": "In order for the Tribunal to find there was a proper basis for the requested personal information to be withheld, one of the statutory exceptions in ss 27 to 29, which are found in Part 4 of the Privacy Act, must apply. Refusals for other reasons are not permitted. See Privacy Act, s 30.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, Part 4",
+                  "context": "Contains statutory exceptions for withholding personal information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, ss 27 to 29",
+                  "context": "The specific sections containing the statutory exceptions."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 30",
+                  "context": "Cited to show that refusals for reasons other than the statutory exceptions are not permitted."
+                }
+              ]
+            },
+            {
+              "number": "[36]",
+              "content": "Section 87 of the Privacy Act requires the withholding agency to establish, on the balance of probabilities, that one or more of the withholding reasons provided for in these three sections applies.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, Section 87",
+                  "context": "Requires the withholding agency to establish the basis for withholding information."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Do any of the statutory exceptions apply?",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "In his written statement of evidence Mr Fuad said:",
+              "page": 7,
+              "quoted_material": {
+                "content": "Mr Turner and his lawyer had requested personal correspondence between Kiwi House Sitters and [the house sitter]. We believed this would be breaching our online privacy policy so felt we needed to contact [the house sitter] to get her approval. She denied this so it was then deemed inappropriate to hand over these private emails.\n...\nThe refusal of Kiwi House Sitters to show the private correspondence between us and [the house sitter] is 100% based on she didn’t agree to this."
+              }
+            },
+            {
+              "number": "[38]",
+              "content": "Kiwi House Sitters’ reason for refusing to provide the information sought was that it considered it would be breaching its own on-line privacy policy to do so without the house sitter’s permission which she refused to give. The exception that most closely matches the reason for declining to provide the emails to Mr Turner is that in s 29(1)(a):",
+              "page": 7,
+              "quoted_material": {
+                "source": "Privacy Act, s 29(1)(a)",
+                "content": "29 Other reasons for refusal of requests\n(1) An agency may refuse to disclose any information requested pursuant to principle 6 if—\n(a) the disclosure of the information would involve the unwarranted disclosure of the affairs of another individual or of a deceased individual; or ..."
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "That section has two limbs. First, the information withheld must relate to the affairs of another and, second, its disclosure must be unwarranted.",
+              "page": 7
+            },
+            {
+              "number": "[40]",
+              "content": "Whether disclosure is unwarranted requires the Tribunal to weigh Mr Turner’s right of access to his personal information under IPP 6 against the competing privacy interests of the house sitter protected by s 29(1)(a). Where that balance is to be struck will depend on the circumstances. Of necessity, the exercise is a contextual one. See Director of Human Rights Proceedings v Commissioner of Police [2007] NZHRRT 22 at [63], Fehling v South Westland Area School [2012] NZHRRT 15 at [82].",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "IPP 6",
+                  "context": "Establishes Mr Turner's right of access to his personal information."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 29(1)(a)",
+                  "context": "Protects the competing privacy interests of the house sitter."
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Commissioner of Police [2007] NZHRRT 22 at [63]",
+                  "context": "Cited to support the contextual nature of the balancing exercise for unwarranted disclosure."
+                },
+                {
+                  "type": "case",
+                  "reference": "Fehling v South Westland Area School [2012] NZHRRT 15 at [82]",
+                  "context": "Cited to support the contextual nature of the balancing exercise for unwarranted disclosure."
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "As already noted, the emails clearly contain both the personal information of Mr Turner and the house sitter. We therefore accept that the first limb of the s 29(1)(a) test has been met; at least some of the withheld emails contain information about the affairs of another.",
+              "page": 7
+            },
+            {
+              "number": "[42]",
+              "content": "The critical question therefore is whether providing Mr Turner with his personal information would constitute an unwarranted disclosure of the house sitter’s affairs. The relevant point in time for considering that question is the time of the personal information request. Here the request was made in June 2018, nearly one year after the house sitting took place. It follows that the good reason for withholding the personal information requested must exist as at June 2018. Provided a good reason exists at that time, the failure to communicate that reason, while bad practice, does not amount to an interference with privacy as defined in s 66. See Watson v Capital and Coast District Health Board [2015] NZHRRT 27 at [84]–[85].",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson v Capital and Coast District Health Board [2015] NZHRRT 27 at [84]–[85]",
+                  "context": "Cited to support the principle that failure to communicate a good reason for withholding information does not amount to an interference with privacy."
+                }
+              ]
+            },
+            {
+              "number": "[43]",
+              "content": "The context in which the information was sought was evident from the evidence filed. Relevant to this:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[43.1]",
+                  "content": "Mr Turner and the house sitter were embroiled in a dispute with each making allegations about the other. On Mr Turner’s part he was concerned that the house sitter invaded his privacy by reading personal documents held in his office at his home, that she had made false allegations about him and had failed to abide by her obligations as a house sitter. For her part, the house sitter drew Kiwi House Sitters’ attention to a previous dispute Mr Turner had with a house sitter and accused Mr Turner of inappropriate behaviour."
+                },
+                {
+                  "title": "[43.2]",
+                  "content": "Mr Fuad described these complaints as a “he said she said” situation which Kiwi House Sitters was not able to resolve. Nevertheless, it removed Mr Turner from its platform. Its reasons for doing so were set out in Mr Fuad’s statement of evidence as follows:"
+                }
+              ],
+              "quoted_material": {
+                "content": "I, as the owner of the business, had come to the conclusion to deem, irrespective of the house sitting complaint (which may or may not have been correct as both sides had conflicting statements), that Mr Turner was a high risk member. I felt I had a duty of care to prevent any of our house sitting members to house sit for this man. With 1) Mr Turner’s unusually obsessive behaviour with his 35 + emails up until this point (then another 50 or so past this point), 2) his refusal to accept that from our office’s complaint procedure we could not believe him over the other, 3) the often condescending and rude statements made in his correspondence which in turn created anxiety for my staff, 4) the fact that [the house sitter] had actually contacted us first concerned about Mr Turner’s inappropriate and obsessive behaviour, I felt I had no choice but to remove Mr Turner from our platform and cancel his account with us. I felt there was a real duty of care on my behalf as the business owner and a caring citizen to terminate Mr Turner’s account for fear of repeat behaviour for any future house sitters he may had engaged from Kiwi House Sitters. We state in our Terms & Conditions (that Mr Turner accepted when he signed up for the free homeowner registration) that we are able to terminate any account that we deem necessary and we honestly felt this was necessary. This was why he was removed."
+              }
+            },
+            {
+              "number": "[43.3]",
+              "content": "A year later, Mr Turner still felt aggrieved by the house sitter’s actions and accusations, and the failure of Kiwi House Sitters to hold her to account. Mr Turner made Mr Fuad aware of his views through a letter sent on 6 July 2018, one month after the request through his lawyer for his personal information had been made. Mr Turner made it clear he felt he had been falsely accused by the house sitter and wrongly treated by Kiwi House Sitters as a consequence. He asked for an apology and for his lodge to be reinstated on Kiwi House Sitters’ website.",
+              "page": 8
+            },
+            {
+              "number": "[44]",
+              "content": "Whether Mr Turner should have been removed from the website is not an issue in this proceeding. Nor was it given as a reason for the refusal to provide the documents to Mr Turner. That does not mean, however, that the complaint made by the house sitter about Mr Turner as set out in her emails to Kiwi House Sitters is irrelevant to the question of whether the emails containing Mr Turner’s personal information should have been disclosed. Mr Turner clearly wished to challenge the decision to remove him from the website and to restore his reputation. Self-evidently knowing exactly what had been said would make it easier to respond.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "In our view, Kiwi House Sitters has not discharged its burden of establishing that providing Mr Turner with his personal information contained within the emails between Kiwi House Sitters and Mr Turner would amount to an unwarranted disclosure of the affairs of the house sitter. Our reasons are these:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[45.1]",
+                  "content": "There is no evidence as to the house sitter’s reason or reasons for refusing her permission for the emails to be provided. We are therefore unable to ascertain whether there was a good reason for Mr Fuad not to have done so beyond her bare refusal. The only evidence before the Tribunal on the issue of permission to pass on emails occurred a year earlier at the time of the dispute between Mr Turner and the house sitter. Even then, the emails demonstrate some vacillation on the part of the house sitter as to her preparedness for the emails to be provided to Mr Turner’s (then) lawyer."
+                },
+                {
+                  "title": "[45.2]",
+                  "content": "The withholding of the emails was a blanket decision without regard to the content of the emails. The privacy interests of the house sitter in many of the emails withheld is low."
+                },
+                {
+                  "title": "[45.3]",
+                  "content": "The house sitter had already disclosed some of the email correspondence between her and Kiwi House Sitters to Mr Turner in the course of a Disputes Tribunal hearing. While Mr Fuad may have been unaware of this, there is no evidence that he took any steps to apprise himself of the actual situation between Mr Turner and the house sitter at the time the request was made, or to inquire into the house sitter’s reasons for her refusal."
+                },
+                {
+                  "title": "[45.4]",
+                  "content": "Natural justice supports Mr Turner having the right to know what was being said about him in order to challenge the allegations being made, which is what he indicated he wished to do."
+                }
+              ]
+            },
+            {
+              "number": "[46]",
+              "content": "In reaching this decision, we have not overlooked the concern expressed by Mr Fuad a year earlier that Mr Turner was harassing the house sitter. We accept that the potential for harassment may constitute a proper basis for refusing to provide personal information under s 29(1)(a). We also note that a “significant likelihood of serious harassment” is now expressly included as a statutory withholding ground under s 49(1)(a)(ii) of the Privacy Act 2020.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 29(1)(a)",
+                  "context": "Potential for harassment may constitute a proper basis for refusing to provide personal information under this section."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020, s 49(1)(a)(ii)",
+                  "context": "Now expressly includes \"significant likelihood of serious harassment\" as a statutory withholding ground."
+                }
+              ]
+            },
+            {
+              "number": "[47]",
+              "content": "Based on the emails, we acknowledge that Mr Fuad’s concern that Mr Turner was harassing the house sitter in mid-2017 was not unfounded. However, we were not provided with any evidence it remained an issue a year later, or that the nature and likelihood of any potential harassment would justify the withholding of all emails between Kiwi House Sitters and the house sitter.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "In that circumstance, and without any justification being proffered for withholding the emails other than that the house sitter denied her permission to do so, we find Kiwi House Sitters has not met its evidentiary burden. It has not established on the balance of probabilities that one of the statutory withholding grounds applied at the time of the personal information request which was made in June 2018 which would justify the withholding of all personal information contained in email correspondence between it and the house sitter.",
+              "page": 9
+            },
+            {
+              "number": "[49]",
+              "content": "That does not mean that Kiwi House Sitters should simply have handed over the emails to Mr Turner.",
+              "page": 9
+            },
+            {
+              "number": "[50]",
+              "content": "Part of the information contained within the emails was solely the personal information of the house sitter. This information, which included contact details, her subsequent house sitting arrangements, family information and information about her health and wellbeing, was outside the request made by Mr Turner and should not have been provided to him without the house sitter’s permission. Rather than refusing to disclose the emails at all, information only about the house sitter could and should have been redacted as provided for in s 43 of the Privacy Act.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act, s 43",
+                  "context": "Provides for the redaction of information from documents before disclosure."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 10,
+              "quoted_material": {
+                "source": "Privacy Act, section 43",
+                "content": "43 Deletion of information from documents\n(1) Where the information in respect of which an information privacy request is made is comprised in a document and there is good reason for withholding some of the information contained in that document, the other information in that document may be made available by making a copy of that document available with such deletions or alterations as are necessary."
+              }
+            },
+            {
+              "number": "[51]",
+              "content": "However, Kiwi House Sitters did not follow the procedure set out in s 43 of the Privacy Act. Instead, it refused completely to provide any of the information sought by Mr Turner. In doing so, it interfered with Mr Turner’s privacy.",
+              "page": 10
+            },
+            {
+              "number": "[52]",
+              "content": "The question therefore arises, should the Tribunal grant Mr Turner any remedy?",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "REMEDIES",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[53]",
+              "content": "In his statement of claim, Mr Turner sought by way of remedy:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "[53.1]",
+                  "content": "An order that Kiwi House Sitters hold the house sitter to account for her behaviour towards him and her false accusations about him; and"
+                },
+                {
+                  "title": "[53.2]",
+                  "content": "An order that Kiwi House Sitters place him back on their website."
+                }
+              ]
+            },
+            {
+              "number": "[54]",
+              "content": "Mr Turner subsequently accepted that those were not orders the Tribunal had the power to make.",
+              "page": 10
+            },
+            {
+              "number": "[55]",
+              "content": "The power of the Tribunal to grant remedies and the nature of those remedies are set out in s 85(1) of the Privacy Act:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Privacy Act, section 85(1)",
+                "content": "85 Powers of Human Rights Review Tribunal\n(1) If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:\n(b) an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:\n(c) damages in accordance with section 88:\n(d) an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:\n(e) such other relief as the Tribunal thinks fit."
+              }
+            },
+            {
+              "number": "[56]",
+              "content": "While remedies are discretionary, declaratory relief should not be ordinarily declined where an interference with privacy has occurred. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] NZLR 414 at [107]–[108].",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] NZLR 414 at [107]–[108]",
+                  "context": "Cited to support the principle that declaratory relief should not ordinarily be declined where an interference with privacy has occurred."
+                }
+              ]
+            },
+            {
+              "number": "[57]",
+              "content": "In this case, we do not consider there is any basis for declining to make a declaration that Kiwi House Sitters has interfered with Mr Turner’s privacy. We accept Mr Fuad believed he was doing the right thing, but the fact is he did not comply with the Privacy Act. He may have been unaware of his obligations under that Act, but that is no excuse. If Itchyfoot Pty Limited wishes to operate its Kiwi House Sitters business in New Zealand, it must comply with New Zealand law.",
+              "page": 10
+            },
+            {
+              "number": "[58]",
+              "content": "While not pleaded, in his submissions Mr Turner asked for an order that the emails withheld from him be provided. We acknowledge that it is difficult for lay litigants to understand the importance of pleadings, but inadequate pleadings can mean that the defendant is not properly on notice of claims made or remedies sought.",
+              "page": 11
+            },
+            {
+              "number": "[59]",
+              "content": "In this instance we do not accept that Mr Turner’s failure to signal in his statement of claim that he sought to have the withheld emails provided to him has unfairly prejudiced Kiwi House Sitters. Had it continued to participate in the proceeding it would have had the opportunity to make submissions on the appropriateness of that remedy.",
+              "page": 11
+            },
+            {
+              "number": "[60]",
+              "content": "An order requiring the provision of wrongly withheld information is an obvious and natural remedy in successful IPP 6 cases, where the information has not been provided and access is still sought. That does not mean such an order must be granted, but we see no reason not to make that order here.",
+              "page": 11
+            },
+            {
+              "number": "[61]",
+              "content": "Kiwi House Sitters is therefore ordered to provide a full and complete response to Mr Turner’s request for personal information made on 5 June 2018, consistently with the provisions of the Privacy Act, including s 43 of that Act. That section requires Kiwi House Sitters to redact all information that is solely the personal information of the house sitter, as discussed at [49] and [50] above, before the withheld personal information in the emails is provided to Mr Turner. Mr Turner is not entitled to information solely about the house sitter. He is only entitled to information about himself.",
+              "page": 11
+            },
+            {
+              "number": "[62]",
+              "content": "Had Kiwi House Sitters complied with the direction to file all emails separately so that they could be easily identified, the Tribunal would have been able to provide specific guidance as to which parts of which emails should be redacted. While this is unfortunate, Kiwi House Sitters’ failure to do so cannot absolve it of its obligations to Mr Turner. Kiwi House Sitters may wish to seek legal advice to ensure it meets it obligations to both Mr Turner and the house sitter.",
+              "page": 11
+            },
+            {
+              "number": "[63]",
+              "content": "Mr Turner did not seek damages. Nevertheless, the Tribunal still has the power to award damages in an appropriate case. See Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672 at [106]–[108].",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672 at [106]–[108]",
+                  "context": "Cited to affirm the Tribunal's power to award damages even when not sought by the plaintiff."
+                }
+              ]
+            },
+            {
+              "number": "[64]",
+              "content": "Under s 88 of the Privacy Act, damages can be awarded in respect of one or more of the following:",
+              "page": 11,
+              "quoted_material": {
+                "source": "Privacy Act, section 88",
+                "content": "88 Damages\n(1) In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+              }
+            },
+            {
+              "number": "[65]",
+              "content": "In our view, this is not an appropriate case for an award of damages:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[65.1]",
+                  "content": "Mr Turner provided no evidence of pecuniary loss."
+                },
+                {
+                  "title": "[65.2]",
+                  "content": "Nor is there any evidence that the failure to provide him with all the personal information he requested led to the loss of a benefit, namely the restoration of him as a registered owner on the Kiwi House Sitters website. Mr Turner’s own response to the way in which Kiwi House Sitters responded to his complaint about the house sitter was the reason for that decision."
+                },
+                {
+                  "title": "[65.3]",
+                  "content": "Finally, Mr Turner did not produce any or sufficient evidence to discharge his burden of proof to establish that he experienced humiliation, loss of dignity or injury to feelings arising from the failure to provide the emails to him. While it is clear Mr Turner feels aggrieved at the actions of the house sitter and by Kiwi House Sitters’ subsequent decision to remove him from its site, that is a separate issue."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[66]",
+              "content": "The Tribunal does not consider this is an appropriate case for costs. Mr Turner was not legally represented and, as the matter was determined on the papers, the actual cost to Mr Turner was very limited. No order for costs is made.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION AND FORMAL ORDERS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[67]",
+              "content": "The Tribunal is satisfied on the balance of probabilities that Kiwi House Sitters’ refusal to provide Mr Turner with his personal information, being information contained within email correspondence between it and the house sitter, was an interference with Mr Turner’s privacy.",
+              "page": 12
+            },
+            {
+              "number": "[68]",
+              "content": "The Tribunal also considers that Kiwi House Sitters should provide to Mr Turner all of his personal information, as requested by him but not provided. Before doing so, Kiwi House Sitters needs to redact from the emails exchanged between it and the house sitter all personal information solely about her, consistent with its obligations under s 43 of the Privacy Act.",
+              "page": 12
+            },
+            {
+              "number": "[69]",
+              "content": "No further remedies are granted.",
+              "page": 12
+            },
+            {
+              "number": "[70]",
+              "content": "The following orders are made: \n\n[70.1] A declaration under s 85(1)(a) of the Privacy Act 1993 that Itchyfoot Pty Limited, trading as Kiwi House Sitters, interfered with Mr Turner’s privacy by refusing to provide all of the personal information sought.\n\n[70.2] An order under s 85(1)(d) of the Privacy Act 1993 that Itchyfoot Pty Limited, trading as Kiwi House Sitters, provide Mr Turner with a full and complete response to his request made on 5 June 2018 for all personal information held by it consistently with its obligations under the Privacy Act 1993, after first deleting information solely about the house sitter as required by s 43 of the Privacy Act 1993. Itchyfoot Pty Limited, trading as Kiwi House Sitters, is to comply with this order within 20 working days of the date of this decision.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 85(1)(a)",
+                  "context": "Basis for the declaration that an interference with privacy occurred."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 85(1)(d)",
+                  "context": "Basis for the order requiring the defendant to perform acts to remedy the interference."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 43",
+                  "context": "Specifies the requirement to delete/redact certain information before disclosure."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms NJ Baird",
+          "role": "Member"
+        },
+        {
+          "name": "Dr NR Swain",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Turner v Itchyfoot Pty Ltd [2021] NZHRRT 27.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

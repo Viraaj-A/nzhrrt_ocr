@@ -1,0 +1,733 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 12,
+    "extraction_date": "2024-05-15"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 50",
+        "reference_number": "HRRT 018/2017",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "4 and 5 November 2019",
+        "decision_date": "21 December 2020",
+        "case_title": "Grant Tucker v The Real Estate Agents Authority",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 12
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "GRANT TUCKER",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE REAL ESTATE AGENTS AUTHORITY",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr G Tucker",
+          "representing": "Plaintiff (in person)"
+        },
+        {
+          "counsel": "Ms C Paterson",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Ms E Mok",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Grant Tucker was a real estate agent. Two misconduct charges brought against him were heard by the Real Estate Agents Disciplinary Tribunal (READT) in late August 2016. On 27 September 2016, the READT issued a decision finding both charges proved. Mr Tucker's real estate agent's licence was cancelled. See Real Estate Agents Authority (CAC 301) and The Real Estate Agents Authority (CAC 403) v Tucker [2016] NZREADT 65.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Real Estate Agents Authority (CAC 301) and The Real Estate Agents Authority (CAC 403) v Tucker [2016] NZREADT 65",
+                  "context": "Reference to the READT decision where Mr Tucker's licence was cancelled."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "On 25 October 2016, Mr Tucker appealed both the misconduct findings and the cancellation of his licence to the High Court. His appeal was unsuccessful. See Tucker v Real Estate Agents Authority [2017] NZHC 1894.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tucker v Real Estate Agents Authority [2017] NZHC 1894",
+                  "context": "Reference to the unsuccessful High Court appeal."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "That backdrop provides the context for Mr Tucker's claim to this Tribunal under the Privacy Act 1993.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "The legal basis for Mr Tucker's claim to the Tribunal."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "Anticipating an adverse decision by the READT, on 20 September 2016 Mr Tucker emailed the Real Estate Agents Authority (REAA) requesting all information it held about him under the Privacy Act and the Official Information Act 1982.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "Act under which information was requested."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Official Information Act 1982",
+                  "context": "Act under which information was requested."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "On 22 September 2016 the REAA acknowledged receipt of Mr Tucker's Privacy Act request. Mr Tucker was told that the response to that request would be provided by email. He was invited to contact the REAA if he wished to receive the decision in a different way. He did not contact the REAA.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "On 12 October 2016 the REAA wrote to Mr Tucker extending the time limit for responding to his request. It advised the extension was necessary because the request required a search through a large quantity of information. Mr Tucker was told he would receive the response to his request by 10 November 2016.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "On 27 October 2016 and prior to the 10 November time limit, Mr Tucker made a complaint to the Privacy Commissioner that the personal information requested on 20 September 2016 had not been provided. He subsequently filed a claim in this Tribunal.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "Mr Tucker claims the REAA has interfered with his privacy because:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[8.1] The REAA failed to supply all information it held about him within 20 working days of his request being made;"
+                },
+                {
+                  "title": "",
+                  "content": "[8.2] This failure was a calculated and deliberate act on the part of the REAA; and"
+                },
+                {
+                  "title": "",
+                  "content": "[8.3] Had the information requested been provided within the 20 working days, he would have received additional information before his High Court appeal needed to be lodged."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "The REAA denies it interfered with Mr Tucker's privacy. It says it properly extended the timeframe for making a decision on his Privacy Act request and then provided the information within that timeframe.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "The following liability issues arise:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[10.1] Was the extension to the timeframe properly made?"
+                },
+                {
+                  "title": "",
+                  "content": "[10.2] If yes, did the REAA give Mr Tucker a decision on his request and the information requested by 10 November 2016?"
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "While the REAA denies liability in relation to those issues, it does acknowledge it failed to advise Mr Tucker he had the right to request the correction of the personal information it held about him, in breach of IPP 6(2). This breach was not referred to by Mr Tucker in his statement of claim, although Mr Tucker did refer to it in the hearing as evidence that Privacy Act breaches by the REAA were common. Given it was discussed at the hearing, that breach is also considered in this decision.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "WAS THE EXTENSION TO THE TIMEFRAME PROPERLY MADE?",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "For the reasons that follow, Mr Tucker's primary claim that the REAA's response to his request for personal information was out of time fails on the facts. His secondary claim that the REAA failed to advise him he could seek the correction of personal information held about him also fails as no harm from the acknowledged breach has been established.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "Information Privacy Principle 6 of the Privacy Act sets out the following entitlements and obligations:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Principle 6 Access to personal information",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled— (a) to obtain from the agency confirmation of whether or not the agency holds such personal information; and (b) to have access to that information."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Where, in accordance with subclause (1)(b), an individual is given access to personal information, the individual shall be advised that, under principle 7, the individual may request the correction of that information."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "The application of this principle is subject to the provisions of Parts 4 and 5."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[14]",
+              "content": "Once a request for personal information has been made, an agency has the following responsibilities under s 40(1) of the Privacy Act:",
+              "page": 3,
+              "quoted_material": {
+                "source": "40 Decisions on requests",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Subject to this Act, the agency to which an information privacy request is made or transferred in accordance with this Act shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that agency, — (a) decide whether the request is to be granted and, if it is to be granted, in what manner and, subject to sections 35 and 36, for what charge (if any); and (b) give or post to the individual who made the request notice of the decision on the request."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[15]",
+              "content": "Section 41 of the Privacy Act deals with extensions to the 20 working day timeframe. It reads:",
+              "page": 3,
+              "quoted_material": {
+                "source": "41 Extension of time limits",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Where an information privacy request is made or transferred to an agency, the agency may extend the time limit set out in section 39 or section 40(1) in respect of the request if— (a) the request is for a large quantity of information or necessitates a search through a large quantity of information, and meeting the original time limit would unreasonably interfere with the operations of the agency; or (b) consultations necessary to make a decision on the request are such that a proper response to the request cannot reasonably be made within the original time limit."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Any extension under subsection (1) shall be for a reasonable period of time having regard to the circumstances."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "The extension shall be effected by giving or posting notice of the extension to the individual who made the request within 20 working days after the day on which the request is received."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "The notice effecting the extension shall— (a) specify the period of the extension; and (b) give the reasons for the extension; and"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "state that the individual who made the request for the information has the right, under section 67, to make a complaint to the Commissioner about the extension; and"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "contain such other information as is necessary."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "Section 66 of the Privacy Act sets out the circumstances in which a failure to give a decision on a request within the statutory timeframe (including a timeframe extended under s 41 of the Privacy Act) constitutes an interference with the privacy of the requester.",
+              "page": 4,
+              "quoted_material": {
+                "source": "66 Interference with privacy",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "..."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual,— (a) the action consists of a decision made under Part 4 or Part 5 in relation to the request, including— (i) a refusal to make information available in response to the request; or (ii) a decision by which an agency decides, in accordance with section 42 or section 43, in what manner or, in accordance with section 40, for what charge the request is to be granted; or (iii) a decision by which an agency imposes conditions on the use, communication, or publication of information made available pursuant to the request; or (iv) a decision by which an agency gives a notice under section 32; or (v) a decision by which an agency extends any time limit under section 41; or (vi) a refusal to correct personal information; and (b) the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "If, in relation to any information privacy request, any agency fails within the time limit fixed by section 40(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 40(1), that failure shall be deemed, for the purposes of subsection (2)(a)(i) of this section, to be a refusal to make available the information to which the request relates."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[17]",
+              "content": "Given s 66(2)(a)(v) and s 66(2)(b), the first issue the Tribunal needs to consider is whether there was a proper basis for the REAA to extend the timeframe. If not, then s 66(3) deems the agency to have refused to make the requested information available.",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "Mr Tucker made his request on 20 September 2016. The REAA was therefore required to give Mr Tucker its decision on the request or extend the timeframe for giving him that decision by 18 October 2016, being 20 working days after the date on which his request was made.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "The REAA extended the timeframe on 12 October 2016, which was within the 20 working day time period required by s 41 of the Privacy Act. In its letter, the REAA said it was necessary to extend the timeframe because the request required it to search through a large quantity of information which would unreasonably interfere with the operations of the REAA. Mr Tucker was informed he would receive its decision by 10 November 2016.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "The 12 October 2016 letter was sent as an attachment to an email sent to Mr Tucker at grant@netrealty.co.nz. While Mr Tucker was not prepared to categorically say he received that letter, he accepted there was no reason he would not have.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "In the meantime, on 27 September 2016, a week after he made his request under the Privacy Act, the READT released its decision finding two charges of disgraceful misconduct against Mr Tucker had been proved. Mr Tucker filed an appeal against that decision on 25 October 2016.",
+              "page": 4
+            },
+            {
+              "number": "[22]",
+              "content": "Mr Tucker's stated reason for making the request for his personal information was that he anticipated he may lose his case before the READT and wanted the information to assist with any appeal. He accepted that he had not advised the REAA of the purpose for which the information was sought and nor had he sought urgency in its provision. Nevertheless, he submitted it was a reasonable assumption that he would appeal the decision, given his age and that he had no other means of earning a living. The REAA should therefore have known that his Privacy Act request was made for the purpose of appealing a likely adverse decision. Mr Tucker also claims the failure to provide the information within 20 working days was deliberate and calculated.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "Despite being advised he would not receive a decision until 10 November 2016, on 27 October 2016 Mr Tucker complained to the Office of the Privacy Commissioner that the personal information he requested from the REAA on 20 September 2016 had not been provided. He did not mention the REAA had extended the timeframe for giving him its decision.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "Mr Tucker's explanation for not doing so was that he did not consider it significant at the time. He later added that since becoming aware that the time period could be extended, he does not consider it reasonable for the REAA to have done so, given it is (in his opinion) a well-resourced organisation with many employees and because much of the information was easily accessible.",
+              "page": 5
+            },
+            {
+              "number": "[25]",
+              "content": "Mr Tucker acknowledged the reasonableness of the extension had not formed part of his complaint to the Privacy Commissioner. It is also not referred to in his statement of claim to the Tribunal. Rather, his claim appears to assume an interpretation of the Privacy Act predicated on a requirement to provide information within 20 working days. However, as set out above, this is not what the Act requires.",
+              "page": 5
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Tucker also acknowledged he did not follow up his request with the REAA. He said he was suspicious that the REAA had not advised him they held information on him because of the appeal. For that reason, he said he did not contact the REAA directly, instead complaining to the Privacy Commissioner.",
+              "page": 5
+            },
+            {
+              "number": "[27]",
+              "content": "Ms Appleton, who is the general counsel for the REAA, gave evidence about the REAA's decision to extend the timeframe for responding to Mr Tucker's request. She said:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[27.1] Responsibility for managing Privacy Act requests lies with the three-person legal team. It includes identifying and locating information held within the request and then reviewing all documents for relevance, confidentiality and privilege. This comprises only a small part of the work of that team. The team's other responsibilities include operational legal advice to support the licensing and disciplinary activities of the REAA, policy advice on legislation and associated regulations and codes, and managing litigation."
+                },
+                {
+                  "title": "",
+                  "content": "[27.2] The Authority held a large amount of personal information about Mr Tucker. It had received a number of complaints about Mr Tucker as well as complaints from him about other real estate agents. There were nine complaints in total. It also held licensing information about him and information relating to previous requests under the Official Information Act."
+                },
+                {
+                  "title": "",
+                  "content": "[27.3] Over 300 pages were ultimately released to him. The information in two of the nine complaints was released in full. Redactions were required to the information provided in the other seven complaints. Some documents were withheld on grounds of legal privilege."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "In light of that evidence, the REAA submitted the extension to the timeframe, which was made within 20 working days as required by the Privacy Act, was reasonable.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "Ms Appleton denied the REAA extended the timeframe as a conscious attempt to impede Mr Tucker's ability to challenge the READT's decision:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[29.1] Mr Tucker's request for information was made prior to the READT's decision being released."
+                },
+                {
+                  "title": "",
+                  "content": "[29.2] He did not advise the REAA of the intended purpose of his request, nor did he ask that it be attended to urgently."
+                },
+                {
+                  "title": "",
+                  "content": "[29.3] The REAA was not aware of his appeal until it was filed on 25 October 2016, which was after the decision to extend the timeframe had been notified to him."
+                }
+              ]
+            },
+            {
+              "number": "[30]",
+              "content": "The Tribunal finds the extension of time to make the decision on the request was reasonable in the circumstances. Our reasons are these:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[30.1] Mr Tucker requested all personal information held about him. He did not advise there was any urgency attached to it. He did not contact the REAA after the READT released its decision to advise he needed the information urgently for the purposes of his appeal. Nor did he contact the REAA after the receipt of the 12 October 2020 letter to advise he needed the information more quickly than was being proposed, despite an invitation in the letter to do so. It may be that he did not understand that the REAA could extend the timeframe. While that may explain why he complained to the Privacy Commissioner rather than contacting the REAA, it does not alter the fact that it was a large request made without any apparent urgency."
+                },
+                {
+                  "title": "",
+                  "content": "[30.2] Some of the material requested, for example Official Information Act requests made previously and documents released as part of the discovery process for the READT hearings, may have been easily accessible. However, an agency is not required to make a decision until all information is collected so that an overall assessment of what properly should be released and what documents are withheld or redacted in part can be made. It is this evaluative aspect of the job that often takes the most time. See Koso v Chief Executive Ministry of Business, Innovation and Employment [2014] HRRT 39 at [3] and [4]."
+                },
+                {
+                  "title": "",
+                  "content": "[30.3] The small size of the team who handle Privacy Act and Official Information Act requests alongside their other duties also supports the view that having to make a decision on the request within 20 working days would have unreasonably interfered with the operations of the REAA."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Koso v Chief Executive Ministry of Business, Innovation and Employment [2014] HRRT 39 at [3] and [4]",
+                  "context": "To support the point that the evaluative aspect of processing requests takes time."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "Despite the Tribunal finding there was a proper basis to extend the timeframe, that is not the end of the matter. Mr Tucker further claims he did not receive the decision of the REAA, which included the documents he requested, until 13 December 2016, more than a month after the promised date of 10 November 2016.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "DID MR TUCKER RECEIVE THE 10 NOVEMBER 2016 EMAIL?",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "Ms Appleton described the process used by the REAA to store and then send the documents collated by a member of the legal team in response to a Privacy Act request.",
+              "page": 7
+            },
+            {
+              "number": "[33]",
+              "content": "The collated documents are stored in an R:Drive folder by the solicitor handling the request. Where a large number of documents need to be sent to a requester, the REAA will typically send them by way of a HomeDrive link. The documents stored in the R:Drive are copied into HomeDrive and a link is created. The requester is then sent the HomeDrive link via an email, which enables them to access the documents. Depending on their individual settings, once the link is sent to a requester from the HomeDrive account, the REAA staff member who sent the link is sent a confirmatory email.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "Ms Appleton said that on 10 November 2016 a HomeDrive link containing the Authority's response to Mr Tucker along with copies of the documents it was providing to him was sent to him at grant@netrealty.co.nz. This is the same email address to which the REAA had sent its acknowledgement letter of 22 September 2016 and its extension letter of 12 October 2016.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "Two documents were relied on by the REAA to demonstrate the HomeDrive link had been created and sent. The first of these is a screen shot of Ms Kozyniak's computer. Ms Kozyniak was a Regulatory Services Administrator at the REAA. The screen shot shows the folders of documents sent to Mr Tucker via the HomeDrive link. The screen shot also shows the cover email sent to Mr Tucker advising him that the response to his request was attached. The second document is a confirmatory email from HomeDrive to Ms Kozyniak advising her a folder link had been successfully created. A folder link is another name for a HomeDrive link. The recipient of the link was grant@netrealty.co.nz.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Ms Appleton also said it was standard practice for the REAA to send a courtesy email at the same time as the HomeDrive link was sent to the requester. Unlike the HomeDrive link email, this is sent through Outlook and therefore it will be obvious it has come from the REAA. Mr Tucker was not sent the usual courtesy email.",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "Again, depending on the staff member's notification settings, Ms Appleton said that a confirmatory email can be generated once someone accesses the HomeDrive link sent to them. No evidence was presented to show that Mr Tucker opened the email or accessed the link at this time.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "Mr Tucker said he did not receive the 10 November HomeDrive link email. He maintained that the documents relied on by the REAA to demonstrate that the link had been sent only showed the information being sent to Ms Kozyniak, not to him.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "On 1 December 2016, the Privacy Commissioner notified the REAA of Mr Tucker's complaint which he made on 27 October 2016.",
+              "page": 7
+            },
+            {
+              "number": "[40]",
+              "content": "On 13 December 2016 Michelle Tan, a Support Officer at the REAA, sent Mr Tucker an email explaining that the Authority responded to his request on 10 November 2016 through a HomeDrive link. Ms Tan apologised to him for not sending a courtesy email at the same time, as was the usual practice. Ms Tan also suggested that as the email had been sent directly from the REAA's HomeDrive account, he may not have noticed it or it may have been directed into his spam or junk mail folder.",
+              "page": 7
+            },
+            {
+              "number": "[41]",
+              "content": "Ms Tan advised Mr Tucker that the HomeDrive link was being re-sent. She asked him to acknowledge receipt of her email and to advise her if he did not receive the HomeDrive link within 24 hours. Mr Tucker did not respond to the email but he did access the HomeDrive link later that same day, automatically generating a confirmatory email to Ms Tan.",
+              "page": 8
+            },
+            {
+              "number": "[42]",
+              "content": "After receiving Ms Tan's 13 December email, Mr Tucker said he checked his junk mail folder and the earlier email was not there. Mr Tucker further said that even if he had received the email, he would have been foolish to click on it without knowing it came from a legitimate source.",
+              "page": 8
+            },
+            {
+              "number": "[43]",
+              "content": "Mr Tucker said that mistakes by the REAA were frequent, reflecting a culture where obligations were not taken seriously or undertaken properly. Six alleged breaches of the Privacy Act and related issues were referenced in his submissions. These included the REAA's failure to advise him that he could request the correction of his personal information under IPP 7 (as required by IPP 6(2)) as well as the failure to send out the courtesy email to him. Other examples of poor practice in relation to the REAA's investigatory role were referred to by Mr Tucker. Based on these alleged failures, the Tribunal was invited to infer that the REAA had not actually sent the email to him on 10 November 2016.",
+              "page": 8
+            },
+            {
+              "number": "[44]",
+              "content": "Mr Tucker also submitted the REAA was required by s 45 of the Privacy Act to adopt appropriate measures to ensure that he received the information. Section 45 states:",
+              "page": 8,
+              "quoted_material": {
+                "source": "45 Precautions",
+                "content": "Where an information privacy request is made pursuant to subclause (1)(b) of principle 6, the agency—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "shall not give access to that information unless it is satisfied concerning the identity of the individual making the request; and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "shall ensure, by the adoption of appropriate procedures, that any information intended for an individual is received— (i) only by that individual; or (ii) where the request is made by an agent of the individual, only by that individual or his or her agent; and"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "shall ensure that, where the request is made by an agent of the individual, the agent has the written authority of that individual to obtain the information or is otherwise properly authorised by that individual to obtain the information."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[45]",
+              "content": "Reliance on s 45 is misplaced. The purpose of that section is to ensure that information is only released to the person requesting it. It does not place an obligation on the releasing agency to ensure that information is received. There is no doubt that best practice is to send the courtesy email to alert the requester that information is being sent through HomeDrive, but it is not a legal requirement.",
+              "page": 8
+            },
+            {
+              "number": "[46]",
+              "content": "Nor does s 45 require the information to be provided in a particular manner. Mr Tucker did not exercise his right under s 42(2) of the Act to ask for the information he requested to be made available to him in a particular way. Further, as already noted, when the REAA acknowledged receipt of his request on 22 September 2016 he was advised the REAA intended to send its decision electronically and he raised no objection to receiving it in this form.",
+              "page": 8
+            },
+            {
+              "number": "[47]",
+              "content": "While Mr Tucker claimed not to have received the 10 November 2016 email, he acknowledged he had either received all other email communications sent to his grant@netrealty.co.nz email address or there was no reason to believe he did not receive those emails. He also received the HomeDrive link which was resent to that email address on 13 December 2016.",
+              "page": 8
+            },
+            {
+              "number": "[48]",
+              "content": "Having considered all the evidence, including the evidence of Ms Appleton that the email sent to Ms Kozyniak on 10 November 2016 from noreply@homedrive.co.nz was confirmation that the HomeDrive link had been sent to Mr Tucker, we find the REAA did \"give\" its decision on his request to Mr Tucker within the extended timeframe as required by ss 40 and 41 of the Privacy Act.",
+              "page": 9
+            },
+            {
+              "number": "[49]",
+              "content": "Mr Tucker may have overlooked that email as it was sent by HomeDrive, not the REAA, or he may have deleted it believing it would be unsafe to access. However, that does not change the fact that the REAA gave its decision to Mr Tucker on 10 November 2016.",
+              "page": 9
+            },
+            {
+              "number": "[50]",
+              "content": "In light of the Tribunal's finding that the REAA's extension of the timeframe was reasonable and its finding that Mr Tucker was sent the REAA's decision within that timeframe, the primary basis on which Mr Tucker claims there was an interference with his privacy fails.",
+              "page": 9
+            },
+            {
+              "number": "[51]",
+              "content": "The remaining issue arising on the facts (although not formally pleaded) is whether the acknowledged breach of IPP 6(2) resulted in an interference with Mr Tucker's privacy.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "WAS THERE AN INTERFERENCE WITH PRIVACY FROM A BREACH OF IPP 6(2)?",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[52]",
+              "content": "As noted above, the REAA acknowledged a breach of IPP 6(2) arising out of its failure to advise Mr Tucker in its 10 November 2016 letter that he could request the correction of the information sent to him. The failure to draw this right to Mr Tucker's attention was repeated when the information was resent to him on 13 December 2016. However, a breach of IPP 6(2) does not inevitably lead to a conclusion there has been an interference with privacy.",
+              "page": 9
+            },
+            {
+              "number": "[53]",
+              "content": "What amounts to an interference with privacy is defined in s 66 of the Privacy Act. For convenience it is set out again, this time in full.",
+              "page": 9,
+              "quoted_material": {
+                "source": "66 Interference with privacy",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if,— (a) in relation to that individual,— (i) the action breaches an information privacy principle; or (ii) the action breaches a code of practice issued under section 63 (which relates to public registers); or (iia) the action breaches an information privacy principle or a code of practice as modified by an Order in Council made under section 96J; or (iib) the provisions of an information sharing agreement approved by an Order in Council made under section 96J have not been complied with; or (iii) the provisions of Part 10 (which relates to information matching) have not been complied with; and (b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action— (i) has caused, or may cause, loss, detriment, damage, or injury to that individual; or (ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or (iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual,— (a) the action consists of a decision made under Part 4 or Part 5 in relation to the request, including— (i) a refusal to make information available in response to the request; or (ii) a decision by which an agency decides, in accordance with section 42 or section 43, in what manner or, in accordance with section 40, for what charge the request is to be granted; or (iii) a decision by which an agency imposes conditions on the use, communication, or publication of information made available pursuant to the request; or (iv) a decision by which an agency gives a notice under section 32; or (v) a decision by which an agency extends any time limit under section 41; or (vi) a refusal to correct personal information; and (b) the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "If, in relation to any information privacy request, any agency fails within the time limit fixed by section 40(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 40(1), that failure shall be deemed, for the purposes of subsection (2)(a)(i) of this section, to be a refusal to make available the information to which the request relates."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "Undue delay in making information available in response to an information privacy request for that information shall be deemed, for the purposes of subsection (2)(a)(i), to be a refusal to make that information available."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[54]",
+              "content": "As can be seen, there are two ways in which an interference with privacy can arise. The first is that already discussed. It occurs where one or more of the instances set out in s 66(2) arises and the Tribunal is satisfied there is no proper basis for the decision made. The second is that provided for by s 66(1) which requires a breach of an information privacy principle causing the kinds of harm set out in that subsection.",
+              "page": 10
+            },
+            {
+              "number": "[55]",
+              "content": "The acknowledged breach of IPP 6(2) falls into that second category. This means the breach must cause harm before an interference with privacy can be found.",
+              "page": 10
+            },
+            {
+              "number": "[56]",
+              "content": "The harms claimed by Mr Tucker relate to his failed appeal to the High Court which Mr Tucker alleges was caused by the REAA's failure to provide the requested information within 20 working days. He said that failure meant his lawyer was not able to file a fully informed notice of appeal within the appeal period, adversely affecting his chance of winning his appeal. This in turn caused financial loss both in respect of the cost of the appeal and through the failure to regain his licence. Mr Tucker also claimed he suffered significant humiliation and distress when the result of the High Court decision was published in the newspaper.",
+              "page": 10
+            },
+            {
+              "number": "[57]",
+              "content": "These harms are all predicated on the unavailability of his personal information at the time of filing the appeal. However, the breach of IPP 6(2) had no impact on the availability of information and therefore could not have contributed to his failed appeal. The breach did not cause the alleged harms and therefore no interference with privacy arises. Mr Tucker's secondary claim also fails.",
+              "page": 10
+            },
+            {
+              "number": "[58]",
+              "content": "Given there was no breach of IPP 6(1) by the REAA and no harm followed the breach of IPP 6(2), there is no need for the Tribunal to consider the issue of remedies. Had this have been required, Mr Tucker would have faced significant hurdles.",
+              "page": 10
+            },
+            {
+              "number": "[59]",
+              "content": "The key issue on appeal was whether the READT erred in finding that Mr Tucker was the person who sent packages containing soiled sanitary pads and condoms to another real estate agent and his lawyer. The High Court held there was ample evidence before the READT to support its finding that Mr Tucker was the sender of the packages. The reasons given by the Court included that Mr Tucker had previously sent faeces to one of the recipients and that the READT found Mr Tucker lacked credibility. See Tucker v Real Estate Agents Authority [2017] NZHC 1894 at [3] and [33]–[47].",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tucker v Real Estate Agents Authority [2017] NZHC 1894 at [3] and [33]–[47]",
+                  "context": "Supporting the High Court's finding on the key issue of the appeal."
+                }
+              ]
+            },
+            {
+              "number": "[60]",
+              "content": "While Mr Tucker does not need to show that earlier access to the information requested would inevitably have led to a different outcome of his appeal, there needs to be an evidential basis to support a view that a different outcome was possible. See Attorney General v Dotcom [2018] NZHC 2564; [2019] 2 NZLR 277 at [204], [207].",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Attorney General v Dotcom [2018] NZHC 2564; [2019] 2 NZLR 277 at [204], [207]",
+                  "context": "To establish the requirement for an evidential basis for a different outcome."
+                }
+              ]
+            },
+            {
+              "number": "[61]",
+              "content": "That evidential basis was lacking in this case:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[61.1] Mr Tucker chose not to advise his lawyer of his Privacy Act request or that he had received documents from the REAA. Further, while his stated reason was that the legal strategy was set and he did not want to alter it for cost reasons, the evidence before the Tribunal indicated that the notice of appeal had been amended at least twice after it was originally filed."
+                },
+                {
+                  "title": "",
+                  "content": "[61.2] Mr Tucker provided no credible evidence that his appeal would have proceeded differently had he received the information earlier."
+                },
+                {
+                  "title": "",
+                  "content": "[61.3] The appeal primarily turned on the question of whether there was a sufficient evidentiary basis for the READT to reach the factual findings it did. The evidence that was material to that question was evidence already before the READT along with its assessment of Mr Tucker's credibility."
+                },
+                {
+                  "title": "",
+                  "content": "[61.4] While Mr Tucker referred in evidence and submissions to failures by the REAA to undertake a proper and fair investigation, he was not able to demonstrate that those alleged failures would have led the High Court on appeal to overturn the factual findings about his conduct."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSIONS",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[62]",
+              "content": "Our conclusions can be stated briefly.",
+              "page": 11
+            },
+            {
+              "number": "[63]",
+              "content": "We find there was no interference with Mr Tucker's privacy because:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[63.1] The date by which the REAA was required to respond to Mr Tucker was properly extended under s 41 of the Privacy Act. He was advised of the need to extend the timeframe within the initial 20 working day period. The REAA held a lot of information about him which needed to be collected and reviewed before a decision could be made. Responsibility for this work rested with the REAA's small legal team, which had other responsibilities. Extending the timeframe by a further 20 working days was reasonable."
+                },
+                {
+                  "title": "",
+                  "content": "[63.2] The REAA gave Mr Tucker the information he requested within the extended timeframe when it sent him a link via HomeDrive to his email address on 10 November 2016. Mr Tucker may have overlooked the email because the sender was not the REAA, or he may have chosen not to click on the link out of concern it was unsafe because he was not alerted to it by the courtesy email normally sent to advise him it was being sent. While sending that email is good practice, it is not legally required."
+                },
+                {
+                  "title": "",
+                  "content": "[63.3] The failure by the REAA to advise Mr Tucker when it provided the documents to him that he could seek the correction of his personal information did not cause any of the harms he claims to have suffered."
+                }
+              ]
+            },
+            {
+              "number": "[64]",
+              "content": "Mr Tucker's claim fails.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[65]",
+              "content": "The Tribunal's view is that costs are not appropriate in this case. While the REAA was successful, by its own acknowledgement it failed to follow best practice when it overlooked sending Mr Tucker a courtesy email to advise him the documents had been sent via HomeDrive.",
+              "page": 12
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms MG Coleman",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Tucker v Real Estate Agents Authority [2020] NZHRRT 50.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

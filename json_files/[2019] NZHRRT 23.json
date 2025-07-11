@@ -1,0 +1,493 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 9,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 23",
+        "reference_number": "HRRT 083/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AUCKLAND",
+        "hearing_date": "8 October 2018",
+        "decision_date": "8 May 2019",
+        "case_title": "Cooper v Corrections [2019] NZHRRT 23",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 9
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "GEORGE COOPER",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms MA Roche",
+          "role": "Co-Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr G Cooper",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms R Roff",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Ms M Graham",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL¹",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "On 10 January 2014, George Cooper was employed as a casual truck driver by Specialised Transport Services Limited (STS). His supervisor at STS was Tusi Tupe. At the time, Mr Cooper was serving sentences of community work and intensive supervision which were supervised by the Probation Service. He was also awaiting sentencing on a charge of driving with excess blood alcohol, in addition to a number of other offences.",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "On Friday, 28 February 2014, a probation officer, Vaega Tiatia, telephoned Ms Tupe and identified himself as Mr Cooper's probation officer. By doing so, he disclosed to Ms Tupe that Mr Cooper was a Probation Services client. During the call Mr Tiatia disclosed further personal information about Mr Cooper to Ms Tupe. Following this, Mr Cooper's employment with STS was terminated.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "The primary issue to be determined is whether the actions of Corrections in contacting STS breached Information Privacy Principle 11. This requires us to determine whether Mr Cooper authorised Mr Tiatia to contact STS or, alternatively, whether the contact was necessary for the conduct of court proceedings. It is also necessary to determine whether there was an interference with Mr Cooper's privacy.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "On 6 December 2013, Mr Cooper pleaded guilty to a charge of excess breath alcohol (third and subsequent). At the time, he was serving two community-based sentences in respect of other convictions. These were a sentence of intensive supervision and a sentence of community work. Mr Cooper was remanded for sentencing on the excess breath alcohol offence.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Mr Cooper held a class 5 heavy truck licence. On 8 January 2014, he applied for the position of casual truck driver with STS. The application form he filled out asked whether he had ever been convicted of a criminal offence and whether he was awaiting the hearing of charges in Court or undertaking periodic detention. Mr Cooper answered 'no' to both these questions. He was duly employed and on 10 January 2014, began working for STS.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "On 29 January 2014, Mr Cooper appeared in Court and was remanded until 14 March 2014, so that he could provide possible addresses for the Probation Service to assess for an electronically monitored sentence (home or community detention).",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "On 24 February 2014, the Public Defence Service filed an application on behalf of Mr Cooper for substitution of a community-based sentence in lieu of a disqualification under s 94 of the Land Transport Act 1998 (LTA) in the District Court at Papakura. This application placed reliance on Mr Cooper's employment with STS. An affidavit by Mr Cooper filed in support of the application annexed his offer of employment from STS dated 10 January 2014.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 94 of the Land Transport Act 1998 (LTA)",
+                  "context": "An application on behalf of Mr Cooper for substitution of a community-based sentence in lieu of a disqualification under s 94 of the Land Transport Act 1998 (LTA)."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "Mr Cooper's file was transferred from the Papakura Service Centre to the Mangere Service Office. On 24 February 2014, Mr Cooper reported to the Mangere Service Centre and met Mr Tiatia who had been assigned his file. Mr Tiatia asked him to bring proof of his employment the next time he returned.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "On 28 February 2014, Mr Cooper returned to the Mangere Service Centre. He met with Mr Tiatia and told Mr Tiatia that his employer was STS. On the same date, Mr Tiatia rang STS and had a conversation with Ms Tupe about Mr Cooper. There is a dispute as to whether Mr Cooper authorised Mr Tiatia to contact STS. In an affidavit presented at the hearing dated 8 March 2018, Mr Tiatia stated that he made the call to Ms Tupe in the presence of Mr Cooper. Mr Cooper denies this and denies authorising Mr Tiatia to contact STS.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "Records of interactions between probation officers and offenders are held on the Department of Corrections database “Integrated Offender Management System” (IOMS).",
+              "page": 2
+            },
+            {
+              "number": "",
+              "content": "When an offender authorises a probation officer to contact their employer, an IOMS case note would usually be created, recording that permission to contact the employer had been given. There was no such IOMS case note made in this case. In addition, the usual practice of Corrections was for probation officers to have offenders sign a “consent for exchange of information” form when they are authorising disclosure of their personal information which is then placed on the offender's file. In his affidavit, Mr Tiatia stated that he is confident that he would have had Mr Cooper sign such a consent. However, Corrections have been unable to locate a copy of the signed form on Mr Cooper's file.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "On Sunday, 2 March 2014, Mr Cooper texted Ms Tupe to enquire about what time he should come in for work on Monday. Ms Tupe texted back, “your probation officer called me on Friday, I suggest you deal with your issues before you come back to work”. This was the end of the employment relationship between Mr Cooper and STS.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "On 3 March 2014, Mr Cooper visited the Mangere Service Centre, wanting to see Mr Tiatia who was not there. He was seen by the duty probation officer, Sateki Schaumkel. Following Mr Cooper's visit, Mr Schaumkel made an IOMS case note which recorded that Mr Cooper had voiced his disappointment that his probation officer had contacted his employer. It also recorded Mr Cooper had agreed he had given authorisation for his employer to be contacted, but did not anticipate the result of that contact.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "Mr Cooper also made an unscheduled visit to the Papakura Service Centre on the same date where he voiced his displeasure that his employer had been contacted by his probation officer leading him to lose his job, and advising he wished to complain about this.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "On 4 March 2014, Mr Cooper again visited the Mangere Service Centre where he saw Mr Tiatia and complained about the contacting of his employer.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "On 10 March 2014, Mr Cooper attended a meeting at the Mangere Service Centre with the Service Manager, Ingrid Inkster. Mr Tiatia joined this meeting later. The meeting lasted for approximately one hour. Mr Cooper and Ms Inkster discussed his concerns regarding his transfer from the Papakura to the Mangere office and the contacting of his employer. A lengthy file note recording this meeting was entered on the IOMS system on 21 March 2014.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "On 14 March 2014, Mr Cooper made his next appearance at Court. His s 94 application did not proceed as he no longer had employment to support it. He was remanded until 10 April 2014 for sentence. After this, he was remanded several more times to allow the opportunity for an address to be provided to the Probation Service for assessment for an electronically monitored sentence.",
+              "page": 3
+            },
+            {
+              "number": "[17]",
+              "content": "On 4 May 2014, Mr Cooper pleaded guilty to a further excess breath alcohol charge.",
+              "page": 3
+            },
+            {
+              "number": "[18]",
+              "content": "On 30 May 2014 and 20 June 2014, Mr Tiatia carried out home visits to a bail address provided by Mr Cooper. The relevant IOMS case note records that on the second visit, Mr Cooper was not present and that the occupant advised Mr Tiatia that he had given notice to the landlord and would be moving out because he could not afford the rent. In a report to the court dated 3 July 2014, Mr Tiatia noted that the address provided by Mr Cooper was not suitable and that no further proposed address had been given for consideration. He recommended that Mr Cooper be sentenced to a term of imprisonment.",
+              "page": 3
+            },
+            {
+              "number": "[19]",
+              "content": "On 7 July 2014, Mr Cooper was sentenced to 8 months imprisonment and disqualified from driving for 12 months and 1 day.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "Some time later, Mr Cooper complained to the Privacy Commissioner about the disclosure of his personal information by Mr Tiatia to his employer. It is unclear exactly when the complaint was made but it appears to have been in early 2016, some two years after the alleged interference took place. In a Certificate of Investigation issued on 25 July 2016, it is recorded that the complaint was investigated under Principle 11. The covering letter noted that there was a dispute of fact between Mr Cooper and Corrections as to whether or not Mr Cooper had agreed to Corrections contacting his employer and disclosing information about him. The letter noted that Corrections was unable to explain why a “release of information” form was not provided in this case and that Corrections sought to rely on the IOMS case note dated 3 March 2014 made by Mr Schaumkel. Mr Cooper was advised that in the circumstances the Privacy Commissioner was unable to find that an interference with privacy had taken place and the file was being closed.",
+              "page": 4
+            },
+            {
+              "number": "[21]",
+              "content": "Five months later, in November 2016, Mr Cooper filed a claim in the Tribunal claiming that the alleged interference with his privacy had resulted in the termination of his employment, the loss of his driver licences, and his imprisonment as his application under LTA, s 94 for a community-based sentence, had been based on his employment. He sought damages for an amount to be determined by the Tribunal.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "The legal framework",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "Information privacy principle 11 places limits on the disclosure of personal information. It provides:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Information privacy principle 11",
+                "content": "An agency that holds personal information shall not disclose the information to a person or body or agency unless the agency believes, on reasonable grounds, -",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(d)",
+                    "content": "that the disclosure is authorised by the individual concerned; or"
+                  },
+                  {
+                    "identifier": "(e)",
+                    "content": "that non compliance is necessary -"
+                  },
+                  {
+                    "identifier": "(iv)",
+                    "content": "For the conduct of proceedings before any Court or Tribunal (being proceedings that have been commenced or are reasonably in contemplation."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[23]",
+              "content": "Section 66 of the Privacy Act provides:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Section 66 of the Privacy Act",
+                "content": "66 Interference with privacy\n(1)\nFor the purposes of this Part, an action is an interference with the privacy of an individual if, and only if,-\n(a)\nin relation to that individual, —\n(i) the action breaches an information privacy principle;\nand\n(b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action-\n(i)\nhas caused, or may cause, loss, detriment, damage, or injury to that individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+              }
+            }
+          ]
+        },
+        {
+          "title": "The issues",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[24]",
+              "content": "The issues to be determined are as follows:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[24.1]",
+                  "content": "Did Mr Cooper authorise the disclosure of his personal information by Corrections to STS?"
+                },
+                {
+                  "title": "[24.2]",
+                  "content": "If not, was the disclosure necessary for the conduct of proceedings before any Court in terms of Principle 11(e)(iv)?"
+                },
+                {
+                  "title": "[24.3]",
+                  "content": "If Principle 11 was breached, did Mr Cooper suffer harm in terms of s 66(1)(b) of the Privacy Act? In other words, was there an interference with Mr Cooper's privacy?"
+                },
+                {
+                  "title": "[24.4]",
+                  "content": "If the actions of Corrections were an interference with the privacy of Mr Cooper what remedy, if any, should be granted?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Burden of proof",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "Corrections accepts that Mr Tiatia disclosed Mr Cooper's personal information to STS when he telephoned Ms Tupe on 28 February 2014. Its position is that this disclosure was authorised by Mr Cooper (IPP 11(d)) or, alternatively, that the disclosure was necessary for the conduct of proceedings (IPP 11(e)(iv)). Corrections bears the onus of proof to establish that either of the exceptions it seeks to rely on apply. Section 87 of the Privacy Act provides:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Section 87 of the Privacy Act",
+                "content": "87 Proof of exceptions\nWhere, by any provision of the information privacy principles or of this Act or of a code of practice issued under section 46 or section 63, conduct is excepted from conduct that is an interference with the privacy of an individual, the onus of proving the exception in any proceedings under this Part lies upon the defendant."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Did Mr Cooper authorise the disclosure of his personal information by Corrections to STS?",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[26]",
+              "content": "Mr Cooper is adamant that he did not give Mr Tiatia authorisation to contact STS. In his evidence, he said that he had been dealing with probation for over 30 years and had learned there are certain things you tell and certain things you do not and he would not have allowed Mr Tiatia to call Ms Tupe. He said that from his life experience, he knew, \"you never tell your probation officer to make contact with your employer”. The IOMS case note dated 3 March 2014 made by Mr Schaumkel, recording Mr Cooper had agreed he had given his permission to Mr Tiatia, was put to Mr Cooper for comment. Mr Cooper denied that he had so agreed and asked why he would have been so angry if he had, in fact, given his permission for STS to be contacted.",
+              "page": 5
+            },
+            {
+              "number": "[27]",
+              "content": "Corrections rely on an affidavit by Mr Tiatia sworn on 8 March 2018. There, Mr Tiatia states that Mr Cooper was happy for him to contact his employer, gave him the employer's name and contact number for this purpose, and was present when Mr Tiatia made the call. He said \"Mr Cooper did not seem concerned about the conversation I had just had with his employer. He did not raise issues or concerns with me at the time”. Mr Tiatia also stated that as far as he could tell, Mr Cooper left the meeting happy. Mr Tiatia is no longer employed by Corrections and now resides in Melbourne, Australia. It was intended that Mr Tiatia would give evidence at the hearing by video conference link. Prior to the hearing, Ms Roff advised the Secretary that Mr Tiatia was no longer available and sought leave to have his evidence admitted by sworn affidavit which was granted.",
+              "page": 5
+            },
+            {
+              "number": "[28]",
+              "content": "Corrections placed reliance on the 3 March 2014 IOMS case note made by Mr Schaumkel which, on its face, records that Mr Cooper agreed to Mr Schaumkel that he had given his permission to Mr Tiatia to contact STS. Mr Schaumkel left the employment of Corrections some time ago. He was not called as a witness.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "Ingrid Inkster was the only witness for Corrections. She gave evidence concerning the one hour meeting held on 10 March 2014 between herself and Mr Cooper, and later in the meeting, Mr Tiatia.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "Ms Inkster gave evidence that the usual practice was to have a form signed when consent is obtained from an offender to contact a non-governmental agency. She also gave evidence that a record of such consent being obtained would be recorded on an IOMS case note. She could not explain the absence of the signed consent in this case, or the absence of an IOMS case note recording that Mr Cooper had given permission to Mr Tiatia to contact STS.",
+              "page": 6
+            },
+            {
+              "number": "[31]",
+              "content": "Some questions are raised by Mr Tiatia's affidavit. As noted earlier, he stated that he made the call to Ms Tupe in front of Mr Cooper, that Mr Cooper did not raise any issues or concerns and left the meeting happy. In the IOMS case note he made on 28 February 2014 about the call, he recorded that he spoken with Ms Tupe and “advised Tusi that [Mr Cooper] is using work as an excuse not to do his special conditions”. Mr Tiatia also deposed that Ms Tupe told him that “they had been having trouble with Mr Cooper and his interaction with other co-workers” to which Mr Tiatia responded by telling her to \"leave it with us” and telling her that Mr Cooper needed to complete an anger management course. The case note does not record the presence of Mr Cooper while this call was made. The assertion that Mr Cooper went away happy sits oddly with the record in the case note that Mr Tiatia had told Ms Tupe that Mr Cooper was using work as an excuse not to do his special conditions and disclosed to her Mr Cooper's need for anger management.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "The events in question occurred close to five years prior to the hearing. Two years passed between Mr Tiatia's phone call to Ms Tupe and Mr Cooper's complaint to the Privacy Commissioner. When the Privacy Commissioner closed the complaint a further five months passed before proceedings were filed in the Tribunal. A further delay of 15 months occurred before a procedural teleconference was convened. Both parties have been disadvantaged by the passage of time and the unavailability of witnesses. Corrections have been prejudiced by being unable to call as witnesses employees who have moved on. Mr Cooper was similarly unable to locate a witness he wished to call and was unable to cross-examine Mr Tiatia concerning the parts of his affidavit which he disagreed with.",
+              "page": 6
+            },
+            {
+              "number": "[33]",
+              "content": "There is no explanation before the Tribunal for the absence of the consent form that would usually be signed and an IOMS case note recording that it was obtained. Mr Tiatia may have been able to assist concerning this missing documentation but was unavailable. The IOMS case note made by Mr Tiatia on the day he said that he had Mr Cooper's authorisation to speak to Ms Tupe records neither the fact of this authorisation or that the call, which is detailed in the case note, was made in the presence of Mr Cooper.",
+              "page": 6
+            },
+            {
+              "number": "[34]",
+              "content": "Mr Cooper's evidence is that he did not consent to Mr Tiatia contacting STS. Ms Inkster was a credible witness. She did not, when asked, give evidence that Mr Cooper had agreed in her presence that he had authorised Mr Tiatia to call his employer. She also gave evidence that it was unusual for there to be no IOMS file note recording this consent.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "Corrections bears the onus to establish, on the balance of probabilities, that authorisation in terms of Principle 11(d) was given by Mr Cooper to Mr Tiatia for the contact with his employer. Having regard to all the above, we find that this onus has not been discharged. It is not established that Mr Cooper provided authorisation to Corrections for the disclosure of his personal information to his employer.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "Was the disclosure necessary for the conduct of proceedings before any Court in terms of Principle 11(e)(iv)?",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "Corrections have submitted that it believed on reasonable grounds that the disclosure of Mr Cooper's personal information to his employer, STS, was necessary, in terms of Principle 11(e)(iv), for the conduct of proceedings, specifically, Mr Cooper's sentencing hearing in respect of which a pre-sentence report was required.",
+              "page": 7
+            },
+            {
+              "number": "[37]",
+              "content": "In his affidavit, Mr Tiatia provided a number of reasons for needing to contact STS to confirm that Mr Cooper was employed by them. He needed to schedule Mr Cooper's reporting times, as well as times to attend an anger management program that did not conflict with Mr Cooper's employment. He also required Mr Cooper's employment details for inclusion in his upcoming pre-sentence report. Mr Cooper had made an application for a community-based sentence based on this employment. In her evidence, Ms Inkster explained that when a community-based sentence is being considered, if it is proposed that the offender will be working while serving the sentence, consultation with the employer is required because of the need to monitor offenders during the working day. Without such contact, a community-based sentence would not be supported.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "In R v Willing (1997) 15 CRNZ 340 (CA), the Court of Appeal considered the exception in Principle 11(e)(iv). The Court endorsed a statement made by Hammond J in R v Parsons (1995) 2 HRNZ 166 (HC), that the purpose of the exception in Principle 11(e)(iv), is intended to ensure that law enforcement is not thwarted by the provisions of the Privacy Act.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "R v Willing (1997) 15 CRNZ 340 (CA)",
+                  "context": "The Court of Appeal considered the exception in Principle 11(e)(iv)."
+                },
+                {
+                  "type": "case",
+                  "reference": "R v Parsons (1995) 2 HRNZ 166 (HC)",
+                  "context": "The Court endorsed a statement made by Hammond J in this case."
+                }
+              ]
+            },
+            {
+              "number": "[39]",
+              "content": "The issue to be determined is whether Mr Tiatia believed on reasonable grounds that his disclosure to Ms Tupe, that Mr Cooper was a probation client, and had probation reporting and programme attendance obligations, was necessary for Mr Cooper's upcoming sentencing hearing.",
+              "page": 7
+            },
+            {
+              "number": "[40]",
+              "content": "The belief required to establish the exception in Principle 11(e)(iv) is subjective. However, there is also an objective component (the reasonable grounds): See Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [201]-[203].",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [201]-[203]",
+                  "context": "Cited regarding the objective component (reasonable grounds) for the belief required to establish the exception in Principle 11(e)(iv)."
+                }
+              ]
+            },
+            {
+              "number": "[41]",
+              "content": "Turning first to the subjective requirement, Mr Tiatia deposed that it was necessary for him to contact Mr Cooper's employer for the scheduling of Mr Cooper's reporting times and because Mr Cooper's employment details were required for inclusion in his pre-sentence report. There is nothing to suggest that Mr Tiatia's contacting of STS was for any purpose other than fulfilling his obligations as Mr Cooper's probation officer. It is accepted that Mr Tiatia did in fact believe that his contact with STS was necessary for the preparation of Mr Cooper's pre-sentence report and therefore for the conduct of Mr Cooper's sentencing hearing.",
+              "page": 7
+            },
+            {
+              "number": "[42]",
+              "content": "We turn now to the objective requirement. The issue is whether there were reasonable grounds for Mr Tiatia's belief that his contact with STS (which by its very fact disclosed Mr Cooper had a probation officer) was necessary. This requires an examination of the meaning of the word “necessary” in the context of the information privacy principles. As noted in Tan v New Zealand Police [2016] NZHRRT 32, Principles 1, 2, 3, 5, 10, 11 and 12 all employ the term “necessary” and in determining its meaning, proper weight must be given to the fact that necessity is a “uniformly employed test for conduct which derogates from principles designed to ensure personal information is collected, stored and used according to safeguards designed to promote and protect individual privacy”: Tan at [76]",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tan v New Zealand Police [2016] NZHRRT 32",
+                  "context": "Noted for its examination of the word 'necessary' in the context of information privacy principles."
+                }
+              ]
+            },
+            {
+              "number": "[43]",
+              "content": "In Tan, the Tribunal considered the approach to the interpretation of \"necessary” taken by the Court of Appeal in Canterbury Regional Council v Independent Fisheries Ltd [2012] NZCA 601, [2013] 2 NZLR 57. There, “necessary” was interpreted as meaning \"needed or required in the circumstances, rather than merely desirable or expedient\". In Tan, the Tribunal concluded the term “necessary”, as used in the information privacy principles, indicated a higher threshold than “reasonable” and \"expedient\" and employed the Canterbury Regional Council meaning. The Tribunal also noted the consistency of this meaning with the approach taken in Commissioner of Police v Director of Human Rights Proceedings (2007) 8 HRNZ 364 where, in the context of Principle 11, “necessary” was found to set a higher threshold than “expedient” but not the highest of thresholds and to be what was \"required for a given situation\" rather than “indispensable or essential”: at [53]–[54].",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Tan",
+                  "context": "Referenced for the Tribunal's consideration of the interpretation of 'necessary'."
+                },
+                {
+                  "type": "case",
+                  "reference": "Canterbury Regional Council v Independent Fisheries Ltd [2012] NZCA 601, [2013] 2 NZLR 57",
+                  "context": "Cited for the Court of Appeal's interpretation of 'necessary' as 'needed or required'."
+                },
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Director of Human Rights Proceedings (2007) 8 HRNZ 364",
+                  "context": "Cited for the approach taken to 'necessary' in the context of Principle 11, setting a higher threshold than 'expedient'."
+                }
+              ]
+            },
+            {
+              "number": "[44]",
+              "content": "We have found that when Mr Tiatia spoke to Ms Tupe at STS in his capacity as Mr Cooper's probation officer, he believed, that his communication with her (which, as noted above, by its very fact disclosed Mr Cooper had a probation officer) was necessary for arranging Mr Cooper's probation commitments and for the preparation of a pre-sentence report. Mr Cooper was seeking a community-based sentence in respect of his driving and other offences, based on his employment with STS. His application under s 94 of the Land Transport Act stated that he was employed by STS and requested a sentence that enabled him to continue this employment. Verification of this employment, and therefore contact with STS, was required in the circumstances. It was therefore \"necessary”. The objective component is made out.",
+              "page": 8
+            },
+            {
+              "number": "[45]",
+              "content": "We find that Corrections have established that at the time of disclosure Mr Tiatia genuinely held the requisite belief on reasonable grounds that the disclosure was necessary in terms of Principle 11(e)(i). This conclusion makes it unnecessary to consider issues identified at [24.3] and [24.4] above.",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[46]",
+              "content": "Corrections have failed to discharge their burden of proving that Mr Cooper authorised the disclosure of his personal information to STS in terms of Principle 11(d).",
+              "page": 9
+            },
+            {
+              "number": "[47]",
+              "content": "Corrections have discharged their burden by proving the relevant exception in Principle 11(e)(i). It follows that there has been no breach of any information privacy principle and consequently no interference with Mr Cooper's privacy as that term is defined in s 66 of the Act.",
+              "page": 9
+            },
+            {
+              "number": "[48]",
+              "content": "Mr Cooper's claim is accordingly dismissed.",
+              "page": 9
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms MA Roche",
+          "role": "Co-Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Cooper v Corrections [2019] NZHRRT 23.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

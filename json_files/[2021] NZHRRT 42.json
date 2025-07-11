@@ -1,0 +1,1192 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 15
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2021] NZHRRT 42",
+        "reference_number": "HRRT 042/2017",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "24 to 26 February 2020",
+        "decision_date": "7 September 2021",
+        "case_title": "Andrew Fraser Keith Tamplin v Robert Boizard",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 15
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ANDREW FRASER KEITH TAMPLIN",
+            "role": "PLAINTIFF",
+            "type": "individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ROBERT BOIZARD",
+            "role": "DEFENDANT",
+            "type": "individual"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Sir RK Workman KNZM QSO",
+          "role": "Member"
+        },
+        {
+          "name": "Ms SB Isaacs",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms K Mortimer and Ms R Lewis",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr S O'Sullivan and Ms R Daly",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Tamplin was enrolled as a patient of Dr Robert Boizard at his general practice in February 2015. Mr Tamplin had been diagnosed with Parkinson's disease and quite significant dementia and his wellbeing was of concern to his family and legal advisors. In August 2015 Dr Boizard provided personal and health information regarding Mr Tamplin to lawyers Andrew Guest (who for many years had held Mr Tamplin's enduring power of attorney) and Brandon Cullen (Mr Tamplin's lawyer).",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "Mr Tamplin claims this was a breach of information privacy principles (IPPs) 8 and 11 and was an interference with his privacy.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "Dr Boizard denies any interference with Mr Tamplin's privacy. Dr Boizard acknowledges providing information about Mr Tamplin to Mr Guest and Mr Cullen but submits that he did so lawfully after checking the accuracy of the information and he submits that the disclosure was permitted in accordance with Health Information Privacy Code (HIPC), rr 11(1)(a)(ii) and 11(1)(c).",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Health Information Privacy Code (HIPC), rr 11(1)(a)(ii) and 11(1)(c)",
+                  "context": "The defendant submits that the disclosure was permitted in accordance with the HIPC."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "While Mr Tamplin's claim referred to IPPs 8 and 11, it was agreed at the hearing that as the HIPC had application to the facts, the appropriate references were HIPC, rr 8 and 11. Accordingly, this decision refers to those rules rather than the IPPs. Section 53(b) of the Privacy Act 1993 (PA 1993) provides that failure to comply with the HIPC, even though not a breach of any IPP, is deemed to be a breach of an IPP:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "HIPC, rr 8 and 11",
+                  "context": "It was agreed at the hearing that the appropriate references were HIPC, rr 8 and 11."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Section 53(b) of the Privacy Act 1993 (PA 1993)",
+                  "context": "Provides that failure to comply with the HIPC is deemed to be a breach of an IPP."
+                }
+              ],
+              "quoted_material": {
+                "source": "53 Effect of code",
+                "content": "Where a code of practice issued under section 46 is in force,—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "the doing of any action that would otherwise be a breach of an information privacy principle shall, for the purposes of Part 8, be deemed not to be a breach of that principle if the action is done in compliance with the code:"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "failure to comply with the code, even though that failure is not otherwise a breach of any information privacy principle, shall, for the purposes of Part 8, be deemed to be a breach of an information privacy principle."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[5]",
+              "content": "After the hearing, on 1 December 2020 the PA 1993 was repealed and replaced by the Privacy Act 2020 and the HIPC was repealed and replaced by the Health Information Privacy Code 2020. However, this claim was filed under the PA 1993 and heard under that Act. The transitional provisions in Privacy Act 2020, Schedule 1, Part 1, cl 9(1) provide that these proceedings must be continued and completed under the 2020 Act, but that does not alter the relevant legal rights and obligations in force at the time the actions subject to this claim were taken. Accordingly, all references in this decision are to the PA 1993 and the 1994 HIPC.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993 (PA 1993)",
+                  "context": "The claim was filed and heard under this Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020",
+                  "context": "Replaced the PA 1993. Transitional provisions require proceedings to be completed under the 2020 Act."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Health Information Privacy Code 1994 (HIPC)",
+                  "context": "The claim was heard under this code."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Health Information Privacy Code 2020",
+                  "context": "Replaced the 1994 HIPC."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020, Schedule 1, Part 1, cl 9(1)",
+                  "context": "Provides that these proceedings must be continued and completed under the 2020 Act."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "Mr Tamplin and his partner, Ms Valsalan both worked for the same employer until Mr Tamplin's retirement in 1996. Since that time Ms Valsalan has continued to work and Mr Tamplin and Ms Valsalan have lived overseas and in New Zealand.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "In August 2015 Ms Valsalan was working overseas and Mr Tamplin's sister and brother-in-law were staying with him at his home in New Zealand. Ms Valsalan returned to New Zealand on 12 August 2015.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "On 13 August 2015 the events leading to the disclosure of Mr Tamplin's health information commenced, with an email from Mr Tamplin's brother, Neville Tamplin, to Dr Boizard. Mr Neville Tamplin expressed to Dr Boizard his concern that Mr Tamplin may be taken overseas by Ms Valsalan and that his family would not see Mr Tamplin again if",
+              "page": 2
+            },
+            {
+              "number": "",
+              "content": "that occurred. Mr Neville Tamplin requested that Dr Boizard check on Mr Tamplin as soon as possible and write a letter stating Mr Tamplin was unfit to fly. Mr Neville Tamplin also advised Dr Boizard that Mr Guest held an enduring power of attorney (EPOA) in respect of Mr Tamplin's property. The email was followed by a phone call from Mr Neville Tamplin to Dr Boizard.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "After speaking with Mr Neville Tamplin, Dr Boizard phoned Mr Tamplin and Ms Valsalan and explained Mr Neville Tamplin's call and the request to contact Mr Guest. Ms Valsalan told Dr Boizard not to share any information with Mr Guest. Mr Tamplin told Dr Boizard he preferred being with Ms Valsalan, both at home and when travelling.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "Dr Boizard then phoned Mr Guest. Mr Guest confirmed to Dr Boizard that he held the EPOA for Mr Tamplin's property and he also told Dr Boizard that Mr Cullen was Mr Tamplin's lawyer. Later that day, Mr Cullen emailed Dr Boizard the EPOA in respect of Mr Guest, as well as Mr Tamplin's advance directive as to medical matters. Mr Cullen also confirmed that he was an executor of Mr Tamplin's will and a director of his trustee company.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "Dr Boizard subsequently sent a letter to Mr Guest and Mr Cullen dated 13 August 2015. That letter was accompanied by a copy of a report by specialist physician for older people, Dr Robert Blackbeard, dated 14 April 2015. The letter from Dr Boizard is set out below:",
+              "page": 3,
+              "quoted_material": {
+                "source": "letter from Dr Boizard",
+                "content": "Following on our telephone conversation, the following:\n\nAndrew is not presently able to make well informed decisions about his personal health care or finances. I was informed that you hold Enduring Power of Attorney and will act in Andrew's best interest.\n\nBrandon Cullen, as executor and director, will also receive a copy of these documents.\n\nI am concerned about Andrew's wellbeing, will act on his behalf in health matters. To the best of my knowledge, Andrew only assigned estate/business EPOA."
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "After this disclosure, Mr Guest considered that the EPOA had been activated and became irrevocable. Mr Guest had been appointed as EPOA on 17 March 1994 and had acted under the EPOA about six times prior to 13 August 2015. Each of those occasions had been when Mr Tamplin was absent from New Zealand, and Mr Guest had acted on his express instructions.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "On 12 October 2015, Mr Guest received a notice from Mr Tamplin's new lawyers, advising that Mr Tamplin had revoked the EPOA in favour of Mr Guest. Mr Guest instructed his lawyer to reject this revocation on the grounds that Mr Tamplin lacked the mental capacity to give the requisite instructions. Mr Guest initiated court proceedings in November 2015 to determine Mr Tamplin's mental capacity and to effectively challenge the revocation of the EPOA. The proceedings were settled with the result that Mr Guest agreed to accept the revocation of the EPOA and Mr Tamplin agreed to reimburse Mr Guest's legal costs.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "Mr Tamplin and Ms Valsalan complained to the Privacy Commissioner about the alleged breach of Mr Tamplin's privacy by Dr Boizard. The Privacy Commissioner issued a Certificate on 1 March 2017 stating no interference with privacy had occurred and that Dr Boizard had taken reasonable steps to check the accuracy of the information he disclosed and was entitled to rely on the exception in r 11(1)(a)(ii) of the HIPC to make the disclosure to Mr Guest.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "r 11(1)(a)(ii) of the HIPC",
+                  "context": "The Privacy Commissioner found Dr Boizard was entitled to rely on this exception."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "Mr Tamplin disagreed with the Privacy Commissioner's finding and filed this claim.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "MATTERS FOR THE TRIBUNAL TO DETERMINE",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[16]",
+              "content": "The Tribunal must consider whether Dr Boizard took reasonable steps as required by HIPC, r 8 to ensure the information he disclosed was accurate, up-to-date, complete, relevant and not misleading. Then the Tribunal must also determine whether Dr Boizard's provision of Mr Tamplin's health information to Mr Guest and Mr Cullen was justified under HIPC, rr 11(1)(a)(ii) and/or 11(1)(c).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "HIPC, r 8",
+                  "context": "The Tribunal must consider whether Dr Boizard took reasonable steps as required by this rule."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "HIPC, rr 11(1)(a)(ii) and/or 11(1)(c)",
+                  "context": "The Tribunal must determine if the disclosure was justified under this rule."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "Mr Tamplin has also applied for certain non-publication orders. Those applications are determined at the conclusion of this decision.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "RULE 8 – ACCURACY OF MR TAMPLIN'S HEALTH INFORMATION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "HIPC, r 8 states:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Rule 8",
+                "content": "Accuracy etc of Health Information to be Checked Before Use\n\n(1)\nA health agency that holds health information must not use that information without taking such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date, complete, relevant and not misleading."
+              }
+            },
+            {
+              "number": "[19]",
+              "content": "To ascertain compliance with r 8, the Tribunal must consider whether Dr Boizard took reasonable steps to ensure that, having regard to the purpose for which the information was disclosed, the information was accurate, up to date, complete, relevant and not misleading.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "The key principles used to assess a breach of r 8 have been canvassed in Mullane v Attorney-General [2017] NZHRRT 40 (Mullane) at [98] and more recently reiterated in Marshall v IDEA Services Ltd (Privacy Act) [2020] NZHRRT 13 (Marshall) from [103] to [108]. Those principles include:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mullane v Attorney-General [2017] NZHRRT 40 (Mullane) at [98]",
+                  "context": "Canvassed the key principles used to assess a breach of r 8."
+                },
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (Privacy Act) [2020] NZHRRT 13 (Marshall) from [103] to [108]",
+                  "context": "Reiterated the principles from Mullane."
+                }
+              ]
+            },
+            {
+              "number": "[20.1]",
+              "content": "Principle 8 is open-textured and does not impose the “certainty\" of a bright line rule. A degree of flexibility as to how an agency complies with it must be allowed. The elements of \"reasonableness\" and \"circumstances\" also underline the need to avoid reading the Principle 8 requirements as an inflexible test to be applied in a literal and mechanical manner. See Mullane at [103].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mullane at [103]",
+                  "context": "Supports the flexible interpretation of Principle 8."
+                }
+              ]
+            },
+            {
+              "number": "[20.2]",
+              "content": "In a case such as the present the key to the application of HIPC 8 is the identification of the purpose for which the information was proposed to be used. See Mullane at [104].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mullane at [104]",
+                  "context": "States that the key to applying HIPC 8 is identifying the purpose of use."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "The Tribunal cannot “second guess” the opinion expressed by Dr Boizard in his email. Rule 8 goes not to that opinion, but to the steps taken to ensure the accuracy of the information used in formulating that opinion. See Marshall at [99].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Marshall at [99]",
+                  "context": "Explains that Rule 8 applies to the steps taken to ensure accuracy, not the opinion itself."
+                }
+              ]
+            },
+            {
+              "number": "[22]",
+              "content": "Mr Tamplin has claimed that Dr Boizard breached r 8 by using and disclosing health information that was inaccurate, not up-to-date and misleading. However, Mr Tamplin called no medical evidence to support this claim. While Ms Valsalan disputed the opinion",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "What steps were taken?",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "given by Dr Boizard in his letter dated 13 August 2015 (that Mr Tamplin was not presently able to make well-informed decisions about his personal health care or finances), the issue under HIPC 8 is not the opinion, but the underlying health information on which that opinion was based. It was that information which Dr Boizard used in arriving at his opinion and it is significant to the outcome of this case that the health information has not been challenged by contesting medical or expert evidence. It must also be borne in mind that Dr Boizard's letter was accompanied by the report of Dr Blackbeard dated 14 April 2015, the contents of which will be referred to shortly.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "The steps that Dr Boizard took between receiving the request from Mr Neville Tamplin to contact Mr Guest and actually disclosing Mr Tamplin's health information to Mr Guest and Mr Cullen were detailed in Dr Boizard's evidence. Those steps are summarised below:",
+              "page": 5
+            },
+            {
+              "number": "[23.1]",
+              "content": "Dr Boizard cancelled his patients for that afternoon, to focus on the request.",
+              "page": 5
+            },
+            {
+              "number": "[23.2]",
+              "content": "Dr Boizard phoned Mr Tamplin and Ms Valsalan and explained Mr Neville Tamplin's call and the request to contact Mr Guest. Ms Valsalan told Dr Boizard not to share any information with Mr Guest. Dr Boizard described her as upset and not accepting of his or the geriatrician's diagnosis of dementia for Mr Tamplin. In the same phone call Dr Boizard spoke to Mr Tamplin and Dr Boizard “formed the opinion that he was unable to communicate his own wishes”. Dr Boizard's notes also recorded that Mr Tamplin said he preferred being at home with Ms Valsalan and when travelling.",
+              "page": 5
+            },
+            {
+              "number": "[23.3]",
+              "content": "Dr Boizard reviewed the health records available to him at this time, which included:",
+              "page": 5
+            },
+            {
+              "number": "[23.3.1]",
+              "content": "A report by Dr Mossman diagnosing Mr Tamplin with Parkinson's disease, including cognitive decline, on 19 February 2015;",
+              "page": 5
+            },
+            {
+              "number": "[23.3.2]",
+              "content": "Dr Blackbeard's report dated 14 April 2015 which reiterated Mr Tamplin's cognitive difficulties.",
+              "page": 5,
+              "quoted_material": {
+                "source": "Dr Blackbeard's report",
+                "content": "His [Mr Tamplin's] cognitive ability is now at a level I'd consider he would have difficulty managing his business affairs as well as decisions around his personal care and welfare. Also, as mentioned he had difficulty with the concept of EPOA for care and welfare and I would say at this stage probably does not have enough insight to be able to set one up."
+              }
+            },
+            {
+              "number": "[23.3.3]",
+              "content": "Mr Tamplin's discharge summary from a visit to Nelson Hospital on 25 June 2015 which noted Mr Tamplin had “Parkinsonism with cognitive impairment”.",
+              "page": 5
+            },
+            {
+              "number": "[23.3.4]",
+              "content": "Dr Boizard's own records regarding his advice to Mr Tamplin's carers on 2 July 2015 that Mr Tamplin should not drive a motor vehicle because Dr Boizard believed Mr Tamplin's cognitive and physical impairment was advancing.",
+              "page": 5
+            },
+            {
+              "number": "[23.4]",
+              "content": "Dr Boizard phoned Mr Guest after speaking with Ms Valsalan and Mr Tamplin and subsequently received communications from both Mr Guest and Mr Cullen. This outlined Mr Guest's concerns about Mr Tamplin's health and included a copy of the EPOA. Dr Boizard reviewed the EPOA and states he discussed the situation with another doctor at his practice.",
+              "page": 5
+            },
+            {
+              "number": "[23.5]",
+              "content": "Dr Boizard also relied on his own clinical opinion and observations of Mr Tamplin. He noted in evidence to the Tribunal that Parkinsons is a progressive disease and while there will be plateaus, degeneration will always continue downwards. Dr Boizard set out his opinion in the letter dated 13 August 2015, stating “Andrew is not presently able to make well informed decisions about his personal health care or finances” and “I am concerned about Andrew's well-being”.",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "The only evidence which disputes any of the steps detailed above, is Ms Valsalan's evidence that she and Mr Tamplin both told Dr Boizard not to provide any information to Mr Guest. This differs from Dr Boizard's recollection that it was only Ms Valsalan that told him this. Dr Boizard recorded Ms Valsalan's statement in Mr Tamplin's medical records on the day in question. As the notes taken by Dr Boizard were recorded at the time when he had the conversation, the Tribunal prefers the evidence they contain than Ms Valsalan's recollection provided four years after the conversation occurred.",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "The remaining steps taken by Dr Boizard are not disputed and Mr Tamplin called no medical or other expert evidence to identify what steps (if any) Dr Boizard should have taken to meet the requirements of HIPC, r 8 in relation to the information to be used in the letter dated 13 August 2015. The communications with Mr Guest and Mr Cullen were confirmed by contemporaneous written communications. Dr Boizard is accepted as a credible witness and his evidence of the steps he took after receiving the request for information are accepted by the Tribunal in full.",
+              "page": 6
+            },
+            {
+              "number": "[26]",
+              "content": "Mr Tamplin submits that these steps were not reasonable as Dr Boizard should not have relied on Dr Blackbeard's report and should have taken note of the fact that Mr Tamplin was recorded as being alert twice in June 2015. It was also submitted that it would have been reasonable for Dr Boizard to visit Mr Tamplin or wait for the already booked appointment for 20 August 2015, before forming the clinical opinion that he did on 13 August 2015 and then disclosing it.",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "Were the steps taken by Dr Boizard reasonable in the circumstances?",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "Counsel for Mr Tamplin submitted that Dr Blackbeard's report did not specifically assess mental capacity and was undertaken four months prior to Dr Boizard sending it to Mr Guest and Mr Cullen. It was submitted that this was at a time when Mr Tamplin was suffering adverse consequences of medication.",
+              "page": 6
+            },
+            {
+              "number": "[28]",
+              "content": "These submissions are a challenge to Dr Boizard's clinical opinion expressed in the letter dated 13 August 2015 and his reliance on Dr Blackbeard's report. However, r 8 is focused on an assessment of the steps taken to ascertain accuracy and there is no evidence to suggest the steps taken were not reasonable or indeed that the information was not accurate. Instead counsel for Mr Tamplin is suggesting the Tribunal infer from references to alertness in June 2015 that Dr Boizard did not take reasonable steps to check the accuracy of his own clinical opinion of Mr Tamplin's health and Dr Blackbeard's report. This inference cannot be reached on the evidence before the Tribunal.",
+              "page": 6
+            },
+            {
+              "number": "[29]",
+              "content": "With regard to the submission that Dr Boizard should have taken the extra step of visiting Mr Tamplin on the day he provided his opinion or waited for the booked appointment on 20 August 2015, there is no evidence (medical or otherwise) indicating that was a reasonable step for a medical professional to take in these circumstances.",
+              "page": 6
+            },
+            {
+              "number": "[30]",
+              "content": "The steps Dr Boizard took were detailed in evidence. While there will always be more someone could do to check accuracy of information, the assessment of",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "reasonableness must be considered in light of the overall scheme of the HIPC and the PA 1993, where decisions are often made quickly to determine the next steps in the health context. It would be inappropriate for the requirement to take reasonable steps to be interpreted as meaning every possible step.",
+              "page": 7
+            },
+            {
+              "number": "[31]",
+              "content": "The Tribunal is satisfied that before using the information about Mr Tamplin, Dr Boizard took reasonable steps to ensure that having regard to the purpose for which the information was proposed to be used, the information was accurate, up to date, complete, relevant and not misleading. Accordingly there has been no breach of HIPC, r 8 by Dr Boizard.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "WAS DR BOIZARD'S DISCLOSURE AN EXCEPTION TO RULE 11 HIPC?",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[32]",
+              "content": "Rule 11 and the relevant exceptions are set out below:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Rule 11",
+                "content": "Limits on Disclosure of Health Information\n\n(1) A health agency that holds health information must not disclose the information unless the agency believes, on reasonable grounds:",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "that the disclosure is to:\n(i) the individual concerned; or\n(ii) the individual's representative where the individual is dead or is unable to exercise his or her rights under these rules;"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "that the disclosure is authorised by:\n(i) the individual concerned; or\n(ii) the individual's representative where the individual is dead or is unable to give his or her authority under this rule;"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "that the disclosure of the information is one of the purposes in connection with which the information was obtained;"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[33]",
+              "content": "Dr Boizard must prove he subjectively believed at least one of the grounds allowed by these exceptions existed and that the grounds for his belief were objectively reasonable. See the discussion in L v L HC Auckland AP 95-SW01 Harrison J at [20] (L v L) and more recently in Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [190] and Ruddelle v ADHB [2021] NZHRRT 5 at [16].",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "L v L HC Auckland AP 95-SW01 Harrison J at [20] (L v L)",
+                  "context": "Discusses the requirement for subjective belief and objective reasonableness for exceptions."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [190]",
+                  "context": "Recent discussion on the subjective belief and objective reasonableness test."
+                },
+                {
+                  "type": "case",
+                  "reference": "Ruddelle v ADHB [2021] NZHRRT 5 at [16]",
+                  "context": "Recent discussion on the subjective belief and objective reasonableness test."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE EXCEPTION IN RULE 11(1)(a)(ii) HIPC",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[34]",
+              "content": "The exception in r 11(1)(a)(ii) entitles a health agency to disclose information to an individual's representative where the “individual is dead or is unable to exercise his or her rights under these rules”. Mr Tamplin was not deceased. Accordingly, Dr Boizard was only able to utilise this exception if he subjectively believed:",
+              "page": 7
+            },
+            {
+              "number": "[34.1]",
+              "content": "Mr Tamplin was “unable to exercise his or her rights under these rules\"; and",
+              "page": 7
+            },
+            {
+              "number": "[34.2]",
+              "content": "That the disclosure was made to Mr Tamplin's representative.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "If the Tribunal accepts Dr Boizard's evidence regarding his subjective belief, then the Tribunal must also be satisfied that Dr Boizard's belief was objectively reasonable.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Dr Boizard's submission is that Mr Tamplin was unable to exercise his rights under the HIPC, as evidenced by the fact that Mr Tamplin was \"not showing sufficient insight\" or \"clearly expressing his own wishes” leading Dr Boizard to conclude on the day the disclosure was made that Mr Tamplin had “significant cognitive impairment”. Dr Boizard also considered the discussion he had with Mr Tamplin and Ms Valsalan on 13 August 2015 \"supported the views reached by the specialists that Mr Tamplin had dementia and was not communicating his own wishes effectively\".",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "Was Mr Tamplin unable to exercise his rights under the HIPC?",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[37]",
+              "content": "Dr Mossman and Dr Blackbeard had assessed Mr Tamplin earlier in 2015. Dr Mossman diagnosed Mr Tamplin with Parkinson's disease, including cognitive decline in February 2015 and Dr Blackbeard determined in April 2015 that in addition to Parkinson's disease, Mr Tamplin's cognitive ability was at a level that Mr Tamplin would have difficulty managing his business affairs as well as making decisions around his personal care and welfare. In particular, Dr Blackbeard's report contained the following statements:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Dr Blackbeard's report",
+                "internal_paragraphs": [
+                  {
+                    "content": "The issue is of his cognitive state. According to Ivy over a number of years she's noted him to be forgetful but that particularly over the last year this has deteriorated to the extent that he needs constant reminding, has difficulty understanding even simple concepts, difficulty planning and has been having frequent delusions and hallucinations."
+                  },
+                  {
+                    "content": "Ivy says there is no EPOA for personal care. He was uncertain of the concept when I asked him and wondered whether his oldest sister in Canada might not be the best person to have this role."
+                  },
+                  {
+                    "content": "The main issue now is of his quite significant dementia. This is associated with Parkinsonism but wouldn't appear to be primary Parkinson's disease."
+                  },
+                  {
+                    "content": "His cognitive ability is now at a level I'd consider he would have difficulty managing his business affairs as well as decisions around his personal care and welfare. Also as mentioned he had difficulty with the concept of EPOA for care and welfare and I would say at this stage probably does not have enough insight to be able to set one up. These issues will need to be looked at."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[38]",
+              "content": "The Tribunal accepts that Dr Boizard's subjective belief on 13 August 2015 was that Mr Tamplin was unable to exercise his rights under the HIPC. This was consistently expressed in evidence by Dr Boizard and is consistent with Dr Boizard's actions at the time. Whether this belief was objectively reasonable is the next matter to determine.",
+              "page": 8
+            },
+            {
+              "number": "[39]",
+              "content": "Counsel for Mr Tamplin submitted that this subjective belief was not objectively reasonable as Dr Boizard should have been aware that under the Protection of Personal and Property Rights Act 1988 (the PPPR Act) every person is presumed to be competent to manage their own affairs and to understand decisions in respect of their personal care and welfare until the contrary is shown.",
+              "page": 8,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Protection of Personal and Property Rights Act 1988 (the PPPR Act)",
+                  "context": "Establishes the presumption of competence."
+                }
+              ]
+            },
+            {
+              "number": "[40]",
+              "content": "In particular, it was submitted that while Dr Boizard maintained the reports from Dr Mossman and Dr Blackbeard supported his conclusion that Mr Tamplin was unable to exercise his rights, it was submitted that they did not support that conclusion. Counsel for Mr Tamplin noted that the report by Dr Mossman dated 19 February 2015 diagnosed Parkinson's disease and Dr Blackbeard's report recommended on 14 April 2015 that Mr Tamplin should consider the issue of a power of attorney for his personal care and",
+              "page": 8
+            },
+            {
+              "number": "",
+              "content": "welfare. Accordingly, it was not reasonable for Dr Boizard, based on these reports and without a contemporaneous face to face assessment on 13 August 2015, to form the subjective view that Mr Tamplin was unable to exercise his rights under the HIPC. Counsel also submitted that there was no urgency in this situation that required Dr Boizard to rush this decision and there was time to assess Mr Tamplin in person.",
+              "page": 9
+            },
+            {
+              "number": "[41]",
+              "content": "The Tribunal has had regard to these submissions but finds both Dr Mossman and Dr Blackbeard's reports do refer to Mr Tamplin's cognitive decline. In particular the report from Dr Blackbeard specifically queried his ability to make decisions. While Dr Blackbeard did not go so far as to find that Mr Tamplin was mentally incapacitated, that is not what he was asked to assess in his report, just as it was not what Dr Boizard was required to consider on 13 August 2015.",
+              "page": 9
+            },
+            {
+              "number": "[42]",
+              "content": "The Tribunal determines that Dr Boizard's belief that Mr Tamplin was not able to exercise his rights under the HIPC was objectively reasonable given the information available to him at that time. That information included the reports of Dr Mossman and Dr Blackbeard, which did provide comment on Mr Tamplin's cognitive ability, coupled with Dr Boizard's professional observations in his earlier consultations with Mr Tamplin and the phone call on 13 August 2015. That is not to say this decision was inevitable, but simply that the Tribunal is satisfied it was objectively reasonable given all the factors before Dr Boizard at the time and his professional judgment on those matters.",
+              "page": 9
+            },
+            {
+              "number": "[43]",
+              "content": "The standard set in the r 11(1)(a)(ii) exception to the requirement not to disclose health information is not the same standard as that in the PPPR Act. The HIPC requires a reasonable belief that someone is unable to exercise his rights, whereas the PPPR Act requires a certification that someone is mentally incapable. The standards serve different purposes and are worded differently to suit the respective legislative frameworks and purpose. The standard in the HIPC is lower than that required by the PPPR Act.",
+              "page": 9,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PPPR Act",
+                  "context": "Contrasted with the HIPC, requiring a higher standard (certification of mental incapacity) than the HIPC's reasonable belief standard."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "HIPC",
+                  "context": "Requires a reasonable belief that someone is unable to exercise their rights, a lower standard than the PPPR Act."
+                }
+              ]
+            },
+            {
+              "number": "[44]",
+              "content": "The Tribunal finds that Dr Boizard did have reasonable grounds to believe that Mr Tamplin was unable on 13 August 2015 to exercise his rights under the HIPC.",
+              "page": 9
+            },
+            {
+              "number": "[45]",
+              "content": "It must now be determined whether Dr Boizard had reasonable grounds to believe Mr Guest and Mr Cullen were Mr Tamplin's representatives and that Dr Boizard could therefore disclose information to them, in accordance with the exception in r 11(1)(a)(ii).",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "Was the information disclosed to Mr Tamplin's representatives?",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[46]",
+              "content": "Representative is defined in HIPC, cl 3:",
+              "page": 9,
+              "quoted_material": {
+                "source": "HIPC, cl 3",
+                "content": "3. Interpretation\n\nrepresentative, in relation to an individual, means:",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "where that individual is dead, that individual's personal representative;"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "where the individual is under the age of 16 years, that individual's parent or guardian; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "where the individual, not being an individual referred to in paragraphs (a) or (b), is unable to give his or her consent or authority, or exercise his or her rights, a person appearing to be lawfully acting on the individual's behalf or in his or her interests"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[47]",
+              "content": "When this definition is read together with r 11(1)(a)(ii), it is apparent that Dr Boizard must only prove that he believed on reasonable grounds that Mr Guest and Mr Cullen were appearing to be lawfully acting on Mr Tamplin's behalf or in Mr Tamplin's interests. This",
+              "page": 9
+            },
+            {
+              "number": "",
+              "content": "is a relatively low level of satisfaction, but the Tribunal accepts the submissions by counsel for Dr Boizard that this is necessarily so, given the circumstances in which it may be necessary for health professionals to disclose information. While this particular situation was not a medical emergency, this definition still applies.",
+              "page": 10
+            },
+            {
+              "number": "[48]",
+              "content": "Dr Boizard's evidence is that after speaking with Mr Tamplin's brother and then with Mr Tamplin and Ms Valsalan he phoned Mr Guest to ascertain “his legal status”. Following this call, Mr Tamplin's solicitor, Mr Cullen, then sent Dr Boizard the following information:",
+              "page": 10
+            },
+            {
+              "number": "[48.1]",
+              "content": "The EPOA appointing Mr Guest as sole attorney in respect of property;",
+              "page": 10
+            },
+            {
+              "number": "[48.2]",
+              "content": "An advance directive from Mr Tamplin as to medical matters; and",
+              "page": 10
+            },
+            {
+              "number": "[48.3]",
+              "content": "Advice from Mr Cullen that Mr Cullen was an executor of Mr Tamplin's will and director of his company.",
+              "page": 10
+            },
+            {
+              "number": "[49]",
+              "content": "Mr Cullen and Mr Guest both requested information regarding Mr Tamplin's health status as they considered it was relevant to the legal duties they owed to Mr Tamplin. Therefore after receiving the documents above and given his own professional views of Mr Tamplin's circumstances, Dr Boizard's evidence is that he formed the view that the information detailed in the 13 August 2015 letter should be disclosed to Mr Guest and that Mr Cullen was also entitled to request and receive the information.",
+              "page": 10
+            },
+            {
+              "number": "[50]",
+              "content": "It was submitted that Dr Boizard did therefore believe, on reasonable grounds, that Mr Guest and Mr Cullen were acting lawfully on Mr Tamplin's behalf or in his interests. It was submitted that this view was supported by the legal documents sent by Mr Cullen and the fact that the EPOA had been in place since 1994 and specifically stated it was not to be revoked if Mr Tamplin became incapacitated. In relation to Mr Cullen, the fact he was Mr Tamplin's personal solicitor, executor of his will and a director of his company and had sent Dr Boizard the documents above, meant that Dr Boizard formed the view that when of sound mind, Mr Tamplin did trust Mr Cullen and that he was therefore acting in Mr Tamplin's interests.",
+              "page": 10
+            },
+            {
+              "number": "[51]",
+              "content": "Counsel for Mr Tamplin does not accept there was any reasonable basis upon which Dr Boizard could conclude either Mr Guest or Mr Cullen was Mr Tamplin's representative. It was submitted that Dr Boizard knew Mr Tamplin had no power of attorney for personal care and welfare and had been told by Ms Valsalan and Mr Tamplin not to give information to Mr Guest. Accordingly, it was submitted that Dr Boizard should not have concluded Mr Guest or Mr Cullen were acting in Mr Tamplin's interests.",
+              "page": 10
+            },
+            {
+              "number": "[52]",
+              "content": "The Tribunal has already found that it prefers the evidence of Dr Boizard that it was only Ms Valsalan who told Dr Boizard not to provide information to Mr Guest. The fact that Ms Valsalan told Dr Boizard this does not in itself displace the reasonable grounds upon which Dr Boizard concluded Mr Guest and Mr Cullen were Mr Tamplin's legal representatives.",
+              "page": 10
+            },
+            {
+              "number": "[53]",
+              "content": "The Tribunal has also had regard to the submission by Mr Tamplin that the definition in the HIPC of a representative refers only to a singular representative, not two representatives and that even if Mr Guest was entitled to the health information, it should not have been disclosed to two people. However, this submission is incorrect. The Interpretation Act 1999 is clear that a word in the singular can refer to the plural and vice versa.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Interpretation Act 1999",
+                  "context": "Clarifies that a singular word can refer to the plural, refuting the submission that 'representative' could only mean one person."
+                }
+              ]
+            },
+            {
+              "number": "[54]",
+              "content": "The Tribunal finds that the disclosure by Dr Boizard did fall within the exception in r 11(1)(a)(ii) as Dr Boizard believed on reasonable grounds that Mr Guest and Mr Cullen were lawfully acting on Mr Tamplin's behalf or in his interests. This belief was held at a time when Dr Boizard also reasonably believed that Mr Tamplin was unable to exercise his rights under the HIPC.",
+              "page": 11
+            },
+            {
+              "number": "[55]",
+              "content": "As Dr Boizard's disclosure comes within the exception in r 11(1)(a)(ii), the additional justification advanced under r 11(1)(c) does not need to be considered. There has been no interference with Mr Tamplin's privacy and accordingly the claim will be dismissed.",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "title": "NON-PUBLICATION AND SEARCH APPLICATIONS",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[56]",
+              "content": "Mr Tamplin applied at the hearing for the following orders:",
+              "page": 11
+            },
+            {
+              "number": "[56.1]",
+              "content": "An order for non-publication of his name, address, occupation and any other details which may lead to the identification of him and his partner, Ms Valsalan;",
+              "page": 11
+            },
+            {
+              "number": "[56.2]",
+              "content": "An order for the non-publication of his medical reports and the evidence and documents in Family Court proceedings FAM 2015-042-000370, which had been submitted as part of his evidence;",
+              "page": 11
+            },
+            {
+              "number": "[56.3]",
+              "content": "An order that the file and the papers and reports on the file not be searched without leave of the Tribunal or the Chairperson.",
+              "page": 11
+            },
+            {
+              "number": "[57]",
+              "content": "The reasons given by Mr Tamplin for each application were the same and included:",
+              "page": 11
+            },
+            {
+              "number": "[57.1]",
+              "content": "The damage caused by publicity of Mr Tamplin and Ms Valsalan's identity will result in further humiliation and embarrassment, particularly in relation to the disclosure of Mr Tamplin's personal medical information. Counsel submitted Director of Proceedings v Smith (Application for Final Non-Publication Orders) [2019] NZHRRT 32 (Smith) at [36] is relevant.",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Application for Final Non-Publication Orders) [2019] NZHRRT 32 (Smith) at [36]",
+                  "context": "Submitted as relevant to the application for non-publication orders."
+                }
+              ]
+            },
+            {
+              "number": "[57.2]",
+              "content": "Counsel for Mr Tamplin believed there was potential public interest in the decision regarding the relationship between the HIPC and the PPPR Act as well as the meaning of “representative”. However, there is no public interest in the health information of Mr Tamplin or the Family Court file itself. The naming of Mr Tamplin and his partner may result in further issues for Mr Tamplin if he wishes to obtain health care from those in his community.",
+              "page": 11
+            },
+            {
+              "number": "[57.3]",
+              "content": "It is over four years since the events in this application took place. Making public the health information now will extend the humiliation and harm caused. If the details of Mr Tamplin's health and his partner and related parties are published, it may deter a person in Mr Tamplin's position from making a complaint about such privacy matters, if the outcome of the complaint would give publicity to those issues.",
+              "page": 11
+            },
+            {
+              "number": "[57.4]",
+              "content": "The desirability test in Smith is met in this case as to publish information relating to the breach more widely than in the first instance would be highly undesirable.",
+              "page": 11,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smith",
+                  "context": "Cited to support the argument that the desirability test is met for non-publication."
+                }
+              ]
+            },
+            {
+              "number": "[57.5]",
+              "content": "The Family Court proceedings were only disclosed to the Tribunal to show the extent of damage suffered by Mr Tamplin, financially and emotionally, and are already subject to non-publication and non-reporting orders.",
+              "page": 11
+            },
+            {
+              "number": "[57.6]",
+              "content": "It is in the public interest for people to have trust and confidence in their medical advisors without fear that their confidential information may be divulged if they complain.",
+              "page": 12
+            },
+            {
+              "number": "[57.7]",
+              "content": "It would be truly ironic if a Code that is designed to protect a person's right to privacy of health information resulted in an increased breach of privacy through dissemination of the same.",
+              "page": 12
+            },
+            {
+              "number": "[58]",
+              "content": "Dr Boizard neither supports nor opposes these applications. However, it was suggested by his counsel that the Tribunal may wish of its own motion to refer to Dr Boizard as \"Dr B\".",
+              "page": 12
+            },
+            {
+              "number": "[59]",
+              "content": "On the first day of the hearing (24 February 2020) the Chairperson made an interim order, sought by consent, under HRA, s 95 prohibiting publication of the names of the parties, the witnesses to be called by them and any information by which they might be identified. The interim order was to last until further order of the Chairperson or of the Tribunal. In so ordering the Chairperson pointed out that while the interim suppression order had been sought by consent, the Tribunal itself had real doubt whether, on the limited information provided, a proper case had been made. While the interim order was made notwithstanding these doubts, the attention of the parties was drawn to the Tribunal's recent case law which addressed the different criteria which would apply once final suppression orders were sought.",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "Interim non-publication order",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 95",
+                  "context": "The Chairperson made an interim order under this section."
+                }
+              ]
+            },
+            {
+              "number": "[60]",
+              "content": "Section 107(1) of the Human Rights Act 1993 (HRA) states that every hearing of the Tribunal must be held in public, however the Tribunal may make non-publication orders under s 107(3):",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "Determination of final non-publication orders",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 107(1) of the Human Rights Act 1993 (HRA)",
+                  "context": "States that every hearing of the Tribunal must be held in public."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 107(3)",
+                  "context": "Allows the Tribunal to make non-publication orders."
+                }
+              ],
+              "quoted_material": {
+                "source": "107 Sittings to be held in public except in special circumstances",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Except as provided by subsections (2) and (3), every hearing of the Tribunal shall be held in public."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "The Tribunal may deliberate in private as to its decision in any matter or as to any question arising in the course of any proceedings before it."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Where the Tribunal is satisfied that it is desirable to do so, the Tribunal may, of its own motion or on the application of any party to the proceedings, —\n(a) order that any hearing held by it be heard in private, either as to the whole or any portion thereof:\n(b) make an order prohibiting the publication of any report or account of the evidence or other proceedings in any proceedings before it (whether heard in public or in private) either as to the whole or any portion thereof:\n(c) make an order prohibiting the publication of the whole or part of any books or documents produced at any hearing of the Tribunal."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c)."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[61]",
+              "content": "The Tribunal's approach to final non-publication orders is set out in the decisions in Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 at [66] (Waxman), and Smith.",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 at [66] (Waxman)",
+                  "context": "Sets out the Tribunal's approach to final non-publication orders."
+                },
+                {
+                  "type": "case",
+                  "reference": "Smith",
+                  "context": "Sets out the Tribunal's approach to final non-publication orders."
+                }
+              ]
+            },
+            {
+              "number": "[62]",
+              "content": "In Waxman the Tribunal summarised its approach to HRA, s 107 and to deciding whether it was desirable to make a suppression order, as follows:",
+              "page": 12,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waxman",
+                  "context": "Summarised the Tribunal's approach to HRA, s 107."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 107",
+                  "context": "The Tribunal's approach to this section was summarised in Waxman."
+                }
+              ]
+            },
+            {
+              "number": "[66.4]",
+              "content": "In deciding whether it is satisfied that it is desirable to make a suppression order the Tribunal must consider:",
+              "page": 13
+            },
+            {
+              "number": "[66.4.1]",
+              "content": "Whether there is some material before the Tribunal to show specific adverse consequences that are sufficient to justify an exception to the fundamental rule.",
+              "page": 13
+            },
+            {
+              "number": "[66.4.2]",
+              "content": "Whether the order is reasonably necessary to secure the proper administration of justice in proceedings before it. The phrase \"the proper administration of justice\" must be construed broadly, so that it is capable of accommodating the varied circumstances of individual cases as well as considerations going to the broader public interest.",
+              "page": 13
+            },
+            {
+              "number": "[66.4.3]",
+              "content": "Whether the suppression order sought is clear in its terms and does no more than is necessary to achieve the due administration of justice.",
+              "page": 13
+            },
+            {
+              "number": "[63]",
+              "content": "In Smith, the Tribunal reiterated at [72] to [77] the principles in Waxman and determined the meaning of desirable in HRA, s 107. The Tribunal concluded in Smith at [94] that the term “desirable” does not reflect a lower test for permanent name suppression orders than the common law or other statutory regimes.",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smith at [72] to [77]",
+                  "context": "Reiterated principles from Waxman."
+                },
+                {
+                  "type": "case",
+                  "reference": "Waxman",
+                  "context": "Principles were reiterated in Smith."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 107",
+                  "context": "The meaning of 'desirable' in this section was determined."
+                }
+              ]
+            },
+            {
+              "number": "[64]",
+              "content": "At [100] to [102] of Smith the high standard necessary to establish specific adverse consequences sufficient to justify an exception to the fundamental rule of open justice was emphasised. In particular the Tribunal noted at [102]:",
+              "page": 13,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smith at [100] to [102]",
+                  "context": "Emphasised the high standard for justifying an exception to open justice."
+                }
+              ],
+              "quoted_material": {
+                "source": "Smith at [102]",
+                "content": "The greater the degree of derogation from open justice and the New Zealand Bill of Rights the greater the degree of persuasion required to satisfy the desirability threshold. The content of what is “desirable” in each case must be calibrated to reflect the significance and nature of the confidentiality issues under consideration. Not all of the exceptions permitted by HRA, s 107(3) will have the same significance or impact on the general rule of open justice."
+              }
+            },
+            {
+              "number": "[65]",
+              "content": "This guidance provides a broad discretion for the Tribunal to deal with the range of cases that may come before it when determining whether to grant final non-publication orders.",
+              "page": 13
+            },
+            {
+              "number": "[66]",
+              "content": "There are three types of information that Mr Tamplin is seeking to restrict:",
+              "page": 13
+            },
+            {
+              "number": "[66.1]",
+              "content": "The publication of identifying details relating to him and Ms Valsalan;",
+              "page": 13
+            },
+            {
+              "number": "[66.2]",
+              "content": "His medical reports; and",
+              "page": 13
+            },
+            {
+              "number": "[66.3]",
+              "content": "The content of the Family Court proceedings between him and Mr Guest.",
+              "page": 13
+            },
+            {
+              "number": "[67]",
+              "content": "Each of these categories are considered separately below.",
+              "page": 13
+            },
+            {
+              "number": "[68]",
+              "content": "Ms Valsalan has expressed concern that both her and Mr Tamplin will suffer humiliation and embarrassment if Mr Tamplin's personal medical information is disclosed and identifiable as relating to him. In particular, Ms Valsalan noted there was a risk of further harm to Mr Tamplin given his current healthcare needs. However, there was no evidence presented of specific adverse consequences that Mr Tamplin or Ms Valsalan may suffer if the identifying details were not suppressed, aside from the assertions by Ms Valsalan of humiliation and embarrassment.",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "Non-publication of identifying details of Mr Tamplin and Ms Valsalan",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[69]",
+              "content": "The addresses or occupations of parties to claims are not ordinarily published and would not be published in relation to this claim in any event. Accordingly, in a practical sense the only identifying details sought to be suppressed are the names and the relationship between Mr Tamplin and Ms Valsalan.",
+              "page": 13
+            },
+            {
+              "number": "[70]",
+              "content": "In the circumstances of this claim, the Tribunal is not satisfied that it is desirable or reasonably necessary to suppress Mr Tamplin or Ms Valsalan's names or their relationship. While counsel referred to Smith and suggested that Mr Tamplin's situation was similar to that of Mrs Smith, the Tribunal disagrees. In Mrs Smith's case the final non-publication order was made for reasons which included the impact the publication of Mrs Smith's name would have on third parties, including organisations and work Mr and Mrs Smith had been involved in overseas, as well as the fact that Mrs Smith had admitted liability for her actions in her professional career and is no longer working in that profession.",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Smith",
+                  "context": "Distinguished from the present case, as the circumstances for non-publication in Smith were different."
+                }
+              ]
+            },
+            {
+              "number": "[71]",
+              "content": "Mrs Smith's circumstances were a different factual situation from Mr Tamplin's and the Tribunal notes that there has been no evidence presented of specific adverse consequences likely to occur for Mr Tamplin or Ms Valsalan. The Tribunal has only the unsupported assertions by Ms Valsalan.",
+              "page": 14
+            },
+            {
+              "number": "[72]",
+              "content": "Counsel also submitted that publication of their names may deter others from filing a claim in the Tribunal. However, the HRA makes it clear in s 107(1) that hearings of the Tribunal are open to the public and there are only limited circumstances in which certain information is not published. The Tribunal only hears claims arising under the PA 1993 (and the Privacy Act 2020), the Human Rights Act 1993 and the Health and Disability Commissioner Act 1994. In all three of these jurisdictions significant and often sensitive personal information arises for most parties. If the legislature had intended all matters in the Tribunal to be private and not published, then that would have been spelt out in the Act. It was not.",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA s 107(1)",
+                  "context": "Makes it clear that hearings of the Tribunal are open to the public."
+                },
+                {
+                  "type": "statute",
+                  "reference": "PA 1993",
+                  "context": "One of the Acts under which claims are heard by the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020",
+                  "context": "One of the Acts under which claims are heard by the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993",
+                  "context": "One of the Acts under which claims are heard by the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Health and Disability Commissioner Act 1994",
+                  "context": "One of the Acts under which claims are heard by the Tribunal."
+                }
+              ]
+            },
+            {
+              "number": "[73]",
+              "content": "The application for a final non-publication order in respect of details that identify Mr Tamplin and Ms Valsalan is declined.",
+              "page": 14
+            },
+            {
+              "number": "[74]",
+              "content": "Mr Tamplin has also sought a restriction on the publication of the medical reports. In support of this application, Ms Valsalan expressed concern that the detailed and/or intimate health information contained in the medical reports should not be available for publication. This application was not opposed by Dr Boizard.",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Non-publication of medical reports",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[75]",
+              "content": "The Tribunal agrees that the general publication of the details within these medical reports is not necessary for the open administration of justice and this would not undermine the principles which ordinarily require hearings to be public. The reports are very specific and detailed and a non-publication order covering them is an appropriate exception to the principle of open justice.",
+              "page": 14
+            },
+            {
+              "number": "[76]",
+              "content": "The Tribunal determines that the medical reports filed as evidence by both parties in these proceedings are not to be published, however this prohibition does not apply to the extracts referred to or published in this decision.",
+              "page": 14
+            },
+            {
+              "number": "[77]",
+              "content": "The Family Court imposed confidentiality orders in the proceedings between Mr Guest and Mr Tamplin (FAM-2015-042-000370). Insofar as any Family Court documents have been filed in the present proceedings, those confidentiality orders continue to apply to those documents.",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Non-publication of Family Court proceedings",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[78]",
+              "content": "Counsel for Mr Tamplin has also sought an order that the file not be searched without leave of the Tribunal (or Chairperson or Deputy Chairperson). The Tribunal agrees this is appropriate in light of the orders made regarding non-publication and given the medical reports and documents relating to the Family Court proceedings on the file.",
+              "page": 15,
+              "subsections": [
+                {
+                  "title": "Search of file",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[79]",
+              "content": "The claim by Mr Tamplin against Dr Boizard is dismissed.",
+              "page": 15
+            },
+            {
+              "number": "[80]",
+              "content": "The interim order prohibiting publication of the names of the parties, the witnesses to be called by them and any information by which they might be identified, made on 24 February 2020 is discharged.",
+              "page": 15
+            },
+            {
+              "number": "[81]",
+              "content": "There is to be no search of the Tribunal file without leave of the Chairperson or Deputy Chairperson or of the Tribunal. The parties are to be notified of any request to search the file and given the opportunity to be heard on that application.",
+              "page": 15
+            },
+            {
+              "number": "[82]",
+              "content": "Publication of Mr Tamplin's medical reports is prohibited, however the prohibition does not apply to the extracts referred to or published by the Tribunal in the present decision.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[83]",
+              "content": "Counsel for Dr Boizard indicated in closing submissions he may file an application for costs. Unless the parties can reach agreement on the question of costs, the following procedure is to apply:",
+              "page": 15
+            },
+            {
+              "number": "[83.1]",
+              "content": "Dr Boizard is to file submissions within 14 days after the date of this decision. The submissions for Mr Tamplin are to be filed within a further 14 days with a right of reply to Dr Boizard within seven days after that.",
+              "page": 15
+            },
+            {
+              "number": "[83.2]",
+              "content": "The Tribunal will then determine the issue of costs based on the written submissions without any further oral hearing.",
+              "page": 15
+            },
+            {
+              "number": "[83.3]",
+              "content": "In case it should prove necessary, we leave it to the Chairperson or the Deputy Chairperson to vary the foregoing timetable.",
+              "page": 15
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms S Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Sir RK Workman KNZM QSO",
+          "role": "Member"
+        },
+        {
+          "name": "Ms SB Isaacs",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Tamplin v Boizard [2021] NZHRRT 42.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

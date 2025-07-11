@@ -1,0 +1,1037 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 16
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 35",
+        "reference_number": "HRRT 092/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "26 and 27 November 2018",
+        "decision_date": "20 August 2020",
+        "case_title": "Director of Proceedings v Smith (Costs) [2020] NZHRRT 35",
+        "legal_basis": "SECTION 50 OF THE HEALTH AND DISABILITY COMMISSIONER ACT 1994",
+        "decision_type": "(REDACTED) DECISION OF TRIBUNAL ON COSTS APPLICATION BY DEFENDANT",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 16
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF PROCEEDINGS",
+            "role": "PLAINTIFF"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "MRS SMITH",
+            "role": "DEFENDANT"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms K Anderson",
+          "role": "Member"
+        },
+        {
+          "name": "Ms W Gilchrist",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms V Casey QC and Ms K Eckersley",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr L Taylor QC and Ms R Scott",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "(1) ORDER PROHIBITING PUBLICATION OF NAME, ADDRESS AND ANY OTHER IDENTIFYING PARTICULARS OF THE DEFENDANT.\n(2) ORDER PREVENTING SEARCH OF THE TRIBUNAL FILE WITHOUT LEAVE OF THE CHAIRPERSON OR OF THE TRIBUNAL.",
+              "page": 1
+            },
+            {
+              "number": "[1]",
+              "content": "The issue in the present case is whether an award of costs is to be made in favour of the defendant who successfully applied for a final order permanently suppressing her name. That application had been strongly opposed by the Director of Proceedings.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "In civil litigation before the courts, the primary principle is that the unsuccessful party should pay costs (“costs follow the event\"), that is, a sum which represents a reasonable contribution to the costs actually and reasonably incurred by the successful party. In the interests of certainty and predictability the High Court Rules 2016, Part 14 sets out a costs regime which is regulatory in character, particularly as to quantum. See AC Beck and others McGechan on Procedure (loose-leaf ed, Thomson Reuters) at [HR14.1.02(1)].",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "The primary principle in civil courts – costs follow the event",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "High Court Rules 2016, Part 14",
+                  "context": "In the interests of certainty and predictability the High Court Rules 2016, Part 14 sets out a costs regime which is regulatory in character, particularly as to quantum."
+                },
+                {
+                  "type": "case",
+                  "reference": "AC Beck and others McGechan on Procedure (loose-leaf ed, Thomson Reuters) at [HR14.1.02(1)]",
+                  "context": "See AC Beck and others McGechan on Procedure (loose-leaf ed, Thomson Reuters) at [HR14.1.02(1)]."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "However, it has been recognised application of the primary principle in the context of claims under the New Zealand Bill of Rights Act 1990 may not always be appropriate as it may discourage litigants from bringing NZBORA claims. That would clearly have the result of weakening NZBORA protections. See Attorney-General v Udompun [2005] 3 NZLR 204 (CA) at [186].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "New Zealand Bill of Rights Act 1990",
+                  "context": "However, it has been recognised application of the primary principle in the context of claims under the New Zealand Bill of Rights Act 1990 may not always be appropriate as it may discourage litigants from bringing NZBORA claims."
+                },
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v Udompun [2005] 3 NZLR 204 (CA) at [186]",
+                  "context": "See Attorney-General v Udompun [2005] 3 NZLR 204 (CA) at [186]."
+                }
+              ]
+            },
+            {
+              "number": "[4]",
+              "content": "In all three of its jurisdictions the Tribunal has a broad discretion to award costs against the defendant and against the plaintiff. See the Human Rights Act 1993 (HRA), s 92L, the Privacy Act 1993 (PA), s 85(2) and the Health and Disability Commissioner Act 1994 (HDCA), s 54(2). Of these three provisions, only HRA, s 92L specifies the matters to be taken into account. Those specified factors indicate an intent that the motivations and behaviour of the parties are particularly important factors in deciding whether there should be any costs award in the Tribunal's Human Rights Act jurisdiction.",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "Whether costs follow the event in proceedings before the Tribunal",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 92L",
+                  "context": "See the Human Rights Act 1993 (HRA), s 92L, the Privacy Act 1993 (PA), s 85(2) and the Health and Disability Commissioner Act 1994 (HDCA), s 54(2)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993 (PA), s 85(2)",
+                  "context": "See the Human Rights Act 1993 (HRA), s 92L, the Privacy Act 1993 (PA), s 85(2) and the Health and Disability Commissioner Act 1994 (HDCA), s 54(2)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Health and Disability Commissioner Act 1994 (HDCA), s 54(2)",
+                  "context": "See the Human Rights Act 1993 (HRA), s 92L, the Privacy Act 1993 (PA), s 85(2) and the Health and Disability Commissioner Act 1994 (HDCA), s 54(2)."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "For reasons we now explain, across all three of the Tribunal's jurisdictions costs are not routinely awarded to the successful party.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "High Court authority can be found upholding awards of costs made by the Tribunal against unsuccessful parties, awards which proceeded on the basis that costs will usually follow the event and that the approach to the amount was to be guided by the approach taken in the civil courts. That is the unsuccessful party will usually be ordered to pay a reasonable contribution to the costs of the successful party, this usually assessed by way of a percentage on actual and reasonable costs.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "However, in a line of cases beginning with Heather v IDEA Services Ltd [2012] NZHRRT 11 and Holmes v Commissioner of Police [2012] NZHRRT 17 the Tribunal departed from that approach, setting out its reasons for doing so. In particular, in Heather the Tribunal at [17] challenged what it described as the:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Heather v IDEA Services Ltd [2012] NZHRRT 11",
+                  "context": "However, in a line of cases beginning with Heather v IDEA Services Ltd [2012] NZHRRT 11 and Holmes v Commissioner of Police [2012] NZHRRT 17 the Tribunal departed from that approach, setting out its reasons for doing so."
+                },
+                {
+                  "type": "case",
+                  "reference": "Holmes v Commissioner of Police [2012] NZHRRT 17",
+                  "context": "However, in a line of cases beginning with Heather v IDEA Services Ltd [2012] NZHRRT 11 and Holmes v Commissioner of Police [2012] NZHRRT 17 the Tribunal departed from that approach, setting out its reasons for doing so."
+                }
+              ],
+              "quoted_material": {
+                "source": "Heather v IDEA Services Ltd [2012] NZHRRT 11 at [17]",
+                "content": "mistaken assumption that the rules of civil procedure which apply in the District Court and High Court can be readily transplanted into the human rights jurisdiction of this Tribunal without regard to the specific statutory context in which the Tribunal works."
+              }
+            },
+            {
+              "number": "[8]",
+              "content": "The decision in Udompun was cited as supporting this view.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Udompun",
+                  "context": "The decision in Udompun was cited as supporting this view."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "This change in approach was challenged in Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews). In that case the Tribunal had declined an application by the Commissioner of Police for an award of costs against the unsuccessful Mr Andrews. On appeal by the Commissioner the High Court held:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "It is open to the Tribunal to develop new guiding principles for the award of costs, principles which better reflect the jurisdiction in which the Tribunal operates. See [60]."
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "The guiding principles based on “costs follow the event” previously adopted by the Tribunal are not specified in the legislation or in regulations in contrast with the District and High Court Rules (see [60])."
+                },
+                {
+                  "title": "[9.3]",
+                  "content": "Greater flexibility in approach is available to the Tribunal. New guiding principles may develop which better reflect the jurisdiction in which the Tribunal operates. See [60]."
+                },
+                {
+                  "title": "[9.4]",
+                  "content": "The Tribunal was right to express caution about applying the conventional civil costs regime to its jurisdiction. Statutory tribunals exist to provide simpler, speedier, more affordable and more accessible justice than do the ordinary courts. The imposition of large fees to bring a claim and the imposition of adverse costs orders would undermine the affordability and accessibility long recognised as important advantages of tribunals over courts. See [61]."
+                },
+                {
+                  "title": "[9.5]",
+                  "content": "The Tribunal was correct to regard HRA, s 105 (the text follows below) as reflecting the different nature of its jurisdiction from that of the ordinary civil courts. Pursuant to that section the Tribunal “must act according to the substantial merits of the case, without regard to technicalities”. Other provisions of the Human Rights Act (incorporated into proceedings under the Privacy Act by PA, s 89 and under the HDCA by HDCA, s 58) also reflect the different nature of the Tribunal's jurisdiction with a need for flexible, suitable procedures. See [62]."
+                },
+                {
+                  "title": "[9.6]",
+                  "content": "As the Tribunal recognised, the particular character of the jurisdiction is highly relevant. Public or constitutional issues arise. The Tribunal provides a forum through which individuals, who are potentially vulnerable, can challenge the exercise of state power over them. The discretion to award costs should promote, not negate the purposes of the three statutes. Access to the Tribunal should not be unduly deterred. See [63]."
+                },
+                {
+                  "title": "[9.7]",
+                  "content": "While some claims in the Tribunal should have costs consequences, it does not follow that the costs consequences in respect of all claims in the Tribunal should be those that apply in civil litigation in the courts. The other avenues for redress are more informal and are aimed at achieving an agreed outcome."
+                },
+                {
+                  "title": "[9.8]",
+                  "content": "The Tribunal is an important avenue through which individuals have access to justice. That is they have access to a tribunal and the right to effective justice via the \"substantial merits” and “equity and good conscience” provisions of HRA, s 105 which apply also to proceedings under the Privacy Act:"
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews)",
+                  "context": "This change in approach was challenged in Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews)."
+                }
+              ],
+              "quoted_material": {
+                "source": "HRA, s 105",
+                "content": "105 Substantial merits\n(1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.\n(2) In exercising its powers and functions, the Tribunal must act—\n(a) in accordance with the principles of natural justice; and\n(b) in a manner that is fair and reasonable; and\n(c) according to equity and good conscience.",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal must act according to the substantial merits of the case, without regard to technicalities."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "In exercising its powers and functions, the Tribunal must act—"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "in accordance with the principles of natural justice; and"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "in a manner that is fair and reasonable; and"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "according to equity and good conscience."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[10]",
+              "content": "The judgment in Andrews at [65] also records a significant point made by the Director of Human Rights Proceedings regarding access to justice even when a claim appears to be without merit:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews at [65]",
+                  "context": "The judgment in Andrews at [65] also records a significant point made by the Director of Human Rights Proceedings regarding access to justice even when a claim appears to be without merit:"
+                }
+              ],
+              "quoted_material": {
+                "source": "Andrews at [65]",
+                "content": "[65] The Director of Human Rights Proceedings points out that in this area it is often difficult for claimants to understand the merits of their claim in any legal sense. There is a wider interest in allowing them access to a determination before the Tribunal even if the claim is without merit in a legal sense. The legislation recognises the importance of this access by enabling them to bring a claim regardless of whether the Privacy Commissioner or the Director of Human Rights Proceedings considers the matter should proceed to the Tribunal. It might be said that the point at which the usual civil litigation costs regime should apply is when the claims are before the Courts. Even at that stage, the human rights dimension they entail may lead to a different approach to costs."
+              }
+            }
+          ]
+        },
+        {
+          "title": "General principles presently applied by Tribunal",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "In the subsequent decision of Taylor v Orcon Ltd (Costs) [2015] NZHRRT 32 at [10] the Tribunal held that HRA, s 105 emphasises the determination of any application for costs must take into account a broad range of factors. To be consistent with s 105, decisions on costs must be made by exercising a broad judgment based on general principles applied to specific fact situations. The jurisdiction should not be governed by complex and technical refinements or rules.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Orcon Ltd (Costs) [2015] NZHRRT 32 at [10]",
+                  "context": "In the subsequent decision of Taylor v Orcon Ltd (Costs) [2015] NZHRRT 32 at [10] the Tribunal held that HRA, s 105 emphasises the determination of any application for costs must take into account a broad range of factors."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 105",
+                  "context": "the Tribunal held that HRA, s 105 emphasises the determination of any application for costs must take into account a broad range of factors."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "The general principles, as presently developed by the Tribunal, include those recently articulated in Fisher v Foster (Costs) [2020] NZHRRT 29 at [8]:",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Fisher v Foster (Costs) [2020] NZHRRT 29 at [8]",
+                  "context": "The general principles, as presently developed by the Tribunal, include those recently articulated in Fisher v Foster (Costs) [2020] NZHRRT 29 at [8]:"
+                }
+              ],
+              "quoted_material": {
+                "source": "Fisher v Foster (Costs) [2020] NZHRRT 29 at [8]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[8.1]",
+                    "content": "A flexible approach can be taken by the Tribunal to costs. See Andrews [60]."
+                  },
+                  {
+                    "identifier": "[8.2]",
+                    "content": "There must be caution about applying the conventional civil costs regime in the Tribunal's jurisdiction. See Andrews [61]."
+                  },
+                  {
+                    "identifier": "[8.3]",
+                    "content": "The Tribunal has broad powers to do justice even if this means departing from the conventional rules applying to civil proceedings. See Andrews [62]."
+                  },
+                  {
+                    "identifier": "[8.4]",
+                    "content": "The purpose of a costs order is not to punish an unsuccessful party. Access to the Tribunal should not be unduly deterred. See Andrews [62] and [63]."
+                  },
+                  {
+                    "identifier": "[8.5]",
+                    "content": "Ordinarily, the Tribunal should not allow the prospect of an adverse award of costs to discourage a party from bringing proceedings (if a plaintiff) or from defending proceedings (if a defendant). See Andrews [80] and Heather v IDEA Services Ltd (Costs) [2012] NZHRRT 11."
+                  },
+                  {
+                    "identifier": "[8.6]",
+                    "content": "Nevertheless, some claims in the Tribunal should have costs consequences. See Andrews [65]."
+                  },
+                  {
+                    "identifier": "[8.7]",
+                    "content": "While litigants in person face special challenges and are to be allowed some latitude, they do not enjoy immunity from costs, especially where there has been needless, inexcusable conduct which has added to the difficulty and cost of the proceedings. See Andrews [65] and [68]. See also Rafiq v Commissioner of Inland Revenue (Costs) [2013] NZHRRT 30, Rafiq v Commissioner of Police (Costs) [2013] NZHRRT 31 and Apostolakis v Attorney-General No. 3 (Costs) [2019] NZHRRT 11 (Apostolakis No. 3)."
+                  },
+                  {
+                    "identifier": "[8.8]",
+                    "content": "On the other hand, understanding and compassion are equally important. See Andrews [80] as well as Meek v Ministry of Social Development [2013] NZHRRT 28 and Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31 which was upheld on appeal in Commissioner of Police v Andrews [2015] NZHC 745 at [65], [68] and [73] to [74]. Reference should also be made to Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 (Lohr) at [7] and [13] to [16]."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "The importance of preserving access to justice",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[13]",
+              "content": "In Fisher v Foster (Costs) the Tribunal at [9] re-emphasised that it was essential that the Tribunal does not use its discretion to award costs in a manner which might deter lay litigants (and for that matter, those represented by a lawyer) from the inexpensive and accessible form of justice which is the hallmark and strength of a tribunal. Simply expressed, the Tribunal must preserve meaningful access to justice.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Fisher v Foster (Costs)",
+                  "context": "In Fisher v Foster (Costs) the Tribunal at [9] re-emphasised that it was essential that the Tribunal does not use its discretion to award costs in a manner which might deter lay litigants..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Looking back – the Tribunal's previous approach to costs",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "Because the submissions for both parties made reference to the Tribunal's approach to costs as it was prior to the Andrews decision it is necessary that a brief account of that now discarded approach be given. To this end we refer to Haupini v SRCC Holdings Ltd (Costs) [2013] NZHRRT 23 at [14] to [18]. That was a case in which proceedings had been brought by the Director of Human Rights Proceedings under the HRA. The Director's case had failed and the defendant sought indemnity costs. The Director accepted that the defendant was entitled to an award of costs but not indemnity costs. The Tribunal set out its (then) approach to costs in the following terms:",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Haupini v SRCC Holdings Ltd (Costs) [2013] NZHRRT 23 at [14] to [18]",
+                  "context": "To this end we refer to Haupini v SRCC Holdings Ltd (Costs) [2013] NZHRRT 23 at [14] to [18]."
+                }
+              ],
+              "quoted_material": {
+                "source": "Haupini v SRCC Holdings Ltd (Costs) [2013] NZHRRT 23",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[14]",
+                    "content": "In Herron v Spiers Group Ltd (2008) 8 HRNZ 669 (Andrews J, J Binns and D Clapshaw) the High Court summarised at [14] the principles usually applied by the Tribunal when considering costs."
+                  },
+                  {
+                    "identifier": "[14]",
+                    "content": "In its judgment of 4 August 2006 the Tribunal referred to the principles usually applied by the Tribunal when considering costs, at paras 6-8. Those principles may be summarised as follows:\n(a) The discretion to award costs is largely unfettered, but must be exercised judicially;\n(b) Costs in the tribunal will usually be awarded to follow the event, and quantum will usually be fixed so as to reflect a reasonable contribution (rather than full recovery) of the costs actually incurred by the successful party;\n(c) The Tribunal's approach to costs is not much different from that which applies in the Courts although, as there is no formal scale of costs for proceedings in the Tribunal (as there is in the Courts), caution needs to be exercised before applying an analysis of what might have been calculated under either the High Court or District Court scales of costs. Such an analysis can be no more than a guide.\n(d) An award of costs that might otherwise have been made can be reduced if the result has been a part-success, only;\n(e) Assessment of costs must take account of the relevant features of each case, but there must be some consistency in the way costs in the Tribunal are approached and assessed;\n(f) Offers of settlement \"without prejudice except as to costs\" are a relevant consideration."
+                  },
+                  {
+                    "identifier": "[15]",
+                    "content": "At para 7e (Decision No 29/06) the Tribunal observed that: \"it is not immaterial that Parliament has conferred the particular jurisdictions which the Tribunal exercises in part to protect access to justice for litigants who might otherwise be deterred by the costs and complexities of proceeding in the Courts.\""
+                  },
+                  {
+                    "identifier": "[15]",
+                    "content": "At [19] the Court agreed with the observation made by Harrison J in Haydock v Sheppard HC Auckland CIV-2007-404-2929, 11 September 2008 that these principles are \"consistent with the broad discretionary powers vested by the statute\"."
+                  },
+                  {
+                    "identifier": "[16]",
+                    "content": "..."
+                  },
+                  {
+                    "identifier": "[17]",
+                    "content": "In view of the concession by the Director that the defendant company is entitled to an award of costs, the question for the Tribunal is one of quantum only."
+                  },
+                  {
+                    "identifier": "[18]",
+                    "content": "As to this it has recently been held in Attorney-General v IDEA Services Ltd (In Statutory Management) that:\n[18.1] The principle of consistency does not require the Tribunal to make awards similar in quantum to previous cases without regard to the circumstances of the particular case.\nNor does it require the Tribunal to make an award that equates to a similar rate per day of hearing. The cases the Tribunal hears vary widely in their complexity and significance. Complexity and significance are not accurately measured by the number of hearing days before the Tribunal. See [257].\n[18.2] It is appropriate for the Tribunal to look at what previous cases indicated was a reasonable contribution to actual costs. These cases indicated a figure of 30 percent of actual costs. On the facts, this approach was more likely to give an accurate comparison with other cases (provided the actual costs in those cases were reasonable). See [259].\n[18.3] While it had been submitted that large awards are likely to have a chilling effect on the Director's decision to represent complainants and potentially to affect the budget of the Office of Human Rights Proceedings, the Tribunal had made no error of principle in considering that cost awards should not be tailored to provide the Director with a protection that the legislation did not confer. See [265].\n[18.4] Costs in a particular case will depend on its particular circumstances. See [265]. The complexity and significance of the case is to be taken into account. See [266]."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[15]",
+              "content": "In concluding $15,000.00 was the appropriate level of costs on a reasonable contribution basis following a three day hearing, the Tribunal recorded the following by way of comparison with other cases:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Tribunal decision",
+                "content": "Reasonable contribution",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[51]",
+                    "content": "..."
+                  },
+                  {
+                    "identifier": "[52]",
+                    "content": "In Smith v Air New Zealand [2006] NZHRRT 13, $15,000 was awarded as against actual costs of $60,000 (there was an additional $1,500 in relation to an earlier interlocutory application). That was a more complex case than the present, though not at the upper end of the scale as exemplified by Attorney-General v IDEA Services Ltd (In Statutory Management). As mentioned, we do not consider the present case to have been complex."
+                  },
+                  {
+                    "identifier": "[53]",
+                    "content": "In the schedule attached to the Tribunal decision in IDEA Services Ltd v Attorney-General (No. 3) [2011] NZHRRT 21 it can be seen that in Tahiata v Nicholson [2004] NZHRRT 29 (8 July 2004) a two day hearing about alleged racial and other discrimination resulted in an award of $8,000 against actual costs of $51,331.91. In Lehmann v CanWest Radio Works Ltd [2006] NZHRRT 47 (12 December 2006) a two and a half day hearing resulted in an award of $7,500 against actual costs of $26,850."
+                  },
+                  {
+                    "identifier": "[54]",
+                    "content": "Bearing in mind the factors we have earlier discussed and allowing for the reasonably straightforward nature of the current proceedings but also making allowance for a modest uplift to reflect inflation, we are of the view that the proper award in the present case is $15,000. This is slightly more than the 30 percent of actual costs which was accepted in Attorney-General v IDEA Services Ltd (In Statutory Management) at [259] as providing a useful cross-check. It is also slightly less than costs calculated under the High Court Rules on a 2B basis ($20,680). But we do not accept that the High Court scale is the appropriate marker for costs in proceedings before the Tribunal. The scale is nevertheless useful for comparison purposes. In our view the difference between the figure we have awarded and the High Court scale appropriately recognises that there is a distinction between court and tribunal proceedings. Finally, we observe that our award at $5,000 per day is slightly higher than the average award of $3,750 per day."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "The later decision of the High Court in Andrews at [31] to [46] discusses the three early High Court decisions which are referred to in the above passages from Haupini, being Haydock v Gilligan Sheppard HC Auckland CIV-2007-404-2929, 22 September 2008, Herron v Speirs Group Ltd (2008) 8 HRNZ 669 (HC) and Attorney-General v IDEA Services Ltd [2012] NZHC 3229, [2013] 2 NZLR 512. Given each of these decisions has been overtaken by Andrews, we do not intend addressing them here.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews at [31] to [46]",
+                  "context": "The later decision of the High Court in Andrews at [31] to [46] discusses the three early High Court decisions..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Haupini",
+                  "context": "...referred to in the above passages from Haupini..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Haydock v Gilligan Sheppard HC Auckland CIV-2007-404-2929, 22 September 2008",
+                  "context": "...being Haydock v Gilligan Sheppard HC Auckland CIV-2007-404-2929, 22 September 2008..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Herron v Speirs Group Ltd (2008) 8 HRNZ 669 (HC)",
+                  "context": "...Herron v Speirs Group Ltd (2008) 8 HRNZ 669 (HC)..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v IDEA Services Ltd [2012] NZHC 3229, [2013] 2 NZLR 512",
+                  "context": "...and Attorney-General v IDEA Services Ltd [2012] NZHC 3229, [2013] 2 NZLR 512."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE APPLICATION FOR COSTS",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The circumstances of the present application for costs are unusual. On the substantive issue whether the defendant breached the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 (Code) in respect of Right 4(1) the defendant consented to a declaration under HDCA, s 54(1)(a) that she had breached this right by failing to provide services to the aggrieved person with reasonable care and skill. In the consent memorandum filed with the Tribunal it was also stated there was no issue as to costs. See Director of Proceedings v N [2019] NZHRRT 38 at [3] and [6].",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "Procedural background",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 (Code)",
+                  "context": "...breached the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 (Code) in respect of Right 4(1)..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HDCA, s 54(1)(a)",
+                  "context": "...defendant consented to a declaration under HDCA, s 54(1)(a) that she had breached this right..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v N [2019] NZHRRT 38 at [3] and [6]",
+                  "context": "See Director of Proceedings v N [2019] NZHRRT 38 at [3] and [6]."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "The parties were, however, in disagreement on the question whether the defendant's name should be permanently suppressed. Interim name suppression orders had been made by the Chairperson on 26 September 2018 pursuant to HRA, ss 95 and 107. By subsequent application dated 5 October 2018 the defendant applied for a permanent non-publication order.",
+              "page": 7
+            },
+            {
+              "number": "[19]",
+              "content": "The opposed application was heard on 26 and 27 November 2018 together with a similar application by the Lead Maternity Carer (LMC) obstetrician. At that hearing the Director, the LMC and the defendant were each represented by Queen's Counsel.",
+              "page": 7
+            },
+            {
+              "number": "[20]",
+              "content": "In a decision published on 17 June 2019 (the citation of the redacted version is Director of Proceedings v Smith (Application for Final Non-Publication Orders) [2019] NZHRRT 32), the Tribunal at [70], [76] and [88] rejected the defendant's submission that the threshold set by HRA, s 107(3) for permanent name suppression is lower than that which is generally applicable in the civil context. The defendant did, however, succeed in obtaining a suppression order because the evidence, when added to the Director's long delay in filing these proceedings, satisfied the Tribunal it was desirable to make a permanent non-publication order. See the decision at [107] to [138], particularly [136] and [137].",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Application for Final Non-Publication Orders) [2019] NZHRRT 32",
+                  "context": "In a decision published on 17 June 2019 (the citation of the redacted version is Director of Proceedings v Smith (Application for Final Non-Publication Orders) [2019] NZHRRT 32)..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 107(3)",
+                  "context": "...the threshold set by HRA, s 107(3) for permanent name suppression is lower than that which is generally applicable in the civil context."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "The Tribunal reserved the question of costs.",
+              "page": 7
+            },
+            {
+              "number": "[22]",
+              "content": "By joint memorandum dated 1 July 2019 counsel for the defendant and counsel for the Director advised the parties had been unable to reach agreement on the question of costs although a timetable for the filing of submissions had been agreed to.",
+              "page": 7
+            },
+            {
+              "number": "[23]",
+              "content": "The defendant's costs application dated 8 July 2019 advises:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "The application by the defendant for costs",
+                  "content": ""
+                },
+                {
+                  "title": "[23.1]",
+                  "content": "The defendant has taken a conservative approach. She applies only for those costs incurred in the three month period from 1 September 2018 (the date on which the Director formally declined to agree to name suppression as part of the settlement reached between the parties on 23 August 2019) and up to and including the two day hearing of the suppression application in November 2018."
+                },
+                {
+                  "title": "[23.2]",
+                  "content": "The fees charged by both counsel (for the defendant) for that time period amount to $66,408.06 (GST exclusive). The defendant seeks 30% of that figure, namely $19,922.42."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "In submissions dated 22 July 2019 the Director has opposed the application for costs and in the alternative submits that $3,750 would be a reasonable contribution to the defendant's costs. Alternatively, should the Tribunal be minded to make an order for 30% actual costs, that order should not include costs for second counsel. In addition there should be a further reduction to reflect the following:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[24.1]",
+                  "content": "The defendant was not successful on all legal points she argued."
+                },
+                {
+                  "title": "[24.2]",
+                  "content": "The Director should not be accountable for costs incurred by counsel for the defendant reviewing the case for the suppression application filed by the LMC obstetrician."
+                },
+                {
+                  "title": "[24.3]",
+                  "content": "The Director is a publicly funded statutory body with important statutory functions and should not be deterred from bringing proceedings by the \"chilling effect\" of an adverse costs award."
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "It is not intended to set out the parties' respective arguments on the costs issue. A summary only follows.",
+              "page": 8
+            },
+            {
+              "number": "[26]",
+              "content": "Without getting into the detail, the primary points made by the defendant are:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "Submissions by defendant in support of costs application",
+                  "content": ""
+                },
+                {
+                  "title": "[26.1]",
+                  "content": "From June 2015 the defendant had attempted to resolve the issue of name suppression directly with the Director but the Director had consistently adopted the position that the defendant should be named."
+                },
+                {
+                  "title": "[26.2]",
+                  "content": "This was a complex and keenly contested application which required significant input from the defendant including obtaining information from eight witnesses for the affidavit evidence and supporting documentation. There was also the need to address the extensive affidavit filed by the aggrieved individual, filing evidence in reply and preparing detailed submissions. Unusually for a name suppression application, there was a full two day hearing."
+                },
+                {
+                  "title": "[26.3]",
+                  "content": "The prejudice caused to the defendant (and to various third parties) by the Director's long delay in bringing these proceedings added substantially to the need to gather evidence (much of it from overseas witnesses) to establish prejudice not only to the defendant but to third parties in the event name suppression was not granted."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "The Director accepts that her office should pay a contribution to the defendant's costs but submits:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "Submissions by the Director in opposition to costs",
+                  "content": ""
+                },
+                {
+                  "title": "[27.1]",
+                  "content": "The two day hearing (which included the application for name suppression by the LMC) was not a substantive liability hearing; rather it involved a standard application for permanent name suppression. It was not a particularly complicated case on the principles, nor was it novel. The hearing itself was reasonably straightforward."
+                },
+                {
+                  "title": "[27.2]",
+                  "content": "The actual costs claimed by the defendant are inordinately high and not reasonable in the circumstances."
+                },
+                {
+                  "title": "[27.3]",
+                  "content": "The circumstances of the application for name suppression do not justify a costs allowance for second counsel. Reliance was placed on High Court practice which shows there usually needs to be some unusual feature to the litigation to warrant allowances for second counsel."
+                },
+                {
+                  "title": "[27.4]",
+                  "content": "Preparation by the defendant's counsel included preparation in reply to the application by the LMC. The Director should not be accountable for those costs."
+                },
+                {
+                  "title": "[27.5]",
+                  "content": "The application concerned matters of significant public interest. Naming a provider who has breached the Code is a key aspect of addressing public interest factors such as accountability and deterrence (for the individual and the profession as a whole), and vindication of consumers' rights. In opposing name suppression, the Director was carrying out important functions under the HDCA to promote and protect the rights of consumers. We observe in this respect there was a degree of inconsistency between this submission and the earlier claim that this was a standard application for permanent name suppression and not particularly complicated."
+                },
+                {
+                  "title": "[27.6]",
+                  "content": "The Director is a publicly funded statutory officer with an important role under the HDCA and should not be deterred from bringing proceedings before the Tribunal by the prospect of an adverse award of costs. The potential “chilling effect” of an adverse costs award cannot be lightly ignored. Given the nature of the submissions made by the defendant (for example, on NZBORA, s 14 and the threshold for name suppression) it was important that the Director challenge the defendant's interpretation of those important legal principles, which the Director did successfully."
+                },
+                {
+                  "title": "[27.7]",
+                  "content": "The Director formed the principled view it was not appropriate to consent to name suppression orders when ultimately it is a matter for the Tribunal to assess and determine, especially so in this case where the aggrieved person had such strong feelings about the issue."
+                },
+                {
+                  "title": "[27.8]",
+                  "content": "The Director challenges the submission by the defendant that the issue of name suppression was the subject of ongoing discussion with the Director since 2015. In any event the grounds articulated in correspondence did not include the key evidence of adverse consequences filed in support of the formal application dated 5 October 2018 and which the Tribunal ultimately considered satisfied the high threshold for permanent name suppression."
+                },
+                {
+                  "title": "[27.9]",
+                  "content": "An award of costs can be reduced if the result has been a part-success. The defendant was not successful on the following points:\n[27.9.1] The objection to the aggrieved individual's evidence as being inadmissible.\n[27.9.2] The submission that the aggrieved individual's interests were not valid.\n[27.9.3] The submissions on the relevance of the Health Practitioners Disciplinary Tribunal and the interpretation of “desirable”.\n[27.9.4] The submission that the threshold for name suppression is low.\n[27.9.5] The submissions on the relevance of NZBORA, s 14."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "By memorandum dated 1 August 2019 counsel for the defendant responded:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "Submissions by defendant in reply",
+                  "content": ""
+                },
+                {
+                  "title": "[28.1]",
+                  "content": "The legal costs, as itemised in the application, reflect the substantial work that was required by the defendant in the face of the Director's insistence that the defendant be publicly named."
+                },
+                {
+                  "title": "[28.2]",
+                  "content": "The appropriate threshold for name suppression under the HDCA had not previously been considered by the Tribunal. While the defendant had not been successful on that point, the argument was properly put before the Tribunal and was not the needless cause of the hearing."
+                },
+                {
+                  "title": "[28.3]",
+                  "content": "While the application was not a liability hearing, the matter was fully contested with both the defendant and the Director filing substantial and detailed evidence."
+                },
+                {
+                  "title": "[28.4]",
+                  "content": "The defendant only instructed senior counsel late in 2018, well after the Director had instructed her second senior counsel (the first having been appointed to the High Court bench). The submission by the Director that the costs incurred are inordinate or unreasonable cannot be sustained when those costs were the natural consequence of complex and contested proceedings involving senior counsel, particularly when the Director initiated the engagement of senior counsel and thereby \"raised the stakes\". The suggestion that engaging second counsel was disproportionate cannot be sustained when the Director herself had first engaged senior counsel."
+                },
+                {
+                  "title": "[28.5]",
+                  "content": "The submission that the costs incurred were inordinate is not sustainable for the further reason that the Director has not herself disclosed her own costs to enable a comparison to be made."
+                },
+                {
+                  "title": "[28.6]",
+                  "content": "As to the submission that preparation by the defendant's counsel would have included preparation in reply to the application by the LMC, this was the inevitable consequence of the fact that the two proceedings were intrinsically interconnected. Further, the defendant did not “reply” to the application by the LMC in any way. The time and costs involved were limited to simply reviewing the material filed in relation to his application and the Director's opposition. It would have been implausible for the defendant not to have done so, given both applications were heard together and in circumstances where the Director filed one set of responses to both applications."
+                },
+                {
+                  "title": "[28.7]",
+                  "content": "As to the submission that the Director is a publicly funded statutory officer, such considerations should not tell against an appropriate award of costs in a situation where resolution could have properly been reached by agreement, or where the level of costs incurred could have been mitigated by the Director simply abiding the Tribunal's decision once the defendant had filed her evidence in support of the application, rather than continuing to actively and strongly oppose it."
+                },
+                {
+                  "title": "[28.8]",
+                  "content": "As to the Director's challenge to the submission that counsel for the defendant endeavoured to obtain the Director's consent to suppression in some form, such dispute does not reflect the repeated efforts made by counsel for the defendant to settle the matter without recourse to proceedings. It was made clear to counsel during those attempts that a key issue for the Director was public accountability through a declaration in the Tribunal naming the defendant. The current Director was not a party to those early discussions and despite ongoing requests for a settlement, she elected to pursue a public remedy. Ultimately, the fact that the defendant consented to a declaration of breach of the Code and the fact that costs were also settled, underlines the sincerity of the defendant's attempt to settle all matters with the Director."
+                },
+                {
+                  "title": "[28.9]",
+                  "content": "From the time counsel was instructed in mid-2015 the Director was informed of the defendant's changed circumstances, including that she and her husband had left New Zealand in January 2012 to prepare for full-time missionary work. In the further three years it took to resolve the proceedings the Director was aware of the circumstances of the defendant and of her husband and that they remained undertaking missionary work. It is not accepted that when in August 2018 (through counsel) the defendant outlined the grounds for seeking permanent name suppression, those grounds did not include the key evidence subsequently filed by the defendant in her formal application dated 5 October 2018. It is submitted the Director was in fact appraised at that time but ignored the point the Tribunal found significant, namely that the circumstances of the defendant and her husband had substantially changed between the time of the events and the hearing. In addition it was inevitable there would be additional information provided during the course of preparing the detailed evidence to support the application. Yet once the Director had that information it did not change her position. It was open to the Director, once she had the detailed evidence of the family's changed circumstances during the nearly seven-year period, to abide rather than to actively oppose the application."
+                },
+                {
+                  "title": "[28.10]",
+                  "content": "As to the Director's submission that the defendant only belatedly admitted to serious breaches of the Code, this is not accepted. From the outset the defendant accepted her breaches of the Code in her responses to the investigation by the Health and Disability Commissioner."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[29]",
+              "content": "We do not intend addressing each and every of the points raised by the defendant and by the Director. A broader brush is required in the costs context because the principles themselves are necessarily broad and flexible to enable the Tribunal to do justice in the particular case.",
+              "page": 11
+            },
+            {
+              "number": "[30]",
+              "content": "The Director submitted that the application for name suppression and the substantive matter behind the application concerned matters of significant public interest. The defendant had admitted to a serious breach of the Code and naming a provider who has breached the Code is a key aspect of addressing public interest factors such as accountability and deterrence (for the individual and the profession as a whole) and vindication of consumers' rights. In support reference was made to Director of Proceedings v Candish [2013] NZHRRT 40, a decision in which the Tribunal emphasised the importance of transparency and the holding to account of providers who breach consumers' rights, being important features supporting public confidence in the complaints process and the midwifery profession.",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "Whether Director's opposition justified by public interest factors",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Candish [2013] NZHRRT 40",
+                  "context": "In support reference was made to Director of Proceedings v Candish [2013] NZHRRT 40, a decision in which the Tribunal emphasised the importance of transparency and the holding to account of providers who breach consumers' rights..."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "Three points are then made by the Director:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "[31.1]",
+                  "content": "In opposing name suppression, the Director was carrying out important functions under the HDCA to promote and protect the rights of consumers."
+                },
+                {
+                  "title": "[31.2]",
+                  "content": "The Director formed the principled view that it was not appropriate to consent to name suppression orders when ultimately it is a matter for the Tribunal to assess and determine, especially so on the facts of the present case."
+                },
+                {
+                  "title": "[31.3]",
+                  "content": "The Director is a publicly funded statutory officer with an important role under the HDCA and should not be deterred from bringing proceedings before the Tribunal by the prospect of an adverse award of costs."
+                }
+              ]
+            },
+            {
+              "number": "[32]",
+              "content": "However, each of these submissions is to be considered in the context of the inordinate delay in bringing and prosecuting these proceedings, a delay for which the defendant is not in any way responsible. This delay added to the complexity of the name suppression issues and to the evidence-gathering required of the defendant. See the Tribunal's 17 June 2019 (redacted) decision at [107] and [108]:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Tribunal's 17 June 2019 (redacted) decision at [107] and [108]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[107]",
+                    "content": "One of the conspicuous features of this case is the long delay between the events on 24 January 2012 and the hearing of the name suppression application on 26 and 27 November 2018, a period of 6 years and 10 months:"
+                  },
+                  {
+                    "identifier": "[107.1]",
+                    "content": "Ms Lawn lodged her complaint with the Health and Disability Commissioner on 17 April 2012 but the Report by the Commissioner was not published until 11 June 2014, a delay of just over two years."
+                  },
+                  {
+                    "identifier": "[107.2]",
+                    "content": "On 19 June 2014 Mrs Smith sent a letter of apology to Ms Lawn and on 1 August 2014 there was a meeting between Taranaki DHB staff, Mrs Smith, Ms Lawn and her family."
+                  },
+                  {
+                    "identifier": "[107.3]",
+                    "content": "The present proceedings were not filed until 22 December 2016, a delay of five years. The final amended statement of claim was not filed until after a further nine months on 19 September 2017."
+                  },
+                  {
+                    "identifier": "[108]",
+                    "content": "In the result the making of consent orders regarding liability and the application for a suppression order fall for determination only two months short of seven years after the events."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[33]",
+              "content": "The Tribunal found the delay factor to be of determinative significance:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Tribunal decision",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[138.1]",
+                    "content": "The delay factor is of determinative significance. Not only Mrs Smith, but also her husband and a number of third parties are at risk of severe detriment should publication of her name now occur some seven years after the events. This will not serve the interests of justice. Mr and Mrs Smith would not be facing this prospect had it not taken five years for these proceedings to be instituted. It was in these five years that they abandoned their careers, sold their home, engaged in substantial preparation and then embarked [redacted] in a substantive way."
+                  },
+                  {
+                    "identifier": "[138.2]",
+                    "content": "The reputation, standing and credibility of Mr Smith, the [redacted] and that of the [redacted] with which Mr and Mrs Smith work in [redacted] are at risk of being jeopardised by their association with Mrs Smith. It is an association built up during the long delay in the bringing and resolution of these proceedings. It is an association of historical permanence and cannot now be changed. The evidence shows [redacted] could be at real risk and if that happens, the consequences could include termination of the projects. This will not serve the ends of justice."
+                  },
+                  {
+                    "identifier": "[138.3]",
+                    "content": ""
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[34]",
+              "content": "It is certainly important that the rights of consumers be protected. But those rights are not to be protected at all cost. The public interest requires that the powers conferred by the HDCA be exercised fairly. But in the present case the long delay in bringing the proceedings caused substantial unfairness and prejudice to the defendant, her husband and third parties. It was in the delay period that the defendant and her husband gave up their livelihoods, sold their house and moved overseas to do work without profit. See the Tribunal's 17 June 2019 (redacted) decision at [109] and [110]:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Tribunal's 17 June 2019 (redacted) decision at [109] and [110]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[109]",
+                    "content": "The simple fact of the matter is that it was within the five years which elapsed between January 2012 and the filing of proceedings in December 2016 that Mrs Smith and her husband abandoned their careers in favour of undertaking, on a fulltime basis, [redacted]. The decision was not the result of a whim. [redacted] has long been their ambition and their preparation for working in [redacted] has been intensive, including spending almost two years [redacted] at a language school doing formal language and cultural training. Prior to that Mr Smith had spent a further year in preparation by studying for a [redacted]."
+                  },
+                  {
+                    "identifier": "[110]",
+                    "content": "Publication of Mrs Smith's name has real potential to cause significant harm not just to her, but also to her husband who has sacrificed much by giving up his professional career and investing the past seven years [redacted] to use his skills for the benefit of the poor."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[35]",
+              "content": "Had these proceedings been brought promptly the “specific adverse consequences” which led to the making of the suppression order would most likely not have happened and neither would the suppression application and consequential application for costs. But the unfortunate fact is that the long delay did happen, as did the adverse consequences. In these circumstances less weight can be attached to the public interest factors so heavily relied on by the Director.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Name publication a \"key aspect\"",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "In the context of the HDCA name publication is not a matter incidental or adjunct to the remedy of a declaration of a breach of Right 4(1) of the Code. It is, in the words of the Director's submissions, “a key aspect of addressing public interest factors, including accountability and deterrence. This meant that the hearing of the application for name suppression was in significant respects a hearing on accountability and freedom of expression under NZBORA, s 14. It is unsurprising the joint hearing lasted two days and that the submissions filed by the parties were extensive. The Director's own submissions were 49 pages in length. This was no ordinary or routine application for name suppression and all counsel would have expended considerable time and effort in preparing their respective cases. Counsel for the defendant had the additional challenge of assembling the evidence which ultimately led the Tribunal to conclude that the prejudice caused by the Director's delay satisfied the stringent standard for name suppression.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "Second counsel",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "The Director submits costs for second counsel should not be allowed. But as explained the application raised issues of some novelty, complexity and importance as evidenced by the fact that the Director herself instructed senior counsel at an early point. It is difficult to see the objection to the defendant doing the same and seeking to recover part of her costs for doing so.",
+              "page": 13
+            },
+            {
+              "number": "[38]",
+              "content": "The Director draws attention to the fact that under the High Court Rules, in category 1 and category 2 cases certification for second counsel is rare and that there will usually need to be some unusual feature to the litigation to warrant an allowance for second counsel. As to this there are two points:",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "[38.1]",
+                  "content": "The outcome of the application was of some considerable significance to both the Director and the defendant and there were, as mentioned, issues of novelty and complexity. All parties were justified in instructing both senior and junior counsel."
+                },
+                {
+                  "title": "[38.2]",
+                  "content": "In any event the Tribunal has broad powers to do justice even if this means departing from the conventional rules applying to civil proceedings. In the present case the sharing of a not insubstantial burden between two counsel facilitated one counsel attending to the challenges of assembling the evidence and the other to addressing the legal issues. As pointed out by the defendant, the suggestion that engaging second counsel was disproportionate is particularly unsustainable when the party making the claim had themselves first engaged second counsel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Director a publicly funded statutory officer",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[39]",
+              "content": "It is now necessary to address the submission that the Director is a publicly funded statutory officer with an important role under the HDCA and should not be deterred by an adverse award of costs from bringing proceedings before the Tribunal.",
+              "page": 14
+            },
+            {
+              "number": "[40]",
+              "content": "Although the Director of Proceedings is a publicly funded statutory officer, the Director is not immune from an adverse award of costs although any costs awarded against the Director are paid by the Health and Disability Commissioner. See HDCA, s 54(2) and (3):",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HDCA, s 54(2) and (3)",
+                  "context": "See HDCA, s 54(2) and (3):"
+                }
+              ],
+              "quoted_material": {
+                "source": "HDCA, s 54(2) and (3)",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(2)",
+                    "content": "In any proceedings under section 50 or section 51, the Tribunal may award such costs against the defendant as it thinks fit, whether or not it makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Where the Director of Proceedings is the plaintiff, any costs awarded against him or her shall be paid by the Commissioner, and the Commissioner shall not be entitled to be indemnified by the complainant or, as the case may be, the aggrieved person."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[41]",
+              "content": "The Director, her role and the issue of costs does not appear to have been the subject of any earlier court or tribunal decision. The position is different in respect of the Director of Human Rights Proceedings (DoHRP). So it is appropriate that account be taken of what has been said about that office holder.",
+              "page": 14
+            },
+            {
+              "number": "[42]",
+              "content": "While the DoHRP is appointed under the HRA and the Director of Proceedings is appointed under the HDCA, their functions are analogous. They both have important roles to play in human rights protection in New Zealand, are publicly funded and have limited resources. These are all relevant factors in the assessment of costs. See Haupini at [46]. However, in IDEA Services Ltd v Attorney-General (No. 3) [2011] NZHRRT 21 (28 September 2011) at [76][d] the Tribunal considered that an award of costs should not be tailored \"to provide the [DoHRP] with a protection that the legislation does not confer”. On appeal in Attorney-General v IDEA Services Ltd (In Statutory Management) the High Court made reference to the submission that large awards are “likely to have a chilling effect” on the DoHRP's decision to represent complainants but nevertheless ordered that he pay costs of $115,000. We accordingly proceed on the basis that in the context of the HDCA also, an award of costs should not be tailored to provide the Director of Proceedings with a protection that the legislation does not confer.",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Haupini at [46]",
+                  "context": "See Haupini at [46]."
+                },
+                {
+                  "type": "case",
+                  "reference": "IDEA Services Ltd v Attorney-General (No. 3) [2011] NZHRRT 21 (28 September 2011) at [76][d]",
+                  "context": "However, in IDEA Services Ltd v Attorney-General (No. 3) [2011] NZHRRT 21 (28 September 2011) at [76][d] the Tribunal considered that an award of costs should not be tailored \"to provide the [DoHRP] with a protection that the legislation does not confer”."
+                },
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v IDEA Services Ltd (In Statutory Management)",
+                  "context": "On appeal in Attorney-General v IDEA Services Ltd (In Statutory Management) the High Court made reference to the submission that large awards are “likely to have a chilling effect” on the DoHRP's decision to represent complainants but nevertheless ordered that he pay costs of $115,000."
+                }
+              ]
+            },
+            {
+              "number": "[43]",
+              "content": "In the present case both the Health and Disability Commissioner and the Director of Proceedings could control the pace and speed of the investigation and the subsequent filing of proceedings against the defendant. For reasons not explained to the Tribunal the entire process took five years. In these circumstances it is not realistic to speak of the \"chilling effect” of an adverse award of costs or for reference to be made to the fact that the Director of Proceedings is a publicly funded statutory officer with an important role under the HDCA. All of these factors simply highlight the long delay which has occurred in this case and the Director's firm resistance to name suppression for the defendant even when strong evidence had been filed establishing that during the delay the defendant and her husband had changed their position to their enormous prejudice, including giving up their paid employment and selling their house in order to undertake missionary work. Reliant on others to fund their activities they were faced in 2018 with the prospect of finding substantial funds which they simply did not have.",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "title": "Director successful on a number of points",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[44]",
+              "content": "It was then submitted the defendant failed on a large number of points. That is correct but sight must not be lost of the fact that the defendant succeeded on the single most important point, namely satisfying the high threshold for name suppression.",
+              "page": 15
+            },
+            {
+              "number": "[45]",
+              "content": "Furthermore, in the circumstances we do not regard “part-success” as necessarily telling against an award of costs. In this particular case the Tribunal was assisted by having both sides of each argument fully presented and the Tribunal's decision is now available as a precedent, obviating the need for future parties to litigate the same points. Expressed another way, the Tribunal's time was not wasted by having to consider the defendant's submissions.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "Time spent reviewing the LMC application",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[46]",
+              "content": "We do not see merit in the submission that the Director should not be charged with time spent reviewing the LMC application. As the submissions by the defendant point out, the time and cost involved was limited to simply reviewing the material filed in relation to the application by the LMC and the Director's opposition. It would have been implausible for counsel for the defendant not to have done so given both applications were heard together and in circumstances where the Director filed one set of responses to both applications.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "[47]",
+              "content": "Decisions on costs must be made by exercising a broad judgment based on general principles applied to specific fact situations. The aim is to do justice in the particular circumstances. In the present case the overarching feature is the long delay between the events on 24 January 2012 and the hearing of the name suppression application on 26 and 27 November 2018, a period of six years and ten months. As the Tribunal's decision of 17 June 2019 emphasises, this conspicuous delay resulted in substantial prejudice to the defendant, her husband and to third parties. This, in turn, led the Tribunal to conclude at [107], [110]–[115] and [138.1] that the circumstances required a permanent non-publication order.",
+              "page": 15
+            },
+            {
+              "number": "[48]",
+              "content": "The same circumstances lead us to the conclusion that an award of costs should be made in the full amount sought to reflect the challenges, difficulties and expense involved in establishing the prejudice and hardship flowing from the delay and ensuring that the evidence would satisfy the criteria for permanent name suppression. The costs claimed are both fair and reasonable. In the context of what resembles a test case, a claim for second counsel must be allowed to reflect the importance and complexity of the issues raised.",
+              "page": 15
+            },
+            {
+              "number": "[49]",
+              "content": "The Tribunal must not set the bar so high that parties in the position of the present defendant, when faced with a publicly funded plaintiff such as the Director, are deterred by the fact that even if the claim is successfully defended, it is unlikely there will be an award of costs of any significance. In the present case 30% of actual fees charged by both counsel in the limited period from 1 September 2018 to the end of November 2018 is both fair and reasonable. The percentage applied makes adequate allowance for the “part-success” point made by the Director.",
+              "page": 15
+            },
+            {
+              "number": "[50]",
+              "content": "In these circumstances costs are awarded in the full amount sought by the defendant.",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDER AS TO COSTS",
+          "page_start": 16,
+          "paragraphs": [
+            {
+              "number": "[51]",
+              "content": "Pursuant to the Health and Disability Commissioner Act 1994, s 54(2) costs in the sum of $19,922.42 (GST exclusive) are awarded to the defendant.",
+              "page": 16,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Health and Disability Commissioner Act 1994, s 54(2)",
+                  "context": "Pursuant to the Health and Disability Commissioner Act 1994, s 54(2) costs in the sum of $19,922.42 (GST exclusive) are awarded to the defendant."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms K Anderson",
+          "role": "Member"
+        },
+        {
+          "name": "Ms W Gilchrist",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Director of Proceedings v Smith (Costs) [2020] NZHRRT 35. Note publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

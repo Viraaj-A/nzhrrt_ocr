@@ -1,0 +1,151 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 3,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "8/2002",
+        "reference_number": "CRT 38/2001",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "2nd day of September 2002",
+        "case_title": "PHILIP JOHN MEYER AND PHOENIX REAL ESTATE LTD AND BRUCE LINDSAY AND MAXINE KAZUKAITIS",
+        "legal_basis": "Human Rights Act 1993",
+        "decision_type": "DECISION ON APPLICATION FOR COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "PHILIP JOHN MEYER",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "PHOENIX REAL ESTATE LTD",
+            "role": "First Defendant",
+            "type": "Company"
+          },
+          {
+            "name": "BRUCE LINDSAY",
+            "role": "Second Defendant",
+            "type": "Individual"
+          },
+          {
+            "name": "MAXINE KAZUKAITIS",
+            "role": "Third Defendant",
+            "type": "Individual"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "S R Sage",
+          "role": "Chairperson"
+        },
+        {
+          "name": "W A C Abbiss",
+          "role": "Member"
+        },
+        {
+          "name": "J M McIntyre",
+          "role": "Member"
+        }
+      ],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "DECISION ON APPLICATION FOR COSTS",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1.]",
+              "content": "The defendants in this proceeding have sought an order for costs. Counsel for the plaintiff and the defendants have filed memoranda. Although the defendants' memorandum dated 24 July 2002 refers to the plaintiff's having incurred approximately $22,500.00 costs, the Tribunal has taken that to be a mistake and these are in fact the defendants' costs. Of the $22,500.00 costs, $15,800.00 or so have been incurred since the issue of the proceedings in September 2001.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[2.]",
+              "content": "In the plaintiff's memorandum his solicitor has submitted that two relatively minor disbursements should not be allowed as the witness did not appear. He further submits that the District Court scale of costs should not apply as per paragraph 15 of the Second Schedule, but rather as per paragraphs 30 and 31. His concluding submission is that costs should lie where they fall.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[3.]",
+              "content": "The single most significant factor which has led the Tribunal in this instance to make an award of costs (albeit nominal) has been the plaintiff's willingness to proceed with his action in the face of the previous determination of the Human Rights Commission's. That committee made a clear recommendation which the plaintiff elected to ignore. This is not to in any way dispute his right to bring the matter before the Tribunal but, had a greater degree of objectivity being employed, the subsequent election might not have been made.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "organisation",
+                  "reference": "Human Rights Commission's",
+                  "context": "The paragraph discusses the plaintiff's decision to proceed despite a determination from the Human Rights Commission's committee."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "",
+              "content": "should receive their total solicitor/client costs. From a perusal of the accounts, there is no way of telling how many hours have been expended on this matter but there is a distinct impression that a few more hours were expended than were strictly necessary in the particular circumstances of the case. The number of witnesses and the resulting preparation of briefs was perhaps greater than was strictly required. The proceeding thus became more lengthy and protracted than it need have been.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "The Tribunal therefore orders the plaintiff to pay the sum of $5,000.00 towards the costs incurred by the defendants.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "",
+              "content": "ORDER ACCORDINGLY",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "S R Sage",
+          "role": "Chairperson",
+          "date": "2nd day of September 2002"
+        },
+        {
+          "name": "W A C ABBESS",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "J M MCINTYRE",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

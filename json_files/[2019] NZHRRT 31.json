@@ -1,0 +1,669 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 17
+  },
+  "cases": [
+    {
+      "case_number": 212019,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 31",
+        "reference_number": "HRRT 021/2019",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "decision_date": "14 June 2019",
+        "case_title": "Director of Proceedings v Evelyn Page Retirement Village Ltd",
+        "legal_basis": "SECTION 50 OF THE HEALTH AND DISABILITY COMMISSIONER ACT 1994",
+        "decision_type": "(REDACTED) DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 17
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF PROCEEDINGS",
+            "role": "PLAINTIFF",
+            "type": "Statutory Body"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "EVELYN PAGE RETIREMENT VILLAGE LIMITED",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms J Herschell",
+          "representing": "Acting Director of Proceedings"
+        },
+        {
+          "counsel": "Mr G Gallaway and Ms M Nicol",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "ORDERS",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "(1)",
+              "content": "ORDER PROHIBITING PUBLICATION OF NAME OR IDENTIFYING PARTICULARS OF AGGRIEVED PERSON",
+              "page": 1
+            },
+            {
+              "number": "(2)",
+              "content": "ORDER PREVENTING SEARCH OF THE TRIBUNAL FILE WITHOUT LEAVE OF THE CHAIRPERSON OR OF THE TRIBUNAL",
+              "page": 1
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "These proceedings under s 50 of the Health and Disability Commissioner Act 1994 were filed on 5 June 2019.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "Prior to the filing of the proceedings the parties resolved all matters in issue and the Tribunal is asked to make a consent declaration. The parties have filed:",
+              "page": 2
+            },
+            {
+              "number": "[2.1]",
+              "content": "A Consent Memorandum dated 4 June 2019.",
+              "page": 2
+            },
+            {
+              "number": "[2.2]",
+              "content": "An Agreed Summary of Facts, a copy of which is annexed and marked \"A\".",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "The Consent Memorandum is in the following terms:\nMAY IT PLEASE THE TRIBUNAL\n1. The plaintiff and defendant have agreed upon a summary of facts, a signed copy of which is filed with this memorandum, together with an anonymised copy.\n2. The plaintiff requests that the Tribunal exercise its jurisdiction and issues:\n(a) A declaration pursuant to s 54(1)(a) of the Health and Disability Commissioner Act 1994 (\"the Act\") that the defendant has breached the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 (\"the Code\") in respect of Right 4(1) by failing to provide services to the aggrieved person with reasonable care and skill; and\n(b) A final order prohibiting publication of the name and identifying details of the aggrieved person.\n3. In relation to the declaration being sought in paragraph 2(a) above, the parties respectfully refer to the agreed summary of facts. The parties are agreed that it is not necessary for the Tribunal to consider any other evidence for the purpose of making the declaration sought. The parties request that the anonymised agreed summary of facts be published by the Tribunal as an addendum to the decision.\n4. The defendant consents to the Tribunal making the above declaration based on the facts set out in the agreed summary of facts, and the non-publication orders sought in paragraph 2(b).\n5. The defendant does not seek any order prohibiting publication of the defendant's name.\n6. In the statement of claim the plaintiff also sought the following relief:\n(a) damages pursuant to s 57(1); and\n(b) costs.\n7. These aspects of the relief claimed by the plaintiff have been resolved between the parties by negotiated agreement. There is no issue as to costs.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Having perused the Agreed Summary of Facts the Tribunal is satisfied on the balance of probabilities that an action of the defendant was in breach of the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 and that a declaration should be made in the terms sought by the parties in paragraph 2(a) of the Consent Memorandum.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "DECISION",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "By consent the decision of the Tribunal is that:",
+              "page": 2
+            },
+            {
+              "number": "[5.1]",
+              "content": "A declaration is made pursuant to s 54(1)(a) of the Health and Disability Commissioner Act 1994 that the defendant breached the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996 in respect of Right 4(1) by failing to provide services to the aggrieved person with reasonable care and skill.",
+              "page": 2
+            },
+            {
+              "number": "[5.2]",
+              "content": "A final order is made prohibiting publication of the name and any other details which might lead to the identification of the aggrieved person. There is to be no search of the Tribunal file without leave of the Tribunal or of the Chairperson.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "AGREED SUMMARY OF FACTS",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "\"A\"\nThis is the Agreed Summary of Facts marked with the letter \"A\" referred to in the annexed decision of the Tribunal delivered on 14 June 2019.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "INTRODUCTION",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "1",
+              "content": "The plaintiff is the Director of Proceedings, a statutory position created by s 15 of the Health and Disability Commissioner Act 1994.",
+              "page": 5
+            },
+            {
+              "number": "2",
+              "content": "The \"aggrieved person\" is Mr N (deceased).",
+              "page": 5
+            },
+            {
+              "number": "3",
+              "content": "At all material times the defendant was a registered company which owned and operated Evelyn Page Retirement Village (\"EPRV\") in Orewa, Auckland, where the aggrieved person was a resident.",
+              "page": 5
+            },
+            {
+              "number": "4",
+              "content": "At all material times, the defendant was a healthcare provider and/or disability services provider within the meaning of s 3 of the Act, and was providing health services and/or disability services to the aggrieved person.",
+              "page": 5
+            },
+            {
+              "number": "5",
+              "content": "On 14 July 2016, the aggrieved person's son (\"the complainant\") complained to the Health and Disability Commissioner about services provided to the aggrieved person by the defendant.",
+              "page": 5
+            },
+            {
+              "number": "6",
+              "content": "On 29 March 2018, the Deputy Health and Disability Commissioner (appointed under s 9 of the Act) finalised her opinion that the defendant had breached the aggrieved person's rights under the Health and Disability Commissioner (Code of Health and Disability Service Consumers' Rights) Regulations 1996 (“the Code\") and in accordance with s 45(2)(f) of the Act, referred the defendant to the plaintiff.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "The Aggrieved Person",
+              "page": 6
+            },
+            {
+              "number": "7",
+              "content": "The aggrieved person, aged 84 years at the material time, was an independent resident¹ at EPRV, where he had lived in a town-house with his wife since early 2009.",
+              "page": 6
+            },
+            {
+              "number": "8",
+              "content": "On 29 February 2016, the aggrieved person was admitted to North Shore Hospital (\"NSH\") with a pathological fracture of the neck of his right femur. The aggrieved person underwent surgery, during which screws were placed into his right hip.",
+              "page": 6
+            },
+            {
+              "number": "9",
+              "content": "On 24 March 2016, the aggrieved person was discharged from NSH to his town-house at EPRV. At the time of his discharge, the aggrieved person was touch weight-bearing only,² and had an indwelling catheter (\"IDC\"). A referral to the Waitemata DHB district nursing service was made for the management of the aggrieved person's IDC.³ A referral was also made to Geneva Healthcare, for one hour per day of personal care and home help only. EPRV incorrectly understood Geneva Healthcare was responsible for the aggrieved person's IDC.",
+              "page": 6
+            },
+            {
+              "number": "10",
+              "content": "At the time of his discharge, the aggrieved person had several other medical issues, including: Type II diabetes, prostate cancer, Paget's disease, and problems associated with his heart. The aggrieved person was prescribed a number of medications, including antibiotics for an infection caused by his IDC.",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "The Defendant",
+              "page": 7
+            },
+            {
+              "number": "11",
+              "content": "The defendant is a company registered with the New Zealand Companies Office, having its registered offices at 92d Russley Road, Russley, Christchurch.",
+              "page": 7
+            },
+            {
+              "number": "12",
+              "content": "The defendant owns and operates EPRV, a facility which provides independent living options, and all levels of rest home care, including hospital-level care and dementia care.",
+              "page": 7
+            },
+            {
+              "number": "13",
+              "content": "The defendant is 100% owned by Ryman Healthcare Limited.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "EVENTS OF 1 APRIL 2016 – 3 APRIL 2016",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "1 April 2016",
+              "page": 7
+            },
+            {
+              "number": "14",
+              "content": "On 1 April 2016, the EPRV Clinical Manager (\"the CM\"), a Registered Nurse (\"RN\"), met with the aggrieved person and the complainant, to discuss their concerns that the aggrieved person and his wife were having difficulty coping in their own home following the aggrieved person's discharge from NSH. The CM offered the aggrieved person 48 hours' complimentary short-term care (\"complimentary care\"), which was accepted.",
+              "page": 7
+            },
+            {
+              "number": "15",
+              "content": "EPRV's complimentary care service was set out in a brochure, which could be provided to residents who were considering it. The brochure stated:",
+              "page": 7,
+              "quoted_material": {
+                "content": "\"In order to help an independent resident who is unwell or convalescing (not acutely or critically ill) we offer a complimentary 48 hour stay in our care centre. This is generally used by independent residents who need a little TLC⁴ and routine checks taken of them. It is not to be used as an extension of respite care”."
+              }
+            },
+            {
+              "number": "16",
+              "content": "The aggrieved person and his family were not provided with a copy of the brochure. Rather, the CM described the service to the aggrieved person and his family verbally. The CM advised the aggrieved person and his family that the advantages of receiving 48 hours of complimentary care over the weekend included that:\n16.1. all meals would be provided;\n16.2. the aggrieved person would be seen frequently by staff and it would be easier to judge whether a referral for a further needs assessment was necessary, to assess whether an increase in home care was appropriate;\n16.3. staff could reinforce that the aggrieved person was not to weight bear;\n16.4. any problems with the aggrieved person's catheter would be recognised quickly;\n16.5. any necessary interventions/assessments could be undertaken.",
+              "page": 8
+            },
+            {
+              "number": "17",
+              "content": "Complimentary care at EPRV is usually provided in the rest home unit. However, at the time the service was offered to the aggrieved person the rest home unit was full. The decision was made by the CM to place the aggrieved person in the serviced apartment building connected to the rest home to provide a greater level of care than he would receive in his town house.",
+              "page": 8
+            },
+            {
+              "number": "18",
+              "content": "During the relevant period, the CM made only two entries in the aggrieved person's progress notes. The first, was at 2.00pm, which recorded:",
+              "page": 9,
+              "quoted_material": {
+                "content": "\"1400. [Aggrieved person] discharged from NSH earlier this week. Has been having problems with IDC and constipation. Admitted to SA 326 for TLC over the weekend, will come over about 1700hrs – needs toilet raiser + shower stool same taken to apt\"."
+              }
+            },
+            {
+              "number": "19",
+              "content": "At approximately 5.00pm, the aggrieved person was transferred from his town-house to the serviced apartment. The CM did not complete any formal admission documentation for the aggrieved person's admission to the serviced apartment.",
+              "page": 9
+            },
+            {
+              "number": "20",
+              "content": "The CM discussed the aggrieved person's placement in the serviced apartments and his needs with the senior caregiver in charge. However, the CM did not document this discussion.",
+              "page": 9
+            },
+            {
+              "number": "21",
+              "content": "The senior caregiver recorded in the 'duty handover supplement – SA PM and Nocte sheet' for 1 April 2016: \"[Room] 326 - [Aggrieved person] - respite till Sunday??\".",
+              "page": 9
+            },
+            {
+              "number": "22",
+              "content": "The CM also advised an EPRV hospital RN that the aggrieved person was in the serviced apartments. The CM made a second entry in the progress notes for the aggrieved person, recording:",
+              "page": 9,
+              "quoted_material": {
+                "content": "\"1700. [A caregiver] went over to TH9 to collect [aggrieved person] now taken up to SA⁵ 325.⁶ Requires extra cushions as chairs too low for him to get up unaided. Also requested extra pillows for bed. Extra cushions and pillows provided. Evening meal sent up for [aggrieved person] and [aggrieved person's wife] to have in room. [RN] made aware that [aggrieved person] is in apt\"."
+              }
+            },
+            {
+              "number": "23",
+              "content": "The CM expected the RN to visit the aggrieved person and provide additional oversight. However, the CM did not communicate this intention clearly to the RN and, as a result, the RN did not attend to the aggrieved person during the evening of 1 April 2016.",
+              "page": 10
+            },
+            {
+              "number": "24",
+              "content": "There is no record that any member of the nursing or caregiving staff provided oversight or assistance to the aggrieved person between his admission at 5.00pm on 1 April 2016, and the morning of 2 April 2016.",
+              "page": 10
+            },
+            {
+              "number": "",
+              "content": "2 April 2016",
+              "page": 10
+            },
+            {
+              "number": "25",
+              "content": "On the morning of 2 April 2016, a serviced apartment caregiver informed the RN on duty in the EPRV rest home wing that the aggrieved person's catheter was leaking.",
+              "page": 10
+            },
+            {
+              "number": "26",
+              "content": "The duty RN attended the aggrieved person and recorded in the aggrieved person's progress notes:",
+              "page": 10,
+              "quoted_material": {
+                "content": "\"Caregiver came to me to advise me that [aggrieved person's] catheter was leaking. I went [with] caregiver to see [aggrieved person] - checked + yes catheter was leaking at penis + insertion site. Asked [aggrieved person] how long this catheter had been in - he said 3 weeks – I advised him he would have to go to NSH to have a new catheter inserted as we are unable to do it for him at Evelyn Page as we required Drs permission. Asked caregiver + [aggrieved person] to contact [the complainant] to take him to the hospital\"."
+              }
+            },
+            {
+              "number": "27",
+              "content": "The duty RN did not record what time she made the entry in the progress notes.",
+              "page": 10
+            },
+            {
+              "number": "28",
+              "content": "The aggrieved person was not able to make contact with the complainant, and instead left a voice message on his answerphone.",
+              "page": 10
+            },
+            {
+              "number": "29",
+              "content": "The caregiver assumed the complainant would receive the message, and therefore informed the serviced apartment senior caregiver that the aggrieved person would be going to hospital with the complainant.",
+              "page": 10
+            },
+            {
+              "number": "30",
+              "content": "On the 'Duty Handover Supplement' sheet for the morning of 2 April 2016,⁷ the senior caregiver recorded: \"[Aggrieved person] [Room] 326 - Gone with [the complainant] to hospital RE: Catheter\". The time the notation was made is not recorded.",
+              "page": 11
+            },
+            {
+              "number": "31",
+              "content": "The complainant did not receive the voice message and accordingly did not take the aggrieved person to hospital to have his catheter attended to.",
+              "page": 11
+            },
+            {
+              "number": "32",
+              "content": "As a result of the fact that no one was aware the aggrieved person was in the serviced apartment throughout the day, he received no oversight or assistance. The aggrieved person was not provided with any food or beverages throughout the day.",
+              "page": 11
+            },
+            {
+              "number": "33",
+              "content": "At an unknown time during the day on 2 April 2016, the aggrieved person spoke to his daughter and told her he had left a message on the complainant's phone asking him to take the aggrieved person to hospital.",
+              "page": 11
+            },
+            {
+              "number": "34",
+              "content": "In the evening of 2 April 2016, the aggrieved person's daughter contacted the complainant and advised him the aggrieved person was trying to contact him. The complainant attempted to contact the aggrieved person several times over the course of the evening, but the aggrieved person did not answer his phone.",
+              "page": 11
+            },
+            {
+              "number": "35",
+              "content": "At 8.00pm, the aggrieved person's wife came to visit him in the serviced apartment. She advised the senior caregiver that no dinner had been provided to the aggrieved person, and requested a meal for him, which the caregiver took to the aggrieved person.",
+              "page": 11
+            },
+            {
+              "number": "36",
+              "content": "In the evening of 2 April 2016, the senior caregiver recorded in the aggrieved person's progress notes:",
+              "page": 11,
+              "quoted_material": {
+                "content": "\"During morning cares the caregiver that was doing [the aggrieved person's] cares informed me that [the aggrieved person] was going to hospital with [the complainant] due to his catheter problems. At 8 at night his wife came and saw me concerned that he had not received a dinner meal so I gave one to him. At 9 pm I then helped him into bed”."
+              }
+            },
+            {
+              "number": "37",
+              "content": "The senior caregiver did not record what time she made this entry.",
+              "page": 12
+            },
+            {
+              "number": "38",
+              "content": "At 10.30pm, the senior caregiver went off duty. She did not update the handover sheet or alert the team that the aggrieved person was in the serviced apartment.",
+              "page": 12
+            },
+            {
+              "number": "39",
+              "content": "The aggrieved person did not receive any oversight or assistance between 9.00pm on 2 April 2016 and 11.00am on 3 April 2016.",
+              "page": 12
+            },
+            {
+              "number": "",
+              "content": "3 April 2016",
+              "page": 12
+            },
+            {
+              "number": "40",
+              "content": "At 11.00am on 3 April 2016, the complainant arrived at EPRV to visit his father. The senior caregiver on duty in the serviced apartments told the complainant that his father was still in hospital, to which the complainant responded that he was unaware the aggrieved person was in hospital.",
+              "page": 12
+            },
+            {
+              "number": "41",
+              "content": "At this time, it became clear that the senior caregiver was unaware the aggrieved person was still in the serviced apartment.",
+              "page": 12
+            },
+            {
+              "number": "42",
+              "content": "While the complainant was talking to the senior caregiver, the aggrieved person's wife and a caregiver from Geneva Healthcare arrived at the serviced apartments and went to the aggrieved person's apartment.",
+              "page": 12
+            },
+            {
+              "number": "43",
+              "content": "The complainant and the senior caregiver also went to the aggrieved person's serviced apartment, where they found the aggrieved person in a distressed state.",
+              "page": 12
+            },
+            {
+              "number": "44",
+              "content": "The aggrieved person was wearing only a pair of shorts, and his catheter bag had become unattached from his catheter. As a result, he was wet and cold, his bed was also wet with urine, he was in pain and confused. The aggrieved person had not been provided with any breakfast, and no cares had been undertaken since the previous night.",
+              "page": 12
+            },
+            {
+              "number": "45",
+              "content": "The aggrieved person was unable to reach his call bell, his mobile phone, or any water.",
+              "page": 13
+            },
+            {
+              "number": "46",
+              "content": "The complainant requested that an ambulance be called, and the aggrieved person was taken to NSH.",
+              "page": 13
+            },
+            {
+              "number": "",
+              "content": "Admission to NSH",
+              "page": 13
+            },
+            {
+              "number": "47",
+              "content": "The aggrieved person was admitted to NSH at 12.26pm on 3 April 2018.",
+              "page": 13
+            },
+            {
+              "number": "48",
+              "content": "The aggrieved person was examined in the Emergency Department at 1.45pm, where the doctor recorded:",
+              "page": 13,
+              "quoted_material": {
+                "content": "\"...[Aggrieved person] not had regular meds in ? days as not given in rest home. O/e⁸ [aggrieved person] lying on stretcher. Eyes closed. Responds to voice. Orientated to T.P.P.⁹ Appears very tired, lethargic. Denies pain when asked, but in discomfort when moving R) leg. Urine leakage around penile tip / IDC. Some scrotal redness / excoriation...\"."
+              }
+            },
+            {
+              "number": "49",
+              "content": "It was also noted that the aggrieved person was dehydrated and had a blocked IDC.",
+              "page": 13
+            },
+            {
+              "number": "50",
+              "content": "On 7 April 2016, the Consultant Medical Oncologist wrote to the aggrieved person's medical centre:",
+              "page": 13,
+              "quoted_material": {
+                "content": "\"... [The aggrieved person] was readmitted on 3 April 2016 with acute renal failure due to urinary retention, draining 1.5 L. Pseudomonas UTI was also found. He was delirious at that time and quite unwell. He has improved with antibiotics...\"."
+              }
+            }
+          ]
+        },
+        {
+          "title": "DEFENDANT'S RESPONSE TO THE COMPLAINT",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "51",
+              "content": "On 4 April 2016, the CM commenced an investigation into the care provided to the aggrieved person during his time in EPRV's complimentary care.",
+              "page": 14
+            },
+            {
+              "number": "52",
+              "content": "Also on 4 April 2016, the CM telephoned the complainant to provide an apology.",
+              "page": 14
+            },
+            {
+              "number": "53",
+              "content": "On 12 April 2016, the CM and the Village Manager (\"the VM\") formalised a Quality Improvement Plan (\"QIP\"), in response to events that occurred while the aggrieved person was receiving complimentary care. The QIP included training to clarify communication expectations, and policies and procedures on admissions to complimentary care, to ensure:\n53.1. Detailed care plans are completed for all residents, irrespective of their length of stay;\n53.2. Progress notes are completed on every shift;\n53.3. All complimentary care is undertaken in the rest home;\n53.4. Incident forms are completed for every contact between a RN and an independent resident requesting help of any nature;\n53.5. A medical history is obtained from the general practitioner or hospital discharge papers prior to admission;\n53.6. A RN speaks directly with a family member, and does not rely on the resident to pass on information; and\n53.7. Staff understand the importance of accurate information being updated in the handover books to ensure that communication between shifts is current and updated.",
+              "page": 14
+            },
+            {
+              "number": "54",
+              "content": "The defendant has also put processes in place to ensure that families using complimentary care are provided with the information brochure.",
+              "page": 15
+            },
+            {
+              "number": "55",
+              "content": "On 27 April 2016, the CM and the VM met with the aggrieved person's family.",
+              "page": 15
+            },
+            {
+              "number": "56",
+              "content": "On 29 April 2016, the aggrieved person was discharged from NSH and admitted to EPRV as a permanent hospital-level resident.",
+              "page": 15
+            },
+            {
+              "number": "57",
+              "content": "On 6 May 2016, the CM emailed the complainant a letter of apology, on behalf of EPRV, which set out the issues raised at the 27 April 2016 meeting, and subsequent actions taken by the defendant.",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "title": "BREACH OF THE CODE",
+          "page_start": 15,
+          "paragraphs": [
+            {
+              "number": "58",
+              "content": "Right 4(1) of the Code states: “Every consumer has the right to have services provided with reasonable care and skill”.",
+              "page": 15
+            },
+            {
+              "number": "59",
+              "content": "The defendant has a responsibility to operate EPRV in a manner that provides its residents with services of an appropriate standard. The New Zealand Health and Disability Sector Standards also require that rest homes ensure the operation of their services is managed in an efficient and effective manner, which ensures the provision of timely and safe services to consumers.¹⁰",
+              "page": 15
+            },
+            {
+              "number": "60",
+              "content": "In this instance, the defendant failed to:",
+              "page": 15,
+              "subsections": [
+                {
+                  "title": "60.1",
+                  "content": "Ensure adequate systems, policies and procedures were in place for the delivery of appropriate complimentary or short-term care to independent elderly residents who may be unwell or convalescing;"
+                },
+                {
+                  "title": "60.2",
+                  "content": "Guide its staff to deliver the complimentary care services in an appropriate and safe manner; and"
+                },
+                {
+                  "title": "60.3",
+                  "content": "Communicate adequately regarding the services being offered to the aggrieved person; and"
+                },
+                {
+                  "title": "60.4",
+                  "content": "Ensure appropriate documentation was completed for and during the period of the aggrieved person's complimentary care stay."
+                }
+              ]
+            },
+            {
+              "number": "61",
+              "content": "In relation to the aggrieved person, nursing staff, caregivers, and management at EPRV individually and as a team failed to:",
+              "page": 16,
+              "subsections": [
+                {
+                  "title": "61.1",
+                  "content": "Provide adequate assessment and documentation of the aggrieved person's needs at admission into complimentary care;"
+                },
+                {
+                  "title": "61.2",
+                  "content": "Have adequate knowledge of the defendant's policies and procedures around complimentary care, despite being responsible for offering the services to residents;"
+                },
+                {
+                  "title": "61.3",
+                  "content": "Provide an adequate standard of care to the aggrieved person during the time he was in complimentary care."
+                }
+              ]
+            },
+            {
+              "number": "62",
+              "content": "The defendant had the ultimate responsibility to ensure that the aggrieved person received care that was of an appropriate standard and complied with the Code.",
+              "page": 16
+            },
+            {
+              "number": "63",
+              "content": "The defendant accepts full responsibility for the suboptimal care provided to the aggrieved person while he was in complimentary care, and acknowledges that there were a number of opportunities for it to react differently and, in particular, to have communicated more effectively within the EPRV team as well as with the aggrieved person's family.",
+              "page": 16
+            },
+            {
+              "number": "64",
+              "content": "The defendant accepts that it should have attended to the aggrieved person with greater care.",
+              "page": 17
+            },
+            {
+              "number": "65",
+              "content": "The defendant accepts that it failed in that responsibility and breached Right 4(1) of the Code.",
+              "page": 17
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Jane Herschell",
+          "role": "Acting Director of Proceedings"
+        },
+        {
+          "name": "",
+          "role": "For and on behalf of Evelyn Page Retirement Village Limited"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Director of Proceedings v Evelyn Page Retirement Village Ltd [2019] NZHRRT 31.]",
+          "page": 1
+        },
+        {
+          "number": "1",
+          "content": "Independent residents live in town-houses on the grounds of EPRV, but remain independent, with only minimal oversight from EPRV. No nursing or medical care is provided to town-house residents, who access their own medical expertise in the same way as any other independent member of the community.",
+          "page": 6
+        },
+        {
+          "number": "2",
+          "content": "The aggrieved person could put his foot on the ground for the purposes of resting or balancing, but was not to put any weight or pressure on the foot, or walk on it. The aggrieved person was instructed to remain weight-bearing only, for six weeks.",
+          "page": 6
+        },
+        {
+          "number": "3",
+          "content": "At the time of the events complained of, the referral had not yet been actioned by the District Nursing Service. The reason why the referral was not actioned is unknown.",
+          "page": 6
+        },
+        {
+          "number": "4",
+          "content": "Tender loving care.",
+          "page": 8
+        },
+        {
+          "number": "5",
+          "content": "Serviced Apartment.",
+          "page": 9
+        },
+        {
+          "number": "6",
+          "content": "This was an error. The aggrieved person was placed in SA326, as recorded in the handover notes.",
+          "page": 9
+        },
+        {
+          "number": "7",
+          "content": "Incorrectly recorded as 2 January 2016.",
+          "page": 11
+        },
+        {
+          "number": "8",
+          "content": "On examination.",
+          "page": 13
+        },
+        {
+          "number": "9",
+          "content": "Time, place and person.",
+          "page": 13
+        },
+        {
+          "number": "10",
+          "content": "New Zealand Health and Disability Sector (Core) Standards (NZS8134.1.12:2008, Standard",
+          "page": 16
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 2
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 39",
+        "reference_number": "HRRT 029/2018",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "5 September 2018",
+        "case_title": "Marshall v IDEA Services Ltd (Extension of Time)",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL GRANTING LEAVE TO FILE STATEMENT OF REPLY OUT OF TIME",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "EAMON HENNING MARSHALL",
+            "role": "First Plaintiff",
+            "type": "Individual"
+          },
+          {
+            "name": "GLENN WALTER MARSHALL",
+            "role": "Second Plaintiff",
+            "type": "Individual"
+          },
+          {
+            "name": "FRANZISKA JANE MARSHALL",
+            "role": "Third Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "IDEA SERVICES LIMITED",
+            "role": "Defendant",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr GW Marshall",
+          "representing": "in person and as agent for his wife and son"
+        },
+        {
+          "counsel": "Ms I Reuvecamp",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Background",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Upon the filing of the statement of claim on 23 July 2018 the Secretariat on 24 July 2018 sent to IDEA Services Ltd (IDEA Services) a copy of the statement of claim together with the notice of proceedings required by the Human Rights Review Tribunal Regulations 2002, reg 12. In terms of reg 15(1) the statement of reply was due 30 days after the day on which notice of the proceedings was served on IDEA Services.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "Human Rights Review Tribunal Regulations 2002, reg 12",
+                  "context": "required by the Human Rights Review Tribunal Regulations 2002, reg 12"
+                },
+                {
+                  "type": "regulation",
+                  "reference": "reg 15(1)",
+                  "context": "In terms of reg 15(1) the statement of reply was due 30 days after the day on which notice of the proceedings was served on IDEA Services."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "The Tribunal is told by Ms Reuvecamp the statement of reply should have been filed and served by Saturday 25 August 2018. Ms Reuvecamp further advises that due entirely to an oversight by counsel, the reply was not filed.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "As IDEA Services wishes to defend these proceedings it has by application dated 3 September 2018 sought an extension of time and a direction that the statement of reply be filed by 5pm on Friday 7 September 2018.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "By email dated 3 September 2018 Mr Marshall has objected to the extension, ventilating a number of complaints regarding IDEA Services. None of these complaints have a material bearing on the question whether IDEA Services should be granted the requested extension of time.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Decision",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "Having regard to the considerations most recently addressed in Taylor v Southern District Health Board (Extension of Time) [2018] NZHRRT 30 at [9] and [10] there can be no doubt the extension must be granted for the following reasons:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[5.1]",
+                  "content": "IDEA Services wishes to defend the claim."
+                },
+                {
+                  "title": "[5.2]",
+                  "content": "The delay in filing the statement of reply is trivial and has not in any way prejudiced the plaintiffs."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Southern District Health Board (Extension of Time) [2018] NZHRRT 30 at [9] and [10]",
+                  "context": "addressed in Taylor v Southern District Health Board (Extension of Time) [2018] NZHRRT 30 at [9] and [10]"
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "In these circumstances the opposition to the requested extension was misconceived and the extension to 5pm on Friday 7 September 2018 must, inevitably, be granted.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Order",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "IDEA Services Limited is granted leave to file and serve its statement of reply by 5pm on Friday 7 September 2018.",
+              "page": 2
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Marshall v IDEA Services Ltd (Extension of Time) [2018] NZHRRT 39]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

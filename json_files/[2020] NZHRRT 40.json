@@ -1,0 +1,345 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2020-NZHRRT-40.pdf",
+    "total_pages": 4,
+    "extraction_date": "2024-05-16"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 40",
+        "reference_number": "HRRT 045/2018",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA ΜΑΝΑ ΤΑNGATA",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "15 October 2020",
+        "case_title": "Watson v Employers Mutual Limited (Costs)",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL REGARDING COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "ANGELA WATSON",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "EMPLOYERS MUTUAL LIMITED",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr AJ McKenzie",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Ms P Muir and Ms R Judge",
+          "representing": "defendants"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL REGARDING COSTS",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In a decision dated 23 March 2020 Ms Watson's claim was struck out, as it was not within the jurisdiction of the Tribunal. Costs were reserved. See Watson v Employers Mutual Limited (Strike-out Application) [2020] NZHRRT 10.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Watson v Employers Mutual Limited (Strike-out Application) [2020] NZHRRT 10",
+                  "context": "Citing the previous decision where the claim was struck out."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "Employers Mutual Limited (EML) has now applied for costs. EML has indicated its actual costs were $7,687.50 plus GST. It has applied for this full amount. However, if the Tribunal is not minded to award the full amount, it seeks what it refers to as the standard daily rate of $3,750.00.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "Ms Watson has not filed any submissions in response to the application.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "THE LAW",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "The Tribunal's power to award costs in respect of proceedings under the Privacy Act 1993 (the Act) is set out in s 85(2):",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Establishing the legal basis for the Tribunal's power to award costs."
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act 1993, s 85",
+                "content": "85 Powers of Human Rights Review Tribunal\n(1) ...\n(2) In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party."
+              }
+            },
+            {
+              "number": "[5]",
+              "content": "The discretion to award costs conferred by this section is broad. The principles to be applied in determining costs applications in this Tribunal were reviewed by the High Court in Commissioner of Police v Andrews [2015] NZHC 745 [2015] 3 NZLR 515 (Andrews). This appeal to the High Court followed a change in the Tribunal's approach to costs, which was subsequently approved by the High Court in Andrews.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Andrews [2015] NZHC 745 [2015] 3 NZLR 515 (Andrews)",
+                  "context": "To establish the principles for determining costs applications."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "Andrews at [61] and [62] acknowledged that the Tribunal was right to express caution in applying the conventional civil costs regime to its jurisdiction and in regarding s 105 Human Rights Act 1993 as reflecting the different nature of this jurisdiction from ordinary civil courts. The High Court also noted at [63] that access to the Tribunal should not be unduly deterred.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews",
+                  "context": "Acknowledging the Tribunal's caution in applying civil costs regime."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 105 Human Rights Act 1993",
+                  "context": "Reflecting the different nature of the Tribunal's jurisdiction."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "The most recent decisions of the Human Rights Review Tribunal illustrating application of Andrews are O'Hagan v Police (Costs) [2020] NZHRRT 28 and Fisher v Foster (Costs) [2020] NZHRRT 29 (Fisher).",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "O'Hagan v Police (Costs) [2020] NZHRRT 28",
+                  "context": "Illustrating the application of the Andrews principles."
+                },
+                {
+                  "type": "case",
+                  "reference": "Fisher v Foster (Costs) [2020] NZHRRT 29 (Fisher)",
+                  "context": "Illustrating the application of the Andrews principles."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "The circumstances where an award of costs was considered appropriate in strike-out applications are detailed below:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[8.1]",
+                  "content": "Apostolakis v Attorney-General No. 3 (Costs) [2019] NZHRRT 11 (Apostolakis) was a Human Rights Act 1993 proceeding by Mrs Apostolakis against three defendants. The claim was struck out against all the defendants. The Tribunal considered that Mrs Apostolakis' claim was without merit or justification. In particular, the statement of claim was found to have been incoherent. The Tribunal determined that costs consequences were appropriate, and an award of costs was made against Mrs Apostolakis in the sum of $6,000."
+                },
+                {
+                  "title": "[8.2]",
+                  "content": "Kapiarumala v New Zealand Catholic Bishops Conference (Costs) [2018] NZHRRT 24 (Kapiarumala) was a claim under the Human Rights Act 1993 which was struck out by the Tribunal as it was “hopelessly misconceived and bound to fail\". The defendants applied for costs. The Tribunal determined Mr Kapiarumala had \"full knowledge his claim lacked merit and had no reasonable prospect of success\". Mr Kapiarumala was ordered to pay $36,000 to the four defendants."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Apostolakis v Attorney-General No. 3 (Costs) [2019] NZHRRT 11 (Apostolakis)",
+                  "context": "Example of a strike-out application where costs were awarded."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993",
+                  "context": "Legal basis for the claims in the example cases."
+                },
+                {
+                  "type": "case",
+                  "reference": "Kapiarumala v New Zealand Catholic Bishops Conference (Costs) [2018] NZHRRT 24 (Kapiarumala)",
+                  "context": "Example of a strike-out application where costs were awarded."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "Conversely, the most recent claims where the Tribunal has refused an award of costs were summarised earlier this year in Fisher at [11]. The most relevant is Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 (Lohr). In Lohr at [6.7]",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Fisher",
+                  "context": "Summarizing recent claims where costs were refused."
+                },
+                {
+                  "type": "case",
+                  "reference": "Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 (Lohr)",
+                  "context": "As a relevant example of refusing costs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE APPLICATION FOR COSTS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "the Tribunal noted Mr Lohr had not been a model litigant but accepted that while Mr Lohr was ultimately unsuccessful there was no other forum in which he could test ACC's withholding decision. Accordingly, the Tribunal decided it would not award costs against Mr Lohr. In both Lohr and Fisher the Tribunal noted it should not use its discretion to award costs in a manner which might deter litigants from utilising Tribunals.",
+              "page": 3
+            },
+            {
+              "number": "[10]",
+              "content": "EML submits that it should be entitled to costs as it was “wholly successful” and Ms Watson was on notice of the jurisdiction difficulties which ultimately resulted in her claim being struck out. These concerns had been expressed in a letter from the Privacy Commissioner to the Tribunal dated 21 December 2018.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "EML submits that the claim was devoid of merit and therefore similar to Orlov v Ministry of Justice and the Attorney-General [2009] NZHRRT 28 (Orlov), Koyama v New Zealand Law Society [2013] NZHRRT 22 (Koyama) and Apostolakis, with the result costs consequences should apply.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Orlov v Ministry of Justice and the Attorney-General [2009] NZHRRT 28 (Orlov)",
+                  "context": "As an example of a claim devoid of merit where costs were applied."
+                },
+                {
+                  "type": "case",
+                  "reference": "Koyama v New Zealand Law Society [2013] NZHRRT 22 (Koyama)",
+                  "context": "As an example of a claim devoid of merit where costs were applied."
+                },
+                {
+                  "type": "case",
+                  "reference": "Apostolakis",
+                  "context": "As an example of a claim devoid of merit where costs were applied."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "It is the Tribunal's view that Ms Watson's conduct throughout this proceeding has been appropriate and arguable submissions were presented. This is different from Apostolakis, where, as discussed at [8.1] above the claim was without merit and the statement of claim was incoherent. Orlov and Koyama also confirm that if a litigant presents their case irresponsibly they are in danger of an adverse costs award. These cases are however of limited relevance to the facts of this case, as Ms Watson's claim was presented appropriately. These cases also pre-date Andrews which is the basis for the Tribunal's current approach to costs.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Apostolakis",
+                  "context": "To differentiate the present case from a case without merit."
+                },
+                {
+                  "type": "case",
+                  "reference": "Orlov",
+                  "context": "As a case confirming adverse costs for irresponsible litigation, but distinguished from the present case."
+                },
+                {
+                  "type": "case",
+                  "reference": "Koyama",
+                  "context": "As a case confirming adverse costs for irresponsible litigation, but distinguished from the present case."
+                },
+                {
+                  "type": "case",
+                  "reference": "Andrews",
+                  "context": "As the basis for the Tribunal's current approach to costs, noting other cited cases pre-date it."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "Ultimately the basis upon which EML submits it should be awarded costs is because it was successful and because Ms Watson was made aware by the Privacy Commissioner of jurisdictional difficulties with her claim.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "However, this Tribunal is the only forum for a party to challenge decisions of the Privacy Commissioner and claims do routinely challenge its decisions. Accordingly, while in some circumstances it may be appropriate to award costs against a party on the basis that they were already on notice of jurisdiction concerns, this is not the case in Ms Watson's claim for the reasons detailed above.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "As is clear from Apostolakis and Kapiarumala the Tribunal will award costs where the conduct of the unsuccessful party has been inappropriate and/or devoid of merit. In Ms Watson's case arguable submissions were made, albeit they were not accepted by the Tribunal. There were no concerns with Ms Watson's conduct.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Apostolakis",
+                  "context": "To establish the principle of awarding costs for inappropriate conduct or claims devoid of merit."
+                },
+                {
+                  "type": "case",
+                  "reference": "Kapiarumala",
+                  "context": "To establish the principle of awarding costs for inappropriate conduct or claims devoid of merit."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "Ms Watson's actions were not vexatious, nor did she seek to delay or create difficulties for the Tribunal or the defendant. This is a situation where a plaintiff filed a claim that she considered was within this Tribunal's jurisdiction and has raised substantive arguments to support this view. While those arguments were rejected by the Tribunal, as discussed above, this does not necessarily mean costs should be awarded against her.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "The application for costs is dismissed.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Watson v Employers Mutual Limited (Costs) [2020] NZHRRT 40.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

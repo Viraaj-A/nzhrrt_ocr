@@ -1,0 +1,210 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2015_NZHRRT_42.pdf",
+    "total_pages": 2,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 42,
+      "case_metadata": {
+        "decision_number": "[2015] NZHRRT 42",
+        "reference_number": "HRRT 012/2013",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Dunedin",
+        "hearing_date": "12 and 13 November 2014",
+        "decision_date": "11 September 2015",
+        "case_title": "GORDON HENRY HOLMES v HOUSING NEW ZEALAND CORPORATION",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS APPLICATION BY PLAINTIFF",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "GORDON HENRY HOLMES",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "HOUSING NEW ZEALAND CORPORATION",
+            "role": "DEFENDANT",
+            "type": "Corporation"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        },
+        {
+          "name": "Ms ST Scott",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr GH Holmes",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms CP Paterson",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL ON COSTS APPLICATION BY PLAINTIFF",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In a decision given on 11 August 2015 (Holmes v Housing New Zealand Corporation [2015] NZHRRT 36) a declaration was made that Housing New Zealand Corporation interfered with the privacy of Mr Holmes by refusing to make personal information available to him in response to a request of 27 March 2012 for access to that information. In addition, damages of $400 were awarded for injury to feelings. Costs were reserved.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Holmes v Housing New Zealand Corporation [2015] NZHRRT 36",
+                  "context": "Referring to the substantive decision of the case for which costs are now being decided."
+                }
+              ],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[2]",
+              "content": "In submissions dated 21 August 2015 Mr Holmes offered an “estimated figure” of $150 for the disbursements incurred by him.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[3]",
+              "content": "In submissions dated 7 September 2015 Ms Paterson pointed out the volume of material involved in the hearing was small and that while Mr Holmes had undoubtedly incurred expenses, the claimed figure of $150 was excessive. Housing New Zealand Corporation accept $100 would be appropriate to cover Mr Holmes' disbursements.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "As a litigant in person Mr Holmes is not entitled to costs as such but is entitled to disbursements which can be substantiated.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[5]",
+              "content": "It is understandable Mr Holmes cannot produce receipts for each item copied or for his postage costs. An estimate is necessary.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[6]",
+              "content": "We agree with Housing New Zealand Corporation that the $150 claimed by Mr Holmes is excessive.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[7]",
+              "content": "In view of the fact Housing New Zealand Corporation accepts $100 is appropriate to cover Mr Holmes' disbursements, that is our award.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Order",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Housing New Zealand Corporation is ordered to pay Mr Holmes costs of $100.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Ms ST Scott",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

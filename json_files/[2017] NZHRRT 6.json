@@ -1,0 +1,321 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 4,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2017] NZHRRT 6",
+        "reference_number": "HRRT 091/2016",
+        "court_tribunal": "Human Rights Review Tribunal",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "17 February 2017",
+        "case_title": "Director of Human Rights Proceedings v Attorney-General (Application for Non-Publication Orders)",
+        "legal_basis": "The Privacy Act 1993",
+        "decision_type": "Decision of Chairperson on Application for Interim Order Prohibiting Publication of Name, Address, Occupation and Identifying Particulars of the Aggrieved Person and of his Step-Daughter",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF HUMAN RIGHTS PROCEEDINGS",
+            "role": "Plaintiff",
+            "type": ""
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ATTORNEY-GENERAL",
+            "role": "Defendant",
+            "type": ""
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr R Kee",
+          "representing": "Director of Human Rights Proceedings"
+        },
+        {
+          "counsel": "Ms D Harris",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "When these proceedings were filed on 22 December 2016 the Director of Human Rights Proceedings simultaneously sought an interim order suppressing the names and identifying details of the aggrieved person and of the aggrieved person's step-daughter.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "It is apparent from the statement of reply filed on 7 February 2017 that the Director's allegations against the New Zealand Police will be defended on substantive grounds. As no case management conference has yet been convened it can be expected final resolution of the case is some distance in the future.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "As to the application for suppression orders, Ms Harris by memorandum dated 14 February 2017 advised the New Zealand Police will abide the decision of the Tribunal and the Attorney-General does not wish to be heard.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The proper defendant",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "In the proceedings originally filed by the Director the defendant was described as “The New Zealand Police”.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "In the statement of reply it is pleaded the Attorney-General should be substituted as the properly named defendant on behalf of the New Zealand Police. This is because although the New Zealand Police is an instrument of the Crown (s 7 of the Policing Act 2008), there is no enactment that gives the New Zealand Police the power to sue or which enables it to be sued. The Crown Proceedings Act 1950, s 14(2) provides that in such circumstances the appropriate Crown defendant is the Attorney-General. The statement of reply goes on to state that the Attorney-General consents to being joined as a party to these proceedings.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Policing Act 2008, s 7",
+                  "context": "Cited to establish that the New Zealand Police is an instrument of the Crown."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Crown Proceedings Act 1950, s 14(2)",
+                  "context": "Cited to establish that the appropriate Crown defendant is the Attorney-General when an enactment does not give a government department the power to sue or be sued."
+                }
+              ]
+            },
+            {
+              "number": "[6]",
+              "content": "In these circumstances I direct that the Attorney-General be substituted as the properly named defendant on behalf of the New Zealand Police.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The application for name suppression",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "By memorandum dated 3 February 2017 the Director says that in its amended form the application for interim suppression orders is based on the following circumstances:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[7.1]",
+                  "content": "The aggrieved person was charged with sexual offending against his step-daughter. He was found not guilty on some charges and discharged on others."
+                },
+                {
+                  "title": "[7.2]",
+                  "content": "Some time later the aggrieved person authorised his employer to apply to the New Zealand Police for a vetting clearance required to allow the aggrieved person access to certain premises."
+                },
+                {
+                  "title": "[7.3]",
+                  "content": "The Police Vetting Service used an “electronic red stamp” process which stated, in effect, \"It is recommended the vetted individual does not have unsupervised access to children, young people or more vulnerable members of society\"."
+                },
+                {
+                  "title": "[7.4]",
+                  "content": "As a consequence the aggrieved person's employment was terminated. Being unable to obtain further employment he set up his own business."
+                },
+                {
+                  "title": "[7.5]",
+                  "content": "The Director's proceedings do not challenge the validity of the “electronic red stamp\" process. Rather the contention is that in this particular case, when considering issuing the \"red stamp\" statement, the Police needed to ensure that the information it relied upon was fit for that purpose in terms of information privacy Principle 8, and that it failed to do so."
+                },
+                {
+                  "title": "[7.6]",
+                  "content": "The name and reputation of the aggrieved person are critical to the ongoing success of his business. He is concerned that if his name were to be published along with the allegations of sexual offending, his business would be at risk of failing."
+                },
+                {
+                  "title": "[7.7]",
+                  "content": "The aggrieved person's step-daughter maintains regular contact with the aggrieved person and his wife (the step-daughter's natural mother). This includes visiting the aggrieved person's home frequently. Consequently publication of the aggrieved person's identity is likely to lead to the identification of the step-daughter as the complainant in the sexual offending referred to earlier."
+                },
+                {
+                  "title": "[7.8]",
+                  "content": "The identity of the step-daughter is protected by s 139 of the Criminal Justice Act 1985. No application having been made by her under s 139(1)(b), the prohibition on publication of the step-daughter's name continues to apply."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Section 95(1) of the Human Rights Act 1993 (which applies to proceedings under the Privacy Act 1993 by virtue of s 89 of the latter Act) confers on the Chairperson of the Tribunal discretionary power to make an interim order if he or she is “satisfied” that it is “necessary” in the “interests of justice” to preserve the position of the parties:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, Section 95(1)",
+                  "context": "Confers power on the Chairperson to make an interim order."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, Section 89",
+                  "context": "Applies section 95(1) of the Human Rights Act 1993 to proceedings under the Privacy Act 1993."
+                }
+              ],
+              "quoted_material": {
+                "source": "95 Power to make interim order",
+                "content": "(1) In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings."
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The determinative point in the present case is that the step-daughter is the beneficiary of a statutory prohibition against publication of her name. That prohibition is contained in the then s 139 of the Criminal Justice Act 1985. At the time, that provision relevantly provided:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Criminal Justice Act 1985, s 139",
+                  "context": "Provides statutory prohibition against publication of the name of a complainant in certain sexual offence cases."
+                }
+              ],
+              "quoted_material": {
+                "source": "Criminal Justice Act 1985, s 139",
+                "content": "(1) No person shall publish, in any report or account relating to any proceedings commenced in any court in respect of an offence against any of sections 128 to 142A of the Crimes Act 1961, or in respect of an offence against section 144A of that Act, the name of any person upon or with whom the offence has been or is alleged to have been committed, or any name or particulars likely to lead to the identification of that person"
+              }
+            },
+            {
+              "number": "[10]",
+              "content": "It is apparent from the judgment of Harrison J in X v New Zealand Police CRI-2005-404-430, 12 May 2006 that this provision had application to the circumstances of the charges faced by the aggrieved person, he being the appellant in that case after being refused name suppression in the District Court. In allowing the aggrieved person's appeal Harrison J stated:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "X v New Zealand Police CRI-2005-404-430, 12 May 2006",
+                  "context": "Cited as a case where section 139 of the Criminal Justice Act 1985 was applied to similar circumstances."
+                }
+              ],
+              "quoted_material": {
+                "source": "X v New Zealand Police CRI-2005-404-430, 12 May 2006",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[8]",
+                    "content": "I am in no doubt that publication of X's name will inevitably lead to the complainant's identification. She has lived with her mother and X for most of her life. Together they have formed one family unit. They will know or be known to other family members, neighbours, and the wider community. Ms Dowgray relies on the facts that the complainant has a different surname, is living in a geographically remote part of the country, and an order for publication could properly suppress details of the complainant's name. However, I am not satisfied that any or all of those factors will be effective. The complainant's surname and present whereabouts are irrelevant to those who know and can identify her through her relationship with X. Publication of X's name coupled with an order suppressing the nature of his relationship with the complainant will lead those who know them to infer from her prolonged absence that she is in fact the complainant."
+                  },
+                  {
+                    "identifier": "[9]",
+                    "content": "On this ground alone the appeal must be allowed."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "While the suppression order made by Harrison J continued only until the date of the commencement of the trial, the logic of the decision continues to apply to the circumstances of the aggrieved person and his step-daughter.",
+              "page": 4
+            },
+            {
+              "number": "[12]",
+              "content": "The derivative protection conferred on accused persons was also referred to in Director of Human Rights Proceedings v Sensible Sentencing Group Trust (Application for Interim Non-Publication Orders) [2013] NZHRRT 14 at [50].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Sensible Sentencing Group Trust (Application for Interim Non-Publication Orders) [2013] NZHRRT 14 at [50]",
+                  "context": "Cited as referring to the derivative protection conferred on accused persons."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "The statutory protection which continues to apply to the step-daughter (and through her, to the aggrieved person) makes it unnecessary to apply the principles which apply to “ordinary” suppression applications. Those principles were recently addressed in Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4. It is beyond doubt the governing principle of open justice can be overridden by statute, as has happened in the present case.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4",
+                  "context": "Cited as a recent case addressing principles of ordinary suppression applications."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "The application for interim orders is accordingly granted.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[15]",
+              "content": "Pursuant to ss 95 and 107(3)(b) of the Human Rights Act 1993 and s 89 of the Privacy Act 1993 the following orders are made:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[15.1]",
+                  "content": "Publication of the name, address, occupation and of any other details which might lead to the identification of the aggrieved person in these proceedings is prohibited pending further order of the Tribunal or of the Chairperson."
+                },
+                {
+                  "title": "[15.2]",
+                  "content": "Publication of the name, address, occupation and of any other details which might lead to the identification of the step-daughter of the aggrieved person in these proceedings is prohibited pending further order of the Tribunal or of the Chairperson."
+                },
+                {
+                  "title": "[15.3]",
+                  "content": "There is to be no search of the Tribunal file without leave of the Tribunal or of the Chairperson."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, ss 95 and 107(3)(b)",
+                  "context": "Cited as the legal basis for making the formal orders."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 89",
+                  "context": "Cited as the legal basis for making the formal orders."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "The Attorney-General is substituted as the properly named defendant on behalf of the New Zealand Police.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Director of Human Rights Proceedings v Attorney-General (Application for Non-Publication Orders) [2017] NZHRRT 6]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

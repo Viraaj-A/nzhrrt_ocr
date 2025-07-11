@@ -1,0 +1,414 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 6,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2017] NZHRRT 24",
+        "reference_number": "HRRT 058/2016",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WHANGANUI",
+        "hearing_date": "22 June 2017",
+        "decision_date": "11 July 2017",
+        "case_title": "Tai Rakena v Corrections",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 6
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "MICHAEL ΤΑΙ RAKEΝΑ",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CHIEF EXECUTIVE, DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr R K Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr B K Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr M Tai Rakena",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms V McCall and Ms G Taylor",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "BACKGROUND",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "As the central facts of this case are not in dispute, they can be shortly stated.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "In October 2015 Mr Tai Rakena was serving a sentence of imprisonment at Rimutaka Prison. On or about 29 October 2015 he made a request to the Health Centre for access to his medical notes for the period 20 July 2015 to 1 August 2015. In compliance with that request the Centre printed two sheets of A4 paper containing the requested information.",
+              "page": 1
+            },
+            {
+              "number": "[3]",
+              "content": "At approximately 9:00am on 29 October 2015 a nurse checked the location of Mr Tai Rakena's cell so that the notes could be delivered to him in the course of the afternoon medication round. Unfortunately, in the period of time between that check and the afternoon round, Mr Tai Rakena was moved to a different cell. Consequently, when the notes were given to the prisoner then occupying the cell in question, they were handed to the wrong person. During the morning medication round the next day the prisoner returned the two sheets of paper.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "On 5 November 2015 Ms J Shand, Health Centre Manager at Rimutaka Prison, met with Mr Tai Rakena and disclosed that the two page extract from his medical notes had been inadvertently given to another prisoner. Ms Shand acknowledged this was a breach of Mr Tai Rakena's privacy and offered a full apology for what had occurred. Ms Shand believes Mr Tai Rakena accepted the apology at that time as he said in response “That's okay”.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "At that meeting Ms Shand gave to Mr Tai Rakena a copy of the two pages in question. She further advised him that she had modified the Health Centre's processes for dealing with requests for medical notes so that in future the nurse handing out the notes would require the patient to confirm his name and obtain a signed receipt before handing over the information. This change was intended to remedy the defect in the system which had led to the breach of Mr Tai Rakena's privacy and make it unlikely a similar breach could occur in future.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Mr Tai Rakena did not raise the issue again until some seven months later when on 28 May 2016 he wrote to the Health and Disability Commissioner about other concerns relating to his health treatment in prison. The privacy breach and the subsequent meeting with Ms Shand were mentioned as a “PS”:",
+              "page": 2,
+              "quoted_material": {
+                "source": "",
+                "content": "PS I would also like to point out that my privacy was breached October November 2015 when the health staff forwarded some information that was meant for me to another prisoner's cell. The Head of Staff came to see me about. I thought nothing of it at the time but now I feel a wrong needs to be made right."
+              }
+            },
+            {
+              "number": "[7]",
+              "content": "The Health and Disability Commissioner on 13 June 2016 referred the complaint to Ms Shand as the Commissioner considered Rimutaka Prison Health Services best placed to respond.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "On 29 June 2016 Mr Tai Rakena filed a prisoner complaint (PC.01) form requesting an apology in writing, an explanation of how the breach had occurred and a guarantee it would not occur again. By letter dated 13 July 2016 Ms Shand, responding to the various matters raised by Mr Tai Rakena with the Health and Disability Commissioner, addressed also the privacy breach, apologising in writing for what had happened:",
+              "page": 2,
+              "quoted_material": {
+                "source": "",
+                "content": "In regards to the issue that you raised regarding your Privacy Breach I met with you in October 2015 and explained to you what had happened and what measures had been put in place following this I also offered you an apology which you accepted at that time. I further offer my apology for any distress caused by the accidental delivery of some information that pertained to your health care to another prisoner in October 2015. As I explained to you this matter was rectified very quickly when we discovered the mistake and I informed you of this immediately."
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "Mr Tai Rakena has refused to accept the apology because it does not comply with his \"requirements” which include (inter alia) that it be in both English and Māori, that his name should be in red capital letters, that the word \"sorry” be used three times, that the letter acknowledge “incompetence”, that it must say “sorry from the bottom of our heart” and end with \"yours sincerely\", and that it must not be stamped with \"Prisoner Copy”.",
+              "page": 2
+            },
+            {
+              "number": "[10]",
+              "content": "The volume and nature of Mr Tai Rakena's complaints regarding the apology became such that they resulted in a misconduct charge, a formal caution and ultimately his transfer to Whanganui Prison. Mr Tai Rakena also filed complaints with the Privacy Commissioner about the form of apology, those complaints being lodged in July and August 2016.",
+              "page": 2
+            },
+            {
+              "number": "[11]",
+              "content": "By statement of claim dated 9 September 2016 (filed 15 September 2016) Mr Tai Rakena instituted the present proceedings under the Privacy Act 1993. He alleges the circumstances just described amount to an interference with his privacy. The Tribunal is asked to order the Chief Executive, Department of Corrections to provide Mr Tai Rakena with \"a sincere written apology with my name and date” and to pay damages of $10,000.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Mr Tai Rakena instituted the present proceedings under the Privacy Act 1993."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "By statement of reply dated 26 October 2016 the Chief Executive admits that personal information relating to Mr Tai Rakena's health care was inadvertently disclosed to another prisoner and that that action breached Rule 5 of the Health Information Privacy Code 1994 (HIPC). The Chief Executive does not concede such breach amounted to an interference with Mr Tai Rakena's privacy.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Rule 5 of the Health Information Privacy Code 1994 (HIPC)",
+                  "context": "The defendant admits that the action breached Rule 5 of the Health Information Privacy Code 1994 (HIPC)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LIABILITY - THE LEGAL REQUIRMENTS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[13]",
+              "content": "To obtain a remedy under the Privacy Act it is not sufficient for a plaintiff to establish only that the defendant has breached an information privacy principle (other than Principle 6) or in the present case a breach of the Health Information Privacy Code.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "To obtain a remedy under the Privacy Act it is not sufficient for a plaintiff to establish only that the defendant has breached an information privacy principle..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Health Information Privacy Code",
+                  "context": "or in the present case a breach of the Health Information Privacy Code."
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "Over and above such breach the plaintiff must also establish, to the satisfaction of the Tribunal, that there has been an interference with his or her privacy. The term \"interference with privacy” is defined in s 66 of the Act and requires a plaintiff to establish two essential elements:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[14.1]",
+                  "content": "An action which has breached an information privacy principle or code of practice issued under s 46; and"
+                },
+                {
+                  "title": "[14.2]",
+                  "content": "That the action:"
+                },
+                {
+                  "title": "[14.2.1]",
+                  "content": "Has caused, or may cause, loss, detriment, damage, or injury to that individual; or"
+                },
+                {
+                  "title": "[14.2.2]",
+                  "content": "Has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or"
+                },
+                {
+                  "title": "[14.2.3]",
+                  "content": "Has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66 of the Act",
+                  "context": "The term \"interference with privacy” is defined in s 66 of the Act..."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "The text of s 66 follows. Given the facts of Mr Tai Rakena's case only subs (1) has application.",
+              "page": 3,
+              "quoted_material": {
+                "source": "66 Interference with privacy",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if,-\n(a) in relation to that individual,-\n(i) the action breaches an information privacy principle; or\n(ii) the action breaches a code of practice issued under section 63 (which relates to public registers); or\n(iia) the action breaches an information privacy principle or a code of practice as modified by an Order in Council made under section 96J; or\n(iib) the provisions of an information sharing agreement approved by an Order in Council made under section 96J have not been complied with; or\n(iii) the provisions of Part 10 (which relates to information matching) have not been complied with; and\n(b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action-\n(i) has caused, or may cause, loss, detriment, damage, or injury to that individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "Without limiting subsection (1), an action is an interference with the privacy of an individual if, in relation to an information privacy request made by the individual,—\n(a) the action consists of a decision made under Part 4 or Part 5 in relation to the request, including—\n(i) a refusal to make information available in response to the request; or\n(ii) a decision by which an agency decides, in accordance with section 42 or section 43, in what manner or, in accordance with section 40, for what charge the request is to be granted; or\n(iii) a decision by which an agency imposes conditions on the use, communication, or publication of information made available pursuant to the request; or\n(iv) a decision by which an agency gives a notice under section 32; or\n(v) a decision by which an agency extends any time limit under section 41; or\n(vi) a refusal to correct personal information; and\n(b) the Commissioner or, as the case may be, the Tribunal is of the opinion that there is no proper basis for that decision."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "If, in relation to any information privacy request, any agency fails within the time limit fixed by section 40(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 40(1), that failure shall be deemed, for the purposes of subsection (2)(a)(i) of this section, to be a refusal to make available the information to which the request relates."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "Undue delay in making information available in response to an information privacy request for that information shall be deemed, for the purposes of subsection (2)(a)(i), to be a refusal to make that information available."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "At the risk of repetition, for Mr Tai Rakena to establish liability he must in the context of the present case prove on the balance of probabilities:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[16.1]",
+                  "content": "An action by Corrections which has breached an information privacy principle or a rule in the HIPC; and that"
+                },
+                {
+                  "title": "[16.2]",
+                  "content": "Such breach has resulted in significant humiliation, significant loss of dignity, or significant injury to his feelings."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "If, and only if an interference with privacy as defined in s 66 is established by Mr Tai Rakena does the Tribunal have jurisdiction under ss 84, 85 and 88 to grant a remedy.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66",
+                  "context": "If, and only if an interference with privacy as defined in s 66 is established..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "ss 84, 85 and 88",
+                  "context": "...does the Tribunal have jurisdiction under ss 84, 85 and 88 to grant a remedy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LIABILITY – ASSESSMENT",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Summary of Mr Tai Rakena's Case",
+              "page": 4
+            },
+            {
+              "number": "[18]",
+              "content": "To discharge his burden of proof Mr Tai Rakena relies first, on the concession by Corrections that Rule 5 of the HIPC was breached and second, that the following circumstances establish that that breach resulted in, or may result in, significant humiliation, significant loss of dignity or significant injury to his feelings:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[18.1]",
+                  "content": "The notes mistakenly handed to the wrong prisoner contain health information about Mr Tai Rakena and make reference to the following: that Mr Tai Rakena experienced abuse as a child while in state care, to an alleged assault by a Corrections Officer, that Mr Tai Rakena believes he experiences PTSD and flashbacks and that he has used drugs."
+                },
+                {
+                  "title": "[18.2]",
+                  "content": "Health information is usually regarded as sensitive information, particularly of the kind contained in the two pages of medical notes."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Rule 5 of the HIPC",
+                  "context": "...on the concession by Corrections that Rule 5 of the HIPC was breached..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tribunal Findings",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "The validity of the points made by Mr Tai Rakena must be acknowledged. However, when viewed in context they do not in our view establish he has experienced significant humiliation, significant loss of dignity or significant injury to feelings. Our findings of fact (which take into account the evidence filed by Mr Tai Rakena subsequent to the hearing) are:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[19.1]",
+                  "content": "The medical notes were in the possession of the other prisoner for a period of 24 hours or less."
+                },
+                {
+                  "title": "[19.2]",
+                  "content": "The information in the medical notes is not Mr Tai Rakena's entire medical history. The notes are confined to the period from mid-July 2015 to mid-August 2015. In addition the notes contain no or no meaningful detail of the abuse said to have been experienced by Mr Tai Rakena, of his PTSD, of the nature of his flash backs or of his drug abuse."
+                },
+                {
+                  "title": "[19.3]",
+                  "content": "When the wrongful disclosure was first revealed to Mr Tai Rakena by Ms Shand on 5 November 2015 Mr Tai Rakena responded “That's okay\". In his oral evidence Mr Tai Rakena told the Tribunal that he accepted that he may well have reacted in that way. He said he just wanted to leave the interview as he was processing the information."
+                },
+                {
+                  "title": "[19.4]",
+                  "content": "There was a substantial delay between the meeting with Ms Shand on 5 November 2015 and the 28 May 2016 letter from Mr Tai Rakena to the Health and Disability Commissioner in which, for the first time, he complained of the disclosure of the information. The opening phrase of his letter (“I thought nothing of it at the time ...\") confirms it was not until much later that Mr Tai Rakena changed his stance. This, in turn, must affect the weight the Tribunal gives to the assertion by Mr Tai Rakena that he experienced, to a significant degree, one of the forms of harm listed in s 66(1)(b)(iii)."
+                },
+                {
+                  "title": "[19.5]",
+                  "content": "Mr Tai Rakena told the Tribunal that the prisoner to whom the notes were disclosed had never spoken to him about the incident or about the content of the notes. Indeed, Mr Tai Rakena said he did not even know who the prisoner was. Asked whether anyone had told him that they had seen his medical notes or had heard mention of their content, Mr Tai Rakena said this had never happened but added that it “could happen” in the future. Asked whether he had any evidence which might suggest the information in the medical notes had been provided to others inside or outside the prison, Mr Tai Rakena replied that he did not but believed it may have been disclosed or could be disclosed in the future. In our view this belief can only be described as “optimistic”. It has no factual foundation. Given the length of time which has elapsed since October 2015 Mr Tai Rakena's contention is inherently implausible."
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "In arriving at our determination we emphasise in particular the following:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[20.1]",
+                  "content": "The true measure of Mr Tai Rakena's subjective reaction to the news that the two pages of medical notes had been disclosed to the wrong person has been accurately recorded by Ms Shand in her report of the meeting of 5 November 2015. That is, upon hearing of the disclosure, the explanation and the verbal apology from Ms Shand, Mr Tai Rakena responded “That's okay”. That that was his genuine reaction at the time is reinforced by the terms of his letter dated 28 May 2016 to the Health and Disability Commissioner. Speaking at a distance of seven months he stated, in his own words, “I thought nothing of it at the time...”. We therefore have real difficulty in accepting Mr Tai Rakena's assertion that the interference with his privacy caused significant humiliation, significant loss of dignity or significant injury to his feelings."
+                },
+                {
+                  "title": "[20.2]",
+                  "content": "Mr Tai Rakena's claim is otherwise based on an assertion that first, his notes have been read by another prisoner and second, that that person could possibly have passed the information to others. But it is significant no one has ever said anything to Mr Tai Rakena to suggest the information in the notes went further than the one person to whom they were mistakenly handed by the nurse."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "In these circumstances, while we accept the handing of the medical notes to the wrong person would have caused some injury to Mr Tai Rakena's feelings, we are of the clear view that his actual and genuine reaction at the time fell well short of evidencing \"significant” injury to his feelings or \"significant” humiliation or “significant\" loss of dignity. It was only many months later that he became focussed on and very unhappy about the terms of the apology. This, in turn, has led to a “talking up” of the humiliation, loss of dignity and injury to feelings elements in order to cross the \"significant” threshold.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "For the reasons given we find that while Mr Tai Rakena has established a breach of the Health Information Privacy Code, he has failed by significant margin to satisfy the Tribunal there has been an interference with his privacy as defined in s 66(1) of the Privacy Act.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Health Information Privacy Code",
+                  "context": "Mr Tai Rakena has established a breach of the Health Information Privacy Code"
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 66(1) of the Privacy Act",
+                  "context": "interference with his privacy as defined in s 66(1) of the Privacy Act."
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "As no interference with Mr Tai Rakena's privacy has been established, the proceedings are dismissed.",
+              "page": 6
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr B K Neeson JP",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Tai Rakena v Corrections [2017] NZHRRT 24]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

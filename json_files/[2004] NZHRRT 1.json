@@ -1,0 +1,54 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 1,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 0,
+      "case_metadata": {
+        "decision_number": "",
+        "reference_number": "",
+        "court_tribunal": "",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "",
+        "case_title": "",
+        "legal_basis": "",
+        "decision_type": "",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 1
+        }
+      },
+      "parties": {
+        "plaintiffs": [],
+        "defendants": [],
+        "other_parties": []
+      },
+      "tribunal_members": [],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Evaluation Warning: The document was created with Spire.Doc for Python.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [],
+      "footnotes": []
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 4,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 29",
+        "reference_number": "HRRT 063/2015",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA MANA TANGATA",
+        "jurisdiction": "Wellington",
+        "decision_date": "27 July 2020",
+        "case_title": "Fisher v Foster (Costs)",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS APPLICATION BY DEFENDANT",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "MARY FISHER",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "DR ALISON FOSTER",
+            "role": "DEFENDANT",
+            "type": "Individual"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC ONZM",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms LJ Alaeinia JP",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms M Fisher",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr AH Waalkens QC and Ms HC Stuart",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "BACKGROUND",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By decision dated 19 December 2019 these proceedings were struck out on the grounds that although Ms Fisher had been given several opportunities to cure her severely deficient statement of claim, her claim remained prolix and oppressive and it would be prejudicial to require Dr Foster to respond to it. Costs were reserved. See Fisher v Foster (Strike-Out Application) [2019] NZHRRT 54.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Fisher v Foster (Strike-Out Application) [2019] NZHRRT 54",
+                  "context": "Reference to the decision where proceedings were struck out."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "Dr Foster has now applied for costs. Her actual legal costs are $7,225.00, excluding GST. The amount sought is 50% of those costs, being $3,612.50. By comparison costs calculated under the District Court Rules 2014, Part 14, are said to amount to $4,584.00.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "regulation",
+                  "reference": "District Court Rules 2014, Part 14",
+                  "context": "For comparison of calculated costs."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "It is submitted (not entirely accurately) the general civil litigation principle applies, namely that the party who fails with respect to a proceeding or on an interlocutory application should pay costs to the party who succeeds, provided the award of costs does not exceed the costs incurred by the party claiming costs.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Dr Foster having been wholly cooperative and Ms Fisher having repeatedly failed to comply with clear directions from the Tribunal, it is submitted an order should be made that Ms Fisher pay half of Dr Foster's actual costs.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "In her submissions in opposition Ms Fisher asserts that, contrary to the finding made by the Tribunal, she had in fact sufficiently particularised her allegations against Dr Foster. This is not a tenable submission given the terms of the Tribunal's decision delivered on 19 December 2019.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "However, while the submissions made by Ms Fisher are characteristically rambling in content, Ms Fisher does make one important point, namely that she believed the Tribunal was “the rightful place to bring this case rather than elsewhere”. We return to this point shortly.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "THE LAW",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The Tribunal's power to award costs in respect of proceedings under the Privacy Act 1993 is conferred by s 85(2) of that Act:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 85(2)",
+                  "context": "Confers the Tribunal's power to award costs."
+                }
+              ],
+              "quoted_material": {
+                "source": "85 Powers of Human Rights Review Tribunal",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(2)",
+                    "content": "In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Some general principles",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "The principles to be applied were reviewed in Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews). For the purpose of the present case we mention only the following:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Andrews [2015] NZHC 745, [2015] 3 NZLR 515 (Andrews)",
+                  "context": "Review of principles to be applied."
+                }
+              ]
+            },
+            {
+              "number": "[8.1]",
+              "content": "A flexible approach can be taken by the Tribunal to costs. See Andrews [60].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [60]",
+                  "context": "Supports a flexible approach to costs."
+                }
+              ]
+            },
+            {
+              "number": "[8.2]",
+              "content": "There must be caution about applying the conventional civil costs regime in the Tribunal's jurisdiction. See Andrews [61].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [61]",
+                  "context": "Urges caution in applying conventional civil costs regime."
+                }
+              ]
+            },
+            {
+              "number": "[8.3]",
+              "content": "The Tribunal has broad powers to do justice even if this means departing from the conventional rules applying to civil proceedings. See Andrews [62].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [62]",
+                  "context": "Confirms the Tribunal's broad powers to do justice."
+                }
+              ]
+            },
+            {
+              "number": "[8.4]",
+              "content": "The purpose of a costs order is not to punish an unsuccessful party. Access to the Tribunal should not be unduly deterred. See Andrews [62] and [63].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [62] and [63]",
+                  "context": "Explains the purpose of a costs order is not punitive."
+                }
+              ]
+            },
+            {
+              "number": "[8.5]",
+              "content": "Ordinarily, the Tribunal should not allow the prospect of an adverse award of costs to discourage a party from bringing proceedings (if a plaintiff) or from defending proceedings (if a defendant). See Andrews [80] and Heather v IDEA Services Ltd (Costs) [2012] NZHRRT 11.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [80]",
+                  "context": "Discourages adverse costs awards that deter parties from proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "Heather v IDEA Services Ltd (Costs) [2012] NZHRRT 11",
+                  "context": "Discourages adverse costs awards that deter parties from proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[8.6]",
+              "content": "Nevertheless, some claims in the Tribunal should have costs consequences. See Andrews [65].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [65]",
+                  "context": "Acknowledges some claims should have costs consequences."
+                }
+              ]
+            },
+            {
+              "number": "[8.7]",
+              "content": "While litigants in person face special challenges and are to be allowed some latitude, they do not enjoy immunity from costs, especially where there has been needless, inexcusable conduct which has added to the difficulty and cost of the proceedings. See Andrews [65] and [68]. See also Rafiq v Commissioner of Inland Revenue (Costs) [2013] NZHRRT 30, Rafiq v Commissioner of Police (Costs) [2013] NZHRRT 31 and Apostolakis v Attorney-General No. 3 (Costs) [2019] NZHRRT 11 (Apostolakis No. 3).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [65] and [68]",
+                  "context": "Litigants in person do not have immunity from costs for inexcusable conduct."
+                },
+                {
+                  "type": "case",
+                  "reference": "Rafiq v Commissioner of Inland Revenue (Costs) [2013] NZHRRT 30",
+                  "context": "Example case regarding costs for litigants in person."
+                },
+                {
+                  "type": "case",
+                  "reference": "Rafiq v Commissioner of Police (Costs) [2013] NZHRRT 31",
+                  "context": "Example case regarding costs for litigants in person."
+                },
+                {
+                  "type": "case",
+                  "reference": "Apostolakis v Attorney-General No. 3 (Costs) [2019] NZHRRT 11 (Apostolakis No. 3)",
+                  "context": "Example case regarding costs for litigants in person."
+                }
+              ]
+            },
+            {
+              "number": "[8.8]",
+              "content": "On the other hand, understanding and compassion are equally important. See Andrews [80] as well as Meek v Ministry of Social Development [2013] NZHRRT 28 and Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31 which was upheld on appeal in Commissioner of Police v Andrews [2015] NZHC 745 at [65], [68] and [73] to [74]. Reference should also be made to Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 (Lohr) at [7] and [13] to [16].",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews [80]",
+                  "context": "Stresses the importance of understanding and compassion."
+                },
+                {
+                  "type": "case",
+                  "reference": "Meek v Ministry of Social Development [2013] NZHRRT 28",
+                  "context": "Example case emphasizing understanding and compassion."
+                },
+                {
+                  "type": "case",
+                  "reference": "Andrews v Commissioner of Police (Costs) [2014] NZHRRT 31",
+                  "context": "Example case emphasizing understanding and compassion."
+                },
+                {
+                  "type": "case",
+                  "reference": "Commissioner of Police v Andrews [2015] NZHC 745 at [65], [68] and [73] to [74]",
+                  "context": "Upholding the importance of understanding and compassion on appeal."
+                },
+                {
+                  "type": "case",
+                  "reference": "Lohr v Accident Compensation Corporation (Costs) [2016] NZHRRT 36 (Lohr) at [7] and [13] to [16]",
+                  "context": "Further reference for understanding and compassion."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "In Lohr at [6.7] it was noted that apart from the Human Rights Review Tribunal, there is no other forum or mechanism for a plaintiff to test an agency's compliance with the Privacy Act. Judicial review does not provide a merits review of the kind available before the Tribunal and is a remedy which for most lay litigants is beyond their personal and financial resources. It is therefore essential that the Tribunal does not use its discretion to award costs in a manner which might deter lay litigants (and, for that matter, those represented by a lawyer) from the inexpensive and accessible form of justice which is the hallmark and strength of a tribunal. Simply expressed, the Tribunal must preserve meaningful access to justice.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lohr at [6.7]",
+                  "context": "Highlights the Tribunal's unique role in testing agency compliance with the Privacy Act and the need to preserve access to justice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Preserving access to justice",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The Tribunal sees a range of litigants and types of cases. In a significant number of cases one or both parties is self-represented. Although numbers fluctuate, the percentage range for self-represented litigants is presently between 60% and 75%. As acknowledged in Andrews at [57], the Tribunal is therefore able to see and recognise the importance of access to justice that its jurisdiction can provide and the consequences of adverse costs awards being made too readily.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews at [57]",
+                  "context": "Acknowledges the Tribunal's recognition of the importance of access to justice."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "Consequently adverse awards were declined in such cases as:",
+              "page": 3
+            },
+            {
+              "number": "[11.1]",
+              "content": "Meek v Ministry of Social Development [2013] NZHRRT 28. The plaintiff's state of health was fragile and he was described as being in need of understanding and compassion.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Meek v Ministry of Social Development [2013] NZHRRT 28",
+                  "context": "Example case where adverse costs were declined due to plaintiff's health and need for compassion."
+                }
+              ]
+            },
+            {
+              "number": "[11.2]",
+              "content": "Scarborough v Kelly Services (NZ) Ltd (Costs) [2016] NZHRRT 3. The plaintiff had a mental disability which accounted for the manner in which her case had been conducted.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Scarborough v Kelly Services (NZ) Ltd (Costs) [2016] NZHRRT 3",
+                  "context": "Example case where adverse costs were declined due to plaintiff's mental disability."
+                }
+              ]
+            },
+            {
+              "number": "[11.3]",
+              "content": "McCreath v Attorney-General (Costs) [2016] NZHRRT 4. The plaintiff was serving a custodial sentence, was a recidivist dishonesty offender and there was no possibility of any order being paid. Andrews was another such case.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "McCreath v Attorney-General (Costs) [2016] NZHRRT 4",
+                  "context": "Example case where adverse costs were declined due to plaintiff's circumstances (custodial sentence, inability to pay)."
+                },
+                {
+                  "type": "case",
+                  "reference": "Andrews",
+                  "context": "Cited as another similar case."
+                }
+              ]
+            },
+            {
+              "number": "[11.4]",
+              "content": "Lohr where the Tribunal recognised that although Mr Lohr had not been a model litigant there is no forum other than the Tribunal in which a plaintiff can obtain an independent review of an agency's decision to withhold personal information.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lohr",
+                  "context": "Example case where adverse costs were declined to preserve access to the only available forum for review."
+                }
+              ]
+            },
+            {
+              "number": "[11.5]",
+              "content": "Director of Human Rights Proceedings v Slater (Costs) [2019] NZHRRT 22. This was a test case on a novel but important point.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Slater (Costs) [2019] NZHRRT 22",
+                  "context": "Example case where adverse costs were declined as it was a test case."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application of the law to the facts",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "At the risk of repetition, the decision in Andrews at [61] recognised the Tribunal is right to be cautious about applying the conventional civil costs regime to its jurisdiction. Statutory tribunals exist to provide simpler, speedier, more affordable and more accessible justice than do the ordinary courts. The imposition of fees to bring a claim (which the Tribunal has successfully resisted to date) and the imposition of adverse costs orders would undermine the affordability and accessibility long recognised as important advantages of tribunals over courts.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews at [61]",
+                  "context": "Reinforces the need for caution in applying conventional civil costs regime to protect the accessible nature of tribunals."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "As a litigant in person Ms Fisher has failed to appreciate the jurisdiction of the Tribunal over her case is confined to IPP 6 and more fundamentally, that a prolix and oppressive statement of claim must either be amended or face being struck out.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "It is understandable that Dr Foster should wish Ms Fisher to pay a contribution to her costs.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "But as recognised in Andrews at [57], [61] and [65] there must be caution about applying the conventional civil costs regime to the Tribunal's jurisdiction. It is often difficult for claimants to understand the merits of their claim in any legal sense. There is a wider interest in allowing them access to a determination before the Tribunal even if the claim is without merit in a legal sense (Andrews at [65]). It is in this context we return to Ms Fisher's point about her belief that the Tribunal was the proper forum to which her complaint should be brought. Such belief resonates with the 'wider interest' referred to in Andrews and recognised in the cases cited above, particularly Lohr.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Andrews at [57], [61] and [65]",
+                  "context": "Reiterates the need for caution in applying civil costs and the wider interest in allowing access to determination."
+                },
+                {
+                  "type": "case",
+                  "reference": "Lohr",
+                  "context": "A case that recognised the 'wider interest' of access to the Tribunal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[16]",
+              "content": "Our conclusion is that while Ms Fisher has not been a model litigant her failings are characteristic of a litigant in person and do not justify an adverse award of costs. Her failings are of a lesser degree than those evidenced in Apostolakis No. 3. She should not, however, feel encouraged by our decision. Any further proceedings against Dr Foster are likely to be met by an application by Dr Foster for Ms Fisher to pay her (Dr Foster's) legal costs in full. Access to courts and tribunals must be balanced against the desirability of freeing defendants from the burden of groundless litigation. See for example the analogous decision in Heenan v Attorney-General [2011] NZCA 9, [2011] NZAR 200 at [22].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Apostolakis No. 3",
+                  "context": "Comparison case for the degree of failings of a litigant."
+                },
+                {
+                  "type": "case",
+                  "reference": "Heenan v Attorney-General [2011] NZCA 9, [2011] NZAR 200 at [22]",
+                  "context": "Analogous decision regarding balancing access to courts with freeing defendants from groundless litigation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DECISION",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "In these circumstances the application for costs is dismissed.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC ONZM",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms LJ Alaeinia JP",
+          "role": "Member"
+        },
+        {
+          "name": "Dr JAG Fountain",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Fisher v Foster (Costs) [2020] NZHRRT 29.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

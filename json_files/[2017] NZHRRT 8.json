@@ -1,0 +1,302 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 3,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2017] NZHRRT 8",
+        "reference_number": "HRRT 017/2013",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AUCKLAND",
+        "hearing_date": "21, 22, 23 and 24 July 2014",
+        "decision_date": "10 March 2017",
+        "case_title": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "MINUTE OF CHAIRPERSON",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "LOUISA HARERUIA WALL",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "FAIRFAX NEW ZEALAND LIMITED",
+            "role": "First Defendant",
+            "type": "Company"
+          },
+          {
+            "name": "THE MARLBOROUGH EXPRESS",
+            "role": "Second Defendant",
+            "type": "Company"
+          },
+          {
+            "name": "THE CHRISTCHURCH PRESS",
+            "role": "Third Defendant",
+            "type": "Company"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "Human Rights Commission",
+            "role": "intervener"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Member"
+        },
+        {
+          "name": "Mr MJM Keefe JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms PJ Kapua",
+          "representing": "plaintiff"
+        },
+        {
+          "counsel": "Mr RKP Stewart",
+          "representing": "defendants"
+        },
+        {
+          "counsel": "Ms SA Bell and Mr MJV White",
+          "representing": "Human Rights Commission as intervener"
+        }
+      ],
+      "sections": [
+        {
+          "title": "MINUTE OF CHAIRPERSON RESPONDING TO JOINT MEMORANDUM OF COUNSEL¹",
+          "page_start": 1,
+          "paragraphs": []
+        },
+        {
+          "title": "Introduction",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By memorandum dated 3 March 2017 Ms Kapua and Mr Stewart complain of the long delay in the publication of a decision in these proceedings. That complaint is fully justified.",
+              "page": 2
+            },
+            {
+              "number": "[2]",
+              "content": "There are two reasons for the delay. First, an unprecedented increase in the Tribunal's workload and second, the fact that the Human Rights Act 1993 does not allow the appointment of a deputy chair to assist the Chairperson to keep pace with the large inflow of new cases.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "The increase in workload",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "The volume of new cases filed with the Tribunal over the past two calendar years has increased substantially:",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "As a consequence of this influx there were 120 active files as at 28 February 2017, each requiring hands-on management by the Chairperson. The resulting increase in workload is reflected in the number of case management teleconferences held and in the number of Minutes issued:",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Apart from the sharp numerical increase in the number of files requiring management (and the allocation of a hearing date), the workload of the Tribunal (particularly that of the Chairperson) has been added to by two further factors. First, the growing complexity of the issues litigated. See for example Heads v Attorney-General [2015] NZHRRT 12, (2015) 10 HRNZ 203 and Adoption Action Inc v Attorney-General [2016] NZHRRT 9, [2016] 10 HRNZ 622. On average, the present norm is for hearings to take between three and five days. Second, the steep increase in the number of cases in which one or more of the parties is self-represented. In the financial year 2010/11 the percentage of cases with at least one unrepresented party was 32%. By the end of the financial year 2015/16 the figure had increased to 75%. In the current financial year the figure is expected to be the same if not higher. Cases involving self-represented litigants are more difficult to manage and therefore more time-consuming.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Heads v Attorney-General [2015] NZHRRT 12",
+                  "context": "See for example Heads v Attorney-General [2015] NZHRRT 12"
+                },
+                {
+                  "type": "case",
+                  "reference": "(2015) 10 HRNZ 203",
+                  "context": "(2015) 10 HRNZ 203"
+                },
+                {
+                  "type": "case",
+                  "reference": "Adoption Action Inc v Attorney-General [2016] NZHRRT 9",
+                  "context": "and Adoption Action Inc v Attorney-General [2016] NZHRRT 9"
+                },
+                {
+                  "type": "case",
+                  "reference": "[2016] 10 HRNZ 622",
+                  "context": "[2016] 10 HRNZ 622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Structure of the Human Rights Act unhelpful",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "Part 4 of the Human Rights Act is structured in such a way that almost every action on every file must be undertaken by the Chairperson. For example, all case management directions must be given by the Chairperson (see the Human Rights Review Tribunal Regulations 2002, regs 16 to 18) and the Chairperson must preside at all sittings of the Tribunal (s 104(4)). Interim order applications are also determined by the Chair (s 95). All decisions of the Tribunal are written by the Chairperson.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act, Part 4",
+                  "context": "Part 4 of the Human Rights Act is structured in such a way that almost every action on every file must be undertaken by the Chairperson."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "Human Rights Review Tribunal Regulations 2002, regs 16 to 18",
+                  "context": "(see the Human Rights Review Tribunal Regulations 2002, regs 16 to 18)"
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 104(4)",
+                  "context": "and the Chairperson must preside at all sittings of the Tribunal (s 104(4))."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 95",
+                  "context": "Interim order applications are also determined by the Chair (s 95)."
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "The Chairperson is presently the only member of the Tribunal. The Panel maintained by the Minister of Justice under s 101 is a separate statutory entity which is drawn on by both the Chairperson and by the High Court. Members of the Panel are only ever members of a “tribunal” when appointed by the Chairperson for the purposes of a particular hearing (s 98).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 101",
+                  "context": "The Panel maintained by the Minister of Justice under s 101 is a separate statutory entity"
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 98",
+                  "context": "when appointed by the Chairperson for the purposes of a particular hearing (s 98)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The anomaly",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "Section 102(1) of the HRA does not allow the appointment of a Deputy Chair to share the workload:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA Section 102(1)",
+                  "context": "Section 102(1) of the HRA does not allow the appointment of a Deputy Chair to share the workload:"
+                }
+              ],
+              "quoted_material": {
+                "source": "102 Deputy Chairperson",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In any case in which a Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a Chairperson deems it not proper or desirable that he or she should adjudicate on any specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person to be the deputy of that Chairperson to act for that Chairperson for the period or purpose stated in the appointment."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "No person shall be appointed as a Deputy Chairperson unless he or she is eligible for appointment as a Chairperson."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Every Deputy Chairperson appointed under this section shall, while acting for a Chairperson, be deemed to be a Chairperson of the Tribunal."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "No appointment of a Deputy Chairperson, and no act done by a Deputy Chairperson as such, and no act done by the Tribunal while he or she is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "An urgent amendment to this section is necessary. It is an amendment of the most minor kind. All that is required is for the amended s 102 to provide:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 102",
+                  "context": "All that is required is for the amended s 102 to provide:"
+                }
+              ],
+              "quoted_material": {
+                "source": "amended s 102",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Governor-General, on the recommendation of the Minister, may appoint a deputy chair or chairs of the Tribunal."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[10]",
+              "content": "Such amendment will allow the Tribunal, if it is adequately resourced, to hear and determine cases in a timely and efficient manner. Without legislative intervention the severe difficulties presently faced by the Tribunal will compound.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "The present case",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The memorandum filed by the parties proceeds (understandably) on the assumption drafting of the decision in these proceedings has not commenced. That assumption is, however, incorrect.",
+              "page": 3
+            },
+            {
+              "number": "[12]",
+              "content": "Before any decision is published the parties (and the Human Rights Commission) will be given opportunity to address submissions on any new material taken into account by the Tribunal in reaching its decision. At the same time there will be opportunity for submissions to be updated. It should also be noted that a transcript of the hearing has been prepared. If any of the parties or the Commission want a copy of the transcript application can be made to the Secretary.",
+              "page": 3
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Rodger Haines QC",
+          "role": "Chairperson\nHuman Rights Review Tribunal",
+          "date": "10 March 2017"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This Minute is to be cited as: Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

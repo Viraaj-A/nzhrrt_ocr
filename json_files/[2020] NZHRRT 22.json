@@ -1,0 +1,1401 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 15,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 22",
+        "reference_number": "HRRT 018/2016",
+        "court_tribunal": "Human Rights Review Tribunal",
+        "jurisdiction": "New Zealand",
+        "hearing_date": "21, 22 and 23 March 2018",
+        "decision_date": "5 June 2020",
+        "case_title": "O'Hagan v Police [2020] NZHRRT 22",
+        "legal_basis": "The Privacy Act 1993",
+        "decision_type": "",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 15
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DAVID ANDREW O'HAGAN",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "NEW ZEALAND POLICE",
+            "role": "Defendant",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC ONZM",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr DA O'Hagan in person",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms V McCall and Ms L Dittrich",
+          "representing": "Defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL",
+          "page_start": 1,
+          "paragraphs": []
+        },
+        {
+          "title": "INTRODUCTION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "The primary facts in this case are clear and not in dispute.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "Mr O'Hagan made a request under IPP 6 for access to certain of his personal information held by the Police. The decision of the Police on that request was delivered 18 working days beyond the expiry of the 20 working days allowed by s 40(1) of the Privacy Act 1993 (PA).",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 40(1) of the Privacy Act 1993 (PA)",
+                  "context": "The decision of the Police on that request was delivered 18 working days beyond the expiry of the 20 working days allowed by s 40(1) of the Privacy Act 1993 (PA)."
+                },
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "Mr O'Hagan made a request under IPP 6 for access to certain of his personal information held by the Police."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[3]",
+              "content": "As the statutory consequence of a failure to comply with the 20 working day timeframe results in a deemed refusal of the IPP 6 request, the question for the Tribunal is what, if any consequences, ought to flow from that fact.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...deemed refusal of the IPP 6 request..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "Before addressing the issues raised by the parties it is necessary to deal with the question of delay.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "Mr O'Hagan has rightly expressed concern at the delay in the delivery of this decision. That delay is acknowledged. The reasons were explained by the Chairperson in his Minute dated 10 October 2019.",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "Delay",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[6]",
+              "content": "The relationship between Mr O'Hagan and his ex-wife has not been a happy one. Over the course of their relationship (and at least as far back as 2006) each has made complaints to the Police about the conduct of the other. The merits of these complaints are not for the Tribunal to determine. It is relevant, however, that the ex-wife obtained a permanent protection order from the Family Court as well as custody of the two children of the marriage. On 12 June 2014 Mr O'Hagan was convicted of assaulting not only his wife, but also one of his sons.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[7]",
+              "content": "Mr O'Hagan has felt aggrieved by these circumstances and by his interactions with the Police. In his opinion the complaints made against him by his ex-wife are false and the Police have wrongly refused to take seriously his complaints against her. He is undeterred that a complaint to the Independent Police Conduct Authority made in November 2013 found no evidence of misconduct or neglect of duty by the Police. Mr O'Hagan believes this finding is wrong. He also told the Tribunal he has never found the Police helpful or trustworthy, believes they do not investigate thoroughly and place before the courts things that are not true.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[8]",
+              "content": "On 29 June 2015 the Family Court heard an application by Mr O'Hagan for resumption of contact with his two sons. As in the February 2014 protection order application, Mr O'Hagan represented himself at the hearing. The judge who heard the contact application was the same judge who had presided at the hearing of the protection order application and at the hearing of the criminal charges.",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "The request",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[9]",
+              "content": "In preparing for the hearing of his application for resumption of contact with his children, Mr O'Hagan on Saturday 2 May 2015 delivered to the Wellington Police Station a written request under IPP 6 for access to certain personal information held by the Police about him. The request was as specific as it was long. Some nine separate categories of information were listed, each relevant to different incidents in which the Police had had interaction with Mr O'Hagan or members of his family. The nine year timespan covered by the request began in 2006 and went through to at least 2014.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...a written request under IPP 6 for access to certain personal information held by the Police about him."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[10]",
+              "content": "The final paragraph of the request asserted that the information was needed urgently as it \"pertained to an upcoming court case”. No information was given as to the date of hearing, the court or the nature of the proceedings:",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "This information is needed urgently as it pertains to an upcoming court case. Given the range of information can you make this available to me as it becomes available so that I can start working through this information.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "In terms of PA, s 40(1) the Police had until Friday 29 May 2015 to decide whether the request was to be granted and to notify Mr O'Hagan of that decision:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "The Police response",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 40(1)",
+                  "context": "In terms of PA, s 40(1) the Police had until Friday 29 May 2015 to decide whether the request was to be granted and to notify Mr O'Hagan of that decision:"
+                }
+              ],
+              "quoted_material": {
+                "source": "40 Decisions on requests",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Subject to this Act, the agency to which an information privacy request is made or transferred in accordance with this Act shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that agency,-\n(a) decide whether the request is to be granted and, if it is to be granted, in what manner and, subject to sections 35 and 36, for what charge (if any); and\n(b) give or post to the individual who made the request notice of the decision on the request."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "That deadline passed without the Police extending time under PA, s 41. That failure was due to the multiple aspects of Mr O'Hagan's request and the considerable timespan involved. These factors made retrieval of records and contacting Police officers challenging given there was a need to speak to a number of Police personnel who had been involved in the matters which were the subject of the request. There were also resource limitations.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 41",
+                  "context": "That deadline passed without the Police extending time under PA, s 41."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[13]",
+              "content": "On 16 June 2015 the Police learnt by email from the Office of the Ombudsman that Mr O'Hagan had made a complaint to that Office about Police delay in providing the information requested under the Privacy Act. The email also informed the Police that the court hearing referred to in the request was scheduled for 29 June 2015. As a consequence the Police response to the request was re-prioritised.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...information requested under the Privacy Act."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[14]",
+              "content": "At 1:26pm on Thursday 25 June 2015 Mr O'Hagan was served by email with a six-page Police decision on his request. Simultaneously he was served with the substantial documentation released by the Police.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[15]",
+              "content": "The release was 18 working days outside the 20 working days allowed by PA, s 40(1) and four days prior to the Family Court hearing on 29 June 2015.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 40(1)",
+                  "context": "The release was 18 working days outside the 20 working days allowed by PA, s 40(1)..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[16]",
+              "content": "On the weekend prior to the Family Court hearing Mr O'Hagan read through the documentation which had just been released. He claims that on reading allegations made by his ex-wife against him he was shocked and as a consequence had been unable to focus on his preparation. He also claims he had been unable to decipher the content of the redacted passages in some of the documents. He said that had he been given the information in a more reasonable timeframe he would have been able to take advice from his psychologist and from a lawyer. He felt his strategy for questioning his wife at the hearing needed to be revised.",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "The Family Court hearing on 29 June 2015",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[17]",
+              "content": "At the heart of Mr O'Hagan's complaint about the late delivery of the information is a contention that at the contact hearing he had the right to cross-examine his ex-wife on every piece of the information which she had provided to the Police in the preceding years and which allegedly showed she had consistently lied to them. See for example Mr O'Hagan's written statement of evidence (Exhibit 1, para 19):",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "Mr O'Hagan's written statement of evidence (Exhibit 1, para 19)",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "19.",
+                    "content": "It is my belief and understanding that I had the right to cross-examine the complainant on every detail of the information she had provided to the police as a way of validating this information or showing that my former wife was in fact capable of making up such lies. This opportunity has been stolen from me [by the late delivery of information]."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[18]",
+              "content": "In his closing submissions Mr O'Hagan once again emphasised that the information disclosed by the Police on 25 June 2015 was relevant to his belief that his ex-wife had consistently lied in her dealings with the Police and in the evidence she had given in various court proceedings. See for example his closing submissions, para 3:",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "closing submissions, para 3",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "3.",
+                    "content": "It should be noted that the assault charge, for which I was convicted, was biased 100% on the evidence of my former wife. Therefore being able to challenge her creditability was very important, if I want to challenge this conviction. Further court cases to follow could well be based on these outcomes as the police have alluded to. Not having the evidence to challenge her credibility has effectively perverted the course of justice. [Emphasis in original]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[19]",
+              "content": "While Mr O'Hagan claimed to the Tribunal that on time delivery by the Police information would have enabled him to question his ex-wife differently at the Family Court hearing on 29 June 2015, he could not show how the information released by the Police in the preceding week had any relevance to the hearing, beyond his belief that the relevance lay in allowing him to pursue an allegation that everything said by his ex-wife was untrue.",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[20]",
+              "content": "Given Mr O'Hagan's claim that he went into the hearing unprepared the following are to be noted:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[20.1] Prior to the hearing he had been served with the papers filed by his ex-wife in opposition to his contact application. He knew what her evidence would be."
+                },
+                {
+                  "title": "",
+                  "content": "[20.2] In response to earlier IPP 6 requests, he had in the past been provided by the Police with statements made to them by his ex-wife. In these statements she gave details of many of the allegations she made against Mr O'Hagan. In fairness, however, it is noted that it was common ground at the Tribunal hearing that a statement by the ex-wife dated 22 July 2014 (and found at Common Bundle pp 66 to 74) had not been previously released to Mr O'Hagan. The Tribunal was told by Ms McCall, counsel for the Police, that the release of this document to Mr O'Hagan had been a mistake. Because the Tribunal accepts disclosure of this document to Mr O'Hagan was inadvertent, it is to be the subject of a non-publication order. The terms of that order are found at the end of this decision."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "In response to earlier IPP 6 requests..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[21]",
+              "content": "When at the Tribunal hearing Mr O'Hagan was tested on his assertion he had been shocked by some of the information in the disclosure bundle, he said the shock related to the extent of the information collected by the Police and he had found information he had not known even existed.",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[22]",
+              "content": "Mr O'Hagan had not at the Family Court hearing on 29 June 2015 applied for an adjournment on the grounds of the late disclosure of information by the Police. He explained this was because the proceedings had dragged on and he was eager to get a ruling that he could see his two sons.",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[23]",
+              "content": "Asked why he had not made his IPP 6 request to the Police at an earlier date he said he had been busy at work and with other personal matters. He accepted the request could have been made earlier.",
+              "page": 5,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...made his IPP 6 request to the Police..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[24]",
+              "content": "Asked by the Tribunal to identify that which in the disclosure documents would have been useful at the 29 June 2015 hearing Mr O'Hagan responded:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[24.1] He had been traumatised by a Police report dated 23 July 2014 which addressed Mr O'Hagan's complaint to the Police that his wife had committed perjury at the assault hearing."
+                },
+                {
+                  "title": "",
+                  "content": "[24.2] He could have gone through the various statements made by his ex-wife to the Police to see if any inconsistencies could be found."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[25]",
+              "content": "As to Mr O'Hagan's assertion that his ex-wife's evidence changed from one hearing to the next, he conceded the same judge had heard the criminal charges as well as the Family Court proceedings and that at the hearing on 29 June 2015 he had drawn to the attention of the judge his (Mr O'Hagan's) claim that his ex-wife consistently gave perjured evidence. He had also told the judge about the new information he had received and from which he had learnt, for the first time, of serious allegations made by her against him. Mr O'Hagan also told the Tribunal he had cross-examined his ex-wife on the new information even though this information had not shown him (Mr O'Hagan) in a favourable light. He had preferred to “have everything out\" with her while she was giving evidence to the Family Court. He could not say whether the judge had said anything about finding this information useful.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[26]",
+              "content": "Mr O'Hagan said the documents disclosed by the Police were important in showing his ex-wife's mental state, her aggression to Mr O'Hagan and her unresolved feelings.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[27]",
+              "content": "In summary, the claim by Mr O'Hagan is that:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[27.1] The Police disclosure documents supported his belief that his ex-wife is a perjurer."
+                },
+                {
+                  "title": "",
+                  "content": "[27.2] At the Family Court hearing on 29 June 2015 he had made this claim to the presiding judge and further had advised the judge that he (Mr O'Hagan) had just received new information from the Police."
+                },
+                {
+                  "title": "",
+                  "content": "[27.3] He had cross-examined his ex-wife on his allegation she is a person who gives perjured evidence but felt he could have done this more effectively had the documents been provided by the Police much earlier."
+                },
+                {
+                  "title": "",
+                  "content": "[27.4] He had been shocked by some of the information he found in the disclosure documents."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "The Police submissions – proper basis",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[28]",
+              "content": "The Police made two submissions based on the fact that liability for a deemed refusal of an IPP 6 request is dependent on the Tribunal forming an opinion there was no proper basis for that deemed refusal.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...refusal of an IPP 6 request..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[29]",
+              "content": "The first submission was in respect of the statement made by Mr O'Hagan's ex-wife to the Police and dated 22 July 2014 (Common Bundle pp 66-74). In this document she replied to allegations made by Mr O'Hagan that she had assaulted him. The Police submission is that this document contained personal information about the ex-wife and was not properly disclosable to Mr O'Hagan. For that reason there was a proper basis for it to be withheld even though inadvertence resulted in its disclosure. The submission is at Police submissions para 17:",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "Police submissions para 17",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "17.",
+                    "content": "The Chairperson has asked how s 66 of the Privacy Act applies to inadvertent disclosures like the one that occurred here. Police say that it does not. Section 66(2) (which is the subsection that applies in this case) contemplates that an action is an interference with the privacy \"of an individual\" if, in relation to an \"information privacy request made by the individual\", a decision is made to refuse to make that information available to the individual and there is no proper basis for that refusal. Section 33 sets out requests that amount to \"information privacy requests\" for the purpose of s 66(2). It includes requests made pursuant to subclauses (1)(a) and (1)(b) of principle 6, and subclause (1) of principle 7. Police's position is that Mr O'Hagan was not entitled to the information via a request under privacy principle 6 and, irrespective of when he received it from Police he has no complaint that failure to disclose it earlier amounted to a breach of his privacy."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[30]",
+              "content": "The reasoning is that because the document relates to events the ex-wife says happened to her it did not contain information to which Mr O'Hagan was entitled under the Privacy Act.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...entitled under the Privacy Act."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[31]",
+              "content": "The difficulty with this submission is that because the ex-wife's statement contains allegations against Mr O'Hagan the document is about both her and Mr O'Hagan. Prima facie it was therefore disclosable to Mr O'Hagan unless the Police could rely on one or more of the withholding grounds in PA, ss 27 and 29. As the question whether there is a proper basis for the document to be withheld has never been addressed by the Police, we do not see how the Tribunal could in the present circumstances find that there was such proper basis.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, ss 27 and 29",
+                  "context": "...withholding grounds in PA, ss 27 and 29."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[32]",
+              "content": "The second submission on “no proper basis” was that on the evidence, an extension of time under PA, s 41(1) could have been given by the Police to themselves in view of the volume and nature of the information requested.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 41(1)",
+                  "context": "...extension of time under PA, s 41(1)..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[33]",
+              "content": "The difficulty with this submission is that PA, s 41(3) requires that an extension be effected by giving notice of the extension to the individual who made the request within 20 working days after the day on which the request is received. The provision is couched in mandatory terms. There is no ability for the agency or for the Tribunal to determine at some later point in time that an extension could have been made under s 41.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 41(3)",
+                  "context": "The difficulty with this submission is that PA, s 41(3) requires that an extension be effected..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 41",
+                  "context": "...an extension could have been made under s 41."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[34]",
+              "content": "There being no other issues relating to liability it has been established that in terms of PA, s 66(2)(a)(i) and (2)(b) there has been an interference with the privacy of Mr O'Hagan.",
+              "page": 6,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 66(2)(a)(i) and (2)(b)",
+                  "context": "...in terms of PA, s 66(2)(a)(i) and (2)(b) there has been an interference with the privacy of Mr O'Hagan."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[35]",
+              "content": "We address now the question of remedies.",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "Where the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual it may grant one or more of the remedies allowed by s 85 of the Act:",
+              "page": 7,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85 of the Act",
+                  "context": "...remedies allowed by s 85 of the Act:"
+                }
+              ],
+              "quoted_material": {
+                "source": "85 Powers of Human Rights Review Tribunal",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:\n(b) an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:\n(c) damages in accordance with section 88:\n(d) an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:\n(e) such other relief as the Tribunal thinks fit."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Where the Director of Human Rights Proceedings is the plaintiff, any costs awarded against him or her shall be paid by the Privacy Commissioner, and the Privacy Commissioner shall not be entitled to be indemnified by the aggrieved individual (if any)."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any, remedy to grant."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[37]",
+              "content": "Section 88(1) relevantly provides that damages may be awarded in relation to three specific heads of damage:",
+              "page": 7,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 88(1)",
+                  "context": "Section 88(1) relevantly provides that damages may be awarded in relation to three specific heads of damage:"
+                }
+              ],
+              "quoted_material": {
+                "source": "88 Damages",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[38]",
+              "content": "Mr O'Hagan is seeking:",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[38.1] An order requiring the Police:\n... to acknowledge the harm they have caused, change their procedures for dealing with failures within the police for not responding to requests."
+                },
+                {
+                  "title": "",
+                  "content": "[38.2] An order that the Police \"to promise never to use this information against me\"."
+                },
+                {
+                  "title": "",
+                  "content": "[38.3] Damages in the amount of $200,000."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[39]",
+              "content": "As the Tribunal does not have jurisdiction to grant the first two of these remedies, we address only:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[39.1] Whether a declaration should be made under PA, s 85(1)(a) that the failure by the Police to comply with the time limit fixed by s 40(1) led to an interference with the privacy of Mr O'Hagan."
+                },
+                {
+                  "title": "",
+                  "content": "[39.2] Whether, as a consequence of the Police interference with the privacy of Mr O'Hagan, there was a consequential loss of benefit for which he should be compensated under s 88(1)(b)."
+                },
+                {
+                  "title": "",
+                  "content": "[39.3] Whether the Police interference with Mr O'Hagan's privacy caused him humiliation, loss of dignity or injury to feelings and if so, whether an award of damages should be made under s 88(1)(c)."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 85(1)(a)",
+                  "context": "Whether a declaration should be made under PA, s 85(1)(a)..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 40(1)",
+                  "context": "...the time limit fixed by s 40(1)..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 88(1)(b)",
+                  "context": "...compensated under s 88(1)(b)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 88(1)(c)",
+                  "context": "...award of damages should be made under s 88(1)(c)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[40]",
+              "content": "Section 88(1)(a) has no application as no pecuniary loss has been pleaded by Mr O'Hagan in his statement of claim and there has in any event been no evidence to establish such loss.",
+              "page": 8,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 88(1)(a)",
+                  "context": "Section 88(1)(a) has no application as no pecuniary loss has been pleaded..."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Section 85(4) – conduct of the defendant",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[41]",
+              "content": "Addressing first s 85(4), it is no defence that the interference was unintentional or without negligence, but the Tribunal must nevertheless take the conduct of the Police into account in deciding what, if any, remedy to grant.",
+              "page": 8,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(4)",
+                  "context": "Addressing first s 85(4)..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[42]",
+              "content": "The Police submit:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[42.1] Their response to Mr O'Hagan's request was not an attempt to evade their obligations or to be “defensive” in any sense. The Police had no intention to refuse access by Mr O'Hagan to any information to which he was entitled. It is not, therefore, the case that there was one or multiple refusals to provide the information which would otherwise tend to aggravate the failure to comply with the Privacy Act."
+                },
+                {
+                  "title": "",
+                  "content": "[42.2] The Police explanation for the failure to comply with the time limit in this case has always been a lack of appropriate resources to deal with requests in a timely way. The Police submit that, while not determinative, resourcing issues are relevant. See Brooks v Taekwondo Union of New Zealand Inc [2017] NZHRRT 20 at [43]. The Police submission draws attention to the fact that in contexts outside the Privacy Act, a decision-maker pointing to resourcing issues as the reason for delays in processing applications has been held by the High Court to justify withholding a remedy, including a declaration, as issuing a declaration would serve “no useful purpose”. See Deliu v Office of the Judicial Conduct Commissioner [2012] NZHC 356 at [53]."
+                },
+                {
+                  "title": "",
+                  "content": "[42.3] The Police have apologised to Mr O'Hagan and have not sought to deny there was a failure to comply with the 20-day time limit. They submit that the evidence of its witnesses shows a conscientious and determined commitment to the proper discharge of the requirements of the Privacy Act, and the failure in this case arose not out of indifference to the statutory period for making the decision, but out of an endeavour to have a single decision point and to provide the decision and the information at the same time, in the context of the inevitable queuing and prioritisation of requests. See Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39, (2014) 9 HRNZ 786 at [64], [69] and [71] – [80]."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...to aggravate the failure to comply with the Privacy Act."
+                },
+                {
+                  "type": "case",
+                  "reference": "Brooks v Taekwondo Union of New Zealand Inc [2017] NZHRRT 20 at [43]",
+                  "context": "See Brooks v Taekwondo Union of New Zealand Inc [2017] NZHRRT 20 at [43]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Deliu v Office of the Judicial Conduct Commissioner [2012] NZHC 356 at [53]",
+                  "context": "See Deliu v Office of the Judicial Conduct Commissioner [2012] NZHC 356 at [53]."
+                },
+                {
+                  "type": "case",
+                  "reference": "Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39, (2014) 9 HRNZ 786 at [64], [69] and [71] – [80]",
+                  "context": "See Koso v Chief Executive, Ministry of Business, Innovation, and Employment [2014] NZHRRT 39, (2014) 9 HRNZ 786 at [64], [69] and [71] – [80]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[43]",
+              "content": "Each of these submissions is properly made and all are accepted.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[44]",
+              "content": "We add that having heard the Police evidence we are confident that had Mr O'Hagan in his IPP 6 request disclosed the date of hearing of his case in the Family Court, his request would have been prioritised and complied with inside the statutory timeframe. As it happened, once the Police learnt on 16 June 2015 that the information was required for a Family Court hearing on 29 June 2015, the information and extensive seven-page response was provided eight working days later.",
+              "page": 9,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...Mr O'Hagan in his IPP 6 request..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[45]",
+              "content": "We also accept the apology for the delay (made by the Police at the same time as the provision of the information) was genuine. See generally Williams v Accident Compensation Corporation [2017] NZHRRT 26 at [38] and [41].",
+              "page": 9,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Williams v Accident Compensation Corporation [2017] NZHRRT 26 at [38] and [41]",
+                  "context": "See generally Williams v Accident Compensation Corporation [2017] NZHRRT 26 at [38] and [41]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[46]",
+              "content": "We doubt whether Mr O'Hagan accepts the apology as he has for a number of years been antagonistic towards the Police and believes they are dishonest and that he will never feel safe in his dealings with them. Bound up with these beliefs is his fixed view his ex-wife is a serial perjurer, that he was wrongly convicted for assaulting her and one of their children and that the Family Court has erred in making the protection and custody orders in favour of his ex-wife.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[47]",
+              "content": "We accordingly conclude there are mitigating factors of some substance which operate in favour of the Police and which must be taken into account.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Declaration",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[48]",
+              "content": "While the grant of a declaration is discretionary, declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108].",
+              "page": 9,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108]",
+                  "context": "See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[49]",
+              "content": "On the facts we see nothing that could justify the withholding from Mr O'Hagan of a formal declaration that the Police interfered with his privacy. Such declaration is accordingly made.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Loss of benefit",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[50]",
+              "content": "Section 88(1)(b) of the Act confers jurisdiction on the Tribunal to award damages against a defendant for:",
+              "page": 9,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 88(1)(b) of the Act",
+                  "context": "Section 88(1)(b) of the Act confers jurisdiction on the Tribunal to award damages against a defendant for:"
+                }
+              ],
+              "quoted_material": {
+                "source": "",
+                "content": "loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[51]",
+              "content": "It is to be noted the benefit can be of a monetary kind but is not required to be so and in a series of cases the High Court has given an expansive reading to “benefit”.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[52]",
+              "content": "Mr O'Hagan says that because of the late delivery to him of the Police disclosure he lost the benefit of using the information when cross-examining his ex-wife at the contact hearing the following Monday in the Family Court.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[53]",
+              "content": "The Police response to this claim distinguishes between two different categories of information.",
+              "page": 9,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[54]",
+              "content": "In the first category is the ex-wife's statement dated 22 July 2014 (Common Bundle pp 66-74) responding to the complaint made by Mr O'Hagan to the Police that he had been assaulted by his ex-wife. The Police submit Mr O'Hagan was not entitled to this information under the Privacy Act and that he cannot have lost the benefit of using in court something to which he was not entitled. This is so irrespective of when he received the information or whether it shocked him to have received it. There was no \"benefit\" for the purposes of the Privacy Act that he could have lost when he was not entitled to the information under IPP 6.",
+              "page": 10,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...not entitled to this information under the Privacy Act..."
+                },
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...not entitled to the information under IPP 6."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[55]",
+              "content": "However, we do not accept it is that clear that the document did not contain also personal information about Mr O'Hagan and we have no evidence from the Police as to which of the withholding grounds could have been relied on to withhold the document from Mr O'Hagan. While PA, s 27(1)(c) and (d) and s 29(1)(a) might conceivably apply, it is not possible in the present context to second guess what the Police might have decided at the time had they turned their mind to the issue.",
+              "page": 10,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 27(1)(c) and (d) and s 29(1)(a)",
+                  "context": "While PA, s 27(1)(c) and (d) and s 29(1)(a) might conceivably apply..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[56]",
+              "content": "However, as will be seen, little turns on the particular document.",
+              "page": 10,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[57]",
+              "content": "The second category of documents comprises those to which Mr O'Hagan was entitled. In relation to these documents the Police submissions are:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[57.1] Mr O'Hagan received the information before the Family Court hearing. While the Police acknowledge the lateness of the reply, he did have three days to review the information and determine what to do with it."
+                },
+                {
+                  "title": "",
+                  "content": "[57.2] As the Police were not a party to the Family Court proceedings there was no potential benefit to them by withholding release until the last minute."
+                },
+                {
+                  "title": "",
+                  "content": "[57.3] Given the secrecy surrounding proceedings in the Family Court it is not possible for the Tribunal to conclude that Mr O'Hagan's cross-examination on the requested information would have assisted his case. It may have been that the court considered his conviction for assault on his ex-wife and son, or the existence of the protection order were determinative in these circumstances."
+                },
+                {
+                  "title": "",
+                  "content": "[57.4] It is apparent as a result of his previous interactions with the Police Mr O'Hagan already knew the substance of much of the information he had sought. While the information was provided late and contained more detail than was recorded in previous correspondence with the Police, Mr O'Hagan failed to identify which parts of the information in particular came as a surprise to him."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[58]",
+              "content": "These submissions are properly made and we agree with them.",
+              "page": 10,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[59]",
+              "content": "But this being a case where the requested information had been sought in connection with litigation in which the requester was involved, it is necessary that the issue of causation also be considered. That is, it is necessary to consider the extent to which the information requested was likely to have actually affected the outcome of the litigation. See Attorney-General v Dotcom [2018] NZHC 2564, [2019] 2 NZLR 277 at [207].",
+              "page": 10,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v Dotcom [2018] NZHC 2564, [2019] 2 NZLR 277 at [207]",
+                  "context": "See Attorney-General v Dotcom [2018] NZHC 2564, [2019] 2 NZLR 277 at [207]."
+                }
+              ],
+              "quoted_material": {
+                "source": "[207]",
+                "content": "As part of analysing the issue of causation, it is therefore necessary to consider the extent to which the information requested is likely to have actually affected the outcome of the litigation for which it was said by Mr Dotcom to be required. That litigation was the forthcoming eligibility hearing in the District Court. It was not necessary for Mr Dotcom to show that the information sought would inevitably have influenced the outcome but there must be at least some evidential basis for assuming that it was potentially relevant.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[60]",
+              "content": "In the present case the Tribunal has not been given a copy of any of the Family Court decisions or of the transcript of the 29 June 2015 hearing. The only evidence which addresses the causation point made in Dotcom is the oral evidence of Mr O'Hagan himself. That evidence must necessarily be treated with caution. Not only is it in the interests of Mr O'Hagan to claim that the Police documents were particularly relevant, the evidence he gave to the Tribunal was at a distance of more than three years from the Family Court hearing.",
+              "page": 11,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Dotcom",
+                  "context": "...causation point made in Dotcom..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[61]",
+              "content": "Additional points follow:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[61.1] While Mr O'Hagan says his ability to cross-examine his ex-wife was prejudiced by the lateness of receipt of the material from the Police, he did not outline in what specific way the information would have been of use to him. Instead there was a generalised assertion that he wanted to take the Family Court through every account given by his ex-wife to the Police and to the Family Court with a view to demonstrating she is a perjurer. We think it highly improbable the Family Court would allow such unrestrained excursion into some nine years of acrimonious complaints and proceedings in both the criminal and Family Courts. This evidence falls significantly below the causation threshold set in Attorney-General v Dotcom."
+                },
+                {
+                  "title": "",
+                  "content": "[61.2] In any event Mr O'Hagan told the Tribunal that at the Family Court hearing on 29 June 2015 he had told the judge of the late disclosure of information by the Police and had also put to his ex-wife the allegation that her evidence was perjured. From Mr O'Hagan's silence on the point we must assume neither of these approaches had any impact on the case. But the fact is Mr O'Hagan did not lose the opportunity to use the documents at the hearing. They were used. Nor did he apply for an adjournment to give him more time to go through the documents."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v Dotcom",
+                  "context": "...causation threshold set in Attorney-General v Dotcom."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[62]",
+              "content": "The fact that late receipt of the information made Mr O'Hagan feel unsettled and stressed prior to the court hearing is not on its own compensable because such detriment is not a loss of benefit within PA, s 88(1)(b).",
+              "page": 11,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 88(1)(b)",
+                  "context": "...loss of benefit within PA, s 88(1)(b)."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Damages for injury to feelings",
+          "page_start": 11,
+          "paragraphs": [
+            {
+              "number": "[63]",
+              "content": "Section 88(1)(c) of the Privacy Act makes provision for the award of compensatory damages for “humiliation, loss of dignity and injury to the feelings” of the aggrieved individual.",
+              "page": 11,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 88(1)(c) of the Privacy Act",
+                  "context": "Section 88(1)(c) of the Privacy Act makes provision for the award of compensatory damages..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[64]",
+              "content": "In the present case there was no evidence Mr O'Hagan felt humiliated. This is unsurprising as the circumstances would not ordinarily give rise to such harm. For the reasons explained in Marshall v IDEA Services Ltd (HDC Act) [2020] NZHRRT 9 at [91], the dignity ground also has no application.",
+              "page": 11,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (HDC Act) [2020] NZHRRT 9 at [91]",
+                  "context": "For the reasons explained in Marshall v IDEA Services Ltd (HDC Act) [2020] NZHRRT 9 at [91]..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[65]",
+              "content": "We therefore address the remaining ground of injury to feelings.",
+              "page": 11,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[66]",
+              "content": "Mr O'Hagan has claimed to have been shocked when he discovered the content of the information provided by the Police. But an agency is not responsible for the reaction of the requester to the information provided under IPP 6. Mr O'Hagan conceded as much when he said in his closing submissions that his shock was the result of his ex-wife's behaviour, not that of the Police. The overarching point is that there must be a causative link between the interference with privacy and the injured feelings.",
+              "page": 11,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "IPP 6",
+                  "context": "...information provided under IPP 6."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[67]",
+              "content": "Here the link must be between any injured feelings and the 18 working day delay.\n[67] It is necessary that the Tribunal not fall into the error of treating as relevant Mr O'Hagan's unhappiness at a whole range of disparate issues regarding his dealings with the Police over the nine years in question and with his ex-wife. See Attorney-General v Dotcom at [223]. Where an individual has been in an antagonistic relationship with an agency, he or she may experience ongoing feelings of anger, impotence and insignificance that are in no way caused by that agency's failure to provide information in accordance with the Privacy Act. Where this is the case those feelings are not compensable by any award of damages for a breach. See Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672, (2013) 9 HRNZ 541 at [117], [125] and [135].",
+              "page": 12,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Attorney-General v Dotcom at [223]",
+                  "context": "See Attorney-General v Dotcom at [223]."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...provide information in accordance with the Privacy Act."
+                },
+                {
+                  "type": "case",
+                  "reference": "Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672, (2013) 9 HRNZ 541 at [117], [125] and [135]",
+                  "context": "See Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672, (2013) 9 HRNZ 541 at [117], [125] and [135]."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[68]",
+              "content": "Mr O'Hagan submitted an award of damages should be sufficiently large to encourage agencies to negotiate settlements where there has been an interference with privacy. But this submission overlooks the fact that the function of damages under PA, s 88(1)(c) is to compensate for injury to feelings, not to punish the agency or to encourage better behaviour.",
+              "page": 12,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 88(1)(c)",
+                  "context": "...damages under PA, s 88(1)(c) is to compensate for injury to feelings..."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[69]",
+              "content": "Mr O'Hagan did tell the Tribunal money is not a motivating factor in this case. What has been important to him is showing his ex-wife has been saying untruths:",
+              "page": 12,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "44.",
+                    "content": "The hurt has been paralyzing and destructive in every sense to by me and my family. I believe that if this information was used successively to show that my former wife had in fact been untrue, and therefore discredited she would have chosen a path of getting help rather than hostility, saving me and my family thousands upon thousands of dollars in legal fees and millions of dollars in hurt and unhappiness, hence why a maximum payout is required. Destroying relationships and opportunities between me and my boys beyond repair."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[70]",
+              "content": "Taking the foregoing into account it is our conclusion on the evidence that such injury to feelings as may have been experienced by Mr O'Hagan did not have their cause in the late delivery by the Police of the personal information requested by Mr O'Hagan. That being the case no award of damages under PA, s 88(1)(c) is possible.",
+              "page": 12,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 88(1)(c)",
+                  "context": "...award of damages under PA, s 88(1)(c) is possible."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[71]",
+              "content": "Even had there been a residual injury to feelings which could be attributed to the out of time response by the Police:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "",
+                  "content": "[71.1] It was not of a degree sufficient to warrant compensation."
+                },
+                {
+                  "title": "",
+                  "content": "[71.2] The award of damages is discretionary. There being no or no injury of significance, a declaration of interference is sufficient."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[72]",
+              "content": "On the facts, the only remedy to be granted to Mr O'Hagan is a declaration of interference.",
+              "page": 12,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[73]",
+              "content": "The Tribunal has been satisfied on the balance of probabilities an action of the New Zealand Police was an interference with the privacy of Mr O'Hagan and:\n[73.1] A declaration is made under s 85(1)(a) of the Privacy Act 1993 that the New Zealand Police interfered with the privacy of David Andrew O'Hagan by refusing, without proper basis, to make personal information available to him in response to his personal information request dated 2 May 2015.\n[73.2] The balance of Mr O'Hagan's claims are otherwise dismissed. No other remedy under the Privacy Act is granted.",
+              "page": 12,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85(1)(a) of the Privacy Act 1993",
+                  "context": "A declaration is made under s 85(1)(a) of the Privacy Act 1993..."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[74]",
+              "content": "Costs are reserved. Unless the parties come to an arrangement on costs the following timetable is to apply:\n[74.1] Mr O'Hagan is to file his submissions within 14 days after the date of this decision. The submissions for the New Zealand Police are to be filed within the 14 days which follow. Mr O'Hagan is to have a right of reply within seven days after that.\n[74.2] The Tribunal will then determine the issue of costs on the basis of the written submissions without further oral hearing.\n[74.3] In case it should prove necessary, we leave it to the Chairperson of the Tribunal to vary the foregoing timetable.",
+              "page": 13,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "SUPPRESSION ORDERS",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[75]",
+              "content": "At the commencement of the hearing on 21 March 2018 Mr O'Hagan made oral application for the blanket suppression of his name, of the evidence to be given to the Tribunal orally, the evidence contained in the written statements of evidence and the evidence contained in the Common Bundle of documents. The application was opposed by the Police.",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "Name suppression declined",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[76]",
+              "content": "Mr O'Hagan submitted that some of the allegations made against him and to be recorded in the evidence were groundless and publication could affect his career. The evidence would also reveal intimate details about interpersonal relationships in his family.",
+              "page": 13,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[77]",
+              "content": "As explained to Mr O'Hagan at the time, these factors are not enough to displace the principle of open justice and that judicial proceedings should be held in open court. In Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 at [66] reference was made to the fact that the Human Rights Act 1993 (HRA), s 107(3) requires the Tribunal to be satisfied that it is “desirable” that a suppression order be made:",
+              "page": 13,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 at [66]",
+                  "context": "In Waxman v Pal (Application for Non-Publication Orders) [2017] NZHRRT 4 at [66]..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 107(3)",
+                  "context": "...the Human Rights Act 1993 (HRA), s 107(3) requires the Tribunal to be satisfied that it is “desirable” that a suppression order be made:"
+                }
+              ],
+              "quoted_material": {
+                "source": "[66.1]",
+                "content": "The stipulation in s 107(1) that every hearing of the Tribunal be held in public is an express acknowledgement of the principle of open justice, a principle fundamental to the common law system of civil and criminal justice. The principle means not only that judicial proceedings should be held in open court, accessible to the public, but also media representatives should be free to provide fair and accurate reports of what occurs in court.",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[66.2]",
+                    "content": "There are circumstances in which the interests of justice require that the general rule of open justice be departed from, but only to the extent necessary to serve the ends of justice. This is recognised by s 107(1), (2) and (3) of the Act."
+                  },
+                  {
+                    "identifier": "[66.3]",
+                    "content": "The party seeking the order must show specific adverse consequences that are sufficient to justify an exception to the fundamental rule. The standard is a high one."
+                  },
+                  {
+                    "identifier": "[66.4]",
+                    "content": "In deciding whether it is satisfied that it is desirable to make a suppression order the Tribunal must consider:\n[66.4.1] whether there is some material before the Tribunal to show specific adverse consequences that are sufficient to justify an exception to the fundamental rule.\n[66.4.2] whether the order is reasonably necessary to secure the proper administration of justice in proceedings before it. The phrase \"the proper administration of justice\" must be construed broadly, so that it is capable of accommodating the varied circumstances of individual cases as well as considerations going to the broader public interest.\n[66.4.3] whether the suppression order sought is clear in its terms and does no more than is necessary to achieve the due administration of justice."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[78]",
+              "content": "The interests of justice themselves must require that the general rule be departed from. The standard is a high one. The application for name suppression by Mr O'Hagan falls well short of satisfying these requirements and is dismissed.",
+              "page": 14,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[79]",
+              "content": "It is necessary, however, that we address also the content of the Common Bundle of documents as a substantial amount of the information contained within it relates to Mr O'Hagan's ex-wife and his two children. Account must also be taken of the fact that there is a protection order in place and Mr O'Hagan was on 12 June 2014 convicted of assaulting his ex-wife and one of his sons.",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Suppression of the contents of the common bundle of documents granted",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[80]",
+              "content": "An additional factor is that the Tribunal was told that in providing the personal information requested by Mr O'Hagan the Police had inadvertently disclosed documents to which the withholding grounds in the Privacy Act had application, including the fact that disclosure would involve the unwarranted disclosure of the affairs of another. See PA, s 29(1)(a). That document and one which is closely related are to be found in the Common Bundle at pp 49 to 52 and 66 to 74.",
+              "page": 14,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act",
+                  "context": "...withholding grounds in the Privacy Act had application..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "PA, s 29(1)(a)",
+                  "context": "See PA, s 29(1)(a)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[81]",
+              "content": "As the Tribunal accepts the disclosure was inadvertent it is of the view that it is necessary for an order to be made prohibiting publication of the documents in question. We are satisfied the public interest in the disclosure of the evidence and documents is outweighed by the public interest in preventing harm to the ex-wife and maintaining the free flow of information between her and the Police. In terms of HRA, s 107(3)(b) and (c) it is desirable that an order be made prohibiting publication of the documents in question. See by analogy the provisions in the Evidence Act 2006, ss 65(4) and 69.",
+              "page": 14,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 107(3)(b) and (c)",
+                  "context": "In terms of HRA, s 107(3)(b) and (c) it is desirable that an order be made..."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Evidence Act 2006, ss 65(4) and 69",
+                  "context": "See by analogy the provisions in the Evidence Act 2006, ss 65(4) and 69."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[82]",
+              "content": "Furthermore, in view of the very personal information about third parties contained throughout the Common Bundle it is necessary their interests be protected by an order that any document in that bundle containing information about them not be published.",
+              "page": 14,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[83]",
+              "content": "Orders are made:\n[83.1] Prohibiting publication of any document in the Common Bundle of documents which contains personal information about any person other than the plaintiff in these proceedings, David Andrew O'Hagan.\n[83.2] There is to be no search of the Tribunal file without leave of the Chairperson or of the Tribunal. The plaintiff and defendant are to be notified of any request to search the file and given an opportunity to be heard on that application.",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Suppression orders relating to common bundle of documents",
+                  "content": ""
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: O'Hagan v Police [2020] NZHRRT 22. Note publication restrictions.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1201 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 27,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 46",
+        "reference_number": "HRRT 002/2015",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WELLINGTON",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "30 October 2018",
+        "case_title": "Toia v Corrections (Jurisdiction) [2018] NZHRRT 46",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON JURISDICTION AND STANDING",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 27
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "PAKI TOIA",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "Mr AW Taylor",
+            "role": "applicant to be heard"
+          },
+          {
+            "name": "Privacy Commissioner",
+            "role": "Intervener"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr P Toia",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr AW Taylor",
+          "representing": "in person (applicant to be heard)"
+        },
+        {
+          "counsel": "Mr MJ McKillop",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Ms I Zadorozhnaya",
+          "representing": "Privacy Commissioner"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Toia (a sentenced prisoner) has brought proceedings under the Privacy Act 1993 (PA) in which he alleges the Department of Corrections (Corrections) interfered with his privacy by:",
+              "page": 3
+            },
+            {
+              "number": "[1.1]",
+              "content": "Failing to provide him with an unredacted copy of an email read (in part) to the High Court by counsel for Corrections in the course of civil litigation brought by Mr Toia against Corrections. It is claimed such failure was a breach of information privacy principle 6 (IPP 6).",
+              "page": 3
+            },
+            {
+              "number": "[1.2]",
+              "content": "Failing to correct the content of the email. It is claimed such failure breached information privacy principle 7 (IPP 7).",
+              "page": 3
+            },
+            {
+              "number": "[2]",
+              "content": "In this decision rulings are given on preliminary issues relating to standing and jurisdiction. The merits of Mr Toia’s claims are for determination at a later date once the evidence has been heard.",
+              "page": 3
+            },
+            {
+              "number": "[3]",
+              "content": "When originally filed, the statement of claim in the present proceedings named as a second plaintiff Arthur William Taylor, also a sentenced prisoner.",
+              "page": 3
+            },
+            {
+              "number": "[4]",
+              "content": "At the first case management teleconference convened on 17 April 2015 a number of issues were raised. Relevant for present purposes was the question whether Mr Taylor has standing to be a second plaintiff and whether the Tribunal has jurisdiction to hear the IPP 7 complaint. Both issues had been earlier raised by the Privacy Commissioner who advised the Tribunal and the parties he had not investigated any complaint by Mr Taylor, nor had he investigated any complaint under IPP 7.",
+              "page": 3
+            },
+            {
+              "number": "[5]",
+              "content": "During the course of the 17 April 2015 teleconference Mr Taylor indicated that if it turned out he did not have standing as a plaintiff, he would make application to be heard under the Human Rights Act 1993 (HRA), s 108 which is one of the provisions incorporated into proceedings under the Privacy Act by virtue of s 89 of the latter Act. For his part, Mr Toia asked that Mr Taylor be his McKenzie friend.",
+              "page": 3
+            },
+            {
+              "number": "[6]",
+              "content": "By Minute issued on 17 April 2015 the Chairperson gave timetable directions for Mr Taylor to obtain discovery from Corrections of documents relevant to the issue of his standing in these proceedings and for the parties to file submissions not only on the issue of standing but also on whether the Tribunal has jurisdiction to consider a complaint under IPP 7 in the absence of any prior investigation by the Privacy Commissioner into an alleged breach of that principle.",
+              "page": 3
+            },
+            {
+              "number": "[7]",
+              "content": "On 24 April 2015 the Privacy Commissioner gave notice of his intention to make submissions on the issue of standing and on the meaning of the term “aggrieved individual” in the Privacy Act.",
+              "page": 3
+            },
+            {
+              "number": "[8]",
+              "content": "By memorandum dated 24 May 2015 Mr Taylor gave notice he no longer pursued a claim to be a party to these proceedings but confirmed he wished to appear pursuant to HRA, s 108. By Minute dated 26 May 2015 the Chairperson directed that Mr Taylor be removed as a plaintiff.",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "Mr Taylor then changed his position and by subsequent memorandum dated 17 August 2015 contended that having considered the documents disclosed by Corrections he now believed he had standing as a plaintiff. He applied to be reinstated as a party.",
+              "page": 4
+            },
+            {
+              "number": "[10]",
+              "content": "The preliminary issues for determination are accordingly:",
+              "page": 4
+            },
+            {
+              "number": "[10.1]",
+              "content": "Whether Mr Taylor has standing to be second plaintiff in these proceedings.",
+              "page": 4
+            },
+            {
+              "number": "[10.2]",
+              "content": "If the answer is “No” whether he is a person to be heard pursuant to HRA, s 108.",
+              "page": 4
+            },
+            {
+              "number": "[10.3]",
+              "content": "Whether the Tribunal has jurisdiction to hear the complaint that IPP 7 has been breached either in relation to Mr Toia or in relation to Mr Taylor or in relation to both.",
+              "page": 4
+            },
+            {
+              "number": "[11]",
+              "content": "The Tribunal has received and considered submissions from Mr Toia, Mr Taylor, Corrections and the Privacy Commissioner.",
+              "page": 4
+            },
+            {
+              "number": "[12]",
+              "content": "In this ruling we find:",
+              "page": 4
+            },
+            {
+              "number": "[12.1]",
+              "content": "Mr Taylor does not have standing to be a plaintiff in these proceedings.",
+              "page": 4
+            },
+            {
+              "number": "[12.2]",
+              "content": "Mr Taylor is not entitled to be heard under HRA, s 108.",
+              "page": 4
+            },
+            {
+              "number": "[12.3]",
+              "content": "The Tribunal does not have jurisdiction to determine the claim that IPP 7 has been breached by Corrections either in respect of Mr Toia or in respect of Mr Taylor or in respect to both.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "The last of Mr Toia’s original submissions were received on 6 April 2017.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "In the course of preparing this decision the Tribunal has had regard not only to the original submissions made by the parties but also to additional relevant cases found in the course of the Tribunal’s own research. That additional material was disclosed by way of a Minute dated 23 August 2018 and opportunity given for written submissions to be filed. The Minute also allowed the parties to update their earlier submissions if they believed this was necessary. All the new submissions have been taken into account in the preparation of this decision.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "The long delay in the delivery of this decision has already been acknowledged and explained by the Chairperson in the Minute issued on 8 August 2017.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "THE BACKGROUND",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[16]",
+              "content": "To address the three preliminary issues identified above, reference to the background circumstances is required.",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "As already stated, Mr Toia is a sentenced prisoner in Auckland Prison. He issued proceedings in the High Court at Auckland against the prison authorities and the Attorney-General alleging the manner in which he had been treated in the maximum security wing of the prison between 2010 and 2012 had breached his rights under the New Zealand Bill of Rights Act 1990. The amended statement of claim was apparently drafted with the assistance of Mr Taylor who was also then at Auckland Prison. The judgment of Brewer J in the High Court is to be found in Toia v Prison Manager, Auckland Prison [2014] NZHC 867 (30 April 2014). Mr Toia’s unsuccessful appeal to the Court of Appeal is recorded in Toia v Auckland Prison [2015] NZCA 624 (18 December 2015).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "New Zealand Bill of Rights Act 1990",
+                  "context": "He issued proceedings ... alleging the manner in which he had been treated ... had breached his rights under the New Zealand Bill of Rights Act 1990."
+                },
+                {
+                  "type": "case",
+                  "reference": "Toia v Prison Manager, Auckland Prison [2014] NZHC 867 (30 April 2014)",
+                  "context": "The judgment of Brewer J in the High Court is to be found in Toia v Prison Manager, Auckland Prison [2014] NZHC 867 (30 April 2014)."
+                },
+                {
+                  "type": "case",
+                  "reference": "Toia v Auckland Prison [2015] NZCA 624 (18 December 2015)",
+                  "context": "Mr Toia’s unsuccessful appeal to the Court of Appeal is recorded in Toia v Auckland Prison [2015] NZCA 624 (18 December 2015)."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "The claim was heard by Brewer J over 10 days in the period mid-2013 to late 2013. Mr Taylor gave evidence for Mr Toia by AVL.",
+              "page": 5
+            },
+            {
+              "number": "[19]",
+              "content": "Mr Toia (appearing by AVL) represented himself as he said he had no faith in lawyers. However, he asked that Mr Taylor be his McKenzie friend. At the preliminary stages of the case this request had been refused but it was renewed at the commencement of the substantive hearing. In a Minute dated 17 July 2013 (the second day of the hearing) Brewer J noted his concern that Mr Toia had limited ability to put his case and expressed the view he (Mr Toia) would be assisted by having Mr Taylor as a McKenzie friend. The Judge stated he was prepared to permit Mr Taylor to be a McKenzie friend but because both Mr Taylor and Mr Toia were sentenced prisoners at Auckland Prison, the decision was to be left to the Department of Corrections to decide:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Minute dated 17 July 2013",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[12]",
+                    "content": "I am prepared to permit Mr Taylor to be a McKenzie friend. Whether or not he can be is a matter for the Department of Corrections looking at the situation as the custodian of Mr Taylor and Mr Toia and making decisions accordingly. I will give Mr Carter [counsel for the defendants] the opportunity to confer with his client and take instructions against the foregoing."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[20]",
+              "content": "At the resumption of the hearing at 10am on 18 July 2013 counsel for Corrections (Mr Carter) told the court that Corrections would not allow Mr Taylor to be moved to enable him to act as a McKenzie friend. The transcript of the hearing records the following exchange between Mr Carter and the Judge:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Transcript of the hearing",
+                "content": "Bench:\nYes, Mr Carter, what's the situation regarding the matter of the McKenzie friend?\nMr Carter: Well, sir, I have taken instructions from the Department of Corrections overnight and the prison manager of Auckland Prison, after considering the overall management of the prison and the safety and security of staff and prisoners in the prison, respectfully declines to allow Mr Taylor to be moved to enable him to act as a McKenzie friend. I do have a statement by Mr Sherlock, the prison manager, and there hasn't been an opportunity this morning to get that in written form to hand up. If I may, I would like to read out Mr Sherlock's statement which gives his reasons.\nBench:\nAll right."
+              }
+            },
+            {
+              "number": "[21]",
+              "content": "Mr Carter then read to the court, in the presence of Mr Toia (attending by AVL) part of an email dated 18 July 2013 timed at 8:12am. The author was Mr Tom Sherlock, the prison manager. Not all of the content was read in court, but those parts which were read were transcribed verbatim into the Notes of Evidence. The relevant pages from the notes of evidence were later provided to Mr Toia.",
+              "page": 5,
+              "quoted_material": {
+                "source": "Mr Carter reading an email from Mr Robert Thomas Sherlock",
+                "content": "Mr Carter:\nSo, Mr Robert Thomas Sherlock, as prison manager of Auckland Prison says:\n\"Your Honour, I have taken some time to fully consider the recommendation that Mr Taylor be allowed to act as McKenzie friend to Mr Toia. I have considered all the implications of this request and have drawn the following conclusions. Firstly, I believe staff have done everything that is safely and securely possible to help facilitate Mr Toia's delivery of his case before the Court. Even through his constant abuse and daily non-compliance to prison safety requirements, staff have remained supportive and willing to assist. Secondly, though we deemed it unsafe to have Mr Toia and Mr Taylor to meet and discuss this case, we have facilitated all the way through a process that allowed them to exchange documentation which could be checked for security concerns. Your Honour, your recommendation sets a precedent that will allow Mr Taylor to sit beside Mr Toia and deliver written and verbal instructions that will be unvetted and potentially a risk to our site.”"
+              }
+            },
+            {
+              "number": "",
+              "content": "I should clarify there that that's not written or verbal instructions that might occur on screen, on the AVL, but written or verbal instructions that are passed on or carried out after return to the cells outside the AVL.\n\"Next, both Mr Toia and Mr Taylor are maximum security prisoners who over the last couple of years have proven to be volatile, destructive and willing to do a range of protests and actions that put not only my staff at risk but also negatively affect other prisoners. The next point is that Mr Taylor has had a number of incidents where he has barricaded and flooded landings in a form of protest when he has been told 'no' to a request. This has caused a situation where staff could not get to any other prisoners on the landing and has meant for some many hours we could not deliver food, medication or respond to cell alarms of these prisoners. Mr Toia, as will be presented in evidence, has a long history of non-compliance and of aggressive and abusive behaviour. Having these two prisoners together in the one room poses a number of risks based on their history of conduct. Further, I would state that I believe Mr Taylor has a real negative influence over a number of prisoners. I believe he is the driving force behind this particular case and sees this as an opportunity to present his views of the world to the High Court and in front of the media. I don't believe he has the restraint to limit his views to just delivering a monologue. He is capable of creating an incident in this forum that will put my staff at risk and the security of the site. To support this, I would point out the example of the Fordan Reweta incident which occurred in mid 2012 where prisoners ended up on the roof of the D unit tower for several days. The prison had strong intelligence that this incident was being driven by Mr Taylor and his desire to have some evidence around prisoner unrest due to the smoking policy. In considering all the above and the need to ensure Mr Toia receives adequate assistance in delivering his evidence, I respectfully decline to implement your Honour's recommendation to allow Mr Taylor to act as a McKenzie friend for Mr Toia. I do this based on my strong belief that this would pose undue security and safety risks to my staff and site.\"",
+              "page": 6
+            },
+            {
+              "number": "[22]",
+              "content": "Mr Toia subsequently asked Corrections for a copy of the email. He did so by way of Prisoner Complaint Form PC.01 numbers 291629 (12 September 2013), 295091 (4 October 2013) and 296121 (11 October 2013).",
+              "page": 6
+            },
+            {
+              "number": "[23]",
+              "content": "By Corrections' letter dated 5 December 2013 Mr Toia was advised his request had been refused under PA, s 29(1)(f) (disclosure of the information would breach legal professional privilege) but the Corrections letter went on to enclose a copy of the court transcript of the matters raised in court on 18 July 2013. As mentioned that transcript included those parts of the email read out in court by Mr Carter.",
+              "page": 6
+            },
+            {
+              "number": "[24]",
+              "content": "In none of the three PC.01 forms submitted by Mr Toia to Corrections was a request made by him under IPP 7 for correction of the content of the email dated 18 July 2013.",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "By letter dated 18 December 2013 Mr Toia, acting on his own behalf, not Mr Taylor's, lodged a complaint with the Privacy Commissioner alleging that when Mr Toia asked Corrections to provide a copy of the 18 July 2013 email, Corrections had wrongfully withheld the document from him. The letter made no assertion that Mr Toia had additionally requested that the information in the email be corrected and no reference was made by him to an alleged breach of IPP 7. The complaint was explicitly stated to be about the wrongful withholding of information which had been requested under IPP 6. The letter of complaint was in the following terms:",
+              "page": 6
+            },
+            {
+              "number": "",
+              "content": "I have a received a letter from a Mr Vinie Arbuckle at Correction's head office dated 5 December 2013, claiming that the contents of the email in question are \"legally privileged\" and is withholding it in reliance on section 9(2)(h) of the OIA and 29(1)(f) of the Privacy Act.\nThis is not correct as the contents of the email having been read out in court they cannot be legally privileged.\nWould you please investigate this matter as a wrongful withholding of information.\nAny legal privilege was waived the moment the contents were read out in court before me, the Judge and other counsel.",
+              "page": 7
+            },
+            {
+              "number": "[26]",
+              "content": "Receipt of Mr Toia’s “wrongful withholding” complaint was acknowledged by the Office of the Privacy Commissioner (OPC) by letter dated 7 January 2014 and by subsequent letter dated 13 January 2014 the OPC advised Mr Toia his complaint regarding the withholding of the email had been notified to Corrections and their response was awaited. Later, by letter dated 7 April 2014 the OPC wrote again to Mr Toia concerning the withholding issues under IPP 6, reporting that Corrections justified the withholding of the email by reference to PA, s 29(1)(f) (legal professional privilege). Mr Toia was invited to make submissions. Those submissions (dated 9 May 2014 and ghost written by Mr Taylor but signed by him as Mr Toia) were then provided to the Privacy Commissioner and focused on the withholding complaint. The two main points were first, the email having been read in open court, privilege had been waived. Second, it was explained the email was required \"to properly prepare and document a complaint about the email's contents\".",
+              "page": 7
+            },
+            {
+              "number": "[27]",
+              "content": "The outcome of the Privacy Commissioner’s investigation was that by letter dated 25 August 2014 Corrections gave to Mr Toia a copy of the email dated 18 July 2013 but with two redactions. The contents of one paragraph were withheld under PA, s 29(1)(f) (legal professional privilege) and personal information relating to other persons was withheld under PA, s 29(1)(a) (disclosure would involve the unwarranted disclosure of the affairs of another individual). The letter from Corrections was in the following terms:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Letter from Corrections",
+                "content": "As you will be aware, the Department of Corrections has been notified by the office of the Privacy Commissioner of your complaint relating to a copy of an email which the Department declined to provide to you in accordance with section 29(1)(f) of the Privacy Act 1993. This provision allows for the withholding of personal information when disclosure would breach legal professional privilege.\nThe Department has been advised that because part of the email at issue was voluntarily disclosed during your court proceedings, legal privilege was waived, with the exception of one paragraph.\nPlease find enclosed a copy of the email. You will note the paragraph that remains withheld in accordance with section 29(1)(f). Personal information relating to other people is also withheld in accordance with section 29(1)(a), as disclosure would involve the unwarranted disclosure of the affairs of another individual.\nI trust that this information resolves your complaint."
+              }
+            },
+            {
+              "number": "[28]",
+              "content": "By letter dated 2 September 2014 addressed to Mr Toia, the OPC investigating officer confirmed the Privacy Commissioner had concluded that that part of the email which had been read out in court should be provided to Mr Toia on the grounds any privilege in the passages so read out had been waived. However, Mr Toia was further advised the Commissioner had upheld the claim by Corrections to redact those parts of the email which had not been read in court. Mr Toia was asked to confirm he was now in receipt of the email dated 18 July 2013.",
+              "page": 7
+            },
+            {
+              "number": "[29]",
+              "content": "Following a telephone discussion with the OPC investigating officer, Mr Toia by letter dated 19 September 2014 wrote to the Human Rights Commissioner stating that he (Mr Toia) wanted from Corrections an apology and payment of $2,000 for hurt feelings. Mr Toia also claimed that the content of the email was false, misleading and exaggerated. Mr Toia stated that he wanted the information corrected:",
+              "page": 8
+            },
+            {
+              "number": "[30]",
+              "content": "The letter was copied to the OPC investigating officer. In a “PS” addressed to that officer Mr Toia requested “a formal finding [in the Certificate of Investigation] that Corrections [had] wrongfully withheld that email from me for a year”. No reference was made by Mr Toia to a belief that his complaint to the Privacy Commissioner had included a complaint that the personal information contained in the email was in need of correction and that Corrections had refused to rectify the errors.",
+              "page": 8
+            },
+            {
+              "number": "[31]",
+              "content": "Consistent with the fact that no correction request had hitherto been addressed by Mr Toia to Corrections and that no request for correction had been the subject of Mr Toia’s complaint to the Privacy Commissioner, the Assistant Commissioner (Investigations) replied to Mr Toia by letter dated 30 October 2014 advising that a decision had been made to discontinue the investigation on the basis that Corrections had provided Mr Toia with a redacted copy of the requested email. So that Mr Toia could establish he had made a complaint to the Privacy Commissioner and so that he could also establish the nature and outcome of that complaint, a Certificate of Investigation was attached to the Assistant Commissioner’s letter. The Certificate was in the following terms:\n\nCertification of Investigation for Human Rights Review Tribunal\nComplainant: Paki Toia (Our Ref: C/25875)\nRespondent: Department of Corrections\nMatters investigated: Mr Toia was involved in High Court proceedings via video link and wanted to use a fellow inmate, Arthur Taylor, as his Mackenzie friend. Tom Sherlock of Spring Hill Correctional Facility wrote an email which was produced by the defence, declining to allow Mr Taylor to act as his MacKenzie friend. This email was withheld from Mr Toia under section 29(1)(f) of the Privacy Act, as the Department believed it was subject to legal professional privilege. The email was read out in Court and Mr Toia holds a copy of the transcript. We advised the Department of our view that it waived legal privilege by voluntarily disclosing part of the email during Court proceedings. A copy of the email was provided to Mr Toia on 29 August 2014.\nPrinciple(s) applied: 6",
+              "page": 8
+            },
+            {
+              "number": "",
+              "content": "Commissioner's opinion:\n• application of principle(s): No breach of principle 6.\n• adverse consequences: No.\n• interference with privacy: No.",
+              "page": 9
+            },
+            {
+              "number": "[32]",
+              "content": "From the foregoing it is concluded:",
+              "page": 9
+            },
+            {
+              "number": "[32.1]",
+              "content": "By way of IPP 6 access requests dated 12 September 2013, 4 October 2013 and 11 October 2013 Mr Toia sought access to the email dated 18 July 2013.",
+              "page": 9
+            },
+            {
+              "number": "[32.2]",
+              "content": "The requests were made by Mr Toia as an individual in his own right. He did not make or purport to make the requests on behalf of Mr Taylor.",
+              "page": 9
+            },
+            {
+              "number": "[32.3]",
+              "content": "No request was made by Mr Toia to Corrections that the personal information in the email be corrected under IPP 7.",
+              "page": 9
+            },
+            {
+              "number": "[32.4]",
+              "content": "On the IPP 6 access request being refused by Corrections, Mr Toia on 18 December 2013 filed a complaint with the Privacy Commissioner. That complaint was made by Mr Toia alone. It was not made by or on behalf of Mr Taylor and did not include Mr Taylor.",
+              "page": 9
+            },
+            {
+              "number": "[32.5]",
+              "content": "The complaint related to the alleged wrongful refusal by Corrections to provide the email to Mr Toia. That is, it was a complaint under IPP 6. No complaint was made by Mr Toia to the Privacy Commissioner that he had sought corrections to the email from the Department and that those corrections had not been made.",
+              "page": 9
+            },
+            {
+              "number": "[33]",
+              "content": "While Mr Toia’s submissions of 9 May 2014 to the Privacy Commissioner had foreshadowed there would at some future time be “a complaint about the email’s contents” such complaint was not made in the letter dated 9 May 2014.",
+              "page": 9
+            },
+            {
+              "number": "[34]",
+              "content": "Then, at a time when his IPP 6 complaint had been concluded and was in its closing stages, Mr Toia by letter dated 29 September 2014 addressed to Corrections requested (inter alia) a written apology and financial compensation for hurt feelings caused by the withholding of the email dated 18 July 2013. He also asserted false information had been given to the High Court and requested that pursuant to IPP 7, a “corrective statement” be attached to all copies of the emails including “Justice Timothy Brewer's one and Crown Law's one”. The assertion was unparticularised and no details were given to Corrections as to the changes wanted by Mr Toia.",
+              "page": 9
+            },
+            {
+              "number": "[35]",
+              "content": "By letter dated 25 November 2014 Corrections replied the department did not agree that compensation or an apology was warranted. As to the request for correction under IPP 7, Corrections stated the information contained in the email was accurate, up to date and not misleading and therefore would not be changed. It would nevertheless appear from para 8.4 of the first amended statement of reply (unchanged from the original statement of reply) that Corrections wrote to Mr Toia offering to attach a statement of correction to the email pursuant to IPP 7(3) if Mr Toia wished that to happen. However, Mr Toia did not respond and instead filed this present complaint with the Tribunal. Corrections further asserts in the amended statement of reply that:",
+              "page": 9
+            },
+            {
+              "number": "[35.1]",
+              "content": "No statement of correction has been provided by Mr Toia.",
+              "page": 10
+            },
+            {
+              "number": "[35.2]",
+              "content": "Despite this, Corrections proposes treating Mr Toia's letter dated 29 September 2014 as a statement of correction and will attach that letter to the email dated 18 July 2013 so it can be read with that email.",
+              "page": 10
+            },
+            {
+              "number": "[36]",
+              "content": "Mr Toia has not made a complaint to the Privacy Commissioner regarding the decision by Corrections not to correct the information in the email. He has, however, made requests for correction to the Human Rights Commissioner and to the Solicitor-General. Those requests are misguided and of no relevance to the present proceedings but are recorded for completeness.",
+              "page": 10
+            },
+            {
+              "number": "[37]",
+              "content": "As mentioned, on 19 September 2014 Mr Toia wrote (in error) to the Human Rights Commissioner requesting an apology and compensation. Mr Toia also asserted that because the email was false, misleading and exaggerated he wanted the email corrected under IPP 7. He did not identify what, in his opinion, was false, misleading or exaggerated in the email nor did he state the nature of the corrections sought by him.",
+              "page": 10
+            },
+            {
+              "number": "[38]",
+              "content": "Included in the documents provided by Mr Toia is a letter dated 11 November 2014 from the (then) Deputy Solicitor-General (Legal Risk Group). This letter makes reference to a complaint by Mr Toia dated 6 October 2014 in which (apparently) he sought an apology and compensation. The Deputy Solicitor-General replied she did not consider an apology or compensation were warranted. Her letter goes on to record that Mr Toia had also asked for “corrective action” under IPP 7. The request was denied but a direction was made that a copy of the request for correction be placed on the relevant Crown Law file. The reasons for the decline appear in the following extract from the letter:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Letter from Deputy Solicitor-General",
+                "content": "You have also asked for Corrective action under Principle 7 of the Privacy Act. You say the information in the email is false and misleading, but I have no evidence that is the case. I am therefore not willing to correct that information as you have requested but I have directed that a copy of your request for correction - which includes your view that the email was \"false and misleading\" be placed on the relevant Crown Law file."
+              }
+            },
+            {
+              "number": "[39]",
+              "content": "The letters to the Human Rights Commissioner and to the Deputy Solicitor-General were, as mentioned, misconceived. A complaint to a third party who has no relevant function under the PA cannot be treated as a complaint to the Privacy Commissioner. In any event, the “complaints” such as they were, were unparticularised and no statement of correction was provided by Mr Toia.",
+              "page": 10
+            },
+            {
+              "number": "[40]",
+              "content": "No complaint under IPP 7 was made by Mr Toia to the Privacy Commissioner.",
+              "page": 10
+            },
+            {
+              "number": "[41]",
+              "content": "The Certificate of Investigation shows that only IPP 6 was the subject of the investigation by the Commissioner. It is clear from the correspondence passing between Mr Toia and the OPC that Mr Toia shared the understanding that it was IPP 6 alone which was the subject of his complaint and of the subsequent investigation by the Privacy Commissioner.",
+              "page": 10
+            },
+            {
+              "number": "[42]",
+              "content": "The Tribunal has been dependent on Mr Taylor for the documents relevant to his interaction with Corrections and subsequently, with the Office of the Privacy Commissioner.",
+              "page": 11
+            },
+            {
+              "number": "[43]",
+              "content": "As far as we can tell, on 18 July 2013, being the day on which the email was read in court, Mr Taylor by PC.01 numbers 285855 (18 July 2013) and 285860 (18 July 2013) made a request pursuant to IPP 6 for all information and email traffic held by Corrections and relating to Mr Taylor's attendance as a McKenzie friend for Mr Toia and the reasons why he had not been taken to the AVL room to participate as Mr Toia's McKenzie friend.",
+              "page": 11
+            },
+            {
+              "number": "[44]",
+              "content": "Mr Taylor has provided the first page of a letter dated 19 August 2013 from Corrections to himself responding to these requests.",
+              "page": 11
+            },
+            {
+              "number": "[45]",
+              "content": "Of greater significance in the present context is that Mr Taylor has provided no evidence to show he then subsequently made an access complaint to the Privacy Commissioner under IPP 6.",
+              "page": 11
+            },
+            {
+              "number": "[46]",
+              "content": "Almost twelve months later at a time when Mr Toia’s IPP 6 complaint to the Privacy Commissioner was in its closing stages, on 10 September 2014 Mr Taylor by PC.01 number 324893 (10 September 2014) lodged a complaint with Corrections regarding the content of the email dated 18 July 2013 in the following terms:",
+              "page": 11,
+              "quoted_material": {
+                "source": "PC.01 form by Mr Taylor",
+                "content": "A. I wish to make a Complaint about:\n* Principal 7 Request\n* Request for Code of Conduct Inquiry\nI have now obtained a copy of the e-mail that Tom Sherlock sent to the High Court on 18-07-2013 at 8.12 am. I have never seen a more misleading incorrect, exaggerated communication from a Public Servant to a Court. I request to see an Inspector to go over this e-mail and indicate what parts of the e-mail are wrong and why. I am also asking that a Code of Conduct Inquiry be opened into the contents of the e-mail and whether any of it was incorrect / wrong. Several sections of the Corrections Code of Conduct have, I believe been breached by what Mr Sherlock says in the email. By way of example, he says in the 3rd bullet point from the top of page 2 of the e-mail:\n\"We had strong Intel this incident was being driven by Mr Taylor\" (The Tower protest by WERETA / FORDEN).\nThis is complete garbage, I had nothing to do with this protest. Not only that Mr Sherlock knew this. I have an Intel Officers statement (National Intelligence Unit - with a primary focus on Northern Region) that I had \"Not instigated and has no direct involvement\" in the Tower Incident. You can't tell me or anyone else with any common sense that Mr Sherlock would not have known this.\nThe conclusion is, he exaggerated or simply made up this much of the other e-mail allegations. This constitutes contempt of Court and obstruction of Justice."
+              }
+            },
+            {
+              "number": "[47]",
+              "content": "It is to be noted that while the complaint has the heading “Principal 7 Request\" and while the complaint asserts Mr Taylor's belief the contents of the email were misleading, incorrect and exaggerated, no particularisation of the complaint is given. Nor are the terms of the correction sought set out. Instead Mr Taylor asked to see an Inspector to indicate what parts of the email “are wrong and why\". It would appear Mr Taylor expected the Inspector to record the corrections sought. The outcome of this complaint to Corrections is not known.",
+              "page": 11
+            },
+            {
+              "number": "[48]",
+              "content": "At the same time as lodging the complaint of 10 September 2014 regarding the content of the email Mr Taylor by letter dated 9 September 2014 made a request to the Privacy Commissioner that he reopen what was represented to be a previous complaint by Mr Taylor about the email. However, by letter dated 30 September 2014 the OPC responded that it could find no record of a complaint by Mr Taylor regarding the email dated 18 July 2013. The OPC letter relevantly stated:",
+              "page": 12
+            },
+            {
+              "number": "",
+              "content": "I refer to your letter of 9 September 2014, regarding an email Corrections has recently released to your associate Paki Toia. Thank you for speaking with me last week about this letter. Thank you also for your patience while I considered your comments.\nYou have asked us to re-open our previous investigation into your complaint about the above email. You have asked us this because Corrections recently released the email, with some redactions, to Mr Toia on the basis that legal privilege had been waived.\nNo complaint to reopen\nWe can find no record of a complaint from you about the above email.\nAs you are aware, we have been investigating a complaint from Mr Toia about the document. It was as a result of our investigation into Mr Toia's complaint that Corrections recently released the email to him.\n...\nPrinciple 7 - request must be made to Corrections\nYou have noted that, having now read the email, you dispute much of the information contained in it. You want to challenge that information. As you will be aware, you need to make any principle 7 correction request directly to Corrections. We cannot do this for you.",
+              "page": 12
+            },
+            {
+              "number": "[49]",
+              "content": "After these proceedings were filed by Mr Toia on 8 January 2015 the OPC by letter dated 22 January 2015 wrote to the Tribunal and to the parties confirming the Commissioner had not investigated any complaint by Mr Taylor relating to this matter. Mr Toia had been the sole complainant:",
+              "page": 12,
+              "quoted_material": {
+                "source": "Letter from OPC",
+                "content": "Thank you for sending us notice about these proceedings.\nI have read the Statement of Claim and the Privacy Commissioner's investigation file.\nThe Privacy Commissioner investigated the complaint as involving a possible breach of principle 6 of the Privacy Act 1993. The matters in the Statement of Claim are among the matters considered by the Commissioner.\nThere are some difficulties with jurisdiction. First, the Commissioner did not investigate any complaint relating to this matter by Mr Taylor. Mr Toia was the sole complainant."
+              }
+            },
+            {
+              "number": "[50]",
+              "content": "In the present proceedings, by memorandum dated 24 May 2015 Mr Taylor has asserted (inter alia) he contacted the Privacy Commissioner wanting to complain about what he considered to be the wrongful withholding of the email in question. He said that by letter dated 30 March 2015 the OPC had advised him his earlier correspondence had been treated as \"an inquiry\" and he had been informed that the Privacy Commissioner would not be investigating the inquiry as a complaint.",
+              "page": 12
+            },
+            {
+              "number": "[51]",
+              "content": "We do not read the “treated as an inquiry” response as in any way qualifying the earlier statement by the OPC in the letter dated 30 September 2014 that the OPC could find no record of a complaint by Mr Taylor regarding the email dated 18 July 2013. When the OPC by letter dated 30 March 2015 referred to treating \"earlier correspondence as an inquiry\", that earlier correspondence is not identified and none appears to have been provided to the Tribunal. Given the unequivocal terms of the “no record of complaint\" letter dated 30 September 2014 it is to be doubted that the later OPC letter of 30 March 2015 and its reference to “an inquiry” was intended to qualify the “no record” statement.",
+              "page": 12
+            },
+            {
+              "number": "[52]",
+              "content": "Then with his submissions to the Tribunal dated 17 August 2015 Mr Taylor filed a copy of a letter he wrote to the Privacy Commissioner on 6 August 2015 requesting that an IPP 6 investigation be opened (or reopened). The Tribunal has not been given any information as to the terms of the reply by the Privacy Commissioner. But whatever the outcome Mr Taylor left it too late to attempt retrospective remedial action during the closing stages of a challenge to his standing before this Tribunal and the jurisdiction of the Tribunal to hear his allegation that his privacy has been interfered with.",
+              "page": 13
+            },
+            {
+              "number": "[53]",
+              "content": "From the foregoing it is concluded:",
+              "page": 13
+            },
+            {
+              "number": "[53.1]",
+              "content": "Mr Taylor on 18 July 2013 made his own IPP 6 request to Corrections for access to the disputed email. This preceded by two months Mr Toia's first request, a request made by Mr Toia on his own behalf, not on behalf of Mr Taylor.",
+              "page": 13
+            },
+            {
+              "number": "[53.2]",
+              "content": "There is no evidence that prior to the filing of these present proceedings on 8 January 2015 Mr Taylor made complaint to the Privacy Commissioner regarding his (Mr Taylor's) IPP 6 access request.",
+              "page": 13
+            },
+            {
+              "number": "[53.3]",
+              "content": "On 9 September 2014 Mr Taylor wrote to the Privacy Commissioner requesting that the Commissioner reopen what Mr Taylor described as a previous complaint. However, the OPC has no record of Mr Taylor having made such previous complaint and in addition on 30 September 2014 advised Mr Taylor that if he wished to dispute the information contained in the email he would need to make an IPP 7 correction request directly to Corrections.",
+              "page": 13
+            },
+            {
+              "number": "[53.4]",
+              "content": "An IPP 7 “request” was made by Mr Taylor to Corrections on 10 September 2014. We use quotation marks because Mr Taylor did not in his PC.01 of that date or in any other document set out the terms of the correction sought. He asserted only that the email was misleading, incorrect and exaggerated. As will be shown, this is not a request for the purpose of IPP 7.",
+              "page": 13
+            },
+            {
+              "number": "[53.5]",
+              "content": "No investigation has been conducted by the Privacy Commissioner into a complaint by Mr Taylor that there has been an IPP 7 interference with his (Mr Taylor's) privacy.",
+              "page": 13
+            },
+            {
+              "number": "[53.6]",
+              "content": "There is no evidence that any of Mr Toia's IPP 6 complaints to the Privacy Commissioner were made on behalf of Mr Taylor as well.",
+              "page": 13
+            },
+            {
+              "number": "[54]",
+              "content": "Against this factual background it is possible to return to the three issues for determination namely:",
+              "page": 13
+            },
+            {
+              "number": "[54.1]",
+              "content": "Whether Mr Taylor has standing to be second plaintiff in these proceedings.",
+              "page": 13
+            },
+            {
+              "number": "[54.2]",
+              "content": "If the answer is “No” whether he is a person to be heard pursuant to HRA, s 108.",
+              "page": 13
+            },
+            {
+              "number": "[54.3]",
+              "content": "Whether the Tribunal has jurisdiction to hear the complaint that IPP 7 has been breached either in relation to Mr Toia or in relation to Mr Taylor or in relation to both.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "WHETHER MR TAYLOR HAS STANDING TO BE A PLAINTIFF IN THESE PROCEEDINGS",
+          "page_start": 14,
+          "paragraphs": [
+            {
+              "number": "[55]",
+              "content": "Mr Toia and Mr Taylor have pursued, at times different to each other, separate and independent requests for access to and correction of the email dated 18 July 2013. Only Mr Toia has established that in relation to the access request under IPP 6 he complained to the Privacy Commissioner. Only that complaint has been investigated by the Privacy Commissioner. There is no evidence that, prior to the filing of these proceedings, Mr Taylor made an access complaint under IPP 6 to the Commissioner. Neither Mr Toia nor Mr Taylor made IPP 7 complaints to the Commissioner. These facts are of singular importance to the issue of Mr Taylor's standing. His case involves the proposition that the complaint stage before the Privacy Commissioner can either be dispensed with by him (Mr Taylor) or that he can use Mr Toia's complaint to overcome the standing challenge. These claims necessitate a detailed consideration of the complaint provisions in the Privacy Act.",
+              "page": 14
+            },
+            {
+              "number": "[56]",
+              "content": "It is common ground the Privacy Act requires that before anyone can be a plaintiff in proceedings before the Tribunal that person must be an “aggrieved individual”. In the absence of any definition of that phrase in the Act it is necessary to focus on the purpose and scheme of the Act. Statutory words must be read in the light of their purpose and context.",
+              "page": 14
+            },
+            {
+              "number": "[57]",
+              "content": "Where it is alleged an action of an agency is an interference with the privacy of an individual, the Part 8 resolution process is set in motion by the making of a complaint to the Privacy Commissioner. The Act expressly stipulates that “any person” can make such a complaint. See PA, s 67(1):",
+              "page": 14,
+              "quoted_material": {
+                "source": "Privacy Act, s 67(1)",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "67",
+                    "content": "Complaints\n(1) Any person may make a complaint to the Commissioner alleging that any action is or appears to be an interference with the privacy of an individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[58]",
+              "content": "But a clear distinction is drawn between the complainant on the one hand and the person alleged to be aggrieved on the other. See for example PA, s 73(a):",
+              "page": 14,
+              "quoted_material": {
+                "source": "Privacy Act, s 73(a)",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "73",
+                    "content": "Proceedings of Commissioner\nBefore proceeding to investigate any matter under this Part, the Commissioner—\n(a) shall inform the complainant (if any), the person to whom the investigation relates, and any individual alleged to be aggrieved (if not the complainant), of the Commissioner's intention to make the investigation; and"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[59]",
+              "content": "A third party complainant cannot hijack the complaint process. The Commissioner has a discretion to take no action where the individual (the person alleged to be aggrieved) does not desire that action be taken or continued. In addition the Commissioner has a discretion to take no action where the complainant does not have a sufficient personal interest in the subject-matter of the complaint. See PA, s 71(1)(d) and (e).",
+              "page": 14
+            },
+            {
+              "number": "[60]",
+              "content": "While any person may make a complaint, only “the aggrieved individual” may bring proceedings before the Tribunal and then only if the conditions stipulated by PA, s 83 are met:",
+              "page": 14
+            },
+            {
+              "number": "",
+              "content": "83 Aggrieved individual may bring proceedings before Human Rights Review Tribunal\nNotwithstanding section 82(2), the aggrieved individual (if any) may himself or herself bring proceedings before the Human Rights Review Tribunal against a person to whom section 82 applies if the aggrieved individual wishes to do so, and-\n(a) the Commissioner or the Director of Human Rights Proceedings is of the opinion that the complaint does not have substance or that the matter ought not to be proceeded with; or\n(b) in a case where the Director of Human Rights Proceedings would be entitled to bring proceedings, the Director of Human Rights Proceedings-\n(i) agrees to the aggrieved individual bringing proceedings; or\n(ii) declines to take proceedings.",
+              "page": 15
+            },
+            {
+              "number": "[61]",
+              "content": "Only the Director of Human Rights Proceedings and the aggrieved individual have standing to seek remedies from the Tribunal. See PA, s 84:",
+              "page": 15,
+              "quoted_material": {
+                "source": "Privacy Act, s 84",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "84",
+                    "content": "Remedies that may be sought\nIn any proceedings before the Human Rights Review Tribunal, the Director of Human Rights Proceedings or the aggrieved individual (as the case may be) may seek such of the remedies described in section 85 as he or she thinks fit."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[62]",
+              "content": "The logic of these provisions is unmistakable. Only the Director and persons whose privacy has been interfered with have statutory access to enforceable remedies.",
+              "page": 15
+            },
+            {
+              "number": "[63]",
+              "content": "Reading the information privacy principles in the context of Parts 5 and 8 of the Privacy Act (and in particular the sections referred to above) we conclude that an “aggrieved individual” is a person who asserts there has been an action (by an agency) which is alleged to be an interference with the privacy of that individual. It is only in respect of such interference that a complaint can be made to the Privacy Commissioner and in respect of which remedies can be granted by the Tribunal under PA, ss 85 and 88.",
+              "page": 15
+            },
+            {
+              "number": "[64]",
+              "content": "But before an aggrieved individual can file proceedings the provisions of s 83 must be satisfied. This can only be achieved if the complaint made to the Commissioner is about the specific aggrieved individual and about the specific action of the agency which is alleged to be an interference with his or her privacy. In Rafiq v Civil Aviation Authority [2013] NZHRRT 10 at [6] the Tribunal stated:",
+              "page": 15,
+              "quoted_material": {
+                "source": "Rafiq v Civil Aviation Authority [2013] NZHRRT 10 at [6]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[6]",
+                    "content": "The effect of ss 82(1) and 83 of the Privacy Act 1993 is that the Tribunal only has jurisdiction over \"any action\" alleged to be an interference with the privacy of an individual and in relation to which the Privacy Commissioner has conducted an investigation."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[65]",
+              "content": "In Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation [2014] NZHRRT 1, (2014) 10 HRNZ 279 at [40] the point was expressed in the following terms:",
+              "page": 15,
+              "quoted_material": {
+                "source": "Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation [2014] NZHRRT 1, (2014) 10 HRNZ 279 at [40]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[40]",
+                    "content": "As stated in Geary at [58], the effect of s 82 of the Privacy Act is that a plaintiff is required to establish that the defendant in any proceeding is a person in respect of whom an investigation has been conducted by the Privacy Commissioner under Part 8 of the Act in relation to any action alleged to be an interference with the privacy of the aggrieved individual. Similarly, before an aggrieved individual can bring proceedings before the Tribunal under s 83 the complaint must first have been considered by the Privacy Commissioner as a complaint. See Lv Τ (1998) 5 HRNZ 30 (Morris J, A Knowles, GDS Taylor) at 35 and 36; Steele v Department of Work and Income [2002] NZHRRT 12; DAS v Department of Child, Youth and Family Services [2004] NZHRRT 45; Lehmann v Radio Works [2005] NZHRRT 20 and more recently Rafiq v Civil Aviation Authority of New Zealand [2013] NZHRRT 10."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[66]",
+              "content": "The importance of hearing the agency in relation to the action alleged to be an interference with the privacy of an individual was stressed in VUW v Accident Compensation Corporation (Jurisdiction Objection) [2014] NZHRRT 26 at [11]:",
+              "page": 15
+            },
+            {
+              "number": "",
+              "content": "Jurisdiction\n[11] The circumstances in which the Tribunal has jurisdiction to hear matters under the Privacy Act are not unlimited. Indeed they are tightly circumscribed by ss 82 and 83 of the Act. This is fully explained in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation (Strike Out Application) [2014] NZHRRT 1 (30 January 2014) (hereinafter [NKR]) at [18] to [42] and no point is served by repeating what is said there. It is sufficient to note that the scheme of the Act is that in the first instance complaints must be dealt with by the Privacy Commissioner. Proceedings before the Tribunal are permitted by ss 82 and 83 only where an investigation has been conducted by the Commissioner under Part 8 or where conciliation (under s 74) has not resulted in settlement. Before either ss 82 and 83 are engaged the following statutorily prescribed steps must be taken (see [NKR] at [25]):\n[11.1] There must be a complaint alleging that an action is or appears to be an interference with the privacy of an individual (s 67(1)).\n[11.2] The Privacy Commissioner must decide whether to investigate the complaint, or to take no action on the complaint (s 70(1)).\n[11.3] The Privacy Commissioner must advise both the complainant and the person to whom the complaint relates of the procedure that the Commissioner proposes to adopt (s 70(2)).\n[11.4] The Privacy Commissioner must inform the complainant and the person to whom the investigation relates of the Commissioner's intention to make the investigation (s 73(a)).\n[11.5] The Privacy Commissioner must inform the person to whom the investigation relates of:\n[11.5.1] The details of the complaint (if any) or, as the case may be, the subject-matter of the investigation; and\n[11.5.2] The right of that person to submit to the Commissioner, within a reasonable time, a written response in relation to the complaint, or as the case may be, the subject-matter of the investigation.\n[12] While it is correct that satisfaction of the statutory process and in particular, of s 73, can occur by necessary implication ([NKR] at [27]) such implication must be \"necessary\" as compliance with prescribed statutory steps going to jurisdiction must not be easily left to be inferred. In the present case there is no room for implication or inference. The unchallenged evidence is that the second defendant was not aware of the complaint to the Privacy Commissioner or of the Commissioner's investigation until she was served by the Tribunal with the present proceedings.\n[13] As stated in [NKR] at [29], the critical and determinative point is whether the Commissioner complied with the mandatory duty in ss 70(2) and 73 to:\n[13.1] Notify the person to whom the complaint relates that the Commissioner intends making an investigation into the matter; and\n[13.2] Inform that person of the details of the complaint and of the right of that person to submit a written response to the complaint.",
+              "page": 16
+            },
+            {
+              "number": "[67]",
+              "content": "The complaint process is not an empty formality or meaningless ritual preparatory to the aggrieved individual's claim being filed in the Tribunal. It is an essential filtering mechanism which recognises mediation will often resolve complaints without the parties being put to the difficulty and expense of an adversarial hearing before the Tribunal.",
+              "page": 16
+            },
+            {
+              "number": "[68]",
+              "content": "For convenience we repeat the analysis of the Part 8 provisions most recently restated in Gray v Ministry for Children (Strike-Out Application) [2018] NZHRRT 13 at [12] to [26].",
+              "page": 16
+            },
+            {
+              "number": "[69]",
+              "content": "As pointed out in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation at [19], the scheme of Part 8 of the Act is that in the first instance complaints must be dealt with by the Privacy Commissioner. Proceedings before the Tribunal are permitted by ss 82 and 83 only where an investigation by the Commissioner has been conducted under Part 8 or where conciliation (under s 74) has not resulted in settlement. Voluntary compliance is not only an important aim of the Act it is also an important aspect of the Part 8 complaints system. On receiving a complaint the Privacy Commissioner must attempt to reach a settlement between the parties. If that fails, there is provision for the matter to then proceed to an enforcement stage before the Tribunal.",
+              "page": 17
+            },
+            {
+              "number": "[70]",
+              "content": "That the voluntary compliance provisions of the Act have proved to be effective was explicitly noted in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation. There, at [21] the Tribunal referred to the Privacy Commissioner's Annual Report 2013 (Wellington, November 2013) which at 21 recorded that most complaints to the Commissioner are either settled or complainants decide not to pursue the matter further after the investigation has been completed. At that time the aim of the Privacy Commissioner was to settle 30% of all complaints but in fact of the complaints closed for the year 2012/13, 36% were closed with some level of settlement. This, in turn, was an increase in the settlement rate from the previous year. Overall, the Privacy Commissioner achieved some level of resolution in nearly 63% of all notified complaints. Settlements ranged from apologies through to payments of money for harm caused.",
+              "page": 17
+            },
+            {
+              "number": "[71]",
+              "content": "The Privacy Commissioner's most recent Annual Report 2017 (Wellington, November 2017) at 9, 17-20 evidences a continuation of the effectiveness of the dispute resolution process. Whereas the aim of the Commissioner in 2017 was to settle 40% of all complaints, some 48% of cases were in fact closed by settlement. The Commissioner also continues to work hard to quickly and fairly resolve complaints. To this end, 90% of cases were completed within six months and at year end, 90% of files were less than six months old. The total number of complaints received in 2017 was 736.",
+              "page": 17
+            },
+            {
+              "number": "[72]",
+              "content": "It is apparent from these figures that the Part 8 alternative dispute resolution scheme as facilitated by the Privacy Commissioner is achieving its intended goal of speedy, low-cost, informal and non-adversarial resolution of complaints wherever possible. There is therefore good reason for Part 8 to provide for complaints to be withdrawn or discontinued by the complainant.",
+              "page": 17
+            },
+            {
+              "number": "[73]",
+              "content": "Not to be overlooked is the fact that the complaints process is not just for the benefit of the person aggrieved. It is also for the benefit of the agencies complained against. They are entitled to be given notice of the complaint and of the fact that an investigation has been opened by the Commissioner. Proper particulars of the complaint must be given and the agency afforded a fair opportunity to respond. See the summary of the relevant statutory provisions in Director of Human Rights Proceedings [NKR] v Accident Compensation Corporation at [25].",
+              "page": 17
+            },
+            {
+              "number": "[74]",
+              "content": "It is this overall process which promotes the speedy, cost effective dispute resolution process referred to. Persons aggrieved have the opportunity to decide whether they no longer desire that action be taken or to decide that the action taken by the Commissioner be discontinued. Alternatively the parties can decide on an appropriate form of settlement, such as the release of the requested information, an apology, the partial release of the information, correction of the information, the giving by the agency of assurances, changes to the policy of the agency, training or payment of money or monies worth.",
+              "page": 17
+            },
+            {
+              "number": "[75]",
+              "content": "Seen in this context the Part 8 provisions are properly described as a “filtering mechanism\" which applies to cases before they can be brought before the Tribunal. See Waugh v New Zealand Association of Counsellors Inc [2003] NZHRRT 9 at [20(c)]. In that case the Tribunal recognised it would:",
+              "page": 18
+            },
+            {
+              "number": "[76]",
+              "content": "In Lehmann v The Radioworks Ltd [2004] NZHRRT 31 at [20] the Tribunal said:",
+              "page": 18
+            },
+            {
+              "number": "[77]",
+              "content": "To the above must be added the following points:",
+              "page": 18
+            },
+            {
+              "number": "[77.1]",
+              "content": "If complainants were able to by-pass a Part 8 investigation by the Privacy Commissioner by not submitting a complaint at all or by relying on some other aggrieved person's complaint, the scheme of the Act would be frustrated. An additional consequence would be that the Tribunal would receive an influx of claims which could have been screened out by the Commissioner's process.",
+              "page": 18
+            },
+            {
+              "number": "[77.2]",
+              "content": "Hearing time before the Tribunal is a limited resource. Hearings are also resource intensive in that the Tribunal comprises not only a Chairperson but also two other persons appointed by the Chairperson from the Panel maintained by the Minister of Justice under the Human Rights Act 1993, s 101 (incorporated into proceedings under the Privacy Act 1993 by s 89 of that latter Act). The proceedings are adversarial in nature. The average length of a hearing is presently three days. It is not uncommon for hearings in complex cases to run for two weeks or more. The Tribunal presently has a growing backlog of cases.",
+              "page": 18
+            },
+            {
+              "number": "[77.3]",
+              "content": "Any influx of cases taking a short cut will limit the effectiveness of the Tribunal's processes for those claimants who have proceeded in good faith through the Privacy Act's mandated consideration by the Privacy Commissioner followed by a decision in accordance with the requirements of the Act. It would also be unfair to those people who engage with the Commissioner's process were it permissible for other complainants to jump the queue by not engaging with or by withdrawing from the statutory filtering mechanism in order to file proceedings with the Tribunal. The intended purpose of the Part 8 complaint process would be substantially undermined.",
+              "page": 18
+            },
+            {
+              "number": "[77.4]",
+              "content": "Adversarial litigation is expensive for agencies which are the subject of complaints. The requirements of the Privacy Act with respect to jurisdiction provide a valuable protective mechanism for potential defendants in that before a claim may be filed in the Tribunal, the agency will have had opportunity to be heard by the Commissioner on the merits of the underlying complaint. If the Commissioner considers a claim has substance, the agency will have had the opportunity to consider the possibility of settlement under the auspices of the Commissioner. Having so engaged agencies are entitled to receive a decision from the Privacy Commissioner on the complaint. That decision might be that the Commissioner decides to take no further action on a complaint under PA, s 71 or a decision as to whether the complaint has merit. This is particularly significant given defendants in proceedings before the Tribunal are unlikely to be able to recover anything like the costs they would be awarded if faced with a claim in the District or High Courts.",
+              "page": 18
+            },
+            {
+              "number": "[78]",
+              "content": "Powerful policy reasons accordingly support an interpretation of the Act which requires all intending plaintiffs who allege an interference with their privacy to complain first to the Privacy Commissioner and to there engage in the statutory complaint process before instituting proceedings before the Tribunal.",
+              "page": 19
+            },
+            {
+              "number": "[79]",
+              "content": "The insurmountable difficulty facing Mr Taylor is that the Privacy Commissioner has no record of any IPP 6 access complaint having been made by Mr Taylor in relation to the email dated 18 July 2013 and his IPP 6 request of the same day to Corrections. There is also the Commissioner's letter dated 22 January 2015 to the Tribunal and to the parties which makes it clear he did not investigate any complaint relating to this matter by Mr Taylor whether in relation to IPP 6 or IPP 7. Mr Toia was the sole complainant and he complained only about an interference with his own privacy in relation to IPP 6, not IPP 7.",
+              "page": 19
+            },
+            {
+              "number": "[80]",
+              "content": "In his memorandum dated 17 August 2015 Mr Taylor submits that provided “any action” alleged to be an interference with the privacy of an individual has been investigated by the Privacy Commissioner, proceedings can be brought before the Tribunal not only by the aggrieved individual who made the complaint to the Commissioner about the action, but also by any other person who claims his or her privacy has been interfered with by that action. He argues it is not necessary that the second aggrieved individual make separate complaint or that the Commissioner carry out an investigation into the allegations made by the second aggrieved individual. Because Mr Toia in December 2013 made a complaint to the Commissioner about the delay by Corrections in giving him access to the email dated 18 July 2013 and because Mr Taylor wants to make the same complaint only one of them was required to lodge a complaint with the Commissioner for them both to rely on the fact that the Commissioner did commence an investigation.",
+              "page": 19
+            },
+            {
+              "number": "[81]",
+              "content": "Expressed another way, the submission is that when a particular factual matrix gives rise to two or more persons being aggrieved, it is sufficient that only one person makes a complaint to the Privacy Commissioner and for that complaint to be then investigated by the Commissioner. Once the complaint process has been concluded the other persons aggrieved can be plaintiffs in proceedings brought by the person who filed the complaint. As soon as the first person aggrieved has opened the door to the Tribunal, all others can enter without themselves following the statutory process.",
+              "page": 19
+            },
+            {
+              "number": "[82]",
+              "content": "The submission overlooks the following:",
+              "page": 19
+            },
+            {
+              "number": "[82.1]",
+              "content": "The statutory scheme, particularly Part 8 of the Act.",
+              "page": 19
+            },
+            {
+              "number": "[82.2]",
+              "content": "Although both Mr Toia and Mr Taylor wanted to gain access to the same email their requests were made at different times and were made without reference to each other. That is, neither made the request on behalf of the other.",
+              "page": 19
+            },
+            {
+              "number": "[82.3]",
+              "content": "The timing issue is significant because the 20 working days in which an agency has to make a decision on an IPP 6 request starts running after the day on which the request is received by the agency. Where, as here, at different times more than one individual requests access to the same document, any deemed interference with the privacy of the requester (see PA, s 66(2) and (3)) will occur at different times. Whether there was any proper basis for the deemed refusal of the request in terms of s 66(2)(b) will depend on the individual facts. Liability in one case does not establish liability in the other.",
+              "page": 19
+            },
+            {
+              "number": "[83]",
+              "content": "The overarching response to Mr Taylor’s argument, however, is that the Privacy Act does not allow the Part 8 process in ss 67 to 80 to be by-passed in the manner he suggests. Only an aggrieved individual who has made a Part 8 complaint to the Privacy Commissioner (or in respect of whose privacy a complaint has been made by a third party) can bring proceedings. The terms of PA, s 83 could not otherwise be discharged. It is necessarily implicit in s 82(1)(a) and (b) that the complaint and investigation referred to in these provisions is in relation to any action of the agency which has led to an interference with the privacy of a specific aggrieved individual, not some other individual.",
+              "page": 20
+            },
+            {
+              "number": "[84]",
+              "content": "In his memorandum dated 17 June 2015 Mr Taylor asserts that the New Zealand Bill of Rights Act 1990, s 14 is engaged in that the actions of Corrections limited Mr Taylor’s right to seek and receive information of any kind in any form. Consequently PA, s 82(1)(a) must be interpreted in a manner that protects and promotes the NZBORA, s 14 right. We do not see how this argument assists. The language of the Privacy Act makes it clear the right to bring proceedings before the Tribunal is limited to an aggrieved individual who has made a complaint to the Privacy Commissioner. About this there is no doubt or ambiguity to be resolved by reference to the NZBORA. Furthermore, the right to freedom of expression does not equate to a right to be heard by a court or tribunal regardless of ordinary rules about standing. Those rules are justified limits that allow proceedings to take place in an orderly way.",
+              "page": 20
+            },
+            {
+              "number": "[85]",
+              "content": "We do not intend repeating our previous findings. It is sufficient to record only:",
+              "page": 20
+            },
+            {
+              "number": "[85.1]",
+              "content": "Although Mr Taylor made an IPP 6 access request to Corrections in respect of the email dated 18 July 2013 and now contends that by not complying with that request Corrections interfered with his privacy, no complaint under IPP 6 was made by Mr Taylor to the Privacy Commissioner. Nor did Mr Taylor make a complaint to the Commissioner regarding an alleged interference based on IPP 7.",
+              "page": 20
+            },
+            {
+              "number": "[85.2]",
+              "content": "Only Mr Toia made an IPP 6 complaint to the Privacy Commissioner. He made that complaint on his own behalf, not on behalf of Mr Taylor.",
+              "page": 20
+            },
+            {
+              "number": "[85.3]",
+              "content": "Mr Taylor cannot rely on Mr Toia’s IPP 6 complaint to the Privacy Commissioner (regarding an alleged interference with the privacy of Mr Toia) to give him (Mr Taylor) standing as a plaintiff to complain about an alleged interference with his (Mr Taylor’s) privacy.",
+              "page": 20
+            },
+            {
+              "number": "[86]",
+              "content": "As Mr Taylor has no standing before the Tribunal as a plaintiff his application to be reinstated as a plaintiff must be dismissed.",
+              "page": 20
+            },
+            {
+              "number": "[87]",
+              "content": "It is now necessary to address Mr Taylor’s application to be heard under HRA, s 108.",
+              "page": 20
+            }
+          ]
+        },
+        {
+          "title": "WHETHER MR TAYLOR IS TO BE HEARD UNDER HRA, s 108",
+          "page_start": 21,
+          "paragraphs": [
+            {
+              "number": "[88]",
+              "content": "Section 108 of the Human Rights Act stipulates that certain non-parties may be allowed to appear before the Tribunal:",
+              "page": 21,
+              "quoted_material": {
+                "source": "Human Rights Act, section 108",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "108",
+                    "content": "Persons entitled to be heard\n(1) Any person who is a party to the proceedings before the Tribunal, and any person who satisfies the Tribunal that he or she has an interest in the proceedings greater than the public generally, may appear and may call evidence on any matter that should be taken into account in determining the proceedings.\n(2) If any person who is not a party to the proceedings before the Tribunal wishes to appear, the person must give notice to the Tribunal and to every party before appearing.\n(3) A person who has a right to appear or is allowed to appear before the Tribunal may appear in person or be represented by his or her counsel or agent."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[89]",
+              "content": "This provision was first addressed by the Tribunal in Director of Human Rights Proceedings v Sensible Sentencing Group Trust (Application by Victims to be Heard) [2013] NZHRRT 26 at [17] to [20]. Using that decision as a starting point, our approach in the present case is as follows:",
+              "page": 21
+            },
+            {
+              "number": "[89.1]",
+              "content": "In determining whether it has been “satisfied” that a non-party has an interest in the proceedings greater than the public generally, the Tribunal will be required to balance competing interests. On the one hand there may be a concern to ensure everyone interested in a particular matter is heard but on the other hand proceedings involving a number of parties may become cumbersome and costly.",
+              "page": 21
+            },
+            {
+              "number": "[89.2]",
+              "content": "A non-party can apply either to appear to make submissions or to appear and to call evidence on any matter that should be taken into account in determining the proceedings. It is implicit the non-party cannot ask the Tribunal to receive evidence or submissions on any matter that should not properly be taken into account in determining the proceedings.",
+              "page": 21
+            },
+            {
+              "number": "[89.3]",
+              "content": "If the Tribunal is satisfied the non-party has an interest in the proceedings greater than the public and allows the non-party to appear before the Tribunal it does not follow the non-party then becomes a “party” to the proceedings. The non-party remains a “non-party” but is either allowed to appear to make submissions or to appear and to call evidence on any matter that should be taken into account in determining the proceedings.",
+              "page": 21
+            },
+            {
+              "number": "[89.4]",
+              "content": "A non-party is not entitled to a remedy. Sections 84 and 85 of the Privacy explicitly stipulate that remedies can be sought only by the aggrieved individual following a complaint to the Privacy Commissioner. Only such individual is eligible under PA, ss 82 and 83 to bring proceedings before the Tribunal.",
+              "page": 21
+            },
+            {
+              "number": "[90]",
+              "content": "In his memorandum dated 18 July 2015 Mr Taylor says that if he is given intervener status under PA, s 108(1) he will be entitled to call evidence on the following matters which, he contends, should be taken into account in determining the proceedings:",
+              "page": 21
+            },
+            {
+              "number": "[90.1]",
+              "content": "The alleged accuracy of the information in the email; whether Corrections acted in bad faith or was negligent in providing the information to the High Court; frustrating the right of Mr Toia and of Mr Taylor to have the information corrected under IPP 7.",
+              "page": 21
+            },
+            {
+              "number": "[90.2]",
+              "content": "Corrections' alleged \"propensity” to deny the rights of Mr Toia and of Mr Taylor under IPP 6 and IPP 7.",
+              "page": 22
+            },
+            {
+              "number": "[90.3]",
+              "content": "Corrections' alleged systemic and ongoing breaches of the Privacy Act in similar circumstances:\nEvidence bearing on that must therefore be able to be called by myself if my s 108 application is granted.",
+              "page": 22
+            },
+            {
+              "number": "[91]",
+              "content": "Mr Taylor submits that evidence and submissions in relation to himself and which establish an interference with his privacy can be received by the Tribunal via s 108 if it is a matter that should be taken into account in determining the proceedings. Then, relying on HRA, s 105 (Tribunal to act according to the substantial merits of the case, without regard to technicalities) he argues a broad meaning is to be given to “any matter” and claims the Tribunal can collaterally determine whether there has been a breach of his (Mr Taylor's) rights regarding the email and make any necessary “observations” or “obiter comments\" in its decision.",
+              "page": 22
+            },
+            {
+              "number": "[92]",
+              "content": "Finally, Mr Taylor submits that under HRA, s 108 he will have an entitlement in the broadest of terms, an entitlement which includes:\n\"the right to make submissions and call evidence not only in relation to the particular matter that constitutes the interest they have in the proceeding greater than the public generally, but all other matters before the Tribunal, including matters initiated by them rather than other participants/parties.\"",
+              "page": 22
+            },
+            {
+              "number": "[93]",
+              "content": "For the Privacy Commissioner the following submissions are made:",
+              "page": 22
+            },
+            {
+              "number": "[93.1]",
+              "content": "The tenor of Mr Taylor's submissions is that he intends using HRA, s 108 as a means of achieving a level of participation little different to that he would have were he an actual party to the proceedings.",
+              "page": 22
+            },
+            {
+              "number": "[93.2]",
+              "content": "Mr Taylor's privacy rights are not relevant to these proceedings and it is important that PA, s 108 not be interpreted in a way that allows non-parties to claim breaches of their own privacy rights. To do so would circumvent the limitations the Act places on who can be parties and what issues can be raised in Tribunal proceedings.",
+              "page": 22
+            },
+            {
+              "number": "[93.3]",
+              "content": "The case involves an alleged breach of Mr Toia's privacy. The evidence before the Tribunal must relate to that alleged breach, not to any effect the actions of Corrections may have had on Mr Taylor.",
+              "page": 22
+            },
+            {
+              "number": "[93.4]",
+              "content": "An “aggrieved individual” is an individual who asserts that an agency has interfered with his or her privacy. That assertion must have been the subject of an investigation by the Privacy Commissioner before the aggrieved individual can bring proceedings to the Tribunal.",
+              "page": 22
+            },
+            {
+              "number": "[93.5]",
+              "content": "Mr Taylor is not an aggrieved individual in terms of the Act. The investigation by the Privacy Commissioner did not relate to a breach of Mr Taylor's privacy. It is therefore not relevant to Mr Toia's proceedings whether Corrections has breached Mr Taylor's rights.",
+              "page": 22
+            },
+            {
+              "number": "[93.6]",
+              "content": "The fact that the information sought by Mr Toia referred also to Mr Taylor does not mean Mr Taylor has an interest greater than that of a member of the public.",
+              "page": 23
+            },
+            {
+              "number": "[93.7]",
+              "content": "The papers filed by Mr Taylor do not disclose any information demonstrating how evidence brought by him would assist the Tribunal to determine Mr Toia's claim.",
+              "page": 23
+            },
+            {
+              "number": "[94]",
+              "content": "For Corrections it is submitted:",
+              "page": 23
+            },
+            {
+              "number": "[94.1]",
+              "content": "Persons who are not “aggrieved individuals” for the purposes of PA, s 83 should not be permitted to participate in proceedings under s 108(1) on the grounds that their own privacy has been breached. Doing so would circumvent the requirements of s 83.",
+              "page": 23
+            },
+            {
+              "number": "[94.2]",
+              "content": "Section 108(1) should not be used to facilitate representation of the aggrieved individual.",
+              "page": 23
+            },
+            {
+              "number": "[94.3]",
+              "content": "The alleged inaccuracy of the information in the email can be relevant only to an IPP 7 complaint. On the facts, the Tribunal does not have jurisdiction over a complaint under this principle. Embarking upon an inquiry into the accuracy of material which is the subject of an IPP 6 claim would undermine the purpose of the jurisdictional limits imposed by the Act; that is, to restrict proceedings to actions that were actually investigated by the Privacy Commissioner.",
+              "page": 23
+            },
+            {
+              "number": "[94.4]",
+              "content": "As to the alleged systemic and ongoing breaches of the Privacy Act by Corrections, determination of this claim lies outside the jurisdiction of the Tribunal. It is able to determine only the claim before it and cannot determine other allegations of other alleged privacy breaches. This too would circumvent PA, ss 82 and 83.",
+              "page": 23
+            },
+            {
+              "number": "[94.5]",
+              "content": "Mr Taylor's IPP 6 request was never investigated by the Privacy Commissioner and he (Mr Taylor) is not an “aggrieved individual”. In any case, Mr Toia has been provided with the same material and is able to enter evidence on that point. Accordingly, it is not necessary for Mr Taylor to call evidence to assist the Tribunal to determine the proceedings.",
+              "page": 23
+            },
+            {
+              "number": "[95]",
+              "content": "We agree with the submissions by the Privacy Commissioner and by Corrections.",
+              "page": 23
+            },
+            {
+              "number": "[96]",
+              "content": "The application must be declined for the following reasons:",
+              "page": 23
+            },
+            {
+              "number": "[96.1]",
+              "content": "The application of HRA, s 108 to the Privacy Act is not unqualified. Section 89 stipulates that it applies “with such modifications as are necessary\". This limitation means that if there is a conflict in Privacy Act proceedings between what HRA, s 108 might suggest who can be heard and the provisions of the Privacy Act, the provisions of the latter Act will prevail. Before proceedings under the Privacy Act are brought before the Tribunal a prescribed statutory path must be followed by the individual aggrieved. Section 108 is not to be used as a back door to achieving a level of participation in proceedings little different to that which the non-party would have were he or she an actual party to the proceeding.",
+              "page": 23
+            },
+            {
+              "number": "[96.2]",
+              "content": "The present proceedings are about whether Mr Toia's privacy was interfered with by an alleged breach of IPP 6 by Corrections. If there was such interference the issue of the appropriate remedy (if any) to be granted to Mr Toia would need to be addressed. The application by Mr Taylor indicates he intends to expand the scope of the proceedings well beyond these parameters by asking the Tribunal to determine there has been an interference with his (Mr Taylor's) privacy, that Corrections acted in bad faith, has propensity to deny Mr Toia's and Mr Taylor's rights and systemically breaches the Privacy Act. To grant the application would result in the Tribunal engaging in a form of judicial inquiry rather than adjudicating on the specific dispute between Mr Toia and Corrections regarding IPP 6. Exercise of the discretion in s 108(1) must avoid the risk of expanding issues, elongation of hearings and increasing the costs of litigation. In not dissimilar circumstances the joinder application by Mr Taylor was unsuccessful in Mitchell v Attorney-General (Joinder) [2016] NZHC 1737, [2016] NZAR 962 at [35].]",
+              "page": 24
+            },
+            {
+              "number": "[96.3]",
+              "content": "As the Privacy Commissioner submits, Mr Taylor's privacy rights are not relevant to these proceedings and it is important that HRA, s 108 not be interpreted in a way that allows non-parties to claim breaches of their own privacy rights. To do so would circumvent the limitations the Act places on who can be parties and what issues can be raised in Tribunal proceedings. Those limitations have been addressed at [55] to [86] above.",
+              "page": 24
+            },
+            {
+              "number": "[96.4]",
+              "content": "Mr Toia's claim is that after the email was read out in court (in his presence) he was denied a full copy of the document. Mr Taylor's presence as a non-party is not necessary for a determination whether access was properly denied. The fact that the email is about both Mr Toia and Mr Taylor does not of itself give Mr Taylor an interest in the proceedings greater than the public generally. The papers filed by him do not demonstrate how evidence brought by him would assist the Tribunal to determine Mr Toia's claim under IPP 6. If the non-party is unable to show he or she has evidence and submissions to make which will assist \"on any matter that should be taken into account in determining the proceedings\", there can be no injustice in declining an application under HRA, s 108.",
+              "page": 24
+            },
+            {
+              "number": "[96.5]",
+              "content": "Mr Taylor has not, by making appropriate complaint to the Privacy Commissioner, engaged his right to bring proceedings before the Tribunal and cannot use s 14 NZBORA to overcome the fact that he is seeking intervention in a case which is about the determination of Mr Toia's rights, not Mr Taylor's rights. As previously stated, the right to freedom of expression does not equate to a right to be heard by a court or tribunal regardless of the ordinary rules about standing. Those rules are justified limits that allow proceedings to take place in an orderly way.",
+              "page": 24
+            },
+            {
+              "number": "[96.6]",
+              "content": "Section 108(1) should not be used to facilitate representation of the aggrieved individual.",
+              "page": 24
+            },
+            {
+              "number": "[97]",
+              "content": "For the foregoing reasons we are satisfied the application by Mr Taylor under PA, s 108 should not be granted.",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "title": "WHETHER THE TRIBUNAL HAS JURISDICTION TO DETERMINE A CLAIM UNDER IPP 7",
+          "page_start": 25,
+          "paragraphs": [
+            {
+              "number": "[98]",
+              "content": "Principle 7 is a corollary to the right of access under IPP 6. Principle 7, in turn, is connected with the duty of agencies under IPP 8 to ensure that personal information is not used without the agency taking such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date, complete, relevant, and not misleading. Principle 8 is reflected in IPP 7(2).",
+              "page": 25
+            },
+            {
+              "number": "[99]",
+              "content": "Principle 7 provides:",
+              "page": 25,
+              "quoted_material": {
+                "source": "Principle 7",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "Where an agency holds personal information, the individual concerned shall be entitled—\n(a) to request correction of the information; and\n(b) to request that there be attached to the information a statement of the correction sought but not made."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "An agency that holds personal information shall, if so requested by the individual concerned or on its own initiative, take such steps (if any) to correct that information as are, in the circumstances, reasonable to ensure that, having regard to the purposes for which the information may lawfully be used, the information is accurate, up to date, complete, and not misleading."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Where an agency that holds personal information is not willing to correct that information in accordance with a request by the individual concerned, the agency shall, if so requested by the individual concerned, take such steps (if any) as are reasonable in the circumstances to attach to the information, in such a manner that it will always be read with the information, any statement provided by that individual of the correction sought."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "Where the agency has taken steps under subclause (2) or subclause (3), the agency shall, if reasonably practicable, inform each person or body or agency to whom the personal information has been disclosed of those steps."
+                  },
+                  {
+                    "identifier": "(5)",
+                    "content": "Where an agency receives a request made pursuant to subclause (1), the agency shall inform the individual concerned of the action taken as a result of the request."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[100]",
+              "content": "The term “correct” is defined in PA, s 2(1) as follows:\ncorrect, in relation to personal information, means to alter that information by way of correction, deletion, or addition; and correction has a corresponding meaning",
+              "page": 25
+            },
+            {
+              "number": "[101]",
+              "content": "It is implicit that a request under IPP 7(1) must identify and set out the correction, deletion or addition sought. Principle 7(1)(b) and (3) explicitly require a \"statement of the correction sought\". The agency needs to know what steps (if any) are to be taken to correct the information so that it is accurate, up to date, complete and not misleading.",
+              "page": 25
+            },
+            {
+              "number": "[102]",
+              "content": "A request which is unparticularised and which provides no detail of the changes requested or which simply asserts that the information is misleading, incorrect or exaggerated is similarly not a request for correction under IPP 7. Without a statement of the correction sought the agency cannot discharge its obligations under the principle.",
+              "page": 25
+            },
+            {
+              "number": "[103]",
+              "content": "In the present case neither Mr Toia nor Mr Taylor provided Corrections with a statement of the correction sought. It follows neither individual triggered IPP 7. To compound matters, neither then complained to the Privacy Commissioner under IPP 7.",
+              "page": 25
+            },
+            {
+              "number": "[104]",
+              "content": "As to whether an IPP 7 complaint can in these circumstances be added on to Mr Toia's IPP 6 complaint, the critical threshold test under PA, s 82 is whether an investigation has been conducted by the Privacy Commissioner in relation to the alleged breach of IPP 7. See Edwards v Capital and Coast District Health Board [2016] NZHC 3167 at [57].",
+              "page": 26
+            },
+            {
+              "number": "[105]",
+              "content": "On the facts, it is plain no such investigation was conducted by the Privacy Commissioner either in relation to a complaint by Mr Toia or in relation to a complaint by Mr Taylor.",
+              "page": 26
+            },
+            {
+              "number": "[106]",
+              "content": "The Privacy Commissioner's letter dated 22 January 2015 to the Tribunal advises that the investigation was in relation to the complaint under IPP 6. The Certificate of Investigation confirms that to be the case.",
+              "page": 26
+            },
+            {
+              "number": "[107]",
+              "content": "There having been no investigation in relation to any action alleged to be a breach of IPP 7 the Tribunal has no jurisdiction in respect of those parts of the statement of claim which allege a breach of IPP 7 either in relation to Mr Toia or in relation to Mr Taylor.",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "title": "OVERALL CONCLUSIONS",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[108]",
+              "content": "For the foregoing reasons the Tribunal concludes:",
+              "page": 26
+            },
+            {
+              "number": "[108.1]",
+              "content": "Mr Taylor does not have standing to be a plaintiff in these proceedings. His application to be reinstated as a plaintiff is dismissed.",
+              "page": 26
+            },
+            {
+              "number": "[108.2]",
+              "content": "Mr Taylor is not entitled to be heard under HRA, s 108. His application under that provision is dismissed.",
+              "page": 26
+            },
+            {
+              "number": "[108.3]",
+              "content": "The Tribunal does not have jurisdiction to determine the claim that IPP 7 has been breached by Corrections either in respect of Mr Toia or in respect of Mr Taylor or in relation to both.",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[109]",
+              "content": "As this is a decision on interlocutory issues costs are reserved.",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "title": "FUTURE CONDUCT OF CASE",
+          "page_start": 26,
+          "paragraphs": [
+            {
+              "number": "[110]",
+              "content": "As mentioned, Mr Toia has asked that Mr Taylor act as his McKenzie friend.",
+              "page": 26
+            },
+            {
+              "number": "[111]",
+              "content": "Like Brewer J in Toia v Prison Manager, Auckland Prison we have a concern that Mr Toia has a limited ability to put his case and for that reason we are prepared to permit a McKenzie friend.",
+              "page": 26
+            },
+            {
+              "number": "[112]",
+              "content": "However, because Mr Toia and Mr Taylor are both sentenced prisoners and are presently held at different prisons (Mr Toia at Auckland Prison and Mr Taylor at Waikeria Prison) the Tribunal has no jurisdiction to direct the Department of Corrections to facilitate or permit Mr Taylor to act in this way. The Department has physical control over the movements of both men and that control extends to the present situation.",
+              "page": 26
+            },
+            {
+              "number": "[113]",
+              "content": "We therefore follow the path taken by Brewer J in his Minute dated 17 July 2013. That is, it is a matter for the Department of Corrections, looking at the situation as the custodian of Mr Toia and Mr Taylor. Counsel for Corrections is to take instructions and to advise the Tribunal, Mr Toia and Mr Taylor accordingly. This is to be done by 4pm on Friday 23 November 2018. If further time is required application can be made.",
+              "page": 26
+            },
+            {
+              "number": "[114]",
+              "content": "It is possible Mr Toia will have to put forward for approval some other person to act as his McKenzie friend.",
+              "page": 27
+            },
+            {
+              "number": "[115]",
+              "content": "The issues of standing and jurisdiction having been resolved, the Secretary is directed to convene a teleconference so that case management directions can be given to ready the case for hearing.",
+              "page": 27
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Toia v Corrections (Jurisdiction) [2018] NZHRRT 46].",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

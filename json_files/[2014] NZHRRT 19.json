@@ -1,0 +1,291 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 3,
+    "extraction_date": "2024-05-17"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2014] NZHRRT 19",
+        "reference_number": "HRRT 011/2013",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT TIMARU",
+        "hearing_date": "",
+        "decision_date": "6 May 2014",
+        "case_title": "KEVIN ALLAN WATERS v ALPINE ENERGY LIMITED",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ORDERING STAY OF DECISION GIVEN ON 20 FEBRUARY 2014 PENDING APPEAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 3
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "KEVIN ALLAN WATERS",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "ALPINE ENERGY LIMITED",
+            "role": "DEFENDANT",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr KA Waters",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms AL Keir",
+          "representing": "for defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Background",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "On 20 February 2014 the Tribunal delivered a decision in which it ordered that Alpine Energy Limited (Alpine Energy) give further and better discovery. Ancillary timetable directions were given for the completion of the discovery process along with the filing of witness statements and of the common bundle of documents. An early hearing of the substantive proceedings was contemplated. The concluding paragraph of the decision was in the following terms:",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "Decision of 20 February 2014",
+                "content": "[55] To ensure that these proceedings are progressed to a hearing without delay, the following directions are made:",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[55.1]",
+                    "content": "The further discovery by Alpine Energy is to be given on or before 5pm on Friday 21 March 2014. This is to be done not only by the filing of an amended list of documents but also by providing Mr Waters with copies of the discoverable documents."
+                  },
+                  {
+                    "identifier": "[55.2]",
+                    "content": "Mr Waters is to sign and file the undertaking on or before Friday 21 March 2014. If for any reason he is unable to comply (for example, if he is absent on holiday) he may apply to the Chairperson for an extension of time."
+                  },
+                  {
+                    "identifier": "[55.3]",
+                    "content": "Written statements of the evidence to be called at the hearing by Mr Waters are to be filed and served by 5pm on Friday 2 May 2014. By the same date Mr Waters is to provide Mr Graham with a list of documents he wishes to have included in the common bundle of documents."
+                  },
+                  {
+                    "identifier": "[55.4]",
+                    "content": "Written statements of the evidence to be called at the hearing by Alpine Energy are to be filed and served by 5pm on Friday 23 May 2014. By the same date Mr Graham is to provide Mr Waters with a list of documents Alpine Energy wishes to have included in the common bundle of documents."
+                  },
+                  {
+                    "identifier": "[55.5]",
+                    "content": "Any written statements of evidence in reply by Mr Waters are to be filed and served by 5pm on Friday 6 June 2014."
+                  },
+                  {
+                    "identifier": "[55.6]",
+                    "content": "In consultation with Mr Waters, Mr Graham is to prepare the common bundle of documents and that bundle is to be filed and served by Friday 13 June 2014."
+                  },
+                  {
+                    "identifier": "[55.7]",
+                    "content": "The proceedings are to be heard at Timaru on a date to be fixed. Four days are to be set aside."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[2]",
+              "content": "On 20 March 2014 Alpine Energy filed in the High Court at Timaru an appeal against the Tribunal's decision. The proceedings in that Court are CIV2014-476-000016.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "CIV2014-476-000016",
+                  "context": "The proceedings in that Court are CIV2014-476-000016."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[3]",
+              "content": "By notice dated 15 April 2014 Alpine Energy applied for a stay of the decision of 20 February 2014 on the grounds that:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[3.1]",
+                  "content": "To preserve the rights of the parties pending the appeal, it is appropriate that the information the subject of the discovery order not be released."
+                },
+                {
+                  "title": "[3.2]",
+                  "content": "An order for a stay will not affect the substantive rights of either party, or cause significant disadvantage to either party, whereas disclosure of the information would render the appeal right nugatory."
+                },
+                {
+                  "title": "[3.3]",
+                  "content": "The matters to be considered on appeal concern important questions of law which will impact on third parties and attract significant public interest."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "Mr Waters has filed submissions dated 27 April 2014 but those submissions address the merits of the 20 February 2014 decision, not the stay application.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "The bringing of an appeal does not operate to stay the effect of the decision being appealed. In the absence of any order from the Tribunal or from the High Court, the successful party is entitled to enforce the decision. In the present case the timetable orders would ordinarily continue to operate.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[6]",
+              "content": "However, by virtue of s 123(9) of the Human Rights Act 1993 both the Tribunal and the High Court have jurisdiction to order a stay:",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 123(9) of the Human Rights Act 1993",
+                  "context": "However, by virtue of s 123(9) of the Human Rights Act 1993 both the Tribunal and the High Court have jurisdiction to order a stay"
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Act 1993",
+                "content": "(9) Notice of appeal shall not operate as a stay of proceedings in respect of the decision to which the appeal relates unless the Tribunal or the High Court so orders.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[7]",
+              "content": "The principles to be applied were summarised in Patience & Nicholson (NZ) Cyclone Hardware Pty Ltd (2000) 14 PRNZ 534 at [2] to [4]:",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Patience & Nicholson (NZ) Cyclone Hardware Pty Ltd (2000) 14 PRNZ 534 at [2] to [4]",
+                  "context": "The principles to be applied were summarised in Patience & Nicholson (NZ) Cyclone Hardware Pty Ltd (2000) 14 PRNZ 534 at [2] to [4]"
+                },
+                {
+                  "type": "case",
+                  "reference": "Farmers Meat Export Ltd v Waitaki (NZ) Refrigerating Ltd 6/12/85, HC Christchurch A29/81",
+                  "context": "As was stressed by Hardie Boys J in Farmers Meat Export Ltd v Waitaki (NZ) Refrigerating Ltd 6/12/85, HC Christchurch A29/81 (at p 2)"
+                },
+                {
+                  "type": "case",
+                  "reference": "Dymocks Franchise Systems (NSW) Pty Ltd v Bilgola Enterprises Ltd (1999) 13 PRNZ 48",
+                  "context": "Both the plaintiff and the defendants also referred to the factors set out by Hammond J in Dymocks Franchise Systems (NSW) Pty Ltd v Bilgola Enterprises Ltd (1999) 13 PRNZ 48."
+                }
+              ],
+              "quoted_material": {
+                "source": "Patience & Nicholson (NZ) Cyclone Hardware Pty Ltd (2000) 14 PRNZ 534",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[2]",
+                    "content": "The principles upon which a stay pending an appeal should be granted are not in dispute. Two competing rights must be balanced by the Court — the first is that the successful litigant should not be deprived of the fruits of litigation in the first instance. On the other hand the appellant should not pre-emptively be deprived of the fruits of a successful appeal."
+                  },
+                  {
+                    "identifier": "[3]",
+                    "content": "The principle is that there is a judgment that is determinative of the rights of the parties unless the Court of Appeal decides otherwise. It is thus not merely a question of overall fairness. As was stressed by Hardie Boys J in Farmers Meat Export Ltd v Waitaki (NZ) Refrigerating Ltd 6/12/85, HC Christchurch A29/81 (at p 2):\n\n\"The Court must be careful in my opinion not to extend the grounds too widely and to endeavour to give effect to its view of what might be fair, because it is not a question of fairness but of rights. \"\n\nIt is clear, however, from that case that hardship or other injurious effect on the defendant may mean a stay will be granted (p 2)."
+                  },
+                  {
+                    "identifier": "[4]",
+                    "content": "Both the plaintiff and the defendants also referred to the factors set out by Hammond J in Dymocks Franchise Systems (NSW) Pty Ltd v Bilgola Enterprises Ltd (1999) 13 PRNZ 48. At para 9 Hammond J says:\n\n\"The factors to which Courts conventionally address themselves to find this balance include the following:\n\n1. If no stay is granted will the applicants' right of appeal be rendered nugatory?\n2. The bona fides of the applicants as to the prosecution of the appeal.\n3. Will the successful party be injuriously affected by the stay?\n4. The effect on third parties.\n5. The novelty and importance of the question involved.[(2000) 14 PRNZ 534, 536]\n6. The public interest in the proceedings.\n7. The overall balance of convenience. \""
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[8]",
+              "content": "In the present case it is clear that a stay must be granted. Alpine Energy is appealing a pre-trial decision which requires disclosure to Mr Waters of documents which Alpine Energy claims should not be so disclosed. Once that information is disclosed, the appeal will be rendered nugatory. As against this, apart from the delay inherent in any appeal, Mr Waters will not be prejudiced by the stay. That delay can be mitigated by granting the stay on the condition that the appeal be prosecuted diligently.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "Order",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "The application by Alpine Energy for a stay of the Tribunal decision given on 20 February 2014 is granted on the condition that the appeal is prosecuted with all due diligence.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[10]",
+              "content": "In the event that Mr Waters forms the view that Alpine Energy is not complying with that condition, he has leave to apply to rescind the order for stay on seven days' notice.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[11]",
+              "content": "The stay of proceedings is to expire upon the delivery of judgment by the High Court or should the appeal be abandoned.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Hon KL Shirley",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

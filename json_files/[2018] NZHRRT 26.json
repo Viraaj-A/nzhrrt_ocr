@@ -1,0 +1,660 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 6
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2018] NZHRRT 26",
+        "reference_number": "HRRT 071/2016",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "26 June 2018",
+        "case_title": "Hines v Attorney-General (Application to Remove Proceedings to High Court)",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON APPLICATION BY PLAINTIFFS FOR ORDER REMOVING PROCEEDINGS TO THE HIGH COURT",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 6
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DAVID HINES",
+            "role": "FIRST PLAINTIFF",
+            "type": "individual"
+          },
+          {
+            "name": "TANYA JACOB",
+            "role": "SECOND PLAINTIFF",
+            "type": "individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE ATTORNEY-GENERAL OF NEW ZEALAND",
+            "role": "DEFENDANT",
+            "type": "government_agency"
+          }
+        ],
+        "other_parties": [
+          {
+            "name": "Human Rights Commission",
+            "role": "intervener"
+          },
+          {
+            "name": "Churches Education Commission Trust Board",
+            "role": "intervener"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr G Little and Ms G Whiteford",
+          "representing": "plaintiffs"
+        },
+        {
+          "counsel": "Mr P Rishworth QC and Mr N Fong",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Ms F Joychild QC and Mr JS Hancock",
+          "representing": "Human Rights Commission as intervener"
+        },
+        {
+          "counsel": "Mr SE Greening",
+          "representing": "Churches Education Commission Trust Board"
+        }
+      ],
+      "sections": [
+        {
+          "title": "THE APPLICATION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By application dated 15 June 2018 the plaintiffs apply for an order that these proceedings be removed to the High Court for determination. Such order can only be made with the leave of the High Court. Section 122A of the Human Rights Act 1993 (HRA) provides:",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, Section 122A",
+                  "context": "Provides the basis for the application to remove proceedings to the High Court."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "",
+              "page": 2,
+              "quoted_material": {
+                "source": "Human Rights Act 1993",
+                "content": "122A Removal to High Court of proceedings or issue",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may, with the leave of the High Court, order that proceedings before it under this Act, or a matter at issue in them, be removed to the High Court for determination."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "The Tribunal may make an order under this section, with the leave of the High Court, before or during the hearing, and either on the application of a party to the proceedings or on its own initiative, but only if-\n(a) an important question of law is likely to arise in the proceedings or matter other than incidentally; or\n(b) the validity of any regulation is questioned in proceedings before the Tribunal (whether on the ground that it authorises or requires unjustifiable discrimination in circumstances where the statutory provision purportedly empowering the making of the regulation does not authorise the making of a regulation authorising or requiring unjustified discrimination, or otherwise); or\n(c) the nature and the urgency of the proceedings or matter mean that it is in the public interest that they or it be removed immediately to the High Court; or\n(d) the High Court already has before it other proceedings, or other matters, that are between the same parties and involve issues that are the same as, or similar or related to, those raised by the proceedings or matter; or\n(e) the Tribunal is of the opinion that, in all the circumstances, the High Court should determine the proceedings or matter."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "Despite subsection (2), if the validity of any regulation is questioned in proceedings before the Tribunal and the leave of the High Court is obtained for the making of an order under this section, the Tribunal must make an order under this section."
+                  },
+                  {
+                    "identifier": "(4)",
+                    "content": "If the Tribunal declines to remove proceedings, or a matter at issue in them, to the High Court (whether as a result of the refusal of the High Court to grant leave or otherwise), the party applying for the removal may seek the special leave of the High Court for an order of the High Court that the proceedings or matter be removed to the High Court and, in determining whether to grant an order of that kind, the High Court must apply the criteria stated in subsection (2)(a) to (d)."
+                  },
+                  {
+                    "identifier": "(5)",
+                    "content": "An order for removal to the High Court under this section may be made subject to any conditions the Tribunal or the High Court, as the case may be, thinks fit."
+                  },
+                  {
+                    "identifier": "(6)",
+                    "content": "Nothing in this section limits section 122."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[2]",
+              "content": "The grounds on which the order is sought are those in s 122A(2)(a), (c) and (e), namely:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[2.1]",
+                  "content": "Important questions of law are likely to arise in the proceedings other than incidentally."
+                },
+                {
+                  "title": "[2.2]",
+                  "content": "The nature and urgency of the proceedings mean that it is in the public interest that they be removed immediately to the High Court."
+                },
+                {
+                  "title": "[2.3]",
+                  "content": "In all the circumstances the High Court should determine the proceedings."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, s 122A(2)(a), (c) and (e)",
+                  "context": "Specifies the grounds on which the order for removal is sought."
+                }
+              ]
+            },
+            {
+              "number": "[3]",
+              "content": "The Attorney-General (sued in respect of the Ministry of Education) has by memorandum dated 15 June 2018 advised that he will abide the decision of the Tribunal.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "The Human Rights Commission, appearing as intervener pursuant to its functions under ss 5(2)(j), 92H(1)(a) and 92H(2) of the HRA, has given notice by memorandum also dated 15 June 2018 that it would not oppose the application should the Tribunal reach the view that removal of these proceedings to the High Court is appropriate.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, ss 5(2)(j), 92H(1)(a) and 92H(2)",
+                  "context": "Functions under which the Human Rights Commission appears as intervener."
+                }
+              ]
+            },
+            {
+              "number": "[5]",
+              "content": "The Churches Education Commission Trust Board (CEC) has been heard on the application because by decision in Hines v Attorney-General (Application by Non-Party to be Heard) [2017] NZHRRT 9 it was given leave under HRA, s 108 to appear before the Tribunal to call evidence and to make submissions on any matter that should be taken into account in determining these proceedings. By notice dated 15 June 2018 it has advised it will abide the decision of the Tribunal on the present application.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Hines v Attorney-General (Application by Non-Party to be Heard) [2017] NZHRRT 9",
+                  "context": "Decision giving the CEC leave to appear before the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 108",
+                  "context": "Statutory provision under which the CEC was given leave to appear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BRIEF BACKGROUND",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "It will be seen the Tribunal has concluded it is appropriate that the application be granted. However, because the Tribunal cannot make an order under s 122A without leave of the High Court we intend in this decision to give the reasons for reaching our conclusion so that the plaintiffs can then file in the High Court an originating application to remove the proceedings to that Court. In the event of leave being given the Tribunal's decision can then be perfected as an order at a later date. See King v Attorney-General (Application to Remove Proceedings to High Court) [2017] NZHRRT 10 and King v Attorney-General (Order Removing Proceedings to High Court) [2017] NZHRRT 22.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 122A",
+                  "context": "Tribunal requires leave of the High Court to make an order under this section."
+                },
+                {
+                  "type": "case",
+                  "reference": "King v Attorney-General (Application to Remove Proceedings to High Court) [2017] NZHRRT 10",
+                  "context": "Precedent for the procedure of giving reasons before perfecting an order."
+                },
+                {
+                  "type": "case",
+                  "reference": "King v Attorney-General (Order Removing Proceedings to High Court) [2017] NZHRRT 22",
+                  "context": "Precedent for the procedure of giving reasons before perfecting an order."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "Human Rights Commission – the complaint and the dispute resolution process",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "By letter dated 19 December 2016 the Human Rights Commission advised the Tribunal that on 18 July 2014 it received a complaint from Mr Hines and Ms Jacob that ss 78 to 80 of the Education Act 1964 constituted unlawful discrimination on the grounds of religious belief and ethical belief under Part 1A of the HRA. Mr Hines and Ms Jacob sought legislative change to remedy their claim, namely repeal of ss 78 to 80 and amendment to s 77 of the Act.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964, ss 78 to 80",
+                  "context": "Provisions alleged to constitute unlawful discrimination."
+                },
+                {
+                  "type": "statute",
+                  "reference": "HRA, Part 1A",
+                  "context": "Legal framework for unlawful discrimination on grounds of religious and ethical belief."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964, s 77",
+                  "context": "Section sought to be amended as part of the remedy."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "A mediation meeting between the parties was held on 23 February 2015 and although Mr Hines and Ms Jacob indicated a wish to continue with that process, the Commission determined the process had reached a natural conclusion and that no further action by the Commission could be taken. Accordingly, by letter dated 10 August 2015 the Commission gave notice the complaint file would be closed. This decision was made under HRA, s 80(3)(c) which provides that the Commission may decline to take further action on a complaint if in all the circumstances it is unnecessary for further action to be taken.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 80(3)(c)",
+                  "context": "Statutory basis for the Commission's decision to close the complaint file."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "In the High Court",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "At about the same time a Mr J McClintock filed proceedings in the High Court against the Attorney-General (CIV-2015-404-000279) in which he alleged (inter alia) that his daughter had been unfairly treated when she opted out of religious instruction classes offered at the state primary school attended by her. He asserted there had been discrimination and breaches of claimed rights to manifestation of religion and belief, freedom of thought, conscience and religion, and freedom of expression. He sought declarations that such breaches had occurred and that s 78 of the Education Act 1989 was inconsistent with ss 13, 14, 15, 19 and 28 of the New Zealand Bill of Rights Act 1990.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "CIV-2015-404-000279",
+                  "context": "File number for related proceedings in the High Court."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1989, s 78",
+                  "context": "Section alleged to be inconsistent with the Bill of Rights Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "New Zealand Bill of Rights Act 1990, ss 13, 14, 15, 19 and 28",
+                  "context": "Rights claimed to have been breached."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "On 26 February 2016 Mr Hines filed an interlocutory application seeking that he and Ms Jacob be joined either as parties or as interveners. In McClintock v Attorney-General [2016] NZHC 592 (6 April 2016) Wylie J directed that they both be joined to the proceeding as additional interested non-parties/interveners. The High Court had earlier in McClintock v Attorney-General [2015] NZHC 1280 (9 June 2015) given leave for CEC to be joined as an interested non-party.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General [2016] NZHC 592 (6 April 2016)",
+                  "context": "Decision joining Mr Hines and Ms Jacob as interested non-parties/interveners."
+                },
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General [2015] NZHC 1280 (9 June 2015)",
+                  "context": "Decision giving leave for CEC to be joined as an interested non-party."
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "On 19 April 2016 Peters J made orders striking out Mr McClintock's proceedings on the grounds that he had failed to comply with timetable directions for trial. See McClintock v Attorney-General HC Auckland CIV-2015-404-279. On appeal the Court of Appeal held there had undoubtedly been jurisdiction to strike out the proceeding because Mr McClintock's counsel had been guilty of what was described as “continual delays and unexplained breaches of successive orders made in the High Court”. See McClintock v Attorney-General [2016] NZCA 274 at [12]. Nevertheless the proceeding was reinstated on terms. An application for leave to appeal against those terms was dismissed by the Supreme Court in McClintock v Attorney-General [2016] NZSC 132 (4 October 2016).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General HC Auckland CIV-2015-404-279",
+                  "context": "High Court decision striking out Mr McClintock's proceedings."
+                },
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General [2016] NZCA 274 at [12]",
+                  "context": "Court of Appeal decision confirming jurisdiction to strike out the proceeding."
+                },
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General [2016] NZSC 132 (4 October 2016)",
+                  "context": "Supreme Court decision dismissing leave to appeal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The proceedings before the Tribunal",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "As best the Tribunal can tell, the proceedings brought by Mr McClintock remain subject to the stay imposed by the Court of Appeal until satisfaction of the conditions imposed by the judgment given on 21 June 2016. See McClintock v Attorney-General [2016] NZCA 274 at [18].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "McClintock v Attorney-General [2016] NZCA 274 at [18]",
+                  "context": "Reference for the stay imposed by the Court of Appeal."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "The present proceedings before the Tribunal were filed on 13 October 2016. The statement of reply by the Attorney-General was received on 5 December 2016.",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "On 19 December 2016 the Human Rights Commission gave notice of intention to exercise its right to appear as intervener pursuant to its functions under HRA, ss 5(2)(j), 92H(1)(a) and 92H(2).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, ss 5(2)(j), 92H(1)(a) and 92H(2)",
+                  "context": "Statutory basis for the Human Rights Commission's right to appear as intervener."
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "On 28 February 2017 the CEC gave notice under s 108(2) of the Act of its intention to appear and to call evidence on any matter that should be taken into account by the Tribunal in determining the proceedings. That application was granted in Hines v Attorney-General (Application by Non-Party to be Heard) [2017] NZHRRT 9 (29 March 2017).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 108(2) of the Act",
+                  "context": "Statutory basis for CEC's notice of intention to appear."
+                },
+                {
+                  "type": "case",
+                  "reference": "Hines v Attorney-General (Application by Non-Party to be Heard) [2017] NZHRRT 9 (29 March 2017)",
+                  "context": "Decision granting CEC's application to appear."
+                }
+              ]
+            },
+            {
+              "number": "[16]",
+              "content": "On 18 April 2017 the plaintiffs filed an affidavit by Ms Jacob sworn on 7 April 2017. This was followed by the filing on 3 May 2017 of an affidavit by Mr Hines sworn on 21 April 2017.",
+              "page": 4
+            },
+            {
+              "number": "[17]",
+              "content": "By email dated 9 August 2017 the solicitor for the plaintiffs made inquiry as to when a case management teleconference would be convened. By email dated 22 August 2017 the Secretary explained that there are at present delays in progressing cases before the Tribunal owing to an unprecedented increase in the Tribunal's workload. Reference was made to the fact that the Act does not permit the appointment of a deputy chair to assist the Chairperson to keep pace with such increase. The attention of the parties was drawn to Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8 in which the circumstances are more fully explained. The parties were advised no accurate estimate could be given of the likely date for the convening of a teleconference. However the Secretary stated that should any of the parties wish to file an interlocutory application, that step should be taken. Otherwise, a case management timetable would be made in the context of a teleconference.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+                  "context": "Case explaining the circumstances of delays before the Tribunal."
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "Neither the parties nor the Human Rights Commission nor the CEC have made any application.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "On 25 May 2018 the plaintiffs filed a first amended statement of claim dated 23 May 2018.",
+              "page": 4
+            },
+            {
+              "number": "[20]",
+              "content": "Also on 25 May 2018 the plaintiffs filed an urgent interlocutory application seeking the removal of these proceedings to the High Court under HRA, s 122A.",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 122A",
+                  "context": "Statutory provision for seeking removal of proceedings to the High Court."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "By Minute dated 30 May 2018 the Chairperson gave directions requiring the Attorney-General, the Human Rights Commission and the CEC to file memoranda advising whether the application was consented to or opposed. As earlier mentioned, the Attorney-General and the CEC abide the decision of the Tribunal while the Human Rights Commission's position is that it does not oppose the application.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "THE REMOVAL APPLICATION",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "Section 122A(2)(a) – important questions of law",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[22]",
+              "content": "Apart from a sparsely drawn application, the plaintiffs have not filed supporting submissions. However, this omission has been remedied by the helpful memorandum filed by counsel for the Human Rights Commission. As those submissions point out, the central question of law at the heart of this proceeding is whether the current provisions of the Education Act 1964 which authorise religious instruction in state primary schools are inconsistent with the right to protection from discrimination on the grounds of religious and ethical belief under NZBORA, s 19.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964",
+                  "context": "Legislation whose provisions are being challenged."
+                },
+                {
+                  "type": "statute",
+                  "reference": "NZBORA, s 19",
+                  "context": "The right to protection from discrimination which is allegedly breached."
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "The provisions of the Education Act 1964 have been in force for over 50 years. The courts have yet to determine the consistency of the challenged provisions with the human rights law and jurisprudence which has developed in New Zealand since the enactment of the Bill of Rights and New Zealand's ratification of several relevant international human rights treaties.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964",
+                  "context": "The challenged provisions have been in force for over 50 years."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "The proceedings accordingly hold considerable public policy implications for the state school system and will directly impact upon the hundreds of schools which currently hold religious instruction programmes under the Education Act 1964, as well as the students, families and communities they serve.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964",
+                  "context": "Act under which schools hold religious instruction programmes."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "Section 122A(2)(c) – the nature and the urgency of the proceedings",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[25]",
+              "content": "Although the plaintiffs assert urgency to these proceedings little or no substance has been offered by the plaintiffs in support other than the self-evident fact that the sooner any proceedings are resolved, the better. There is also the fact that the plaintiffs' revised claim as now set out in the first amended statement of claim filed on 25 May 2018 is a very recent filing and unexplained. No prior claim to urgency has been made by the plaintiffs notwithstanding the history of the McClintock proceedings. In these circumstances the urgency ground is not made out.",
+              "page": 5
+            },
+            {
+              "number": "",
+              "content": "",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "Section 122A(2)(e) – in all the circumstances",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "The plaintiffs are, however, on sounder ground when pointing to the present major delays before the Tribunal. The reasons for the delay are, as mentioned, briefly explained in Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8. The short point is that because the Human Rights Act does not presently allow the appointment of deputy chairpersons to share the work of the Tribunal, the workload of five full-time decision-makers is presently carried by one person ie the present Chairperson. While a Co-Chair was in August 2017 appointed, the appointee is part-time at 0.6FTE. Inevitably, a backlog of serious proportions is increasing year by year. As the Chairperson stated in his submissions to the Justice Committee in respect of the Tribunals Powers and Procedures Legislation Bill at [3], for most parties, the Tribunal has ceased to function. Those submissions are Exhibit E to the affidavit sworn by Mr Hines on 23 May 2018 in support of the removal application.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+                  "context": "Case explaining the reasons for the delay before the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act",
+                  "context": "The Act does not presently allow the appointment of deputy chairpersons."
+                }
+              ]
+            },
+            {
+              "number": "[27]",
+              "content": "While it is gratifying that the 25 May 2018 final report of the Justice Committee regarding the Bill proposes that the Human Rights Act be amended to permit the appointment of deputy chairpersons, the timetable for the passage of the Bill through the remaining parliamentary stages is presently not known and in any event, the recruitment and training of deputy chairpersons is presently some way off.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act",
+                  "context": "The Act is proposed to be amended to permit the appointment of deputy chairpersons."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[28]",
+              "content": "In the result, at the present time the Tribunal cannot give a realistic estimate of when a fixture will be allocated.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[29]",
+              "content": "There is little doubt these proceedings are likely to raise important questions of law. While the precise formulation of those questions may not presently be possible and can be the subject of legitimate debate, their broad terms are nonetheless clear. As stated in the submissions for the Human Rights Commission, the central question at the heart of this proceeding is whether the current provisions of the Education Act 1964 which authorise religious instruction in state primary schools are inconsistent with the right to protection from discrimination on the grounds of religious and ethical belief under NZBORA, s 19.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Education Act 1964",
+                  "context": "Act whose provisions are central to the question of law."
+                },
+                {
+                  "type": "statute",
+                  "reference": "NZBORA, s 19",
+                  "context": "Right to protection from discrimination central to the question of law."
+                }
+              ]
+            },
+            {
+              "number": "[30]",
+              "content": "Should the High Court grant leave under s 122A(1) of the Human Rights Act 1993 for the Tribunal to order that these present proceedings be removed to the High Court for determination, the Tribunal would so order. Our reasons are:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[30.1]",
+                  "content": "Important questions of law are likely to arise in the proceedings other than incidentally; and that"
+                },
+                {
+                  "title": "[30.2]",
+                  "content": "In all the circumstances, the High Court should determine the proceedings."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993, s 122A(1)",
+                  "context": "Provision under which the High Court may grant leave for removal."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "As the Tribunal does not presently have leave of the High Court to make such order, no order for removal is made in this present decision.",
+              "page": 6
+            },
+            {
+              "number": "[32]",
+              "content": "It is anticipated the plaintiffs will now make application to the High Court for leave under s 122A(1) of the Act. Once such leave has been obtained the Tribunal will make the necessary formal orders subject, of course, to whatever might be said by the High Court in that regard.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 122A(1) of the Act",
+                  "context": "Provision under which the plaintiffs will make application for leave to the High Court."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Hines v Attorney-General (Application to Remove Proceedings to High Court) [2018] NZHRRT 26.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

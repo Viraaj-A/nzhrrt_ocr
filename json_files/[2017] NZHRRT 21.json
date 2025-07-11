@@ -1,0 +1,210 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 2,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2017] NZHRRT 21",
+        "reference_number": "HRRT 020/2017",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "14 June 2017",
+        "case_title": "Director of Proceedings v Punita (Rescission of Non-publication Orders) [2017] NZHRRT 21",
+        "legal_basis": "SECTION 50 OF THE HEALTH AND DISABILITY COMMISSIONER ACT 1994",
+        "decision_type": "DECISION OF TRIBUNAL RESCINDING NON-PUBLICATION ORDERS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "DIRECTOR OF PROCEEDINGS",
+            "role": "PLAINTIFF",
+            "type": ""
+          }
+        ],
+        "defendants": [
+          {
+            "name": "PRISCILLA PUNITA",
+            "role": "DEFENDANT",
+            "type": ""
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms N Wills",
+          "representing": "Director of Proceedings"
+        },
+        {
+          "counsel": "Ms CN Humphrey",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In this decision the Tribunal rescinds the non-publication orders made on 3 April 2017 in Director of Proceedings v Punita [2017] NZHRRT 11.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Punita [2017] NZHRRT 11",
+                  "context": "referencing a prior decision where non-publication orders were made."
+                }
+              ],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Background",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "The Tribunal's 3 April 2017 decision was based on a Consent Memorandum dated 14 March 2017. The terms of that memorandum are set out in full at [2] of the decision. It is relevant to note that included among the orders the Tribunal was asked to make was a final order prohibiting publication of the name of the aggrieved person in this matter (Denise Simpson-Vogan), of her partner at the time of these events (Russ Mead), and of their baby (Axton Tutahi Mead, also known as Axton Tutahi Simpson-Vogan). A non-publication order was incorporated in the Tribunal's decision at [5.2].",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[3]",
+              "content": "Subsequently, by consent memorandum dated 2 June 2017, the parties have jointly applied to have the non-publication orders lifted. The reasons are two-fold:",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[3.1]",
+              "content": "It has become apparent that Ms Simpson-Vogan did not fully appreciate the extent and effect of the order that would be made. With support from Mr Russ Mead she asks that the order be lifted as the protected parties are of the view they do not require the protection afforded by the order.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[3.2]",
+              "content": "It has been discovered that publication of the identities of the parties has already occurred in main stream media.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[4]",
+              "content": "As the sole reason for making the non-publication order was that Ms Simpson-Vogan and Mr Mead sought the protection of such order, there is no reason for the order to remain in place now that Ms Simpson-Vogan and Mr Mead request that that protection be removed.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[6]",
+              "content": "The Tribunal orders that all restrictions on the publication of the Tribunal decision delivered on 3 April 2017 be rescinded.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "",
+                "content": "",
+                "internal_paragraphs": []
+              }
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Director of Proceedings v Punita (Rescission of Non-publication Orders) [2017] NZHRRT 21]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

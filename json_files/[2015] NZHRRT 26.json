@@ -1,0 +1,288 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "total_pages": 4
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2015] NZHRRT 26",
+        "reference_number": "HRRT 009/2015",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "decision_date": "6 July 2015",
+        "case_title": "WAYNE JURY EAGLESOME (ALSO KNOWN AS ALEXANDER DE VILLIERS) v CHIEF EXECUTIVE OF THE DEPARTMENT OF CORRECTIONS",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL REFERRING COMPLAINT BACK TO HUMAN RIGHTS COMMISSION",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "WAYNE JURY EAGLESOME (ALSO KNOWN AS ALEXANDER DE VILLIERS)",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CHIEF EXECUTIVE OF THE DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr WJ Eaglesome",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms A Mobberley",
+          "representing": "defendant"
+        },
+        {
+          "counsel": "Mr M Freedman",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "By consent memorandum dated 2 July 2015 the parties apply to have this matter referred back to the Human Rights Commission under s 92D of the Human Rights Act 1993 for mediation.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92D of the Human Rights Act 1993",
+                  "context": "referred back to the Human Rights Commission under s 92D of the Human Rights Act 1993 for mediation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Background",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "Mr Eaglesome, currently a prisoner, commenced proceedings on 9 February 2015 alleging he has been discriminated against on the grounds of his sexual orientation and on the grounds of his religion. However, during the teleconference convened on 22 May 2015 the sexual orientation claim was abandoned. See the Minute dated 22 May 2015 issued by the Chairperson at [9] and [12]. Mr Eaglesome has continued to press the religious discrimination claim and on 8 June 2015 obtained from the Chairperson a consent interim order under s 95(1) of the Human Rights Act 1993 which required the defendant (inter alia) to purchase certain foods (at Mr Eaglesome's expense) and to deliver those foods to him at Auckland Regional Prison. The interim orders had effect from 3pm on Monday 8 June 2015 and were expressed to continue in force until further order of the Chairperson or of the Tribunal or until Mr Eaglesome's release from prison, whichever was the earlier. See Eaglesome v Department of Corrections (Interim Orders) [2015] NZHRRT (8 June 2015).",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 95(1) of the Human Rights Act 1993",
+                  "context": "a consent interim order under s 95(1) of the Human Rights Act 1993 which required the defendant (inter alia) to purchase certain foods"
+                },
+                {
+                  "type": "case",
+                  "reference": "Eaglesome v Department of Corrections (Interim Orders) [2015] NZHRRT (8 June 2015)",
+                  "context": "See Eaglesome v Department of Corrections (Interim Orders) [2015] NZHRRT (8 June 2015)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The consent memorandum",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "Subsequently, by letter dated 1 July 2015, Mr Eaglesome gave notice he will be released from prison on 6 July 2015.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "On 2 July 2015 the parties filed a consent memorandum asking that this matter be referred back to the Human Rights Commission on the basis that the complaint may yet be able to be resolved by the parties and the Commission by mediation. The Tribunal was asked to suspend the case management steps mandated by the Chairperson's Minute dated 22 May 2015 with the parties having leave to apply to the Tribunal for fresh directions should the matter not settle at mediation.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[5]",
+              "content": "While a complainant is not expressly bound to engage with the mediation process once the complaint has been made, it is clear from the statutory scheme that the mediation process ought to run its course unless good reason can be shown to the contrary. This much is clear from the provisions of Part 3 of the Act. It is also underlined by s 92D which provides:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Part 3 of the Act",
+                  "context": "This much is clear from the provisions of Part 3 of the Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 92D",
+                  "context": "It is also underlined by s 92D which provides:"
+                }
+              ],
+              "quoted_material": {
+                "source": "s 92D",
+                "content": "92D Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "When proceedings under section 92B are brought, the Tribunal—\n(a) must (whether through a member or officer) first consider whether an attempt has been made to resolve the complaint (whether through mediation or otherwise); and\n(b) must refer the complaint under section 76(2)(a) to which the proceedings relate back to the Commission unless the Tribunal is satisfied that attempts at resolution, or further attempts at resolution, of the complaint by the parties and the Commission—\n(i) will not contribute constructively to resolving the complaint; or\n(ii) will not, in the circumstances, be in the public interest; or\n(iii) will undermine the urgent or interim nature of the proceedings."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "The Tribunal may, at any time before, during, or after the hearing of proceedings, refer a complaint under section 76(2)(a) back to the Commission if it appears to the Tribunal, from what is known to it about the complaint, that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation)."
+                  },
+                  {
+                    "identifier": "(3)",
+                    "content": "The Tribunal may, instead of exercising the power conferred by subsection (2), adjourn any proceedings relating to a complaint under section 76(2)(a) for a specified period if it appears to the Tribunal, from what is known about the complaint, that the complaint may yet be able to be resolved by the parties."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[6]",
+              "content": "It will be seen that on the filing of any proceedings the Tribunal is under a mandatory duty to first consider whether an attempt has been made to resolve the complaint (whether through mediation or otherwise) and is required to refer a complaint under s 76(2)(a) to the Commission unless the Tribunal is satisfied that attempts at resolution will not contribute constructively to resolving the complaint, or will not be in the public interest or will undermine the urgent or interim nature of the proceedings.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 76(2)(a)",
+                  "context": "required to refer a complaint under s 76(2)(a) to the Commission unless the Tribunal is satisfied that attempts at resolution will not contribute constructively to resolving the complaint"
+                }
+              ]
+            },
+            {
+              "number": "[7]",
+              "content": "A complainant who wishes to avoid the Commission's dispute resolution process must satisfy the Tribunal that one or other of the three grounds allowed by s 92D(1)(b) apply.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92D(1)(b)",
+                  "context": "three grounds allowed by s 92D(1)(b) apply."
+                }
+              ]
+            },
+            {
+              "number": "[8]",
+              "content": "Addressing first s 92D(1)(b)(i), the Tribunal has no reason to doubt that, if given the opportunity, Corrections will engage with Mr Eaglesome and the Commission on a good faith basis to find a constructive solution to Mr Eaglesome's concerns. Mr Eaglesome too is willing to engage with Corrections on the same basis. It is therefore not possible to find that a referral back to the Commission will not contribute constructively to resolving the complaint.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92D(1)(b)(i)",
+                  "context": "Addressing first s 92D(1)(b)(i), the Tribunal has no reason to doubt that, if given the opportunity, Corrections will engage with Mr Eaglesome and the Commission on a good faith basis to find a constructive solution"
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "As to s 92(1)(b)(ii), proceedings before the Tribunal are plainly intended to be a last resort. Mediation is more efficient, informal and cost-effective. The resources of the Tribunal should not be drawn on unless it can be shown that attempts to resolve the complaint through mediation will be futile. It is to be remembered that the Tribunal sits as a panel of three. Care must be taken to avoid unnecessary hearings. It is difficult, in the circumstances, to find that a referral back to the Commission will not be in the public interest. If mediation fails Mr Eaglesome can resume these present proceedings.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92(1)(b)(ii)",
+                  "context": "As to s 92(1)(b)(ii), proceedings before the Tribunal are plainly intended to be a last resort."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conclusions",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "Having regard to the statutory criteria in s 92D(1)(b) of the Human Rights Act we have not been satisfied that attempts at resolution of the complaint by the parties and the Commission will not contribute constructively to resolving the complaint, or will not, in the circumstances, be in the public interest or will undermine the urgent or interim nature of the proceedings.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92D(1)(b) of the Human Rights Act",
+                  "context": "Having regard to the statutory criteria in s 92D(1)(b) of the Human Rights Act we have not been satisfied that attempts at resolution of the complaint by the parties and the Commission will not contribute constructively to resolving the complaint"
+                }
+              ]
+            },
+            {
+              "number": "[11]",
+              "content": "It follows that as required by s 92D(1) we must refer the complaint back to the Commission. However, we do so on terms to ensure that the mediation process is not allowed to drift.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 92D(1)",
+                  "context": "It follows that as required by s 92D(1) we must refer the complaint back to the Commission."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Orders",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[12]",
+              "content": "For the reasons given the following orders are made:",
+              "page": 3,
+              "quoted_material": {
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[12.1]",
+                    "content": "Pursuant to s 92D(1) of the Human Rights Act 1993 the complaint by Mr Eaglesome is referred back to the Human Rights Commission for mediation."
+                  },
+                  {
+                    "identifier": "[12.2]",
+                    "content": "So that the proceedings are not left in suspension indefinitely, in four months time the parties are to provide the Tribunal with a progress report. That report must be filed no later than 5pm on Friday 6 November 2015."
+                  },
+                  {
+                    "identifier": "[12.3]",
+                    "content": "The proceedings before the Tribunal are stayed in the interim with leave reserved to either party to seek further directions if and when the need arises. The fixture for 7 to 11 December 2015 is vacated."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        },
+        {
+          "name": "Mr BK Neeson JP",
+          "role": "Member"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 8,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2023] NZHRRT 26",
+        "reference_number": "HRRT 068/2021",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA ΜΑΝΑ ΤΑNGATA",
+        "jurisdiction": "Wellington",
+        "hearing_date": "20 February 2023",
+        "decision_date": "1 September 2023",
+        "case_title": "D'Arcy-Smith v Ministry of Social Development [2023] NZHRRT 26",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 8
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "GRAHAM WILLIAM D'ARCY-SMITH",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE CHIEF EXECUTIVE, MINISTRY OF SOCIAL DEVELOPMENT",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member"
+        },
+        {
+          "name": "Dr NR Swain",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "MR GW D'Arcy-Smith",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Mr S Conway and Ms H Bergin",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr D'Arcy-Smith over a period of five years was at times receiving job seeker assistance. As Mr D'Arcy-Smith was also at various times during that period earning income from part time employment so his job seeker benefit had to be adjusted to reflect his earnings. Due to inconsistencies in how the adjustments were made overpayments occurred. These resulted in debts being established that Mr D'Arcy-Smith owed the Ministry of Social of Development (the Ministry). In 2018 after Mr D'Arcy-Smith received correspondence regarding the debt, he contacted the Ministry, and a case manager advised him twice that the debt would be written off. However, this did not happen, and the Ministry continued to pursue the debt.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "On 4 October 2020, Mr D'Arcy-Smith wrote to the Ministry's Deputy Chief Executive seeking $10,000 for the stress, humiliation, loss of dignity, and injury to feelings he had suffered from the Ministry's failings regarding the establishment of the debt and its repeated failure to sort the matter out over the years.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "On 9 November 2020 Mr D'Arcy-Smith was advised by a Principal Advisor in the Ministry that it was completing the paperwork to finally complete the debt write- off of debts incurred due to part time income and that once this was complete, he would be sent a letter confirming it.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "On 19 December 2020 the Deputy Chief Executive wrote to Mr D'Arcy-Smith acknowledging his service experience had been inconsistent causing a few debts to be established and that, whilst he been told these debts would be written off, this did not happen. The letter advised that following a review, debts totalling $4261.01 have been written off. As well as an apology the letter advised an ex-gratia payment of $1000 was to be made to acknowledge he could have received better service when he declared his income.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "Due to administrative error the debt write-off was not completed as it was not logged in the Ministry's system. On 18 March 2021 Mr D'Arcy-Smith received a letter from the Ministry seeking repayment of his debt of $4,360.01. On 1 April 2021 he received a final reminder letter regarding repayment of this debt.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "Mr D'Arcy-Smith complained to the Privacy Commissioner that the Ministry had breached Information Privacy Principle (IPP) 8 of the Privacy Act 2020 (PA 2020) by not checking the accuracy of his personal information before sending the two debt recovery letters.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "When the Ministry was notified of the complaint on 24 June 2021, it became aware for the first time that the debt had not been written-off. That same day, the debt was written off in the system. On 30 June 2021 the Deputy Chief Executive wrote to Mr D'Arcy-Smith formally apologising for incorrectly sending the two debt recovery letters and acknowledging these should not have been sent. The letter explained that despite the paperwork being completed and signed off, due to an oversight the actions to remove the debt from the system were not manually completed. When the Ministry's automatic systems completed a search for any outstanding debts, Mr D'Arcy-Smith's prior debts were still showing as current, so the system generated and sent the two debt recovery letters.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "MR D'ARCY-SMITH'S CLAIM",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[8]",
+              "content": "On 3 December 2021 Mr D'Arcy-Smith filed this claim alleging the Ministry has interfered with his privacy by sending the two debt recovery letters in error. He alleges that sending the letters without checking that the debt was valid breached IPP 8 and that this caused him significant emotional harm. Mr D'Arcy-Smith seeks damages of $25,000.",
+              "page": 2
+            },
+            {
+              "number": "[9]",
+              "content": "The Ministry denies its actions in issuing and sending the two debt recovery letters in error breached IPP 8 or caused Mr D'Arcy-Smith significant emotional harm so as to amount to an interference with his privacy as defined in PA 2020, s 69.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 2020, s 69",
+                  "context": "The Ministry denies its actions... amount to an interference with his privacy as defined in PA 2020, s 69."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ISSUES",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The issues the Tribunal must determine are:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[10.1]",
+                  "content": "Did the Ministry breach IPP 8 by issuing and sending Mr D'Arcy-Smith the two debt recovery letters in error?"
+                },
+                {
+                  "title": "[10.2]",
+                  "content": "If so, did that breach result in significant humiliation, significant loss of dignity, or significant injury to the feelings of Mr D'Arcy-Smith to amount to an interference with his privacy as defined in PA 2020, s 69?"
+                },
+                {
+                  "title": "[10.3]",
+                  "content": "If there was an interference with the privacy of Mr D'Arcy-Smith, what if any, is the appropriate remedy?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DID THE MINISTRY BREACH IPP 8 BY SENDING THE DEBT RECOVERY LETTERS?",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "IPP 8 provides as follows:",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 22 of the PA, 2020",
+                  "context": "Footnote 2"
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Footnote 2"
+                },
+                {
+                  "type": "other",
+                  "reference": "Privacy Bill 34-1, clause 19 and Explanatory note",
+                  "context": "Footnote 2"
+                }
+              ],
+              "quoted_material": {
+                "source": "Information privacy principle 8",
+                "content": "Accuracy, etc, of personal information to be checked before use or disclosure\nAn agency that holds personal information must not use or disclose that information without taking any steps that are, in the circumstances, reasonable to ensure that the information is accurate, up to date, complete, relevant, and not misleading.2"
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "IPP8 is open textured and allows a degree of flexibility as to how an agency complies with it. IPP 8 is not concerned with whether a correct decision was made.3 The focus of IPP 8 is on the steps taken by the agency to confirm the accuracy of information, and whether those steps were reasonable in the circumstances.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [37].",
+                  "context": "Footnote 3"
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [38].",
+                  "context": "Footnote 4"
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "The relevant context will impact on the determination of what “reasonable\" steps are required of the agency.4 IPP 8, like all of the information privacy principles, must be applied and assessed in relation to each individual set of facts as they arise.5",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mullane v Attorney-General 2017 NZHRRT 40, (2017) 11 HRNZ 342 at [87]",
+                  "context": "Footnote 5"
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "Context is everything.6 The relevant context will impact on the determination of what \"reasonable” steps are required of the agency.7",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Mullane v Attorney-General [2017] NZHRRT 40, (2017) 11 HRNZ 342 at [102] and 103]",
+                  "context": "Footnote 6"
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [38].",
+                  "context": "Footnote 7"
+                }
+              ]
+            },
+            {
+              "number": "[15]",
+              "content": "It is for Mr D'Arcy-Smith to prove on the balance of probabilities the Ministry breached IPP 8 in that it did not take steps that were reasonable in the circumstances to check the information regarding his debt was accurate before the debt recovery letters were generated and sent.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "To determine whether the Ministry breached IPP 8 the Tribunal must first consider what steps were taken by the Ministry to confirm the accuracy of the debt information (that was Mr D'Arcy-Smith's personal information) before it was used to generate the debt recovery letters. The Tribunal must then consider whether those steps are, in the circumstances (of this individual case), reasonable to ensure that the information was accurate, up to date, complete, relevant, and not misleading.",
+              "page": 3
+            },
+            {
+              "number": "[17]",
+              "content": "The Ministry's evidence was that the automated part of the system assumes the underlying debt information that has been inputted manually is accurate. In this case the Ministry had taken the step of putting a three month pause on the automated system for debt recovery while it investigated Mr D'Arcy-Smith's complaint and reviewed whether the debt information was accurate. On 29 October 2020 the recommendation for debt write-off was approved and a staff member was directed to complete the debt write off. Due to an oversight, the steps required to manually write off the debt and ensure the automated system did not still record an outstanding debt was not completed. There was also no follow up check to ensure the write off had been completed prior to Mr D'Arcy-Smith being advised by the Deputy Chief Executive that this had been done.",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "What steps were taken to check the information",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "Accordingly, although the Ministry had taken steps to investigate the accuracy of the debt information and put a three month pause on the automated system for debt recovery, it failed to take the final step of manual updating the debt information in the automated system before it was used to generate and send the debt collection letters.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Mr D'Arcy-Smith submitted that the Ministry did not take steps that were reasonable in the circumstances to confirm the accuracy of the debt information, as there was no evidence the Ministry did anything to ensure the accuracy of the debt information before it was used to generate and send the debt collection letters.",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "Are those steps, in the circumstances, reasonable to ensure the information was accurate",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "The Ministry acknowledge it was an error not to have removed the debt recorded as outstanding from the automatic system to ensure the debt information was accurate. The Ministry submit that nonetheless there was no breach of IPP 8 in this case, as in the circumstances, it is reasonable for the Ministry to rely on the accuracy of its automated systems to generate debt letters for outstanding debt logged in its system as:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[20.1]",
+                  "content": "Given the size and scale of the Ministry's debt collection systems, it was reasonable for the Ministry to rely on a combination of manual and automated steps to manage debt collection."
+                },
+                {
+                  "title": "[20.2]",
+                  "content": "That while mistakes can happen (as the automated letters rely on the underlying information being input correctly), the Ministry invites individuals to contact the Ministry with any questions or concerns. The letters Mr D'Arcy-Smith received expressly encouraged him at several points to contact the Ministry."
+                },
+                {
+                  "title": "[20.3]",
+                  "content": "That the automatically generated letters were debt reminder letters, rather than correspondence that would lead to collection of the debt (for example from a third party or employer). That reliance on automated systems is appropriate in that context."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "The Ministry correctly submitted that IPP 8 does not create a right that requires an agency to never make a mistake about information that it uses, and context is everything.",
+              "page": 5
+            },
+            {
+              "number": "[22]",
+              "content": "The Tribunal does not agree that in the context of this particular case that it is reasonable for the Ministry to rely on the accuracy of its automated systems to generate debt letters for outstanding debt logged in its system. That is because:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[22.1]",
+                  "content": "The context of this case is the on-going dispute about the debt that Mr D'Arcy-Smith had been engaged in with the Ministry. This was not a matter which had arisen from only a single mistake that had not been investigated. Rather, there had been a review that had resulted in the December 2020 letter of apology from the Deputy Chief Executive and the ex-gratia payment of $1,000."
+                },
+                {
+                  "title": "[22.2]",
+                  "content": "Given that context the Tribunal does not accept that because of the nature and purpose of the letters it was nevertheless reasonable for the Ministry to rely on the accuracy of the automated system. The letters may only have been sent to Mr D'Arcy-Smith, but they were debt recovery letters from the National Manager, Client Support-Debt Management, Collections Unit that clearly sought repayment of the debt.8 Whilst the letters encourage the recipient to contact the Ministry regarding repayment, they did not invite a discussion about whether the debt was owed."
+                },
+                {
+                  "title": "[22.3]",
+                  "content": "Further and importantly in this case the Ministry had taken the step of pausing the automated system for three months whilst the debt was reviewed and has acknowledged that it was only due to an error it did not take the step of updating the automated system to ensure it accurately recorded the debt had been written off."
+                }
+              ]
+            },
+            {
+              "number": "[23]",
+              "content": "In all these circumstances reasonable steps would have required the Ministry to check the write off had been completed so as to ensure the debt information on the automated system was accurate. As the Ministry failed to ensure the write off was completed before using the debt information to generate the debt collection letters it breached IPP 8.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "The Tribunal has concluded that the Ministry breached IPP 8 when it used Mr D'Arcy-Smith's personal information (debt information) to generate debt recovery letters in March and April 2021 without ensuring the debt information had been updated and the debt write off had been entered in the automated system.",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "title": "DID THE IPP 8 BREACH RESULT IN SIGNIFICANT EMOTIONAL HARM TO MR D'ARCY-SMITH AND AN INTERFERENCE WITH HIS PRIVACY?",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "Mr D'Arcy-Smith alleges that the IPP 8 breach caused him significant humiliation, significant loss of dignity and significant injury to feelings and amounts to an interference with his privacy as defined in PA 2020, s 69.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA 2020, s 69",
+                  "context": "...interference with his privacy as defined in PA 2020, s 69."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "Section 69(1) and (2) are relevant to the facts of this case and provides:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Section 69, Privacy Act 2020",
+                "content": "69 Interference with privacy of individual",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "In this Act, an action of an agency is an interference with the privacy of an individual in any of the circumstances set out in subsection (2) or (3)."
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "An action of an agency is an interference with the privacy of an individual if that action breaches,\n(a) in relation to the individual,\n(i) 1 or more of the IPPs; or\n(ii) the provisions of an approved information sharing agreement; or\n(iii) the provisions of an information matching agreement or section 179 or 181; or\n(iv) section 115 (which requires an agency to give notice to affected individuals or the public of a notifiable privacy breach); and\n(b) the action –\n(i) has caused, or may cause, loss, detriment, damage, or injury to the individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of the individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of the individual."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[27]",
+              "content": "It is for Mr D'Arcy-Smith to prove on the balance of probabilities that the IPP 8 breach, the issuing of the March and April 2021 debt recovery letters, resulted in him suffering either significant humiliation, significant loss of dignity or significant injury to feelings as set out in PA, s 69(2)(b)(iii).",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 69(2)(b)(iii)",
+                  "context": "...as set out in PA, s 69(2)(b)(iii)."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "Section 69(2)(b)(iii) accordingly requires the impact to be significant, meaning it must have been “important”, “notable” or “considerable”.9",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 69(2)(b)(iii)",
+                  "context": "Section 69(2)(b)(iii) accordingly requires the impact to be significant..."
+                },
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans HC Hamilton CIV 2003-419-854, 6 April 2004) at [35]",
+                  "context": "Footnote 9"
+                }
+              ]
+            },
+            {
+              "number": "[29]",
+              "content": "There must be a causal connection between the breach and the emotional harm that Mr D'Arcy-Smith alleges resulted from the breach. Mr D'Arcy-Smith must show that the breach was a material or contributing factor to the significant emotional harm he alleges he suffered.10",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458 at [61]",
+                  "context": "Footnote 10"
+                }
+              ]
+            },
+            {
+              "number": "[30]",
+              "content": "Mr D'Arcy-Smith's evidence of the impact on him of receiving the letters was:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[30.1]",
+                  "content": "He was frustrated as it made him feel powerless to achieve something."
+                },
+                {
+                  "title": "[30.2]",
+                  "content": "It contributed to the stress that had suffered since early 2020 as a result his ongoing dealings with the Ministry trying to sort out his disputed debt. Specifically, it set off stress related symptoms in the form of hives and an upset stomach. He consulted with a chemist regarding these symptoms and obtained over the counter treatments that he uses when he needs to. He still suffers from these symptoms, but that they are not as severe as in the period from March to June 2021, when he would get nervous before phone-calls with the Office of the Privacy Commissioner and immediately after would either vomit and/or have diarrhoea."
+                },
+                {
+                  "title": "[30.3]",
+                  "content": "He still gets upset when discussing the debt and it makes him nervous and frustrated that he can't control his physical symptoms. He uses a simple breathing technique to calm him down and stop him throwing up that he learnt in 2022 in the single session he has had with the on-staff counsellor at his GP's practice."
+                }
+              ]
+            },
+            {
+              "number": "[31]",
+              "content": "In support of his evidence Mr D'Arcy-Smith provided the Tribunal with a letter from his GP dated 12 January 2023 that confirmed he had experienced physical symptoms relating to stress and that the symptoms continue to that date. The letter noted these had brought to the attention of the GP in February 2022 and that Mr D'Arcy-Smith had reported the symptoms began in early 2020 as a result of conflict with a government agency (Work and Income).",
+              "page": 7
+            },
+            {
+              "number": "[32]",
+              "content": "Mr D'Arcy-Smith's evidence does not support a finding that the impact of receiving the letters resulted in him suffering significant emotional harm as is by required s 69 (2)(b)(iii). Even assuming the frustration and stress he suffered was caused by receiving the inaccurate letters it does not meet the necessary threshold of being significant frustration or significant stress.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 69 (2)(b)(iii)",
+                  "context": "...as is by required s 69 (2)(b)(iii)."
+                }
+              ]
+            },
+            {
+              "number": "[33]",
+              "content": "The frustration and stress Mr D'Arcy-Smith said he suffered from receiving the letters must be considered in the context of his evidence that his concern was not that he was going to have to pay the money. His evidence was that his concerns were is this going to get sorted as he realised the letters were a breach of his privacy because they were inaccurate and that he was not strong enough anymore to handle it on his own, so he asked for help. Further, he was the only recipient of the letters. In this context where Mr D'Arcy-Smith knew immediately that the debt information was inaccurate and he did not have to pay it, and where the receipt of the letters did not involve him being humiliated in front of others it is difficult to equate Mr D'Arcy-Smith's frustration and stress with significant humiliation, significant loss of dignity or significant injury to feelings.",
+              "page": 7
+            },
+            {
+              "number": "[34]",
+              "content": "In respect of the frustration Mr D'Arcy-Smith said he suffered from being unable to achieve getting the debt sorted this was short lived, as the matter was sorted three months after he received the first letter.",
+              "page": 7
+            },
+            {
+              "number": "[35]",
+              "content": "As regards the stress related symptoms that Mr D'Arcy-Smith said he suffered from after receiving the letters these were not serious enough that he required treatment from his GP at that time. Indeed, Mr D'Arcy-Smith did not find it necessary to discuss any stress symptoms with his GP until February 2022, some eleven months after receipt of the letters. Mr D'Arcy-Smith's evidence was that he still suffers from these symptoms, but they are less severe. There is no evidence in the GP's letter that he considers Mr D'Arcy-Smith suffers from significant stress. The 23 January 2023 letter from the GP is brief, merely recording the matters set out at [31] and not providing any further details of the stress or stress related symptoms he suffers from.",
+              "page": 7
+            },
+            {
+              "number": "[36]",
+              "content": "Mr D'Arcy-Smith has not established that the breach of IPP 8 by the Ministry in generating and sending the two debt recovery letters resulted in him in suffering either significant humiliation, or significant loss of dignity or significant injury to feelings. Accordingly, Mr D'Arcy-Smith has not established that the breach of IPP 8 by the Ministry was an interference with his privacy under PA, s 69.",
+              "page": 7,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "PA, s 69",
+                  "context": "...interference with his privacy under PA, s 69."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[37]",
+              "content": "As there has been no interference with Mr D'Arcy Smith's privacy, no remedy can be ordered, and Mr D'Arcy Smith's claim is unsuccessful.",
+              "page": 7
+            },
+            {
+              "number": "[38]",
+              "content": "The claim filed by Mr D'Arcy Smith against the Ministry is dismissed.",
+              "page": 7
+            },
+            {
+              "number": "[39]",
+              "content": "No issues arise as to costs, as these are not sought by the Ministry.",
+              "page": 8
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms J Foster",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member"
+        },
+        {
+          "name": "Dr NR Swain",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as D'Arcy-Smith v Ministry of Social Development [2023] NZHRRT 26.]",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Section 22 of the PA, 2020. The PA, 2020 repealed and replaced the Privacy Act 1993 and retained much of that Act but with modernised and updated language including re-enacting IPP 8 without any substantive changes (see Privacy Bill 34-1, clause 19 and Explanatory note). The language of IPP 8 has been updated in PA, 2020 in that it is now expressed more concisely as the words \"having regard to the purpose to which the information is proposed to be used\" have been removed. The effect of IPP 8 is still same as it was under the Privacy Act 1993 as the reference to \"in the circumstances\" is retained in the principle and that necessarily requires, amongst other things, for regard to be given to the purpose to which the information is proposed to be used.",
+          "page": 3
+        },
+        {
+          "number": "3",
+          "content": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [37].",
+          "page": 3
+        },
+        {
+          "number": "4",
+          "content": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [38].",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Mullane v Attorney-General 2017 NZHRRT 40, (2017) 11 HRNZ 342 at [87]",
+          "page": 3
+        },
+        {
+          "number": "6",
+          "content": "Mullane v Attorney-General [2017] NZHRRT 40, (2017) 11 HRNZ 342 at [102] and 103]",
+          "page": 3
+        },
+        {
+          "number": "7",
+          "content": "Director of Human Rights Proceedings v Attorney-General [2020] NZHRRT 45 (2020) 12 HRNZ 482 at [38].",
+          "page": 3
+        },
+        {
+          "number": "8",
+          "content": "Both letters advised that Mr D'Arcy-Smith needed to within a certain time either pay the debt back in full or contact the Debt Management team to arrange payments and both stated \"If we don't hear from you, we'll have to look at other ways to get the money back. This could include going to your employer, bank or another organisation for information. We can ask them to help get the money you owe.\"",
+          "page": 5
+        },
+        {
+          "number": "9",
+          "content": "Winter v Jans HC Hamilton CIV 2003-419-854, 6 April 2004) at [35].",
+          "page": 6
+        },
+        {
+          "number": "10",
+          "content": "Taylor v Orcon Ltd [2015] NZHRRT 15, (2015) 10 HRNZ 458 at [61].",
+          "page": 6
+        }
+      ]
+    }
+  ]
+}

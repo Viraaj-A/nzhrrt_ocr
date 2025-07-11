@@ -1,0 +1,433 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "2019_NZHRRT_51.pdf",
+    "total_pages": 10,
+    "extraction_date": "2024-05-24"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2019] NZHRRT 51",
+        "reference_number": "HRRT 003/2017",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "Wellington",
+        "hearing_date": "Heard on the papers",
+        "decision_date": "22 November 2019",
+        "case_title": "Fitikefu v Department of Corrections (Strike-Out Application) [2019] NZHRRT 51",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL DISMISSING STRIKE-OUT APPLICATION",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 10
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "WALTER FITIKEFU",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "CHIEF EXECUTIVE, DEPARTMENT OF CORRECTIONS",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr W Fitikefu",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms V McCall",
+          "representing": "defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "THE STRIKE-OUT APPLICATION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Fitikefu complains that the Department of Corrections (Corrections) breached his privacy when it disclosed an assessment report about him to a service provider called Early Start. Early Start was at that time working with Mr Fitikefu’s former partner and baby daughter.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "The alleged disclosure occurred many years ago on 11 June 2010 and the case for Corrections on this strike-out application is that Mr Fitikefu has delayed too long the filing of these proceedings, particularly given that he had knowledge of the disclosure by at least 14 June 2010. It is accepted that with reasonable speed he complained to the Ombudsman on 10 August 2010. But as the complaint raised issues under the Privacy Act 1993 the correspondence was passed to the Privacy Commissioner who investigated the matter under IPP 11. The conclusion reached by the Commissioner was that there had been no breach of that principle with the result that on 20 November 2012 a Certificate of Investigation to that effect was issued. That brought the investigation to an end.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "It was not until some four years and two months later that Mr Fitikefu on 20 January 2017 filed the present claim with the Tribunal. This was at a distance of six years and seven months after he became aware of the alleged breach of his privacy.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "Corrections now applies to have the proceedings struck out on the grounds of the overall delay, submitting that the claim for damages is an abuse of process as it is time-barred by analogy with the Limitation Act 1950 (LA 1950). Reliance is placed on an affidavit sworn by Ms SF Bakker, the person who made the alleged unlawful disclosure. She says her recollection of the relevant events (beyond the documentary records she reviewed in the preparation of her affidavit) is now limited.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "The events in question predate the Limitation Act 2010 (LA 2010) which commenced on 1 January 2011. It follows the provisions of the earlier Limitation Act 1950 (LA 1950) continue to apply to the strike-out application. See the LA 2010, s 59(2) which provides:",
+              "page": 2,
+              "quoted_material": {
+                "source": "LA 2010, s 59(2)",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "59",
+                    "content": "Actions based on acts or omissions before 1 January 2011"
+                  },
+                  {
+                    "identifier": "(1)",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(2)",
+                    "content": "The action, cause of action, or right of action must, despite the repeal of the Limitation Act 1950 and unless the parties agree otherwise, be dealt with or continue to be dealt with in accordance with the Limitation Act 1950 as in force at the time of its repeal."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[6]",
+              "content": "Although the Tribunal in Ashworth v Kent (Strike-Out Application) [2018] NZHRRT 55 recently considered the application of the 2010 legislation to proceedings before the Tribunal, it has not yet had cause to consider the application of the earlier 1950 Act.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "Jurisdiction to strike out",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "Jurisdiction to strike out proceedings must be addressed first.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "The Tribunal has statutory jurisdiction to dismiss proceedings that disclose no reasonable cause of action, that are frivolous or vexatious or are otherwise an abuse of process. See the Human Rights Act 1993 (HRA), ss 115 and 115A which apply to proceedings under the Privacy Act by virtue of s 89 of the latter Act:",
+              "page": 2,
+              "quoted_material": {
+                "source": "Human Rights Act 1993",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "115",
+                    "content": "Tribunal may dismiss trivial, etc, proceedings\nThe Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith."
+                  },
+                  {
+                    "identifier": "115A",
+                    "content": "Tribunal may strike out, determine, or adjourn proceedings\n(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—\n(a) discloses no reasonable cause of action; or\n(b) is likely to cause prejudice or delay; or\n(c) is frivolous or vexatious; or\n(d) is otherwise an abuse of process.\n(2) If a party is neither present nor represented at the hearing of a proceeding, the Tribunal may,—\n(a) if the party is required to be present, strike out the proceeding; or\n(b) determine the proceeding in the absence of the party; or\n(c) adjourn the hearing."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The relevant case law is summarised in Ashworth v Kent at [18] to [26]. As mentioned, that is a decision in which the Tribunal addressed a strike-out application based on the LA 2010. It noted there is good senior court authority for the proposition that limitation questions should not be decided in interlocutory proceedings in advance of the hearing except in the clearest of cases:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Ashworth v Kent, Commerce Commission v Carter Holt Harvey Ltd",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[25]",
+                    "content": "However, there is authority for the proposition that limitation questions should not be decided in interlocutory proceedings in advance of the hearing except in the clearest of cases. See Commerce Commission v Carter Holt Harvey Ltd [2009] NZCA 40, [2009] 3 NZLR 573 at [2] per Baragwanath and Chambers JJ:"
+                  },
+                  {
+                    "identifier": "[26]",
+                    "content": "[2] If a defendant satisfies the court that a claim is statute-barred it will be struck out as an abuse of process under r 186(3) of the High Court Rules (Murray v Morel & Co Ltd [2006] 2 NZLR 366 (CA) at paras [59] and [60] and [2007] 3 NZLR 721 (SCNZ) at para [33]). But limitation questions will not be decided in interlocutory proceedings in advance of the hearing except in the clearest of cases (Wardley Australia Ltd v State of Western Australia (1992) 175 CLR 514 at para [31])."
+                  },
+                  {
+                    "identifier": "",
+                    "content": "On appeal in Commerce Commission v Carter Holt Harvey Ltd [2009] NZSC 120, [2010] 1 NZLR 379 this approach was reinforced by Elias CJ at [3]. Tipping J at [39] stated:\nAs this is a strike-out application CHH must demonstrate that the Commission's application is so clearly statute barred that it can properly be regarded as frivolous, vexatious or an abuse of process. There must be no reasonable possibility that the Commission's application was brought within time. If there is, the matter must go to trial, with the limitation point being a defence to be assessed on the basis of all the evidence led at trial. [Footnote citations omitted]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[10]",
+              "content": "The application of a limitation defence to proceedings before the Tribunal is addressed next.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "THE DECISION IN ASHWORTH v ΚΕΝΤ",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "The Tribunal's decision in Ashworth v Kent turned on a provision in the LA 2010 which specifically provides that the limitation defence under that Act applies only to a claim made in a civil proceeding in “a specified court or tribunal”. As the definition of such court or tribunal does not include the Tribunal, it held the limitation defence in the LA 2010 is not available in proceedings before it. See [32] to [38], of which only [33], [34] and [36] are reproduced here:",
+              "page": 3,
+              "quoted_material": {
+                "source": "Ashworth v Kent",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[33]",
+                    "content": "The defences in LA 2010 do not apply unless the claim is made in a civil proceeding in \"a specified court or tribunal\", or in an arbitration. See s 10:\n10 Defences: application, exceptions, and modifications\nEvery defence prescribed by this Act—\n(a) applies only to a claim—\n(i) based on an act or omission after 31 December 2010; and\n(ii) made in a civil proceeding in a specified court or tribunal, or in an arbitration (see section 39); and\n(b) is subject to the exceptions and modifications set out in this Act."
+                  },
+                  {
+                    "identifier": "[34]",
+                    "content": "A \"specified court or tribunal\" is defined in s 4 as meaning:"
+                  },
+                  {
+                    "identifier": "[34.1]",
+                    "content": "The High Court, the District Court, the Family Court, or a Disputes Tribunal; or"
+                  },
+                  {
+                    "identifier": "[34.2]",
+                    "content": "The Employment Court, the Environment Court, or the Māori Land Court."
+                  },
+                  {
+                    "identifier": "[36]",
+                    "content": "As the Human Rights Review Tribunal (HRRT) is not included in the statutory definition of \"a specified court or tribunal\" and as LA 2010 is not applied by any statute to the HRRT, the limitation defence in s 11 is not available in proceedings before the Tribunal."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "As the earlier LA 1950 contains no similar provision to the LA 2010, ss 4 and 10, the issue for determination in the present case is whether a different outcome to Ashworth v Kent can be justified. It will be seen that in proceedings before the Tribunal neither of the Limitation Acts have direct application but they do apply by analogy.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "Because the provisions of the 2010 statute were discussed in Ashworth v Kent, we now address only the provisions of the 1950 Act.",
+              "page": 4
+            }
+          ]
+        },
+        {
+          "title": "The Limitation Act 1950 - discussion",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "The limitation defence in the LA 1950 is confined to a limited category of circumstances, notably actions founded on simple contract or on tort or on actions to recover any sum recoverable by virtue of any enactment:",
+              "page": 4,
+              "quoted_material": {
+                "source": "Limitation Act 1950",
+                "content": "4 Limitation of actions of contract and tort, and certain other actions\n(1) Except as otherwise provided in this Act or in subpart 3 of Part 2 of the Prisoners' and Victims' Claims Act 2005, the following actions shall not be brought after the expiration of 6 years from the date on which the cause of action accrued, that is to say, —\n(a) actions founded on simple contract or on tort:\n(b) actions to enforce a recognisance:\n(c) actions to enforce an award, where the submission is not by a deed:\n(d) actions to recover any sum recoverable by virtue of any enactment, other than a penalty or forfeiture or sum by way of penalty or forfeiture.\n(2) An action for an account shall not be brought in respect of any matter which arose more than 6 years before the commencement of the action.\n(3) An action upon a deed shall not be brought after the expiration of 12 years from the date on which the cause of action accrued:\nProvided that this subsection shall not affect any action for which a shorter period of limitation is prescribed by any other provision of this Act.\n(4) An action shall not be brought upon any judgment which has been obtained subsequent to the commencement of this Act after the expiration of 12 years from the date on which the judgment became enforceable or on any judgment which has been obtained before the commencement of this Act after the expiration of 20 years from the date on which the judgment became enforceable; and no arrears of interest in respect of any judgment debt shall be recovered after the expiration of 6 years from the date on which the interest became due.\n(5) An action to recover any penalty or forfeiture, or sum by way of penalty or forfeiture, recoverable by virtue of any enactment shall not be brought after the expiration of 2 years from the date on which the cause of action accrued:\nProvided that for the purposes of this subsection the expression penalty shall not include a fine to which any person is liable on conviction of a criminal offence.\n(6) An action to have any will of which probate has been granted, or in respect of which letters of administration with the will annexed have been granted, declared or adjudicated to be invalid on the ground of want of testamentary capacity in the testator or on the ground of undue influence shall not be brought after the expiration of 12 years from the date of the granting of the probate or letters of administration.\n(6A) Subject to subsection (6B) of this section, a defamation action shall not be brought after the expiration of 2 years from the date on which the cause of action accrued.\n(6B) Notwithstanding anything in subsection (6A) of this section, any person may apply to the Court, after notice to the intended defendant, for leave to bring a defamation action at any time within 6 years from the date on which the cause of action accrued; and the Court may, if it thinks it just to do so, grant leave accordingly, subject to such conditions (if any) as it thinks it just to impose, where it considers that the delay in bringing the action was occasioned by mistake of fact or mistake of any matter of law (other than the provisions of subsection (6A) of this section), or by any other reasonable cause.\n(7) An action in respect of the bodily injury to any person shall not be brought after the expiration of 2 years from the date on which the cause of action accrued unless the action is brought with the consent of the intended defendant before the expiration of 6 years from that date:\nProvided that if the intended defendant does not consent, application may be made to the Court, after notice to the intended defendant, for leave to bring such an action at any time within 6 years from the date on which the cause of action accrued; and the Court may, if it thinks it is just to do so, grant leave accordingly, subject to such conditions (if any) as it thinks it is just to impose, where it considers that the delay in bringing the action was occasioned by mistake of fact or mistake of any matter of law other than the provisions of this subsection or by any other reasonable cause or that the intended defendant was not materially prejudiced in his defence or otherwise by the delay.\n(8) Subject to the provisions of section 76 of the Shipping and Seamen Act 1952, subsection (1) of this section shall apply to an action to recover seamen's wages, but save as aforesaid this section shall not apply to any cause of action within the Admiralty jurisdiction of the High Court which is enforceable in rem.\n(9) This section shall not apply to any claim for specific performance of a contract or for an injunction or for other equitable relief, except in so far as any provision thereof may be applied by the Court by analogy in like manner as the corresponding enactment repealed or amended by this Act, or ceasing to have effect by virtue of this Act, has heretofore been applied."
+              }
+            },
+            {
+              "number": "[15]",
+              "content": "None of these provisions apply expressly to proceedings brought before the Tribunal under the Privacy Act and we did not understand Corrections to contend to the contrary. While a bare submission was made that it was arguable a claim for damages under the Privacy Act may be considered to be a claim “to recover any sum recoverable by virtue of an enactment” within the LA 1950, s 4(1)(d), the point was not developed. Rather the contention was that the LA 1950 limitation defence applied “by analogy”.",
+              "page": 5
+            },
+            {
+              "number": "[16]",
+              "content": "The concession as to the non-application of the LA 1950, s 4 is properly made:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[16.1]",
+                  "content": "The language of the provision does not fit proceedings before the Tribunal under any of its jurisdictions under the Privacy Act, the HRA and the Health and Disability Commissioner Act 1994. It therefore does not matter that the 1950 Act does not define the courts or tribunals within the reach of the limitation defence provided by that Act."
+                },
+                {
+                  "title": "[16.2]",
+                  "content": "The Explanatory Note to the Limitation Bill (which was subsequently enacted as the LA 2010) expressly records that it was understood at the time the 2010 Act was enacted that the LA 1950 did not apply to claims for damages under the HRA and the Privacy Act. This is recorded in Ashworth v Kent at [37] and [38]:"
+                },
+                {
+                  "title": "[16.3]",
+                  "content": "In Director of Health and Disability Proceedings v O [2005] NZHRRT 25 the Tribunal concluded it was not a court of law for the purpose of the LA 1950, s 4(7).\nFor the reasons explained in Ashworth v Kent at [40] to [43] that decision was not subsequently overruled by the High Court on appeal:"
+                }
+              ],
+              "quoted_material": {
+                "source": "Ashworth v Kent, Explanatory Note to the Limitation Bill, Attorney-General v O'Neill, Pope v Human Rights Commission",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[37]",
+                    "content": "The omission was deliberate. See the Explanatory Note to the Limitation Bill:\nClaims for damages under the Human Rights Act 1993 or the Privacy Act 1993 are not money claims, because the claims to which the Bill will apply (see clause 9 [now s 10]) do not include claims made in proceedings in the Human Rights Review Tribunal. The special complaints procedures, and preconditions to commencement of proceedings for damages, under those Acts, make it inappropriate to superimpose on those claims a general civil limitation defence. Any necessary or desirable limitation defences to those claims are best prescribed by special provisions in those Acts."
+                  },
+                  {
+                    "identifier": "[38]",
+                    "content": "We refer to the Explanatory Note because the admissibility of parliamentary history to assist with the process of statutory interpretation has undergone substantial liberalisation in New Zealand over the past three decades, and it is often referred to, including by the Supreme Court. See Ross Carter and Jason McHerron Statutory Interpretation Update (NZLS CLE, June 2016) at 126 and 128."
+                  },
+                  {
+                    "identifier": "[40]",
+                    "content": "That decision was later described by the Full Court (Williams and Venning JJ) in Attorney-General v O'Neill [2008] NZAR 93 at [35] as \"not at all persuasive and should not be followed\". However, the issue in O'Neill was not whether a limitation defence could be raised in proceedings before the Tribunal but whether the Tribunal had sufficient features in common with an inferior court to allow it to be treated as such a court for the purposes of the Judicature Act 1908, s 88B which permitted the restriction of vexatious actions. The Full Court was careful to emphasise its decision should not be construed as a determination that the Tribunal was an inferior court and the decision was expressly confined to the specific context of s 88B:\n[34] We conclude that the Tribunal is an inferior Court for the purposes of s 88B of the Judicature Act and that proceedings issued in it, including those proceedings issued by Mr O'Neill, are civil proceedings issued in an inferior Court for the purposes of that section."
+                  },
+                  {
+                    "identifier": "[41]",
+                    "content": "Consequently the disapproval of the Tribunal's decision in Director of Health and Disability Proceedings v O was obiter in respect of the limitation issue."
+                  },
+                  {
+                    "identifier": "[42]",
+                    "content": "In Pope v Human Rights Commission (Strike-Out Application) [2014] NZHRRT 3 at [46] and [47] the Tribunal held that it was an inferior court for the purposes of the Ombudsmen Act 1975, s 25 which provides (inter alia) that no decision of an Ombudsman is liable to be challenged, reviewed, quashed, or called in question in any court. This holding was justified on the basis that it could not have been intended that the prohibition have no application in proceedings before an inferior tribunal. See further Carter Burrows and Carter Statute Law in New Zealand (5th ed, LexisNexis, Wellington, 2015) at 314."
+                  },
+                  {
+                    "identifier": "[43]",
+                    "content": "The fact that a tribunal may be treated as a court for certain purposes must be seen as the outcome of a statutory interpretation exercise focused on the particular context of the relevant statute (eg the Judicature Act or the Ombudsmen Act). The rulings referred to do not mean the Tribunal is in truth a court in all contexts. As observed in O'Neill at [36], nomenclature is not determinative of jurisdiction."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[17]",
+              "content": "As the provisions of the 1950 Act do not expressly apply to proceedings before the Tribunal we accordingly turn to the submission that the limitation defence applies by analogy.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "LIMITATION BY ANALOGY",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[18]",
+              "content": "The effect of the decision in PF Sugrue Ltd v Attorney-General [2004] 1 NZLR 207 (CA) is that while a claim for Baigent damages under the New Zealand Bill of Rights Act 1990 is not a claim for a “sum” within s 4(1)(d) of the 1950 Act and thus not statute barred by delay, the discretion to award damages for such claims would be “guided” by the 1950 Act. That is, a court can refuse monetary relief where a plaintiff has delayed too long in bringing his or her claim. The Court cautioned, however, that the discretion to dismiss a monetary claim for undue delay would not necessarily apply to a claim for non-monetary relief, such as a declaration of breach of a guaranteed right. It might well remain appropriate, despite the delay, to vindicate the plaintiff's right in that way:",
+              "page": 6,
+              "quoted_material": {
+                "source": "PF Sugrue Ltd v Attorney-General [2004] 1 NZLR 207 (CA)",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[70]",
+                    "content": "It does not, however, follow that a claim of this nature, for monetary compensation, should be able to be brought no matter how belatedly the claimant chooses to put it forward. Baigent damages are a form of compensation which the Court awards, as we have noted, in the exercise of a discretion. In that respect they bear a resemblance to compensation awards in equity. And, as with equitable awards, the Court should be able to refuse monetary relief if the plaintiff delays too long in bringing a Baigent claim. The Court must have a degree of flexibility in determining how long a delay is too much. All the circumstances, including those in which the cause of action arose, whether the alleged breach of the plaintiff's rights may have had an effect which excuses the delay and whether the delay has prejudiced the defence of the claim, should be considered. Appropriate and significant weight should obviously be given to the fact that the claim is one for breach of a fundamental human right guaranteed by the Bill of Rights. But it can be expected that the Court will still be guided to an extent by the periods set for the bringing of common law and statutory claims by the Limitation Act, just as it is when there has been a delay in commencing a claim in equity: see generally Matai Industries Ltd v Jensen [1989] 1 NZLR 525."
+                  },
+                  {
+                    "identifier": "[73]",
+                    "content": "...It would not follow from the exercise of the discretion to dismiss a monetary claim for undue delay, that the Court would on the same basis dismiss a claim for non-monetary relief, such as a declaration of breach of a guaranteed right. It might well remain appropriate, despite the delay, to vindicate the plaintiff's right in that way, and thereby admonish the Crown and warn against any repetition of the conduct in question."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[19]",
+              "content": "The approach taken by the Court of Appeal to the 1950 Act is directly transferable to the Tribunal's jurisdiction because it has both a discretion to grant relief and a duty to act according to equity and good conscience (HRA, s 105(2)(c)). This is explained in Ashworth v Kent at [48] to [53]:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Ashworth v Kent",
+                "content": "[48] Sections 8 and 9 of the Limitation Act 2010 carry over from the 1950 predecessor recognition that claims in equity are subject to the same policy considerations which underlie the purpose of the limitation defence, namely (in the words of LA 2010, s 3) to encourage claimants to make claims for monetary or other relief without undue delay by providing defendants with defences to stale claims. Sections 8 and 9 provide:\n8 Act does not affect jurisdiction to refuse relief\nNothing in this Act limits or affects any equitable or other jurisdiction to refuse relief, whether on the ground of acquiescence or delay, or on any other ground.\n9 Act may be applied by analogy to equitable claims\nNothing in this Act prevents it from being applied by analogy to a claim in equity to which no defence prescribed by this Act applies.\n[49] As will be seen both the discretion to refuse relief and the equitable claims jurisdiction apply to the Tribunal.\n[50] The 1950 version of these provisions was explained by the New Zealand Law Commission in its 1988 report at paras 54 to 57 in the following terms:\nEQUITABLE RULES\n54 Under s.4(9) of the 1950 Act, claims for equitable relief (such as specific performance or an injunction) in relation to matters subject to a six year limitation period - such as, tort and contract are expressly excluded from that period \"except insofar as [it] may be applied by the court by analogy\". This reflects the historical development of English law through two different court systems - the courts of equity, and the common law courts and the rule that courts exercising the equitable jurisdiction will apply limitation rules by analogy in certain cases:\nwhen claims are made in equity, which are not, as regards equitable proceedings, the subject of any express statutory bar, but the equitable proceedings correspond to a remedy at law in respect of the same subject matter which is subject to a statutory bar, a court of equity, in the absence of fraud or other special circumstances, adopts, by way of analogy, the same limitation for the equitable claim. (16 Halsbury's Laws of England (4th ed) para. 1485.)\n55 ...\n56 A body of equitable rules which may bar claimants from obtaining a remedy (even where the 1950 Act does not) survives under s.31:\nNothing in this Act shall affect any equitable jurisdiction to refuse relief on the ground of acquiescence or otherwise.\n51 The application of equitable principles under this section is limited to refusals of relief. The main thrust of those principles is that a claimant is bound to pursue his or her claim without undue delay. Equity does not specify a fixed time after which claims are barred. The doctrine of laches looks at the circumstances of the case - in particular, acquiescence on the claimant's part and any change of position on the defendant's part. The doctrine applies when an action is subject to the Act and the court refuses to grant relief to a claim not already barred by the Act effectively shortening the period. That is most likely to happen where there has been a short delay but serious prejudice to the defendant.\n57 An equitable defence is generally only available where the claimant knew or reasonably should have known of the existence of a cause of action and where the that delay was actually prejudicial to the defendant. Prejudice is the key notion: in the absence of prejudice, even a long delay will not bar an action; but a short delay with serious prejudice will certainly do so.\nAs to the 2010 provisions, the Laws of New Zealand title Limitation of Civil Proceedings at [38] is to similar effect:\n38. Limitation by analogy in equity.\nNothing in the Limitation Act 2010 prevents it from being applied by analogy to a claim in equity to which no defence prescribed by the Act applies.\nThe doctrine of limitation by analogy developed in the courts of equity when the limitation statute then in force applied to actions at common law but not to suits in equity. When a suitor in equity sought equitable relief that corresponded to a common law action for the same relief, but barred by the limitation statute, the court of equity applied the same time limit to the corresponding suit in equity “by analogy\", although no statutory time limit applied to the corresponding suit in equity. Later limitation statutes have enacted statutory limitation periods or defences that apply directly to equitable claims, and which a court of equity applies directly not by analogy. Thus, the limitation defence to a money claim applies directly to a money claim in equity. In addition, the limitation defences prescribed in the Limitation Act 2010 for recovery of equitable estates or interests in land, for recovery of personal property held on trust, and the limitation defences prescribed in the Act for certain claims against a trustee, apply directly, and do not apply by analogy. Apart from these defences to particular equitable claims, the Act does not prescribe any defence to a claim for specific performance, injunction, or other equitable relief.\nThe principle of the doctrine of limitation by analogy is that where the remedy in equity is correspondent to the remedy at law, and the latter is subject to a limit in point of time by the statute of limitations, a court of equity acts by analogy to the statute and imposes on the remedy equity affords the same limitation. A claim for a form of equitable relief that does not correspond to relief available at common law is not capable of being barred by analogy, but a claim for equitable relief that corresponds to another claim for equitable relief that is time barred, may be barred by analogy. A time bar for a bare account will not be applied by analogy to a claim for an account that involves some element of trust or breach of trust.\nWhere the doctrine applies and the claim in equity has been concealed from the plaintiff by the fraud of the defendant, time runs from the discovery of the fraud and not from an earlier date on which the cause of action arose.\nWhere the limitation statute applies directly to a claim for equitable relief there is no room for the statute to be applied by analogy. [footnote citations omitted]\n\nThe obligations of the Tribunal under equity and good conscience\n[52] Against this background it is important to observe that the Human Rights Act, s 105(2)(c) explicitly requires that in exercising its powers and functions, the Tribunal must act “according to equity and good conscience”. This provision has application to proceedings under the HDCA by virtue of s 58 of that Act. Section 105 of the HRA provides:\n105 Substantial merits\n(1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.\n(2) In exercising its powers and functions, the Tribunal must act—\n(a) in accordance with the principles of natural justice; and\n(b) in a manner that is fair and reasonable; and\n(c) according to equity and good conscience.\n\nThe discretion to refuse relief\n[53] Sections 54 and 57 of the HDCA make it clear that the grant of any remedy, including exemplary damages, is discretionary. It follows from these provisions as well as from HRA, s 105 that delay by a plaintiff and any consequential prejudice to the defendant must be taken into account by the Tribunal in determining what remedies, if any, are to be awarded to a plaintiff who has otherwise established his or her case."
+              }
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION AS TO APPLICATION OF LIMITATION DEFENCE",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "While a defendant in proceedings before the Tribunal does not have a limitation defence of the kind available under either the 1950 Act or under LA 2010, s 11 the principle which underpins the two Limitation Acts is nevertheless applicable in proceedings before the Tribunal by analogy either because of the Tribunal's discretion to refuse relief or because of the Tribunal's obligations in equity and good conscience as contained in HRA, s 105(2)(c). The factors relevant to the exercise of the discretion to dismiss a monetary claim for undue delay may not necessarily have the same application to a claim for non-monetary relief, such as a declaration under the relevant statute. It might well be appropriate, despite the delay, to vindicate the plaintiff's right in that way. See Ashworth v Kent at [56].",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "Whether appropriate for issues of delay to be determined in the context of a strike-out application",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[21]",
+              "content": "The remedies to be granted to a successful plaintiff fall to be determined at the conclusion of a case, not during the preliminary or interlocutory stages. Only at the conclusion can an informed assessment be made of all the relevant circumstances, including any delay or prejudice asserted by the defendant. The discretion to refuse relief and the Tribunal's obligations in equity and good conscience cannot be exercised in a vacuum.",
+              "page": 9
+            },
+            {
+              "number": "[22]",
+              "content": "This is the point made by Elias CJ and Tipping J in Commerce Commission v Carter Holt Harvey Ltd [2009] NZSC 120, [2010] 1 NZLR 379 at [3] per Elias CJ and at [39] per Tipping J. For the reasons given by both judges, the general rule is that limitation questions will not be decided in interlocutory proceedings in advance of the hearing except in the clearest of cases.",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "title": "WHETHER FACTS JUSTIFY STRIKING OUT PROCEEDINGS IN ADVANCE OF HEARING",
+          "page_start": 9,
+          "paragraphs": [
+            {
+              "number": "[23]",
+              "content": "In the present case the Tribunal has not been persuaded that any prejudice suffered by Corrections by reason of the time delay is of a degree sufficient to constitute an abuse of process warranting a peremptory strike out of the proceedings before they are even heard. The delay does not lead to a conclusion that, in terms of the Tribunal's equity and good conscience jurisdiction under the HRA, s 105(2)(c) the damages claim ought to be struck out.",
+              "page": 9
+            },
+            {
+              "number": "[24]",
+              "content": "Further, the Tribunal does not consider it appropriate to deny Mr Fitikefu the possibility of being granted a remedy other than damages. The delay point has been taken prematurely and is unsuitable for determination in the context of a strike-out application. However, it must be emphasised that should Mr Fitikefu be successful in proving his claim, the issue of delay will be a relevant factor when the Tribunal comes to consider whether it should exercise its discretion to grant any of the remedies described in s 85 of the Privacy Act and in particular, the grant of damages in accordance with s 88 of the Act.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "OVERALL CONCLUSION",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[25]",
+              "content": "The application by Corrections to have the proceedings by Mr Fitikefu struck out is dismissed.",
+              "page": 10
+            },
+            {
+              "number": "[26]",
+              "content": "Costs are reserved.",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "title": "Directions",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[27]",
+              "content": "The following directions are made:",
+              "page": 10,
+              "subsections": [
+                {
+                  "title": "[27.1]",
+                  "content": "A case management teleconference is to be convened by the Secretary so that all final directions can be given to ensure the case is made ready for hearing."
+                },
+                {
+                  "title": "[27.2]",
+                  "content": "Leave is reserved to both parties to make further application should the need arise."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Mr RK Musuku",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Fitikefu v Department of Corrections (Strike-Out Application) [2019] NZHRRT 51.]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

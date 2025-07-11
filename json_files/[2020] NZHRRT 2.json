@@ -1,0 +1,328 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "NZHRRT_2_2020.pdf",
+    "total_pages": 4,
+    "extraction_date": "2024-03-27"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2020] NZHRRT 2",
+        "reference_number": "HRRT 059/2015",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "On the papers",
+        "decision_date": "29 January 2020",
+        "case_title": "Tan v Ministry of Social Development (Strike-Out Application) [2020] NZHRRT 2",
+        "legal_basis": "THE HUMAN RIGHTS ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "KONG HWEE TAN",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "THE CHIEF EXECUTIVE, MINISTRY OF SOCIAL DEVELOPMENT",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr K H Tan",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms D Harris",
+          "representing": "Defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Tan receives a pension from the Ministry of Social Development (MSD), however it is reduced by the amount Mr Tan receives from the Central Providence Fund Board of Singapore. Mr Tan claims this is discrimination on the basis of his citizenship of Singapore. MSD denies any breaches of the Human Rights Act 1993.",
+              "page": 1,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993",
+                  "context": "MSD denies any breaches of the Human Rights Act 1993."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[2]",
+              "content": "Mr Tan's claim was filed on 14 October 2015. A statement of reply was filed on 18 November 2015.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "On 12 August 2016 the Tribunal directed Mr Tan to make complete disclosure of the following two categories of documents by 7 October 2016:",
+              "page": 2
+            },
+            {
+              "number": "[3.1]",
+              "content": "All documents about and relating to Mr Tan's Central Providence Fund savings and payments; and",
+              "page": 2
+            },
+            {
+              "number": "[3.2]",
+              "content": "All correspondence between Mr Tan and Central Providence Fund Board.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "By January 2017 Mr Tan had not complied with the discovery orders above. Accordingly, the Tribunal directed in its Minute dated 27 January 2017 that unless Mr Tan fully complied with the discovery order by Friday 24 February 2017, MSD could apply for the proceedings to be struck out on the grounds of failure to comply with the order and for want of prosecution.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "On 14 March 2017 MSD applied to strike out this proceeding on the basis that Mr Tan had still not complied with the discovery order and the claim cannot be properly advanced without complete disclosure.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "The Tribunal regrets the delay in determining this application for strike out, which has been caused by an unprecedented increase in workload as explained in detail in the decision of Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8",
+                  "context": "as explained in detail in the decision of Wall v Fairfax New Zealand Ltd (Delay) [2017] NZHRRT 8."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The Tribunal's jurisdiction to strike out proceedings is explicitly provided for in s 115A Human Rights Act 1993:",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A Human Rights Act 1993",
+                  "context": "The Tribunal's jurisdiction to strike out proceedings is explicitly provided for in s 115A Human Rights Act 1993:"
+                }
+              ],
+              "quoted_material": {
+                "source": "115A Human Rights Act 1993",
+                "content": "115A Tribunal may strike out, determine or adjourn proceedings",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(1)",
+                    "content": "The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it-"
+                  },
+                  {
+                    "identifier": "(a)",
+                    "content": "Discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "Is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "Is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "Is otherwise an abuse of process."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[8]",
+              "content": "MSD submits that Mr Tan's claim should be struck out for failure to comply with the discovery order and for want of prosecution. This comes within s 115A(1)(b) and s 115A(1)(d) Human Rights Act 1993.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(b) Human Rights Act 1993",
+                  "context": "This comes within s 115A(1)(b) and s 115A(1)(d) Human Rights Act 1993."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d) Human Rights Act 1993",
+                  "context": "This comes within s 115A(1)(b) and s 115A(1)(d) Human Rights Act 1993."
+                }
+              ]
+            },
+            {
+              "number": "[9]",
+              "content": "The Tribunal has canvassed the key principles for applications to strike out at length in Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 (Parohinog). At the time Parohinog was drafted the Tribunal did not have the specific power in s 115A Human Rights Act 1993 to strike out proceedings.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14",
+                  "context": "The Tribunal has canvassed the key principles for applications to strike out at length in Parohinog v Yellow Pages Group Ltd (Strike-Out Application No. 2) [2015] NZHRRT 14 (Parohinog)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 115A Human Rights Act 1993",
+                  "context": "At the time Parohinog was drafted the Tribunal did not have the specific power in s 115A Human Rights Act 1993 to strike out proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "The Tribunal now has specific strike out provisions in the Human Rights Act 1993 but the key principles remain the same. First, jurisdiction to strike out must be used sparingly and if there is a way in which a defect in a claim or proceeding can be cured, that is preferable to striking out a claim. However, this must be balanced against the desirability of freeing defendants from the burden of litigation which is an abuse of process.",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993",
+                  "context": "The Tribunal now has specific strike out provisions in the Human Rights Act 1993 but the key principles remain the same."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SHOULD MR TAN'S CLAIM BE STRUCK OUT?",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "",
+              "content": "Litigants (including lay litigants) cannot be permitted to file claims that are incomprehensible as that visits prejudice and injustice on the opposing party. The same applies where litigants fail to engage with the Tribunal process and do not comply with specific orders of the Tribunal.",
+              "page": 3
+            },
+            {
+              "number": "[11]",
+              "content": "Failure to comply with an order causes prejudice to the other party as they are unable to respond appropriately and to fully defend the claim. It is also an abuse of process. See further Yarrow v Finnegan [2017] NZHC 1755 at [10].",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Yarrow v Finnegan [2017] NZHC 1755 at [10]",
+                  "context": "See further Yarrow v Finnegan [2017] NZHC 1755 at [10]."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "MSD has applied to strike out Mr Tan's claim on the basis that he has not complied with the specific directions of the Tribunal for formal tailored discovery as directed on 12 August 2016. Furthermore, Mr Tan made it clear in his second affidavit that he will not comply with the direction. The Ministry says it has attempted to deal in good faith with Mr Tan and to respond to the claim.",
+              "page": 3
+            },
+            {
+              "number": "[13]",
+              "content": "Mr Tan has filed a notice of opposition to the strike-out application. The opposition primarily repeats aspects of Mr Tan's substantive claim and reiterates Mr Tan's concerns with MSD. Mr Tan's opposition does not explain his failure to comply with the direction for tailored discovery, nor does it fully engage with the grounds of the application for strike-out. Mr Tan also does not dispute that he has said he will not comply with discovery.",
+              "page": 3
+            },
+            {
+              "number": "[14]",
+              "content": "The Tribunal is satisfied that Mr Tan has not complied with its direction that he provide tailored discovery and it is clear from Mr Tan's second affidavit filed on 14 February 2017 that he has no intention to comply with that direction.",
+              "page": 3
+            },
+            {
+              "number": "[15]",
+              "content": "On 12 August 2016 when the Tribunal ordered Mr Tan to provide discovery, it was satisfied that the documents should be disclosed. The failure to disclose them substantially undermines MSD's ability to respond to the claim and causes prejudice. If the proceedings were to remain on foot, MSD would be unable to defend itself appropriately. This would cause significant prejudice to MSD and be an abuse of process.",
+              "page": 3
+            },
+            {
+              "number": "[16]",
+              "content": "The claim by Mr Tan against MSD must be struck out.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[17]",
+              "content": "No application has been made for costs. However, if MSD wishes to apply for costs, it is to file submissions within fourteen days after the date of the decision. Any submissions in opposition by Mr Tan are to be filed within a further fourteen days, with a right of reply to MSD within seven days after that.",
+              "page": 3
+            },
+            {
+              "number": "[18]",
+              "content": "The Tribunal will then determine the issue of costs based on the written submissions without any further oral hearing.",
+              "page": 3
+            },
+            {
+              "number": "[19]",
+              "content": "In case it should prove necessary, we leave it to the Chairperson or the Deputy Chairperson to vary the foregoing timetable.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 4,
+          "paragraphs": [
+            {
+              "number": "[20]",
+              "content": "Mr Tan's claim against MSD is struck out.",
+              "page": 4
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Dr SJ Hickey MNZM",
+          "role": "Member"
+        },
+        {
+          "name": "Ms DL Hart",
+          "role": "Member"
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as Tan v Ministry of Social Development (Strike-Out Application) [2020] NZHRRT 2]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

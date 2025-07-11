@@ -1,0 +1,650 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 8,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 69",
+        "reference_number": "HRRT 046/2021",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "WELLINGTON",
+        "hearing_date": "On the papers",
+        "decision_date": "19 December 2024",
+        "case_title": "Wild v Ministry for Primary Industries (Strike Out) [2024] NZHRRT 69",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 8
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "LEE CINDY WILD",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "MINISTRY FOR PRIMARY INDUSTRIES - MANATŪ AHU MATUA",
+            "role": "DEFENDANT",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr JS Hancock",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member"
+        },
+        {
+          "name": "Mr IR Nemani",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Ms LC Wild",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms A Boadita-Cormican",
+          "representing": "for the defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF TRIBUNAL STRIKING OUT CLAIM",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Ms Wild filed her statement of claim alleging the Ministry for Primary Industries (MPI) interfered with her privacy on 23 June 2021. Ms Wild's claim alleged MPI breached certain Information Privacy Principles (IPPs) under the Privacy Act 1993. MPI denies that it has interfered with Ms Wild's privacy.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993",
+                  "context": "Ms Wild's claim alleged MPI breached certain Information Privacy Principles (IPPs) under the Privacy Act 1993."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[2]",
+              "content": "On 25 March 2024, the Tribunal struck out parts of Ms Wild's claim for want of jurisdiction.2 The only part which remained was the claim that MPI breached IPP 6 by withholding certain information when responding to an information privacy request she made to MPI dated 22 March 2020.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "APPLICATION TO STRIKE OUT",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[3]",
+              "content": "MPI sought directions from the Tribunal in October 2024 that Ms Wild's claim be struck out in its entirety unless Ms Wild ceased engaging in correspondence with the Tribunal and/or defendant in an inappropriate or abusive manner.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "On 7 October 2024, the Tribunal directed Ms Wild (again) to not engage in inappropriate and abusive communications with the Tribunal, MPI and their counsel. The Tribunal stated that if this direction was breached, it would seek submissions from both parties on whether Ms Wild's claim should be struck out as an abuse of process under s 115A of the Human Rights Act 1993 (HRA).3",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A of the Human Rights Act 1993 (HRA)",
+                  "context": "whether Ms Wild's claim should be struck out as an abuse of process under s 115A of the Human Rights Act 1993 (HRA)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "On 22 October 2024, Ms Wild sent the Tribunal an email containing abusive and derogatory comments and accusations directed at counsel for MPI and MPI staff.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[6]",
+              "content": "The Tribunal accordingly sought submissions from the parties as to whether it should strike out the claim as an abuse of process under s 115A(1)(d) of the HRA.",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d) of the HRA",
+                  "context": "strike out the claim as an abuse of process under s 115A(1)(d) of the HRA."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[7]",
+              "content": "MPI provided submissions in support of striking out Ms Wild's claim. MPI submit that both the abusive manner in which Ms Wild has conducted this proceeding and her consistent and deliberate failure to comply with the directions of the Tribunal to refrain from such conduct, constitute an abuse of process for the purposes of s 115A(1)(d).",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d)",
+                  "context": "constitute an abuse of process for the purposes of s 115A(1)(d)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[8]",
+              "content": "Ms Wild has not provided any submissions addressing the Tribunal's consideration of her claim being struck out.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "ISSUES",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "The issues for determination by the Tribunal are:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[9.1]",
+                  "content": "Whether Ms Wild's claim is an abuse of process; and"
+                },
+                {
+                  "title": "[9.2]",
+                  "content": "If so, whether this Tribunal should strike out the claim."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "LEGAL FRAMEWORK",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[10]",
+              "content": "The Tribunal has a discretionary power to strike out a proceeding on a number of grounds under s 115A(1) of the HRA:",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1) of the HRA",
+                  "context": "a discretionary power to strike out a proceeding on a number of grounds under s 115A(1) of the HRA"
+                }
+              ],
+              "quoted_material": {
+                "source": "115A Tribunal may strike out, determine, or adjourn proceedings",
+                "content": "(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "discloses no reasonable cause of action; or"
+                  },
+                  {
+                    "identifier": "(b)",
+                    "content": "is likely to cause prejudice or delay; or"
+                  },
+                  {
+                    "identifier": "(c)",
+                    "content": "is frivolous or vexatious; or"
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "is otherwise an abuse of process."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "Under s 115A(1)(d), the Tribunal may exercise its discretion to strike out a proceeding if it is satisfied that it is an abuse of process. In Gwizo v Attorney-General (Gwizo),4 the High Court held that the Tribunal's exercise of its discretion under s 115A(1)(d) involves a two-stage test:5",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "[11.1]",
+                  "content": "whether there is an abuse of process; and if so"
+                },
+                {
+                  "title": "[11.2]",
+                  "content": "whether discretion should be exercised to strike out the proceeding."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d)",
+                  "context": "Under s 115A(1)(d), the Tribunal may exercise its discretion to strike out a proceeding if it is satisfied that it is an abuse of process."
+                },
+                {
+                  "type": "case",
+                  "reference": "Gwizo v Attorney-General (Gwizo)",
+                  "context": "In Gwizo v Attorney-General (Gwizo),4 the High Court held that the Tribunal's exercise of its discretion under s 115A(1)(d) involves a two-stage test:5"
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[12]",
+              "content": "The Tribunal's strike out powers under s 115A must be used sparingly, and a high threshold must be crossed before these powers will be exercised.6 This need for caution must nevertheless be balanced against the desirability of freeing defendants from the burden of litigation which is groundless or is an abuse of process.7",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A",
+                  "context": "The Tribunal's strike out powers under s 115A must be used sparingly"
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[13]",
+              "content": "An abuse of process may arise through a deliberate failure to comply with Tribunal directions.8 It is recognised that where a plaintiff is a lay litigant, repeated failures to comply with Tribunal orders may not be deliberate and may instead be due to factors such as disorganisation or anxiety. However, a consistent failure to comply, despite repeated warnings, will be regarded as deliberate, particularly where the plaintiff was aware of their failure to comply and chose to do nothing.9",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[14]",
+              "content": "The Tribunal has found that a plaintiff's failure to comply with or respond to repeated directions constitutes an abuse of process.10",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[15]",
+              "content": "It is acknowledged that s 105 of the HRA requires the Tribunal to “act according to the substantial merits of the case without regard to technicalities”. However, as the High Court has observed, s 105 applies primarily to ensure that the Tribunal does not take a strict approach to pleadings and does not change the principles that apply to the Tribunal's consideration of an abuse of process under s 115A(1)(d), given the high threshold that must be crossed before an abuse of process may be found.11",
+              "page": 4,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 105 of the HRA",
+                  "context": "s 105 of the HRA requires the Tribunal to “act according to the substantial merits of the case without regard to technicalities”."
+                },
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d)",
+                  "context": "Tribunal's consideration of an abuse of process under s 115A(1)(d)"
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[16]",
+              "content": "An abuse of process may also arise through abusive behaviour by a party which has become untenable, having regard to the proper use of the Tribunal's time and resources and to ensure respect for the Tribunal.12 The right to access to justice requires that the Tribunal not lightly exercise its strike out powers in these circumstances.13 A defendant is not required to show prejudice from the plaintiff's actions where an abuse of process is engaged in these circumstances. 14",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[17]",
+              "content": "However, repeated abusive conduct directed towards courts and tribunals, counsel and others, including unsubstantiated and scandalous accusations, has been found to constitute an abuse of process and has resulted in strike out.15 In O'Neill v New Zealand Law Society, the Court of Appeal observed that such conduct is unfair to others involved in the proceeding and undermines confidence in the administration of justice:16",
+              "page": 4,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "O'Neill v New Zealand Law Society",
+                  "context": "In O'Neill v New Zealand Law Society, the Court of Appeal observed that such conduct is unfair to others involved in the proceeding and undermines confidence in the administration of justice:16"
+                }
+              ],
+              "quoted_material": {
+                "source": "O'Neill v New Zealand Law Society",
+                "content": "[17] Limits are enforced because it is inimical to the administration of justice to permit abusive behaviour in a public forum where speech is protected by absolute privilege. Misuse of the judicial process causes unfairness for others involved, including the opposing party. It also undermines public confidence in the administration of justice. Courts must be seen to be capable of dealing with it. As the English Court of Appeal held in Terry v Hoyer (UK) Ltd [2001] EWCA Civ 678 at [16]:\n\nThere is conduct which no court or tribunal, with its necessary concern for the proper administration of justice, could tolerate. Courts and tribunals must be concerned to do justice. They must, in doing that, have regard to the interests of litigants in general, to the proper use of court time and to the need to ensure respect for courts and tribunals in the community.\n\n[18] To that we would add that a court must also consider the impact of abusive behaviour on its staff, who are expected to correspond and speak with parties and who may be treated, as in this case, rather worse than the judges.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[18]",
+              "content": "If the Tribunal finds there has been an abuse of process, and that there is a basis for the claim to be struck out in part or in full, the Tribunal must also be satisfied that it should then exercise its discretion to do so.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "IS MS WILD'S CLAIM AN ABUSE OF PROCESS?",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "Ms Wild's conduct when communicating with the Tribunal, MPI and its counsel was initially unremarkable. However, since early 2024, Ms Wild has frequently and repeatedly emailed the Tribunal and counsel for the defendant abusive, inappropriate and threatening communications towards the defendant, its counsel and staff.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[20]",
+              "content": "On 26 February 2024, Ms Wild sought to add to her statement of claim scandalous allegations of stalking and sexual perversion made against the defendant, its witness and an unrelated senior public official.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[21]",
+              "content": "On 27 February 2024, the Tribunal issued directions to the parties stating that the claim could not be amended to include these allegations and directing Ms Wild to ensure she communicates in an appropriate and acceptable manner.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[22]",
+              "content": "On 14 April 2024, Ms Wild nevertheless sent an email to the Tribunal, copied to counsel to MPI and various third parties, which included the following abusive language directed at the defendants:",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "email dated 14 April 2024",
+                "content": "MALFEASANCE AND TREASON\n\nCan you please advise these dirty filthy whores (and whatever [name redacted] is) that if they don't stop lying about my sexlife (and their filthy perversion) [...] (tax-payer funded stalking to hide their crimes), I will (personally) boxcut their faces open.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[23]",
+              "content": "In a Minute dated 18 April 2024, the Tribunal noted that Ms Wild had not complied with its earlier directions regarding communication and had escalated the level of vitriol to include threats of violence. The Tribunal issued directions that Ms Wild refrain from \"any further inflammatory, abusive, or inappropriate communications to the Tribunal, the defendant and its staff, counsel and any other person involved with the proceeding”. The Tribunal also cautioned Ms Wild that she was on notice that failure to comply with the Tribunal's direction in this regard may constitute an abuse of process and may lead to the strike out of her claim.",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[24]",
+              "content": "On 1 August 2024, Ms Wild emailed the Tribunal accusing MPI of \"intentionally obstructing justice\". This was followed by a further email dated 16 August 2024, in which Ms Wild repeated her accusations against the senior public official named in earlier email correspondence. Ms Wild also requested that the Tribunal remove counsel for MPI from the case and accused her of being “a crooked lawyer” who “has been aiding and abetting her clients to continue stalking me for close to four years” and “belongs in prison”. Ms Wild accused the Tribunal of being “complicit in her crimes” and of \"criminal intent.”",
+              "page": 5,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[25]",
+              "content": "In a Minute dated 30 August 2024, the Tribunal referred to these emails and reminded Ms Wild to ensure her communications with the Tribunal are appropriate and respectful. However, on 27 September 2024, Ms Wild emailed the Tribunal repeating her allegations of stalking against MPI staff. This was followed by a lengthy email from Ms Wild to the Tribunal dated 30 September 2024 which repeated her accusations against the senior public official and contained a tirade of vitriolic abuse directed towards MPI staff, counsel and the Tribunal, including the following:",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "email dated 30 September 2024",
+                "content": "MPI have thrown everything including the kitchen sink at me, to cover up their crimes. They are criminals. They cover up their lies with public funds. They belong in the gutter. They also belong in prison, along with their legal counsel who also covered up for them while rewarding herself handsomely with public funds. She is a gutter rat. She is a pervert, titillating herself with [name redacted] sexual fantasies and those of a rapist. [...]\n\nThe HRT must also be a bunch of perverts. Why else would they have helped MPI to indulge in sexual perversion, at my expense? You are criminals funded by the public that you fail. You disgust me. [...] The HRT is just as guilty as MPI, and MPI are clearly guilty. You are all guilty of treason with malice. You have behaved like animals and you have no morals. You disgust me.\n\nDo your fucking jobs, public fucking servants, so that I can then prosecute every single last one of you disgusting bastards [...] No more lies, no more delays, no more cover ups. Every single one of you who is guilty is going to prison and I will not rest until I catch every single one of you dirty motherfuckers [...]. Your days are numbered one way or the other, come hell or high water.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[26]",
+              "content": "On 1 October 2024, MPI filed a memorandum of counsel expressing concern at Mr Wild's conduct and communications, and applying for directions that Ms Wild's claim be struck out unless she ceases engaging with the Tribunal and/or the defendant in an inappropriate or abusive manner.",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[27]",
+              "content": "In a Minute dated 7 October 2024, the Tribunal noted that “it is not tenable to expect the Tribunal, MPI and its counsel to continue to engage with a litigant who uses the Tribunal's procedures to engage in personal abuse” and “conduct of this nature can amount to an abuse of process and warrant the striking out of a claim\".17",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[28]",
+              "content": "The Tribunal cautioned Ms Wild that if she engaged in further inappropriate and abusive communications with the Tribunal, MPI and counsel, submissions will be sought on whether her claim should be struck out as an abuse of process. 18 The Tribunal then directed Ms Wild to not send any further inflammatory, abusive, or inappropriate communications to the Tribunal or MPI and to ensure all her communications to the Tribunal are made in an appropriate and respectful manner. 19",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[29]",
+              "content": "On 21 October 2024, counsel for MPI emailed Ms Wild regarding arrangements for the completion of informal discovery. Ms Wild replied by telling counsel for MPI to “fuck off, you creepy skank”. The next day, Ms Wild sent the Tribunal a further abusive email which included the following abusive language:",
+              "page": 6,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {
+                "source": "email dated 22 October 2024",
+                "content": "Could you please tell the defence counsel to stop stalking and harassing me, or I will forward a complaint to the police. That thing is a pervert and a predatory stalker. I have made it abundantly clear that I will not tolerate any further stalking and harassment from it or it's repugnant clients at the Ministry of Primary Industries (also perverted, homicidal stalkers), and yet it continues to stalk and harass me directly.",
+                "internal_paragraphs": []
+              }
+            },
+            {
+              "number": "[30]",
+              "content": "Ms Wild has sent multiple abusive, scandalous and inappropriate communications to the Tribunal, and repeatedly breached the Tribunal's directions to refrain from doing so. Despite these directions, Ms Wild has continued to use highly offensive and sometimes violent language towards the defendant, its staff and counsel. She has also continued to make scandalous and unsubstantiated allegations against a senior public official that are unrelated to her claim and the Tribunal's jurisdiction.",
+              "page": 7,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[31]",
+              "content": "In doing so, Ms Wild has misused and displayed a lack of respect for the Tribunal's processes and participants within that process. MPI is entitled to defend Ms Wild's claim and, in doing so, has engaged with Ms Wild and the Tribunal in an appropriate manner. Ms Wild, however, has been given several opportunities to comply with the Tribunal's directions to communicate appropriately and has chosen not to. It is no longer tenable to allow this conduct to continue. It has become an abuse of process.",
+              "page": 7,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[32]",
+              "content": "We accordingly find that the conduct of these proceedings by Ms Wild constitutes an abuse of process.",
+              "page": 7,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "SHOULD THE TRIBUNAL EXERCISE ITS DISCRETION TO STRIKE OUT THE CLAIM?",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[33]",
+              "content": "Having found an abuse of process, we must now consider whether to exercise our discretion to strike out Ms Wild's claim.",
+              "page": 7,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[34]",
+              "content": "We have considered the prejudice to Ms Wild that may occur in the event her claim is struck out and she is denied the opportunity for the Tribunal to determine her claim and award remedies if it finds in her favour. However, neither the Tribunal nor the other participants in this proceeding can reasonably be expected to continue to interact with a plaintiff who is repeatedly and deliberately flouting the Tribunal's directions to refrain from abusive and inappropriate conduct.",
+              "page": 7,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[35]",
+              "content": "We therefore find that, in these circumstances, the high threshold required for strike out has been met. It is therefore appropriate to exercise our discretion to strike out the claim under s 115A(1)(d) of the HRA.",
+              "page": 7,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 115A(1)(d) of the HRA",
+                  "context": "to strike out the claim under s 115A(1)(d) of the HRA."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "ORDERS",
+          "page_start": 8,
+          "paragraphs": [
+            {
+              "number": "[36]",
+              "content": "The following orders are made:",
+              "page": 8,
+              "subsections": [
+                {
+                  "title": "[36.1]",
+                  "content": "The claim by Lee Cindy Wild against the Ministry for Primary Industries is struck out in full."
+                },
+                {
+                  "title": "[36.2]",
+                  "content": "Costs lie where they fall."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms JS Hancock",
+          "role": "Deputy Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms L Ashworth",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr IR Nemani",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Wild v Ministry for Primary Industries (Strike Out) [2024] NZHRRT 69.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Wild v Ministry for Primary Industries (Strike Out) [2024] NZHRRT 12.",
+          "page": 2
+        },
+        {
+          "number": "3",
+          "content": "Minute dated 7 October 2024 at [21].",
+          "page": 2
+        },
+        {
+          "number": "4",
+          "content": "Gwizo v Attorney-General [2022] NZHC 2717 (Gwizo).",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Gwizo, above n 4, at [70].",
+          "page": 3
+        },
+        {
+          "number": "6",
+          "content": "Harawira v New Zealand Management Academies Limited & McAuley (Strike Out) [2024] NZHRRT 59 (Harawira) at [11].",
+          "page": 3
+        },
+        {
+          "number": "7",
+          "content": "Parohinog v Yellow Pages Group Ltd [2015] NZHRRT 14 at [22]-[28], see also Greer v Commissioner of Police [2024] NZHC 104 at [29]-[30].",
+          "page": 3
+        },
+        {
+          "number": "8",
+          "content": "Gwizo, above n 4, at [44].",
+          "page": 3
+        },
+        {
+          "number": "9",
+          "content": "Gwizo, above n 4, at [44].",
+          "page": 3
+        },
+        {
+          "number": "10",
+          "content": "Sawyer v Victoria University of Wellington [2024] NZHRRT 47; Boyd v Legacy Church and Legacy Housing (Strike out) [2023] NZHRRT 2 and Kropelnicki v Wellington City Council [2021] NZHRRT 30.",
+          "page": 4
+        },
+        {
+          "number": "11",
+          "content": "Gwizo, above n 4, at [49].",
+          "page": 4
+        },
+        {
+          "number": "12",
+          "content": "Harawira, above n 6, at [13]; O'Neill v New Zealand Law Society [2022] NZCA 500 (O'Neill) at [17], citing Terry v Hoyer (UK) Ltd [2001] EWCA Civ 678 at [16].",
+          "page": 4
+        },
+        {
+          "number": "13",
+          "content": "O'Neill at [14].",
+          "page": 4
+        },
+        {
+          "number": "14",
+          "content": "Gwizo at [46].",
+          "page": 4
+        },
+        {
+          "number": "15",
+          "content": "Such as O'Neill and Harawira.",
+          "page": 4
+        },
+        {
+          "number": "16",
+          "content": "O'Neill at [17]-[18].",
+          "page": 4
+        },
+        {
+          "number": "17",
+          "content": "Minute dated 7 October 2024 at [20].",
+          "page": 6
+        },
+        {
+          "number": "18",
+          "content": "Minute dated 7 October 2024 at [21].",
+          "page": 6
+        },
+        {
+          "number": "19",
+          "content": "Minute dated 7 October 2024 at [22.1] and [22.2].",
+          "page": 6
+        }
+      ]
+    }
+  ]
+}

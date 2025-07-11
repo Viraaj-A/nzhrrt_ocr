@@ -1,0 +1,331 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 4,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2024] NZHRRT 66",
+        "reference_number": "",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL I TE TARAIPIUNARA MANA TANGATA",
+        "jurisdiction": "AT WELLINGTON",
+        "hearing_date": "",
+        "decision_date": "12 December 2024",
+        "case_title": "IN THE MATTER OF AN INTENDED PROCEEDING BY TANYA DUNSTAN",
+        "legal_basis": "THE PRIVACY ACT 2020",
+        "decision_type": "DECISION OF CHAIRPERSON REJECTING INTENDED STATEMENT OF CLAIM",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 4
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "TANYA DUNSTAN",
+            "role": "Intended Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "Dream Au Pairs",
+            "role": "Intended Defendant",
+            "type": "Organization"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Chairperson"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "in person",
+          "representing": "Ms T Dunstan"
+        },
+        {
+          "counsel": "not heard",
+          "representing": "The intended defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "DECISION OF CHAIRPERSON REJECTING INTENDED STATEMENT OF CLAIM",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "In August 2023, Ms Dunstan presented a statement of claim for filing in the Tribunal against Dream Au Pairs, alleging interferences with her privacy in breach of the Privacy Act 2020 (the Act).",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 2020",
+                  "context": "alleging interferences with her privacy in breach of the Privacy Act 2020 (the Act)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[2]",
+              "content": "Ms Dunstan's intended claim was completed on the official claim form. That form requires a plaintiff to state the basis on which the plaintiff says the Tribunal has jurisdiction to hear the claim. The form also requires a plaintiff to attach the relevant certificates or notices (from the Privacy Commissioner or the Director of Human Rights Proceedings) confirming the Tribunal's jurisdiction.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[3]",
+              "content": "Confirmation of the basis of jurisdiction on the official claim form is in a tick box format. When filing her intended proceedings, Ms Dunstan ticked the following as the jurisdictional basis for her intended claim against Dream Au Pairs:",
+              "page": 2,
+              "subsections": [
+                {
+                  "title": "[3.1]",
+                  "content": "That there was jurisdiction because the Privacy Commissioner had determined that the complaints did not have substance, or that the matters should not be proceeded with."
+                }
+              ],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[4]",
+              "content": "Ms Dunstan did not attach to her statement of claim any certificate or notice from the Privacy Commissioner or the Director of Human Rights Proceedings confirming this jurisdictional basis.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[5]",
+              "content": "On 9 April 2024, the Chairperson issued a Minute noting it appeared the intended claim might not meet the jurisdictional criteria for matters to come before the Tribunal. Ms Dunstan was given the opportunity to provide further information for the Chairperson to consider, in order to determine if the claim could be accepted for filing.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[6]",
+              "content": "On 25 and 26 April 2024, Ms Dunstan filed two memoranda which she said were relevant to this issue. However, neither of the memoranda assisted the Tribunal in respect of whether it had jurisdiction in these matters.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "THE LEGAL FRAMEWORK",
+          "page_start": 2,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The Act provides a framework in Part 5 for the making of complaints to the Privacy Commissioner, the procedure which must be followed by the Commissioner on receipt of a complaint, investigations by the Commissioner and how matters may, after the conclusion of the Commissioner's procedure then come before the Tribunal.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[8]",
+              "content": "Section 98(1) sets out the situations in which matters may come before the Tribunal. The relevant provisions of section 98 are:",
+              "page": 2,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 98(1)",
+                  "context": "Section 98(1) sets out the situations in which matters may come before the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 98",
+                  "context": "The relevant provisions of section 98 are:"
+                }
+              ],
+              "quoted_material": {
+                "source": "98 Aggrieved individuals may commence proceedings in Tribunal",
+                "content": "(1) An aggrieved individual, a representative on behalf of an aggrieved individual, or a representative lawfully acting on behalf of a class of aggrieved individuals may commence proceedings in the Tribunal in respect of a complaint received by the Commissioner, or a matter investigated under subpart 2, in any case where—",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "(a)",
+                    "content": "the Commissioner decides, under section 77(2)(a), not to investigate the complaint; or"
+                  },
+                  {
+                    "identifier": "...",
+                    "content": ""
+                  },
+                  {
+                    "identifier": "(d)",
+                    "content": "the Commissioner determines that the complaint does not have substance, or that the matter should not be proceeded with; or"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "MS DUNSTAN'S INTENDED CLAIM",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[9]",
+              "content": "For the Tribunal to have jurisdiction to accept Ms Dunstan's claim, the claim must come within one of the criteria of section 98.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 98",
+                  "context": "the claim must come within one of the criteria of section 98."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[10]",
+              "content": "Ms Dunstan says the Tribunal has jurisdiction to hear her claim against Dream Au Pairs because the Privacy Commissioner determined that the complaint did not have substance, or that the matter should not be proceeded with. If this had been the case, the Tribunal would have had jurisdiction to hear this intended claim under section 98(1)(d).",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 98(1)(d)",
+                  "context": "jurisdiction to hear this intended claim under section 98(1)(d)."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[11]",
+              "content": "The phrase “determines that the complaint does not have substance, or that the matter should not be proceeded with” in section 98(1)(d) is a reference to the determinations the Commissioner can make after completion of an investigation under sections 91² or 94.³ Proceedings before the Tribunal can only be brought under section 98(1)(d) where an investigation into a complaint has been completed.⁴",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 98(1)(d)",
+                  "context": "The phrase “determines that the complaint does not have substance, or that the matter should not be proceeded with” in section 98(1)(d)"
+                },
+                {
+                  "type": "statute",
+                  "reference": "sections 91",
+                  "context": "investigation under sections 91² or 94.³"
+                },
+                {
+                  "type": "statute",
+                  "reference": "sections 94",
+                  "context": "investigation under sections 91² or 94.³"
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 98(1)(d)",
+                  "context": "Proceedings before the Tribunal can only be brought under section 98(1)(d) where an investigation into a complaint has been completed.⁴"
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[12]",
+              "content": "Where, following the completion of an investigation, the Commissioner determines that a matter does not have substance and that the matter should not be proceeded with he must give notice to the parties of that determination.⁵ In practice, to comply with his obligation to give notice, the Commissioner issues a Certificate of Investigation to the parties, particularising the subject of his investigation.",
+              "page": 3,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "[13]",
+              "content": "Ms Dunstan has provided no evidence that any investigation was undertaken by the Commissioner in respect of her complaint about Dream Au Pairs. Furthermore, the email from the Privacy Commissioner dated 2 June 2023, which was attached to the claim form, explicitly states that the Privacy Commissioner will not be investigating the complaint. If there had been any investigation conducted by the Commissioner Ms Dunstan would have been issued with a Certificate of Investigation stating this. Ms Dunstan has not supplied any Certificate of Investigation, in respect of this complaint. There is accordingly no evidence that the Tribunal has any jurisdiction to hear this claim under section 98(1)(d).",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "section 98(1)(d)",
+                  "context": "jurisdiction to hear this claim under section 98(1)(d)."
+                }
+              ],
+              "quoted_material": {}
+            }
+          ]
+        },
+        {
+          "title": "CONCLUSION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[14]",
+              "content": "There is no evidence that the Commissioner has investigated the complaint giving rise to this intended proceeding as required under sections 98(1)(d). There is, therefore, no evidence that the intended claim filed by Ms Dunstan meets the criteria in section 98 for the Tribunal to have jurisdiction.",
+              "page": 3,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "sections 98(1)(d)",
+                  "context": "required under sections 98(1)(d)."
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 98",
+                  "context": "meets the criteria in section 98 for the Tribunal to have jurisdiction."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "[15]",
+              "content": "The Tribunal has no jurisdiction in respect of the intended claim filed by Ms Dunstan against Dream Au Pairs on 17 August 2023; therefore, the statement of claim cannot be accepted for filing by the Secretary.",
+              "page": 4,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Ms SJ Eyre",
+          "role": "Chairperson Human Rights Review Tribunal",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "This decision is to be cited as Re Dunstan (Rejection of Statement of Claim No. 3) [2024] NZHRRT 66.",
+          "page": 1
+        },
+        {
+          "number": "2",
+          "content": "Sections 91(2)(a)(ii) and 91(2)(b)(ii).",
+          "page": 3
+        },
+        {
+          "number": "3",
+          "content": "Sections 94(1)(a)(ii) and 94(1)(b)(ii).",
+          "page": 3
+        },
+        {
+          "number": "4",
+          "content": "Section 98(4) requires those proceedings to be commenced within six months after notice was given under ss 91(7) or 94(6).",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "content": "Section 91(7).",
+          "page": 3
+        }
+      ]
+    }
+  ]
+}

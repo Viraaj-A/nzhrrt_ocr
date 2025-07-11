@@ -1,0 +1,454 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 7,
+    "extraction_date": "2024-05-16"
+  },
+  "cases": [
+    {
+      "case_number": 28,
+      "case_metadata": {
+        "decision_number": "[2021] NZHRRT 28",
+        "reference_number": "015/2017, 029/2018, 041/2018, HRRT029/2018, HRRT041/2018, HRRT015/2017",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL, I TE TARAIPIUNARA MANA TANGATA",
+        "jurisdiction": "AT NAPIER",
+        "hearing_date": "2, 3, 4, 5, 6 and 10 December 2019",
+        "decision_date": "11 June 2021",
+        "case_title": "Marshall v IDEA Services Ltd (Costs)",
+        "legal_basis": "THE PRIVACY ACT 2020, THE HEALTH AND DISABILITY COMMISSIONER ACT 1994, Human Rights Act 1993",
+        "decision_type": "DECISION OF TRIBUNAL ON COSTS",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 7
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "EAMON HENNING MARSHALL",
+            "role": "Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "IDEA SERVICES LIMITED",
+            "role": "Defendant",
+            "type": "Company"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson"
+        },
+        {
+          "name": "Ms LJ Alaeinia JP",
+          "role": "Member"
+        },
+        {
+          "name": "Mr MJM Keefe QSM JP",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr GW Marshall",
+          "representing": "Plaintiff"
+        },
+        {
+          "counsel": "Ms I Reuvecamp",
+          "representing": "Defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "INTRODUCTION",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Over six days in December 2019 the Tribunal heard three proceedings brought by Eamon Marshall against IDEA Services Limited (IDEA Services). Two of the proceedings were under the Privacy Act 1993 (PA) (one of them based on the Health Information Privacy Code, 1994 (HIPC)) and the third had been brought under the Health and Disability Commissioner Act 1994 (HDCA). The three decisions delivered by the Tribunal were:\n\n• Marshall v IDEA Services Ltd (Redactions) [2019] NZHRRT 53 (5 December 2019) (the redactions decision);\n• Marshall v IDEA Services Ltd (HDC Act) [2020] NZHRRT 9 (16 March 2020) (the HDCA decision); and\n• Marshall v IDEA Services Ltd (Privacy Act) [2020] NZHRRT 13 (18 May 2020) (the HIPC decision).",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (Redactions) [2019] NZHRRT 53",
+                  "context": "List of three decisions delivered by the Tribunal."
+                },
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (HDC Act) [2020] NZHRRT 9",
+                  "context": "List of three decisions delivered by the Tribunal."
+                },
+                {
+                  "type": "case",
+                  "reference": "Marshall v IDEA Services Ltd (Privacy Act) [2020] NZHRRT 13",
+                  "context": "List of three decisions delivered by the Tribunal."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993 (PA)",
+                  "context": "Two proceedings were brought under this act."
+                },
+                {
+                  "type": "other",
+                  "reference": "Health Information Privacy Code, 1994 (HIPC)",
+                  "context": "One of the proceedings was based on this code."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Health and Disability Commissioner Act 1994 (HDCA)",
+                  "context": "The third proceeding was brought under this act."
+                }
+              ]
+            },
+            {
+              "number": "[2]",
+              "content": "Owing to Eamon's profound disabilities, all proceedings were brought and conducted by his father, Mr Glenn Marshall, who is also one of Eamon's legal guardians. Mr Glenn Marshall and his wife Franziska Marshall were originally plaintiffs in all three of the proceedings.",
+              "page": 3
+            },
+            {
+              "number": "[3]",
+              "content": "The redactions proceedings under the Privacy Act were acknowledged by Mr Marshall to have been brought to an end by the oral decision given by the Tribunal on 5 December 2019 in which it upheld the redactions made by IDEA Services to the two emails in question. Costs were reserved.",
+              "page": 3
+            },
+            {
+              "number": "[4]",
+              "content": "In the two remaining proceedings Eamon was granted declarations but his claims for damages were dismissed. Again, costs were reserved.",
+              "page": 3
+            },
+            {
+              "number": "[5]",
+              "content": "Mr Marshall does not seek recovery of his disbursements. For its part, IDEA Services does not seek indemnity costs. It seeks only a contribution towards its costs. On that basis the awards sought by IDEA Services are:\nRedactions proceedings $7,500 plus disbursements\nHIPC proceedings $7,500\nHDCA proceedings $11,250 plus disbursements",
+              "page": 3
+            },
+            {
+              "number": "[6]",
+              "content": "In this decision we explain why we have decided no award of costs is to be made to either party in any of the three proceedings.",
+              "page": 3
+            }
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[7]",
+              "content": "The factual circumstances which led to the December 2019 hearings have been set out in full in each of the three decisions given by the Tribunal and it is not intended to repeat those circumstances here.",
+              "page": 3
+            },
+            {
+              "number": "[8]",
+              "content": "It is necessary to note, however, the Tribunal has found that without justification, Mr Marshall arrived at the belief IDEA Services and its staff were involved in a cover-up. All interactions by Mr Marshall with IDEA Services were coloured by this view. It resulted in Mr Marshall making a large number of complaints about IDEA Services and its staff. The agencies complained to included the Ombudsman, the Privacy Commissioner, the",
+              "page": 3
+            },
+            {
+              "number": "[9]",
+              "content": "Yet Mr Marshall consistently refused to engage with IDEA Services regarding his complaints despite a multiplicity of apologies and requests to meet with him to address and resolve the issues in dispute. See the HDCA decision at [32].",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HDCA decision at [32]",
+                  "context": "Referenced for Mr Marshall's refusal to engage with IDEA Services."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "In that decision the Tribunal at [54] found that without exception, the apologies tendered by IDEA Services were genuine:",
+              "page": 4,
+              "quoted_material": {
+                "source": "the HDCA decision at [54]",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[54]",
+                    "content": "In the present case the apologies have, without exception, been genuine. As soon as IDEA Services and its staff became aware of the deficiencies in the processes followed by the Area Manager in compiling and finalising her investigation report, the attempts to meet with Mr and Mrs Marshall to put things right were genuinely motivated and sincere, as were the admissions made in the course of the investigation by the Health and Disability Commissioner and as were the repeated apologies."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[11]",
+              "content": "In the HDCA proceedings the Tribunal at [55] described as “unreasonable and obdurate\" the refusal by Mr Marshall to recognise there were never grounds for the claim there had been a cover-up:",
+              "page": 4,
+              "quoted_material": {
+                "source": "the HDCA proceedings the Tribunal at [55]",
+                "content": "",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[55]",
+                    "content": "In our view the reason why this matter has gone on for so long at enormous emotional and financial cost to all is because of the unreasonable and obdurate refusal of Mr Marshall in particular to recognise there were never grounds for his claims that there has been a cover-up and that IDEA Services is a corrupt organisation. At an early point he began to believe, without justification, IDEA Services was hiding something. This became the prism through which he filtered every document, every telephone call, every email and every interaction with IDEA Services. As a consequence he saw things that were not there, interpreted events in a manner that was unreasonable and without justification and his attacks against IDEA Services and its employees became relentless and highly personal. He displayed no insight into his aggressive behaviour, no sense of perspective and no understanding. Mrs Marshall may not have been as extreme as her husband but she also believes, without justification, there has been a cover-up. Her belief is largely based on a claim that she and her husband seem (in her view) always to have to ask for information before it is provided by IDEA Services. This has strengthened her belief they must be hiding something. By and large she shares her husband's mistaken interpretation of events."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[12]",
+              "content": "In the same decision Mr Marshall was described at [60] as pursuing an unabated campaign against IDEA Services, IHC New Zealand Inc and certain staff members (and contractors) by making widespread, unsubstantiated but nevertheless serious allegations about those staff members and contractors.",
+              "page": 4
+            },
+            {
+              "number": "[13]",
+              "content": "Mr Marshall's relentless attacks led him to file no fewer than six proceedings:\n\nNo. HRRT No. Act Plaintiffs Defendants Filing Date\n1 015/17 PA All Family IDEA 14 March 2017\n2 031/17 HRA Eamon IDEA & IHC 13 June 2017\n3 029/18 PA All Family IDEA 23 July 2018\n4 041/18 HDCA All Family IDEA 8 November 2018\n5 015/19 PA Eamon NZ Police 8 May 2019\n6 024/19 PA Eamon HDC 7 July 2019",
+              "page": 4
+            },
+            {
+              "number": "[14]",
+              "content": "The proceedings in HRRT31/2017, HRRT015/2019 and HRRT024/2019 were discontinued.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "The case management challenges were considerable. At least four case management teleconferences were convened and at least 15 Minutes issued. Non-party",
+              "page": 4
+            },
+            {
+              "number": "",
+              "content": "discovery was sought against the New Zealand Psychologists Board and the New Zealand Police necessitating the appearance of their counsel at a case management teleconference. Mr Marshall expressly conceded that at times leading up to this case his conduct had been “less than exemplary”.",
+              "page": 5
+            },
+            {
+              "number": "[16]",
+              "content": "There is also the point recorded in the HDCA decision at [35] that late on the night of the second day of the HDCA hearing, Mr Marshall filed a notice of partial discontinuance which substantially altered the course of the proceedings. All components of Eamon's case denied by IDEA Services were abandoned. In addition Mr Marshall absented himself from the balance of the hearing.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HDCA decision at [35]",
+                  "context": "Reference to the filing of a notice of partial discontinuance."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "There can be little doubt that in bringing multiple proceedings against IDEA Services Mr Marshall has caused IDEA Services substantial legal and administrative costs. The submissions for IDEA Services make the point that it is a charitable and not-for-profit organisation which receives funding from the Crown as well as revenue from fundraising and donations. Defending these claims has resulted in the diversion of a significant amount of time and resource over a number of years away from its core objective relating to the provision of disability services and advocacy and support for people with disabilities.",
+              "page": 5
+            },
+            {
+              "number": "[18]",
+              "content": "We have found that from the outset IDEA Services has been a responsible litigant, conceding breaches where appropriate. It has also enjoyed a measure of success:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[18.1]",
+                  "content": "In the redactions decision the Tribunal upheld the redactions made by IDEA Services to the two documents in question."
+                },
+                {
+                  "title": "[18.2]",
+                  "content": "While in the HIPC case the Tribunal found there had been no breach of HIPC 8 but a breach of HIPC 6, the breach finding regarding HIPC 6 related to two documents and file notes made over a period of just eight days. No damages were granted."
+                },
+                {
+                  "title": "[18.3]",
+                  "content": "In the HDCA proceedings, IDEA Services conceded breach of the Code of Health and Disability Services Consumers' Rights 1994 (Code), Right 4(1) and Right 4(2) and confined its submissions to remedies. It successfully resisted an award of damages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PRINCIPLES TO BE APPLIED",
+          "page_start": 5,
+          "paragraphs": [
+            {
+              "number": "[19]",
+              "content": "The principles to be applied by the Tribunal in deciding whether or not to award costs were recently reviewed in detail in Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 at [2] to [16] and no purpose would be served by repeating what is said there.",
+              "page": 5,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v Smith (Costs) [2020] NZHRRT 35 at [2] to [16]",
+                  "context": "Cited for the principles to be applied by the Tribunal in deciding on costs."
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "For the purposes of determining the present case we emphasise the following six principles:",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "[20.1]",
+                  "content": "To be consistent with the Human Rights Act 1993 (HRA), s 105, decisions on costs must be made by exercising a broad judgment based on general principles applied to specific fact situations. The jurisdiction should not be governed by complex and technical refinements or rules."
+                },
+                {
+                  "title": "[20.2]",
+                  "content": "The Tribunal has broad powers to do justice even if this means departing from the conventional rules applied to civil proceedings."
+                },
+                {
+                  "title": "[20.3]",
+                  "content": "The purpose of a costs order is not to punish an unsuccessful party. Access to the Tribunal should not be unduly deterred."
+                },
+                {
+                  "title": "[20.4]",
+                  "content": "Ordinarily, the Tribunal should not allow the prospect of an adverse award of costs to discourage a party from bringing proceedings (if a plaintiff) or from defending proceedings (if a defendant)."
+                },
+                {
+                  "title": "[20.5]",
+                  "content": "While litigants in person face special challenges and are to be allowed some latitude, they do not enjoy immunity from costs, especially where there has been needless, inexcusable conduct which has added to the difficulty and cost of the proceedings."
+                },
+                {
+                  "title": "[20.6]",
+                  "content": "It is essential the Tribunal does not use its discretion to award costs in a manner which might deter lay litigants (and for that matter, those represented by a lawyer) from the inexpensive and accessible form of justice which is the hallmark and strength of a tribunal. Simply expressed, the Tribunal must preserve meaningful access to justice."
+                }
+              ],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Human Rights Act 1993 (HRA), s 105",
+                  "context": "Cited to support the principle that decisions on costs must be made by exercising a broad judgment."
+                }
+              ]
+            },
+            {
+              "number": "[21]",
+              "content": "We address next the exercise of the discretion.",
+              "page": 6
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 6,
+          "paragraphs": [
+            {
+              "number": "[22]",
+              "content": "Of the three proceedings which did progress to a hearing, only in the case of the redactions decision did Eamon fail entirely. Those proceedings were dismissed.",
+              "page": 6
+            },
+            {
+              "number": "[23]",
+              "content": "In the HDCA and HIPC decisions Mr Marshall succeeded in obtaining for his son declarations that IDEA Services had:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[23.1]",
+                  "content": "Breached Right 4(2) of the Code."
+                },
+                {
+                  "title": "[23.2]",
+                  "content": "Breached Rule 6 of the HIPC by reason of the late delivery of a very small number of documents and thereby interfered with Eamon's privacy."
+                }
+              ]
+            },
+            {
+              "number": "[24]",
+              "content": "It is therefore appropriate to acknowledge Eamon's proceedings were, at least in part, successful.",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "However, Mr Marshall also sought on behalf of Eamon substantial damages:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[25.1]",
+                  "content": "$200,000 in the HDCA proceedings."
+                },
+                {
+                  "title": "[25.2]",
+                  "content": "$330,000 in the HIPC proceedings."
+                }
+              ]
+            },
+            {
+              "number": "[26]",
+              "content": "In its decisions the Tribunal declined to award any damages whatsoever.",
+              "page": 6
+            },
+            {
+              "number": "[27]",
+              "content": "That, however, is not the end of the matter. The Tribunal's HDCA decision on damages broke new ground by determining that in all three of its jurisdictions, the Tribunal has power to award damages for loss of dignity in cases such as the present where the plaintiff's disabilities are such he or she is incapable of being aware that a breach of his or her rights or loss of his or her dignity has occurred. This is not something for which Mr Marshall can take credit. The point was taken and developed by the Tribunal itself as part of its responsibilities under HRA, s 105.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRA, s 105",
+                  "context": "Referenced as part of the Tribunal's responsibilities in developing a point about awarding damages for loss of dignity."
+                }
+              ]
+            },
+            {
+              "number": "[28]",
+              "content": "Standing back and looking at the three cases as a whole, each party has succeeded in part. The at times irresponsible conduct about which IDEA Services complains and which underpins its application for costs is the behaviour of Mr Marshall alone. To adapt what was said by the Tribunal in its HDCA decision at [63.2], we hesitate before ordering a profoundly disabled plaintiff to pay costs by reason of the conduct of his father through whom the proceedings have necessarily been brought and conducted. In these circumstances it would not be appropriate to apply High Court Rules 2016, r 4.41 which provides that the fact that an incapacitated person is, or has been, represented by a litigation guardian must be disregarded in making an award of costs under the rules in favour of or against the incapacitated person.",
+              "page": 6,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "HDCA decision at [63.2]",
+                  "context": "Adapted what was said in this decision regarding ordering a disabled plaintiff to pay costs."
+                },
+                {
+                  "type": "regulation",
+                  "reference": "High Court Rules 2016, r 4.41",
+                  "context": "Cited as a rule that would not be appropriate to apply in these circumstances."
+                }
+              ]
+            },
+            {
+              "number": "[29]",
+              "content": "Our conclusion is that neither party should be awarded costs.",
+              "page": 7
+            },
+            {
+              "number": "[30]",
+              "content": "Mr Glen Marshall should not take comfort from this result. It does not give licence to litigate in a manner unconstrained by a duty to act responsibly.",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "title": "DECISION",
+          "page_start": 7,
+          "paragraphs": [
+            {
+              "number": "[31]",
+              "content": "All applications for costs are dismissed.",
+              "page": 7
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines ONZM QC",
+          "role": "Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms GJ Goodwin",
+          "role": "Deputy Chairperson",
+          "date": ""
+        },
+        {
+          "name": "Ms LJ Alaeinia JP",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "Mr MJM Keefe QSM JP",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": [
+        {
+          "number": "1",
+          "content": "[This decision is to be cited as: Marshall v IDEA Services Ltd (Costs) [2021] NZHRRT 28]",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1932 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "GORDON HENRY HOLMES v HOUSING NEW ZEALAND CORPORATION.pdf",
+    "total_pages": 34,
+    "extraction_date": "2024-05-23"
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "[2014] NZHRRT 54",
+        "reference_number": "HRRT 012/2012",
+        "court_tribunal": "IN THE HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "AT DUNEDIN",
+        "hearing_date": "17, 18, 19 and 20 March 2014",
+        "decision_date": "3 November 2014",
+        "case_title": "GORDON HENRY HOLMES AND HOUSING NEW ZEALAND CORPORATION",
+        "legal_basis": "THE PRIVACY ACT 1993",
+        "decision_type": "DECISION OF TRIBUNAL",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 34
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "GORDON HENRY HOLMES",
+            "role": "PLAINTIFF",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "HOUSING NEW ZEALAND CORPORATION",
+            "role": "DEFENDANT",
+            "type": "Corporation"
+          }
+        ]
+      },
+      "tribunal_members": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        },
+        {
+          "name": "Ms ST Scott",
+          "role": "Member"
+        }
+      ],
+      "appearances": [
+        {
+          "counsel": "Mr GH Holmes",
+          "representing": "in person"
+        },
+        {
+          "counsel": "Ms CP Paterson",
+          "representing": "Defendant"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Introduction",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "[1]",
+              "content": "Mr Holmes is a welfare beneficiary who has been a tenant of Housing New Zealand Corporation (HNZC) since 12 June 2000. Throughout this time he has lived in a “bedsit\" comprising a bedroom and lounge. His tenancy is in a block of three units. The grounds are communal and are maintained by HNZC. There is a communal laundry. Mr Holmes has always lived in the unit on his own.",
+              "page": 1
+            },
+            {
+              "number": "[2]",
+              "content": "From 1 December 2000 income-related rent (IRR) replaced the unsubsidised market rent regime. IRR calculations are based on income and household composition. Under IRR, HNZC tenants on low incomes pay no more than 25% of their income in rent.",
+              "page": 2
+            },
+            {
+              "number": "[3]",
+              "content": "In each year from 2000 to 2006 Mr Holmes applied for and was granted income-related rent. In support of each application he was required to submit (and did submit) an income statement for the previous 52 weeks. These statements were issued by Work and Income of the Ministry of Social Development (MSD), the agency responsible for making social welfare payments.",
+              "page": 2
+            },
+            {
+              "number": "[4]",
+              "content": "In 2006 Mr Holmes noticed that the information provided on the MSD income statements was more extensive than in previous years, going beyond a mere narrative of the income received by Mr Holmes from welfare payments. When he challenged the inclusion of the new information he was told by HNZC to cut off the portion to which he objected. This he did before submitting his application for income-related rent. His application was successful.",
+              "page": 2
+            },
+            {
+              "number": "[5]",
+              "content": "However, in the following year (2007) he was told by an officer of HNZC that the income statement from MSD was not to be cut, defaced or redacted. As Mr Holmes objected to submitting personal information which in his view went beyond the purpose for which the income statement was required by HNZC, he decided not to apply for income-related rent that year. The automatic consequence was that his rent of $42 a week was increased to a market rent of $80 per week. This happened also in 2008, 2009 and 2010.",
+              "page": 2
+            },
+            {
+              "number": "[6]",
+              "content": "In 2011 Mr Holmes decided that the financial strain was too great and that he would once again apply for income-related rent. On this occasion he managed to obtain from MSD a statement which did not contain the extraneous information which first appeared in 2006. His application was approved. As a consequence his rent halved from $108 per week to $48 per week. In processing the application, however, HNZC did not use the income statement submitted by Mr Holmes. Rather, without Mr Holmes' knowledge, HNZC obtained directly from MSD a statement which contained the additional information to which Mr Holmes had first objected in 2006.",
+              "page": 2
+            },
+            {
+              "number": "[7]",
+              "content": "In these proceedings Mr Holmes challenges the over-collection of information in relation to the years 2007 to 2010.",
+              "page": 2
+            },
+            {
+              "number": "[8]",
+              "content": "The issue in this case is whether HNZC has complied with Information Privacy Principle 1 which provides:",
+              "page": 2,
+              "quoted_material": {
+                "source": "Information Privacy Principle 1",
+                "content": "Principle 1\nPurpose of collection of personal information\nPersonal information shall not be collected by any agency unless—\n(a) the information is collected for a lawful purpose connected with a function or activity of the agency; and\n(b) the collection of the information is necessary for that purpose."
+              }
+            },
+            {
+              "number": "[9]",
+              "content": "The phrase “necessary for that purpose” means reasonably necessary. See Lehmann v Canwest Radioworks Ltd [2006] NZHRRT 35 at [50].",
+              "page": 2,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lehmann v Canwest Radioworks Ltd [2006] NZHRRT 35 at [50]",
+                  "context": "To define the phrase “necessary for that purpose” as reasonably necessary."
+                }
+              ]
+            },
+            {
+              "number": "[10]",
+              "content": "Before addressing the competing contentions advanced by the parties it is necessary to provide a brief outline of the system (as it was) for the social allocation of housing and the allocation of income-related rents.",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "title": "THE SOCIAL ALLOCATION OF HOUSING AND THE ASSESSMENT OF INCOME-RELATED RENTS",
+          "page_start": 3,
+          "paragraphs": [
+            {
+              "number": "[11]",
+              "content": "At the relevant time the social allocation of housing and the assessment of income-related rents was governed by the Housing Restructuring and Tenancy Matters Act 1992 (HRTM Act), Part 5. Both the allocation of housing and the assessment of income-related rents was the responsibility of HNZC. It should be noted, however, that the effect of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 is that Part 5 of the principal Act was repealed and replaced by new Parts 7 to 10 which (inter alia) transferred from HNZC to MSD the responsibility for assessing income-related rents.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Housing Restructuring and Tenancy Matters Act 1992 (HRTM Act), Part 5",
+                  "context": "Governed the social allocation of housing and the assessment of income-related rents at the relevant time."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013",
+                  "context": "Transferred responsibility for assessing income-related rents from HNZC to MSD."
+                }
+              ]
+            },
+            {
+              "number": "[12]",
+              "content": "That transfer of responsibility took effect on 14 April 2014. See the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 Commencement Order 2013. These changes are not material to the determination of the present case as the events in question pre-date 14 April 2014.",
+              "page": 3,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 Commencement Order 2013",
+                  "context": "To establish the effective date of the transfer of responsibility."
+                }
+              ]
+            },
+            {
+              "number": "[13]",
+              "content": "According to the HNZC Tenancy Management Instruction (T-213), eligibility for state housing is confined to those “at risk” ie households with a severe and persistent housing need that must be addressed immediately and to those with a “serious housing need”, being households with a significant and persistent need. Both categories must be assessed on the basis that the individual is unable to access or sustain any other type of housing tenure. This system for assessment is known as the Social Allocation System (SAS). In making this assessment account is taken of the following:",
+              "page": 3,
+              "subsections": [
+                {
+                  "title": "Eligibility for State Housing",
+                  "content": ""
+                },
+                {
+                  "title": "[13.1] The applicant's income, assets and expenses.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.2] Whether the applicant is a New Zealand citizen or holder of a residence visa.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.3] The composition of the household.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.4] Affordability, particularly the applicant's ability to access alternative non-state housing.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.5] The adequacy of the applicant's current accommodation and the availability of basic facilities to meet the needs of the household.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.6] The suitability needs of the applicant, that is the need to move from current accommodation due to overcrowding, lack of security of tenure and the medical or disability or personal needs of the applicant.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.7] The accessibility of alternative non-state housing taking into account discrimination, lack of cash resources for bond, rent and furniture and the availability of suitable alternative private sector housing in the area where the applicant currently lives or needs to live.",
+                  "content": ""
+                },
+                {
+                  "title": "[13.8] The applicant's ability to access and sustain alternative non-state housing. This factor takes into account issues relating to financial management difficulties, difficulties in social functioning and lack of social skills and a history of transience.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[14]",
+              "content": "It can be seen that the assessment of housing need (SAS) takes into account a broad range of factors and the supporting documentation required from the applicant is particular to this task and the verification exercise can be extensive.",
+              "page": 4
+            },
+            {
+              "number": "[15]",
+              "content": "Once state housing is allocated to an individual following a SAS assessment, a rent must be set. Under Part 5 of the HRTM Act (which came into effect in October 2000) the rent had to be either market rent or income-related rent. See s 43:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "Income-related rents",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "HRTM Act, s 43",
+                "content": "43 Income-related rent\n(1) This subsection applies to HNZ housing and a tenant if—\n(a) the tenant has applied to the company for it to calculate an income-related rent for the housing; and\n(b) the company is satisfied that—\n(i) it has had all information reasonably needed to calculate such a rent for the housing for long enough to be able to do so; and\n(ii) the information is accurate.\n(2) If subsection (1) applies to any HNZ housing and a tenant, the rent for the housing on or after the appointed day must be the income-related rent for the time being calculated for the tenant.\n(3) If subsection (1) does not apply to any HNZ housing and a tenant, the rent for the housing on or after the appointed day must be its market rent for the time being.\n(4) If satisfied that special circumstances justify its doing so, the company may, in its absolute discretion, set for and accept from a tenant of any HNZ housing a rent lower than the rent otherwise required by subsection (2) or subsection (3) to be paid for the housing by the tenant.\n(5) Subsections (2) and (4) are subject to sections 57(2) and 58A(2).\n(6) Subsections (2) to (4) are subject to section 45."
+              }
+            },
+            {
+              "number": "[16]",
+              "content": "The calculation mechanism for income-related rents was to be found in ss 46 to 53 of the Act. Essentially it was a calculation based on household income (if any) or benefit levels (if any). The mandated inquiry was both narrow and focussed on the statutory calculation mechanism in contrast to the broad and wide-ranging inquiry prescribed by departmental policy for assessing housing need (the SAS assessment).",
+              "page": 4,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "ss 46 to 53 of the Act",
+                  "context": "Contained the calculation mechanism for income-related rents."
+                }
+              ]
+            },
+            {
+              "number": "[17]",
+              "content": "In addition to the statutory provisions applying to the assessment of income-related rents, HNZC applied a set of “guidelines” known as the Guidelines for Income Related Rent setting (T-214). The earlier version known as T-113 is not materially different for present purposes. These guidelines provided assistance in relation to:",
+              "page": 4,
+              "subsections": [
+                {
+                  "title": "[17.1] Determining what was “income” for IRR purposes.",
+                  "content": ""
+                },
+                {
+                  "title": "[17.2] Determining the household type for IRR purposes.",
+                  "content": ""
+                },
+                {
+                  "title": "[17.3] Obtaining relevant and appropriate verification documents from applicable persons.",
+                  "content": ""
+                },
+                {
+                  "title": "[17.4] Assessing income.",
+                  "content": ""
+                },
+                {
+                  "title": "[17.5] The treatment of allowances.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[18]",
+              "content": "The degree of overlap between the SAS and IRR assessments is minimal. Specifically the IRR assessment does not involve a revisiting of the question whether the applicant should be allocated state accommodation under the SAS system.",
+              "page": 4
+            },
+            {
+              "number": "[19]",
+              "content": "Given the narrow SAS criteria it is unsurprising that many tenants of HNZC are beneficiaries or persons who receive a substantial portion of their income from MSD. Establishing their income for IRR purposes turns largely, if not exclusively, on obtaining an income statement from MSD. Thus HNZC procedures require an applicant (who is also a beneficiary) for IRR to produce an “income statement” issued by MSD relating to the last pay period as well as the last 52 weeks.",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "Beneficiaries and income-related rents",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[20]",
+              "content": "Housing New Zealand Corporation and MSD have collaborated closely over the content of the MSD income statement.",
+              "page": 5
+            },
+            {
+              "number": "[21]",
+              "content": "Once SAS and IRR were introduced in 2000, applicants for SAS were required to establish social welfare payments by producing an income statement from MSD, as were existing HNZC tenants seeking an IRR.",
+              "page": 5,
+              "subsections": [
+                {
+                  "title": "HNZC and MSD – their agreement on the content of the MSD income statement",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[22]",
+              "content": "From December 2000 this 52 week income statement was generated manually by MSD and a paper copy sent to the applicant for SAS or to the tenant seeking an IRR. The tenant would then deliver the document to HNZC. Initially the SAS applicant or IRR tenant could request the statement directly from MSD or alternatively, HNZC staff could contact MSD by telephone to request the statement on behalf of the applicant/tenant. The statement would then be sent to the applicant or tenant, not to HNZC.",
+              "page": 5
+            },
+            {
+              "number": "[23]",
+              "content": "From July 2003 a change was introduced whereby MSD began to send income statements directly to HNZC through an electronic interface. HNZC staff still had to request the statements over the telephone provided they held a Privacy Statement declaration on the signed IRR application form authorising the request.",
+              "page": 5
+            },
+            {
+              "number": "[24]",
+              "content": "In the period 2003 to 2005 HNZC and MSD entered into discussion to make the process of applying for a state house easier and faster for applicants. At the same time HNZC saw an opportunity to obtain from MSD confirmation of a broader range of information held by MSD relevant to SAS assessments but which was not then being added to the income statements. The outcome of these discussions was that MSD agreed to provide eight further fields of information on the income statements. In June 2004 HNZC and MSD signed an agreement that this “enhanced” information would be provided through the electronic transfer of income statements. See the email dated 24 June 2004 from Mr Liam Greer, Business Manager, National Office HNZC to Regional Managers:",
+              "page": 5,
+              "quoted_material": {
+                "source": "Email from Mr Liam Greer, 24 June 2004",
+                "content": "I'm please to announce that HNZC has signed an agreement with MSD (WINZ) to enhance the information we currently receive through the electronic transfer of Income Statements.\n\nThe enhanced statement will have:\n\n• Residency - country of birth and immigration status\n• Names and DOB for children included in the benefit for whom Family Support is paid\n• Other income if present including amount per week and source (includes savings/ investments)\n• Amount of board/rent used to calculate Accommodation Supplement entitlement\n• All extra weekly amounts for special or disability benefits, not currently included in the IRR statements\n• Amount of advance entitlements available to the customer as at the date of request\n• All amounts of Department of Courts assignments being deducted from benefit including who it is being paid to\n• Work and Income Case Managers name"
+              }
+            },
+            {
+              "number": "",
+              "content": "This is a significant All of Government initiative fully supported by both CE's. It will help break down a number of barriers around applicants/tenants having to provide evidence to HNZC already provided to WINZ.\n\nThe enhanced income statement is due for release January 2005. This was the quickest date we could negotiate with WINZ due mainly to the large strain the Future Directions work is expected to have on their IT resource.\n\nHNZC and WINZ agreed that requesting any information over and above what's currently supplied will not occur until the enhancements are delivered in January '05.\n\n[Tab 9]",
+              "page": 6
+            },
+            {
+              "number": "[25]",
+              "content": "In a subsequent email dated 20 January 2005 Mr Garry Williams, HNZC Business Adviser, National Office notified “Housing Services\" that the additional information would be provided by MSD from 1 February 2005. Both applicants and HNZC could request the income statements. The premise was that because the applicant signed the Privacy Statement declaration on the IRR application form, HNZC had authority to make the request and “[o]ur agreement with Work and Income is based on a trust that we have permission from our customers to request information pertaining to them”. It was further assumed that the client could withhold consent to any one of the eight additional items:",
+              "page": 6,
+              "quoted_material": {
+                "source": "Email from Mr Garry Williams, 20 January 2005",
+                "content": "From Tuesday 01 February 2005 Work and Income will provide additional information on the 52-week income statement provided for their clients. HNZC staff, or its customers, can still call Work and Income on 0800 559 009 to request income statements. Work and Income are keen to use their contact centre for all requests and there should be no impact on call handling times for them.\n\nThe additional information that Work and Income will provide on the 52-week income statement includes:\n\n• Residency - country of birth (and immigration status where held). This means that for SAS purposes a Work and Income statement is acceptable as proof of residency for applicants who are New Zealand citizens from 01 February 2005.\n• Names and Dates of Birth for children – or dependants included in the benefit for whom Family Support is paid\n• Other income in the current period including amount per week and source (includes savings/investments) if present\n• Amount of board/rent the $ amount that Work and Income uses to calculate a clients Accommodation Supplement entitlement\n• Extra regular weekly amounts - includes special or disability benefits not already included in the IRR statement\n• Advance entitlement available to client - how much a Work and Income client could access at date of request\n• Department of Courts assignment deductions – all amounts deducted from the benefit\n• Work and Income Case Manager - the name of the client's Case Manager\n\nHNZC's privacy statements and a customer signature on the declaration allow us to request this information from Work and Income. Our agreement with Work and Income is based on a trust that we have permission from our customers to request information pertaining to them. Periodically, Work and Income may request a copy of any application form to ensure that we have obtained customer consent.\n\nTherefore, all this new information will be included in the statement unless HNZC inform Work and Income otherwise e.g. the client has withheld consent for any one of the eight additional items because it is not relevant to their circumstances.\n\nIn circumstances where information is not relevant, and therefore not required, please tell the contact centre staff member at the time you make the statement request."
+              }
+            },
+            {
+              "number": "[Tab 10]",
+              "content": "",
+              "page": 6
+            },
+            {
+              "number": "[26]",
+              "content": "For present purposes the premise was in two parts:",
+              "page": 6,
+              "subsections": [
+                {
+                  "title": "[26.1] First, that signature of the declaration authorised disclosure of the additional information to HNZC; and",
+                  "content": ""
+                },
+                {
+                  "title": "[26.2] Second, that the tenant could withhold consent.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "The premise, however, required an amendment to the HNZC form and to HNZC's own processes. Neither happened. Most importantly applicants for income-related rent were not told they could withhold consent to the provision of the eight additional fields of information.",
+              "page": 7
+            },
+            {
+              "number": "[27]",
+              "content": "According to the evidence of Ms JA Van der Merwe, Principal Advisor, Tenancy Services Business Improvement, HNZC, the Corporation considered that the additional information it was seeking from MSD was relevant irrespective whether the application was for SAS or IRR and that by signing the Privacy Statement on the application form the SAS applicant/IRR tenant had given consent. However, HNZC was aware that adopting a blanket policy and including all the other information fields on all income statements would not be a suitable approach. At that stage one option discussed was the possibility, ultimately adopted, that if the application was only for IRR as opposed to SAS, then only the income details would be included, and not the additional eight fields of information (sometimes referred to as nine fields). Housing New Zealand was aware of its Privacy Act obligations and was concerned to take steps to ensure that it did not overstep them.",
+              "page": 7
+            },
+            {
+              "number": "[28]",
+              "content": "Ms Van der Merwe went on to say that in discussions with MSD as to how income statements could be produced, two possibilities were considered. First, that all of the additional information would be included automatically and second, that the additional information would have to be selected by the person requesting the information. The option ultimately chosen was the first:",
+              "page": 7,
+              "quoted_material": {
+                "source": "Evidence of Ms Van der Merwe",
+                "content": "65 In fact the option that was ultimately chosen was a \"de-selection\" option. That is, the additional information was automatically selected for inclusion in the income statement, but a manual change could be made to reduce the information to be included in the income statement when it was produced. The default was to provide all the information in the income statement."
+              }
+            },
+            {
+              "number": "[29]",
+              "content": "The difficulty is that no provision was made for tenants seeking an IRR assessment to be made aware of the “enhanced” provision of eight additional fields of information or of their right to identify what, if any, of that additional information was to be “de-selected\".",
+              "page": 7
+            },
+            {
+              "number": "[30]",
+              "content": "Ms Van der Merwe further deposed that from 2008 the HNZC computer system allowed the Corporation to send electronic requests to MSD for income statements. HNZC staff were able to input information into their request to ensure that the correct type of statement was prepared by MSD and that it was sent to the appropriate place. That is, the HNZC officer making the request selected whether the income statement requested was for a SAS application or for an IRR application. A “customer flag\" field in the system allowed the income statement to be sent to HNZC directly “because the customer [had] signed the Privacy Statement Declaration and the application [had] been received\". If the IRR application was received without a signed Privacy Statement Declaration then the customer flag was set to “No”, and the income statement had to be sent to the customer and not HNZC.",
+              "page": 7
+            },
+            {
+              "number": "[31]",
+              "content": "Section 43 of the HRTM Act stipulates that if income-related rent is wanted by a tenant, it must be applied for. To that end HNZC used a standard form Income-Related",
+              "page": 7,
+              "subsections": [
+                {
+                  "title": "The disconnect between the HNZC–MSD agreement and the IRR application form",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "Rent Application (T-367). Three such forms were produced in evidence, one signed by Mr Holmes on 2 June 2006 (T-367/Issue4), one blank specimen form (T-367/Issue6) and one signed by Mr Holmes on 4 March 2011 (the issue version is indecipherable). Although there are slight changes to the wording of the relevant provisions, the changes are not material for present purposes.",
+              "page": 8
+            },
+            {
+              "number": "[32]",
+              "content": "The first page of the form alerted the applicant to the need to disclose all income and cautioned that income statements from every source had to be provided as proof. If payments were received from Work and Income, HNZC could request an income statement for the applicant or the applicant could telephone Work and Income on an 0800 number and ask to have “it” sent to the applicant. The income statement was then to be attached to the application form:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Application Form",
+                "content": "How do I find out about my income?\n\nIf you receive payments from Work and Income we can get these for you or you can phone Work and Income on 0800 559 009 and ask to have it sent to you. When you receive the information, attach it to this application form."
+              }
+            },
+            {
+              "number": "[Tab 13]",
+              "content": "",
+              "page": 8
+            },
+            {
+              "number": "[33]",
+              "content": "The message was reinforced by a single page insert which had the heading How To Apply For An Income Related Rent:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Insert: How To Apply For An Income Related Rent",
+                "content": "1. Complete the enclosed form and don't forget to sign at the back of the income-related rent book.\n2. Attach proof of income to step 3.\n• If you receive any income from Work and Income, phone 0800 559 009 to request a 52 week income statement to be sent out\n3. When you have all the information, please return everything enclosed in the HNZC return address Freepost envelope provided."
+              }
+            },
+            {
+              "number": "[Exhibit 1]",
+              "content": "",
+              "page": 8
+            },
+            {
+              "number": "[34]",
+              "content": "On the page headed \"Income Details\" the applicant was instructed to “attach” Work and Income income statements “here” and there was a picture of a pin in the right hand corner of the page. A note further stated:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Application Form, Income Details page",
+                "content": "If you receive payments from Work and Income you should request an Income Statement from them by phoning 0800 559 009."
+              }
+            },
+            {
+              "number": "[35]",
+              "content": "In addition the front cover page of the application form had a check list which, inter alia, asked:",
+              "page": 8,
+              "quoted_material": {
+                "source": "Application Form, Front Cover Check List",
+                "content": "Have you attached all proof of income statements for salaries and wages, Work and Income, self-employment and accident compensation?"
+              }
+            },
+            {
+              "number": "[36]",
+              "content": "Nowhere in the documentation was the applicant for an IRR statement alerted to the fact that when an income statement was requested the longer SAS form would be provided by MSD. Nor was the IRR applicant told that he or she had the ability to “de-select\" the additional fields introduced following the June 2004 agreement between HNZC and MSD by authorising only the provision of the shorter IRR statement.",
+              "page": 8
+            },
+            {
+              "number": "[37]",
+              "content": "The form also had a Privacy Statement. The blank T-367/Issue6 form produced in evidence by HNZC relevantly provided:",
+              "page": 8
+            },
+            {
+              "number": "",
+              "content": "Privacy Statement\nPlease contact your tenancy manager if you require a copy of this Privacy Statement in Maori, Samoan, Tongan or Chinese.\nWhat happens to the information I give to HNZC?\nThe information that you give is being collected by Housing New Zealand Corporation (HNZC) under the Housing Restructuring and Tenancy Matters Act 1992, and is held at your local HNZC Neighbourhood Unit.\nWhat will my information be used for?\nHNZC will use the information you give to:\n• work out the rent you need to pay\n• set up and administer your tenancy agreement with HNZC\n• keep you informed about other HNZC services, information and opportunities.\nDo I have to answer all of the questions in this form?\nNo. However, if you don't provide all of the information asked for, then HNZC may not be able to work out an income related rent for you, and you may have to pay a market rent.\nWill HNZC give my information to anyone else, and why?\nBefore HNZC can work out your income-related rent, it must first check that the information you have given is correct.\nBy signing the declaration over the page you agree that HNZC can give information about you to the person/agencies listed below, and those persons/agencies can give information about you to HNZC, but only so that HNZC can check that the information you have given is correct:\n• Work and Income\n• the Inland Revenue Department\n• the Accident Compensation Corporation\n• your employer, or any other person or organisation from which you receive income.\nWhile you are a HNZC tenant, HNZC will give information about you, your partner and any dependent children to the Ministry of Social Development. The Ministry will use the information to help identify people whose entitlement to Ministry of Social Development products or services may need reassessment.\nHNZC may also release your information to any other person or organisation if permitted by law.\nCan I ask to see the information held about me?\nYes. You can also ask HNZC to correct any information about you.",
+              "page": 9
+            },
+            {
+              "number": "[38]",
+              "content": "Two important points are to be noted:",
+              "page": 9,
+              "subsections": [
+                {
+                  "title": "[38.1] The Privacy Statement was about the use to which HNZC could put the information provided by the applicant (essentially, to work out the rent).",
+                  "content": ""
+                },
+                {
+                  "title": "[38.2] It advised the applicant that the information could be given to named third party agencies (including Work and Income) and that those agencies could give information about the applicant to HNZC “but only so that HNZC can check that the information you have given is correct”.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[39]",
+              "content": "The Privacy Statement did not give general authority to HNZC to obtain information from Work and Income or other third parties. Information could be given to HNZC by the third party agencies only for the purpose of checking that the information given by the applicant was correct ie for the purpose of verification.",
+              "page": 9
+            },
+            {
+              "number": "[40]",
+              "content": "Similarly the Declaration required to be signed by the applicant at the back of the form did not authorise the general obtaining of information from Work and Income or",
+              "page": 9
+            },
+            {
+              "number": "",
+              "content": "other third parties. The declarant authorised only the use, giving or receiving of information \"in accordance with the Privacy Statement\". In other words the Privacy Statement governed the use of information and the giving and receiving of information:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Application Form, Page 17",
+                "content": "Declaration (to be signed by all tenants and their partners)\n\nI have answered all of the questions asked by HNZC that need to be answered, or the questions have been answered for me, and all the information I have given is true and complete. I have read the Privacy Statement on the previous page. I understand that by signing this form I give permission for information about me to be used, given and received in accordance with the Privacy Statement."
+              }
+            },
+            {
+              "number": "[41]",
+              "content": "While the HRTM Act, Part 6 made provision for HNZC to give information to Work and Income by way of data matching, there was no equivalent provision in the Social Security Act 1964 that allowed Work and Income to share information with HNZC in the same way.",
+              "page": 10,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "HRTM Act, Part 6",
+                  "context": "Made provision for HNZC to give information to Work and Income by way of data matching."
+                },
+                {
+                  "type": "statute",
+                  "reference": "Social Security Act 1964",
+                  "context": "Contained no equivalent provision for Work and Income to share information with HNZC."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THE CIRCUMSTANCES OF MR HOLMES' CASE",
+          "page_start": 10,
+          "paragraphs": [
+            {
+              "number": "[42]",
+              "content": "As mentioned, Mr Holmes is a welfare beneficiary who has been a tenant of HNZC since June 2000. In each year up to 2006 he applied for and was granted IRR. In support of each application he submitted an income statement from MSD. These statements contained no \"extraneous\" information about Mr Holmes.",
+              "page": 10
+            },
+            {
+              "number": "[43]",
+              "content": "When in 2006 Mr Holmes was sent the T-367 Income-Related Rent Application form by HNZC he obtained from MSD an income statement. He noticed, however, that the information on the 2006 statement was more extensive than before and asked HNZC for an explanation of the change in policy. By letter dated 25 May 2006 he was told by Catherine Smith, Housing Manager, that it had not been possible to find any change in policy and that Mr Holmes could delete or remove the information:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Letter from Catherine Smith, Housing Manager, 25 May 2006",
+                "content": "We have been [un]able to find any policy that was changed in January 2005 that deals with income related rent application income statement details. It is our understanding however that you can ask for additional information to be excluded. If this isn't correct and the income statement you are given contains information that you do not wish others to see then we suggest that you either delete this information yourself by blacking it out or by cutting it off.\n\nThe minimum information that Housing New Zealand Corporation requires to process an income-related rent application is the portion which details your income."
+              }
+            },
+            {
+              "number": "[44]",
+              "content": "Mr Holmes pressed his request for the policy changes and by letter dated 31 May 2006 was provided with a copy of a document Memo: Changes to Income Related Rent Statements on MSD letterhead dated 22 January 2005 (Exhibit 2). This memo outlined the eight or nine new fields to be added to income statements provided by MSD. It stated that at the time the IRR income statement was requested, HNZC would advise MSD which of the nine new items the client had not given permission for HNZC to receive:",
+              "page": 10,
+              "quoted_material": {
+                "source": "Memo: Changes to Income Related Rent Statements, 22 January 2005",
+                "content": "Process when receiving a request from HNZC\n\nWhen HNZC requests an IRR Statement they will advise the case manager or contact centre representative which of the nine new items the client has not given permission for HNZC to receive information on. [Emphasis added]"
+              }
+            },
+            {
+              "number": "",
+              "content": "The new SREQA fields in SWIFTT have been set to default as \"Y\", to display the information available and the case manager or contact centre representative will only need to enter the HNZC Tenant Reference Number.\n\nIf instructed by HNZC that they do not have permission to receive this information \"N\" can be entered into any of the new fields and the information will not be displayed on the statement sent to the client or on the statement sent to HNZC.\n\nThis process has been agreed to between the Ministry and HNZC in accordance with the Privacy Act 1993.",
+              "page": 11
+            },
+            {
+              "number": "[45]",
+              "content": "Mr Holmes had not been asked to permit the new fields of information to be added to the IRR income statement provided by MSD and accordingly cut off the lower half of the form on which the information appeared. The IRR application was then submitted and approved. Nevertheless Mr Holmes lodged a complaint with the Privacy Commissioner that information was being collected unnecessarily.",
+              "page": 11
+            },
+            {
+              "number": "[46]",
+              "content": "In the following year (2007) the process repeated itself. When he again spoke to Catherine Smith he was told not to cut or deface the document. By this time the complaint by Mr Holmes to the Privacy Commissioner had not been upheld. The Commissioner, by letter dated 16 January 2007, told Mr Holmes she considered the changes complied with the provisions of the Privacy Act. Faced with these circumstances Mr Holmes elected not to submit the IRR application and by default was automatically required to pay market rent. For the same reasons no IRR application was submitted in 2008, 2009 and 2010. In each of these years Mr Holmes continued to pay market rent.",
+              "page": 11
+            },
+            {
+              "number": "[47]",
+              "content": "In 2011, in the aftermath of the disruption caused by the Christchurch earthquake, Mr Holmes obtained from MSD an income statement which was not in usual form and did not have any of the new fields of information. Being in need of financial relief he in March 2011 submitted an IRR application to HNZC. Unbeknown to him HNZC, being dissatisfied with the \"earthquake” statement, approached MSD directly and obtained a full SAS statement containing the very information Mr Holmes had taken objection to. The application for IRR rent was approved.",
+              "page": 11
+            },
+            {
+              "number": "[48]",
+              "content": "In 2014 the MSD once again provided Mr Holmes with a SAS income statement in response to his request for an IRR statement.",
+              "page": 11
+            },
+            {
+              "number": "[49]",
+              "content": "Mr Holmes submits that HNZC collected more information than necessary for the purpose of determining IRR applications. Reduced to its simplest terms, his case is that information collected and used for allocating state housing should not have been provided for the determination of income-related rent payable by those already in state-provided accommodation. To ensure that his personal information was not collected and used unlawfully he withheld that information and consequently paid market rent for the four years 2007 to 2010 and suffered financial hardship. It was that hardship which eventually led to the application for an IRR assessment in 2011.",
+              "page": 11
+            },
+            {
+              "number": "[50]",
+              "content": "It is not intended to recite at length the submissions for HNZC. The main points are summarised:",
+              "page": 11,
+              "subsections": [
+                {
+                  "title": "The case for HNZC",
+                  "content": ""
+                },
+                {
+                  "title": "[50.1] No personal information about Mr Holmes of the kind required for a SAS assessment was ever collected because in 2006 he cut off the extraneous information from the MSD income statement before submitting it to HNZC. In 2007, 2008, 2009 and 2010 Mr Holmes made no application for income-related",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "rent. When an IRR application was submitted in 2011 and in 2012, the request from HNZC to MSD was for IRR statements and HNZC is not responsible for the fact that the MSD erroneously provided statements in SAS form. The extraneous information was unsolicited and therefore outside the definition of \"collect\" in s 2(1) of the Act.",
+              "page": 12
+            },
+            {
+              "number": "[50.2]",
+              "content": "No interference with the privacy of Mr Holmes has been established and no remedy can be granted. In the alternative, Mr Holmes knew he could delete offending information in the event of a SAS income statement being provided instead of an IRR statement. He cannot establish that the reason he was not granted an IRR in the relevant years was because of the content of the income statement.",
+              "page": 12
+            },
+            {
+              "number": "[50.3]",
+              "content": "HNZC was never responsible for generating and disclosing income statements. This was the responsibility of MSD.",
+              "page": 12
+            },
+            {
+              "number": "[50.4]",
+              "content": "In those cases where the tenant personally obtained the income statement from MSD and in turn provided it to HNZC, the personal information was being provided by MSD to the person to whom the information related and therefore there was no breach of privacy rights by HNZC.",
+              "page": 12
+            },
+            {
+              "number": "[50.5]",
+              "content": "Any personal information obtained by HNZC from MSD (as when the income statement was requested by HNZC and sent directly to HNZC), there was no interference with privacy as the disclosure by MSD to HNZC was authorised by the tenant via the Privacy Statement in the IRR application form.",
+              "page": 12
+            },
+            {
+              "number": "[50.6]",
+              "content": "HNZC considered that all eight (or nine) of the additional fields that were to be added to the IRR income statement could potentially be relevant to the income-related rent assessment (some more likely than others, but all potentially). HNZC also considered that the privacy statement therefore gave consent to HNZC to obtain this information from MSD directly after receiving the IRR application.",
+              "page": 12
+            },
+            {
+              "number": "[51]",
+              "content": "The competing contentions are addressed but not necessarily in the order listed.",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "page_start": 12,
+          "paragraphs": [
+            {
+              "number": "[52]",
+              "content": "Few of the essential facts were in dispute between the witnesses and we accept Mr Holmes, Ms Van der Merwe and Ms Milton as credible and reliable witnesses. Mr Holmes' credibility was, however, challenged in relation to his dealings with HNZC officers. The most significant issue was whether in 2007 he was told by Catherine Smith, Housing Manager of the Dunedin HNZC, that he was not to alter or deface any income statement received from MSD.",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "Credibility assessment",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[53]",
+              "content": "In this regard we are satisfied that Mr Holmes is an honest and conscientious witness. He may at times be difficult to deal with (as are many) and he is undoubtedly plain-spoken. But he is invariably truthful. We accordingly accept his account of his dealings with HNZC, particularly with Ms Smith. In making this finding we have taken into account the following additional factors:",
+              "page": 12,
+              "subsections": [
+                {
+                  "title": "[53.1] Ms Smith was not called to give evidence to contradict the account given by Mr Holmes.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[53.2]",
+              "content": "HNZC relied on its record of dealings with Mr Holmes known as “Tenant Comments Reports\". HNZC points out that this document contains no record of Mr Holmes speaking to Ms Smith in the terms deposed to by Mr Holmes. But as to this, the Report is plainly an incomplete record. Specifically, it does not show interactions with Mr Holmes which undoubtedly occurred in relation to his income-related rent matters. See specifically:",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "[53.2.1] On 2 June 2006 Mr Holmes hand delivered his IRR application to HNZC together with a letter dated 2 June 2006 addressed to Ms Smith drawing attention to his objection to providing personal information beyond his income details and making specific mention of removing personal information from the MSD income statement. This letter has been date stamped as received by HNZC on 2 June 2006. But the Tenant Comments Reports have no record of the visit by Mr Holmes to HNZC or of the filing of the IRR application or of the accompanying letter.",
+                  "content": ""
+                },
+                {
+                  "title": "[53.2.2] On 9 March 2011 Mr Holmes delivered to HNZC the “earthquake\" income statement with which he had been provided by MSD. The statement was date stamped by HNZC on 01 March 2011. This interaction is not recorded.",
+                  "content": ""
+                },
+                {
+                  "title": "[53.2.3] While the Tenant Comments Report does record that on 2 March 2011 Ms Catherine Champion received a letter from Mr Holmes indicating he may wish to apply for IRR causing Ms Champion to send an IRR application form to Mr Holmes, there is no record of the fact that the application was delivered by Mr Holmes on 8 March 2011.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[54]",
+              "content": "The HNZC record being incomplete in material respects we do not draw any inference adverse to Mr Holmes from the absence from the record of a note confirming that he was told in 2007 not to alter any income statement received from MSD. For the reasons given, the account given by Mr Holmes is accepted.",
+              "page": 13
+            },
+            {
+              "number": "[55]",
+              "content": "Before addressing the competing submissions of the parties it is necessary to first determine the meaning of the term “collect” in the Privacy Act.",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "title": "THE MEANING OF \"COLLECT\"",
+          "page_start": 13,
+          "paragraphs": [
+            {
+              "number": "[56]",
+              "content": "The central submission by HNZC is that Information Privacy Principle 1 was not engaged because no personal information about Mr Holmes was “collected” in the years 2007, 2008, 2009 and 2010. In these four years Mr Holmes did not apply for IRR and therefore no income statements were received. It is irrelevant that IRR applications were received in the period 2000 to 2006 and again in 2011 and that throughout the ten or eleven year period HNZC continued to collect personal information about Mr Holmes as a tenant of HNZC.",
+              "page": 13,
+              "subsections": [
+                {
+                  "title": "The submission for HNZC",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[57]",
+              "content": "On this submission information must be received before it can be said to be \"collected\". Information not received is not collected. It is also a submission which assumes that the exclusive focus is on whether information was “collected\" from Mr Holmes himself. It is irrelevant that HNZC set up and operated a system which, in the period 2000 to 2014 systematically collected information from state housing tenants who submitted IRR applications.",
+              "page": 13
+            },
+            {
+              "number": "[58]",
+              "content": "For the reasons which follow our conclusion on the first point is that the term \"collect\" cannot be read down to mean, in effect, \"receive\". Principle 1 does not use the term \"receive\". It has as its stated subject matter the purpose for which personal information is collected and it is in that context that the word \"collect\" is used. This word embraces a wider field of activity than mere “receipt”. Specifically it is not a term which is engaged only when information is received.",
+              "page": 14
+            },
+            {
+              "number": "[59]",
+              "content": "As to the second point, our conclusion is that a state organisation (HNZC) which for a sustained period of years collected personal information from all who applied for income-related rent operated a system for the collection of personal information and accordingly “collected” personal information. It is not necessary for the individual who complains of non-compliance with Principle 1 to show that in any particular year he or she handed over personal information to HNZC. It is sufficient to show that the individual has been asked to or encouraged to submit the information.",
+              "page": 14
+            },
+            {
+              "number": "[60]",
+              "content": "We do not, on the facts, need to consider whether the “collection” principles apply to attempts to collect information.",
+              "page": 14
+            },
+            {
+              "number": "[61]",
+              "content": "\"Collect\" is defined by s 2(1) of the Act in negative terms only. That is, the definition identifies only that which is not included in “collect”. The meaning of the verb is otherwise left open:",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Defining \"collect\"",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act, s 2(1)",
+                "content": "collect does not include receipt of unsolicited information"
+              }
+            },
+            {
+              "number": "[62]",
+              "content": "Receipt of solicited information is clearly included in the definition. “Solicit” in this context means to ask for, to seek after, to try to find, obtain or acquire. See the Oxford English Dictionary Online (Oxford University Press, June 2014).",
+              "page": 14
+            },
+            {
+              "number": "[63]",
+              "content": "Being otherwise undefined, the meaning of “collect” must be ascertained from the text of the Privacy Act and from its purpose. See Interpretation Act 1999, s 5. Text and purpose are the key dual drivers of the statutory interpretation process. The meaning of the text must be cross-checked against purpose. See Commerce Commission v Fonterra Co-Operative Group Ltd [2007] NZSC 36, [2007] 3 NZLR 767 at [22]:",
+              "page": 14,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Interpretation Act 1999, s 5",
+                  "context": "Cited for the principle that the meaning of an enactment must be ascertained from its text and in light of its purpose."
+                },
+                {
+                  "type": "case",
+                  "reference": "Commerce Commission v Fonterra Co-Operative Group Ltd [2007] NZSC 36, [2007] 3 NZLR 767 at [22]",
+                  "context": "Cited for the principle that text and purpose are the key dual drivers of statutory interpretation."
+                }
+              ],
+              "quoted_material": {
+                "source": "Commerce Commission v Fonterra Co-Operative Group Ltd [2007] NZSC 36, [2007] 3 NZLR 767 at [22]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[22]",
+                    "content": "It is necessary to bear in mind that s 5 of the Interpretation Act 1999 makes text and purpose the key drivers of statutory interpretation. The meaning of an enactment must be ascertained from its text and in the light of its purpose. Even if the meaning of the text may appear plain in isolation of purpose, that meaning should always be cross-checked against purpose in order to observe the dual requirements of s 5. In determining purpose the Court must obviously have regard to both the immediate and the general legislative context. Of relevance too may be the social, commercial or other objective of the enactment. [footnote citations omitted]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "",
+              "content": "We address first the text of the Privacy Act and then the question of purpose.",
+              "page": 14
+            },
+            {
+              "number": "[64]",
+              "content": "The ordinary meaning of the verb “collect” is not confined to “receipt”. To the contrary, the most common meaning is “to gather together”. See the Oxford English Dictionary Online (Oxford University Press, June 2014):\n1.",
+              "page": 14,
+              "subsections": [
+                {
+                  "title": "Interpretation: text",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "a. trans. To gather together into one place or group; to gather, get together.\nb. To gather (contributions of money, or money due, as taxes, etc.) from a number of people. absol., to gather money for a charitable purpose or the like, to make a (pecuniary) collection; also colloq., to receive money, to get paid.\nc. esp. To gather or make a collection of (scientific specimens, rare books, curiosities, etc.); hence loosely or humorously with a single thing as object. Also absol.\n2. intr. (for refl.) To gather together, assemble, accumulate.",
+              "page": 15
+            },
+            {
+              "number": "[65]",
+              "content": "Other meanings include \"to bring” together (a number of things) and to \"systematically seek and acquire”.",
+              "page": 15
+            },
+            {
+              "number": "[66]",
+              "content": "As noted in the New Zealand Law Commission Issues Paper Review of the Privacy Act 1993: Review of the Law of Privacy Stage 4 (NZLC IP17, March 2010) at [3.94], dictionary definitions suggest that collection involves making an effort to acquire something. To collect something is to acquire it or bring specimens of it together systematically or purposefully:",
+              "page": 15,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "New Zealand Law Commission Issues Paper Review of the Privacy Act 1993: Review of the Law of Privacy Stage 4 (NZLC IP17, March 2010) at [3.94]",
+                  "context": "To provide dictionary definitions of 'collect'."
+                }
+              ],
+              "quoted_material": {
+                "source": "New Zealand Law Commission Issues Paper",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "3.94",
+                    "content": "Considering the meanings of \"collect\", \"solicit\" and \"unsolicited\" in ordinary usage is of some assistance. Dictionary definitions of \"collect\" include \"bring or come together; assemble, accumulate”; “systematically seek and acquire (books, stamps, etc.), esp. as a continuing hobby\"; \"obtain (taxes, contributions, etc.) from a number of people\"; \"call for; fetch; obtain or gather (went to collect the laundry)\"; and \"infer, gather, conclude\". These definitions tend to suggest that collection involves making some effort to acquire something, and especially that to collect something is to acquire it or bring specimens of it together systematically or purposefully. [footnotes citations omitted]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "",
+              "content": "The subsequent Law Commission Report Review of the Privacy Act 1993: Review of the Law of Privacy: Stage 4 (NZLC R123, June 2011) at [2.82] summarised its position as follows:",
+              "page": 15,
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "Law Commission Report Review of the Privacy Act 1993: Review of the Law of Privacy: Stage 4 (NZLC R123, June 2011) at [2.82]",
+                  "context": "Summarising the Law Commission's position on the meaning of 'collect'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Law Commission Report",
+                "content": "We considered that the natural and ordinary meaning of \"collect\" would be sufficient to cover the types of activity that are intended to be covered by the collection principles, while excluding situations in which an agency has taken no steps to acquire the information in question."
+              }
+            },
+            {
+              "number": "[67]",
+              "content": "Our conclusion is that while the ordinary meaning of “collect” includes “receipt”, it is not limited to \"receipt\". \"Collect” is a broad term of wide application and includes to gather together, to seek and to acquire.",
+              "page": 15
+            },
+            {
+              "number": "[68]",
+              "content": "To read \"collect” as “receive” would mean that Principle 1 would provide:",
+              "page": 15,
+              "quoted_material": {
+                "source": "Hypothetical Principle 1",
+                "content": "Principle 1\nPurpose of collection of personal information\nPersonal information shall not be [received] by any agency unless—\n(a) the information is [received] for a lawful purpose connected with a function or activity of the agency; and\n(b) the [receipt] of the information is necessary for that purpose.\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[69]",
+              "content": "This would amount to a complete re-writing of Principle 1. The interpretation contended for by HNZC could never have been intended.",
+              "page": 15
+            },
+            {
+              "number": "[70]",
+              "content": "Rather than being about the receipt of personal information, Principle 1 is explicitly about the purpose for which personal information is collected. The word “purpose\" is used no fewer than three times:",
+              "page": 15
+            },
+            {
+              "number": "",
+              "content": "Principle 1\nPurpose of collection of personal information\nPersonal information shall not be collected by any agency unless—\n(a) the information is collected for a lawful purpose connected with a function or activity of the agency; and\n(b) the collection of the information is necessary for that purpose.\n[Emphasis added]",
+              "page": 16
+            },
+            {
+              "number": "[71]",
+              "content": "Given that Principle 1 is the overarching privacy principle from which the others flow and further given the need to promote and protect individual privacy, the term “collect\" must be given a broad and purposive interpretation. It includes the elements of “gathering together”, seeking or acquiring not just receiving.",
+              "page": 16
+            },
+            {
+              "number": "[72]",
+              "content": "Having concluded that textually “collect” is a broad term focused not exclusively on receipt but also on the process of collection, the question posed by Commerce Commission v Fonterra Co-Operative Group Ltd is whether the purpose of the Privacy Act supports such reading.",
+              "page": 16,
+              "subsections": [
+                {
+                  "title": "Interpretation: purpose – the OECD Guidelines",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[73]",
+              "content": "As declared in the Long Title of the Privacy Act, the purpose of the Act is \"to promote and protect individual privacy” in general accordance with the Recommendation of the Council of the Organisation for Economic Co-Operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data:",
+              "page": 16,
+              "quoted_material": {
+                "source": "Privacy Act, Long Title",
+                "content": "An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,-\n(a) to establish certain principles with respect to-\n(i) the collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; and\n(ii) access by each individual to information relating to that individual and held by public and private sector agencies; and\n(b) to provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; and\n(c) to provide for matters incidental thereto\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[74]",
+              "content": "Given the explicit reference in the Long Title to the OECD Recommendation, it is inevitable that reference be made also to the OECD Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (OECD Guidelines) annexed to the OECD Recommendation. Those OECD Guidelines also employ the terms \"collection\" and \"collected\". While no definition is offered it is nevertheless clear from the context that the terms are to be interpreted by reference to their ordinary meaning in their context and in the light of the object and purpose of the OECD Guidelines. In this regard the following points are significant:",
+              "page": 16,
+              "subsections": [
+                {
+                  "title": "[74.1] Under the heading Scope of Guidelines, para 2 emphasises the need to protect privacy and individual liberties:",
+                  "content": ""
+                },
+                {
+                  "title": "[74.2] Exceptions to the Principles are to be as few as possible:",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "OECD Guidelines",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "2.",
+                    "content": "These Guidelines apply to personal data, whether in the public or private sectors, which, because of the manner in which they are processed, or because of their nature or the context in which they are used, pose a danger to privacy and individual liberties."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "",
+              "content": "4. Exceptions to the Principles contained in Parts Two and Three of these Guidelines, including those relating to national sovereignty, national security and public policy (\"ordre public\"), should be:\n(a) as few as possible; and\n(b) made known to the public.",
+              "page": 17,
+              "quoted_material": {
+                "source": "OECD Guidelines"
+              }
+            },
+            {
+              "number": "[74.3]",
+              "content": "The OECD Guidelines are minimum standards which are capable of being supplemented by additional measures “for the protection of privacy and individual liberties\":",
+              "page": 17,
+              "quoted_material": {
+                "source": "OECD Guidelines",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "6.",
+                    "content": "These Guidelines should be regarded as minimum standards which are capable of being supplemented by additional measures for the protection of privacy and individual liberties."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[74.4]",
+              "content": "The Collection Limitation Principle has as its focus not the receipt of information, but the conditions which govern the process of collection. Collection must be by lawful and fair means and where appropriate, with the knowledge and consent of the individual. These requirements describe values which precondition the receipt of information. They are prescriptive of the system or process by which information is collected:",
+              "page": 17,
+              "quoted_material": {
+                "source": "OECD Guidelines, Collection Limitation Principle",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "7.",
+                    "content": "There should be limits to the collection of personal data and such data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[75]",
+              "content": "In broad terms the OECD Guidelines favour a reading of “collect” which protects and promotes privacy and individual liberties and which recognises that the framework within which personal data is collected and stored necessarily governs not only the receipt of the data but also the manner of collection. See particularly the Collection Limitation Principle, the Data Quality Principle and the Purpose Specification Principle. The OECD Guidelines recognise that collection is not an event (ie receipt of the data) but a process for the collection of data. That process must be in place, prior to the receipt of the data and contain the safeguards of “lawful and fair means” and “knowledge or consent”. This reading is consistent with the stated objective of protecting the privacy of the individual. A reading which conditions the operation of the OECD Guidelines only on receipt of information would narrow the protection of what are already minimum standards. There is no good linguistic or contextual reason for such reading. Certainly none has been offered by HNZC.",
+              "page": 17
+            },
+            {
+              "number": "[76]",
+              "content": "Rejection of the narrow interpretation argued for by HNZC means that Principle 1 can have application prior to the actual receipt of personal information by the agency. This is the natural and unavoidable consequence of the way in which Principle 1 is formulated. It prohibits the collection of personal information “unless” the separate and cumulative requirements in paras (a) and (b) are satisfied. The lawful purpose must exist prior to collection as must the “necessity”. Compliance with Principle 1 must necessarily precede the receipt of the information:",
+              "page": 17,
+              "subsections": [
+                {
+                  "title": "Interpretation: purpose – the Privacy Act",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "Principle 1",
+                "content": "Purpose of collection of personal information\nPersonal information shall not be collected by any agency unless—\n(a) the information is collected for a lawful purpose connected with a function or activity of the agency; and\n(b) the collection of the information is necessary for that purpose.\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[77]",
+              "content": "The need to comply with “pre-receipt” requirements is not unique to Principle 1. A striking example is Principle 3(2) which could not be more explicit in emphasising the duty on an agency to take certain steps “before the information is collected\":",
+              "page": 18,
+              "quoted_material": {
+                "source": "Principle 3",
+                "content": "Principle 3\nCollection of information from subject\n(1) Where an agency collects personal information directly from the individual concerned, the agency shall take such steps (if any) as are, in the circumstances, reasonable to ensure that the individual concerned is aware of—\n(a) the fact that the information is being collected; and\n(b) the purpose for which the information is being collected; and\n(c) the intended recipients of the information; and\n(d) the name and address of—\n(i) the agency that is collecting the information; and\n(ii) the agency that will hold the information; and\n(e) if the collection of the information is authorised or required by or under law,—\n(i) the particular law by or under which the collection of the information is so authorised or required; and\n(ii) whether or not the supply of the information by that individual is voluntary or mandatory; and\n(f) the consequences (if any) for that individual if all or any part of the requested information is not provided; and\n(g) the rights of access to, and correction of, personal information provided by these principles.\n(2) The steps referred to in subclause (1) shall be taken before the information is collected or, if that is not practicable, as soon as practicable after the information is collected.\n(3) ...\n(4) ...\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[78]",
+              "content": "The Tribunal has recently held in Armfield v Naughton [2014] NZHRRT 48 at [47] that the \"collection” principles in Principles 1 to 4 have operation prior to the information being collected or received. They prescribe the framework or process for collection which must be in place before information is received:",
+              "page": 18,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Armfield v Naughton [2014] NZHRRT 48 at [47]",
+                  "context": "To establish that 'collection' principles have operation prior to information being collected or received."
+                }
+              ],
+              "quoted_material": {
+                "source": "Armfield v Naughton [2014] NZHRRT 48 at [47]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[47.1]",
+                    "content": "Principle 1 prohibits the collection of personal information \"unless\" the separate and cumulative requirements in paras (a) and (b) are satisfied. The lawful purpose must exist along with the necessity prior to collection. Compliance with Principle 1 must therefore necessarily precede the receipt of the information:\n\nPrinciple 1\nPurpose of collection of personal information\nPersonal information shall not be collected by any agency unless—\n(a) the information is collected for a lawful purpose connected with a function or activity of the agency; and\n(b) the collection of the information is necessary for that purpose.\n[Emphasis added]"
+                  },
+                  {
+                    "identifier": "[47.2]",
+                    "content": "Principle 3 explicitly emphasises that there is a duty on an agency to take certain steps \"before the information is collected\":\n\n(2) The steps referred to in subclause (1) shall be taken before the information is collected or, if that is not practicable, as soon as practicable after the information is collected.\n[Emphasis added]"
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[47.3]",
+              "content": "Principle 4 limits the manner in which personal information can be collected (no unlawful or unfair means, no unreasonable intrusion) and stipulates the preconditions which must be satisfied before collection is undertaken. Those preconditions continue to apply during the collection process. So too in the case of Principle 2(1).",
+              "page": 19
+            },
+            {
+              "number": "[47.4]",
+              "content": "The principles are inter-related and partly overlapping and must be studied as a whole. See the Explanatory Memorandum by the Expert Group to the OECD Guidelines:\n\n50. As an introductory comment on the principles set out in Paragraphs 7 to 14 of the Guidelines it should be pointed out that these principles are interrelated and partly overlapping. Thus, the distinctions between different activities and stages involved in the processing of data which are assumed in the principles, are somewhat artificial and it is essential that the principles are treated together and studied as a whole....\n\nSo viewed, the \"collection\" principles are clearly engaged before the information is collected.",
+              "page": 19,
+              "quoted_material": {
+                "source": "Explanatory Memorandum by the Expert Group to the OECD Guidelines"
+              }
+            },
+            {
+              "number": "[79]",
+              "content": "The purpose of the Privacy Act accordingly supports the broad reading of collect explained earlier. The emphasis of the Act is on the framework or process for collection not on the receipt of personal information per se. The \"collection” principles are prescriptive of the system or process by which personal information is collected. It is not inaccurate to say they describe values which precondition the receipt of information.",
+              "page": 19
+            },
+            {
+              "number": "[80]",
+              "content": "It has been said that by favouring generally-worded and thus imprecise statements of principle over more prescriptive rules or regulations, the Privacy Act risks uncertainty both for agencies that collect data and for individuals who are their data subjects. See Stephen Penk “The Privacy Act 1993\" in Penk and Tobin (eds) Privacy Law in New Zealand (Thomson Reuters, Wellington, 2010) 49 at 55. That may be so but the dearth of case law and commentary on “collect” suggests that in practice the difficulty over the meaning of the word is more imagined than real. Context has a significant part to play in fleshing out the operation of Principle 1 in practice. In the present case the context includes:",
+              "page": 19,
+              "subsections": [
+                {
+                  "title": "Interpretation: context",
+                  "content": ""
+                },
+                {
+                  "title": "[80.1] HNZC was at the time the state agency responsible for the social allocation of housing and the assessment of income-related rents. In June 2004 it entered into an agreement with MSD whereby MSD would provide “additional” information on the 52-week income statement provided to MSD clients. HNZC dictated the content of that statement and stipulated that the default setting was that the “full” SAS statement was to be provided by MSD in response to an IRR income statement request. HNZC at the same time failed to set in place a system whereby IRR applicants were told of this and given sufficient information to make an informed choice as to what information was not to be provided to HNZC.",
+                  "content": ""
+                },
+                {
+                  "title": "[80.2] The result was the setting up of a system which would potentially over-collect personal information about a large number of persons who would, annually, be applying for income-related rent.",
+                  "content": ""
+                },
+                {
+                  "title": "[80.3] The IRR application form specifically instructed applicants to obtain \"income statements\" from MSD.",
+                  "content": ""
+                },
+                {
+                  "title": "[80.4] In 2008 HNZC put in place a computer system which allowed it to send electronic requests for income statements to MSD and to receive those statements directly from MSD.",
+                  "content": ""
+                },
+                {
+                  "title": "[80.5] In the result, there was a highly developed system for the collection of personal information year on year. In addition, HNZC was daily collecting other",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "other",
+                  "reference": "Stephen Penk “The Privacy Act 1993\" in Penk and Tobin (eds) Privacy Law in New Zealand (Thomson Reuters, Wellington, 2010) 49 at 55",
+                  "context": "Cited for the proposition that the Privacy Act risks uncertainty."
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "personal information relating to tenants by way of, for example, the Tenant Comments Reports.",
+              "page": 20
+            },
+            {
+              "number": "[80.6]",
+              "content": "The information required by the IRR application form was being demanded under the authority of a statute (the HRTM Act) and the “penalty” for not applying for income-related rent was payment of market rent.",
+              "page": 20
+            },
+            {
+              "number": "[80.7]",
+              "content": "The evidence of Ms Milton was that in February of each year in the period 2002 to 2013 Mr Holmes was sent an IRR application form. Follow up reminders were sent out when the form was not returned in any particular year. This was standard HNZC practice.",
+              "page": 20
+            },
+            {
+              "number": "[81]",
+              "content": "In these circumstances it is difficult to escape the conclusion that HNZC was “collecting” personal information in the sense of gathering together, seeking or acquiring income statements and operating a process by which that information was to be gathered. Indeed by sending out the IRR forms (with the best of intentions) it was soliciting the applications.",
+              "page": 20
+            },
+            {
+              "number": "[82]",
+              "content": "In our view the obligations in Principle 1 are engaged where, as here, a state institution (HNZC) sets up a system for the collection of personal information from an identifiable class of individuals (state tenants). It is a system in which all matters relating to their tenancy are recorded and each year they are sent an invitation to apply for income-related rent in a context in which it is known that if no application is submitted, market rent becomes payable.",
+              "page": 20
+            },
+            {
+              "number": "[83]",
+              "content": "It is not a “defence” to plead that Principle 1 was not engaged because no personal information having been submitted by a particular individual, none was received. The obligation in Principle 1 flows from the going about the process of gathering information, not from the receipt of information from the particular aggrieved individual, though such receipt (should it occur) would indeed be covered by Principle 1 as well. But receipt is not a necessary condition to the application of Principle 1 to the actions of an agency such as HNZC.",
+              "page": 20
+            },
+            {
+              "number": "[84]",
+              "content": "Otherwise the only way in which an aggrieved individual could hold the agency to account (by making a complaint to the Privacy Commissioner and then bringing proceedings before the Tribunal) would be to provide the agency with the very information which the privacy principles say cannot be lawfully collected. The only other choice is for the individual to withhold the information thereby (in the present context) forfeiting income-related rent, shouldering the economic hardship of paying market rent while on a beneficiary's income and forgoing standing to challenge the collection of the information.",
+              "page": 20
+            },
+            {
+              "number": "[85]",
+              "content": "We do not see such outcome as promoting and protecting individual privacy.",
+              "page": 20
+            },
+            {
+              "number": "[86]",
+              "content": "In the recent decision of the Tribunal in Armfield v Naughton the following conclusions on the meaning of “collect” were reached:",
+              "page": 20,
+              "subsections": [
+                {
+                  "title": "Conclusions on \"collect\"",
+                  "content": ""
+                }
+              ],
+              "quoted_material": {
+                "source": "Armfield v Naughton",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[44.1]",
+                    "content": "The Act does not limit the term \"collect\" other than to exclude receipt of unsolicited information. The meaning of \"collect\" must therefore be ascertained from the text and purpose of the Privacy Act."
+                  },
+                  {
+                    "identifier": "[44.2]",
+                    "content": "That purpose is stated in the Long Title of the Privacy Act as the promotion and protection of individual privacy in general accordance with the OECD Guidelines."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[44.3]",
+              "content": "Individual privacy will be promoted and protected by giving to the term collect a broad meaning. The term is not a synonym of \"solicit\". It is to be given the purposive meaning of \"gathering together, the seeking of or acquisition of personal information\".",
+              "page": 21
+            },
+            {
+              "number": "[44.4]",
+              "content": "The word \"collect\" does not require a \"request\" to the subject in question.",
+              "page": 21
+            },
+            {
+              "number": "[44.5]",
+              "content": "While \"collect\" certainly includes the receipt of information asked for, it is not limited to this single meaning. \"Collect\" does not in this context mean \"received\".",
+              "page": 21
+            },
+            {
+              "number": "[44.6]",
+              "content": "A narrowing of the protection of the Privacy Act to those circumstances in which information is received and then only by soliciting in the sense of \"to ask for\" would be inconsistent with the promotion and protection of personal privacy.",
+              "page": 21
+            },
+            {
+              "number": "[44.7]",
+              "content": "The definition of \"collect\" is not intended to exclude the obtaining of personal information by means of surveillance devices. The purpose of and background to the Act suggest that surveillance should be considered to be a form of collection.",
+              "page": 21
+            },
+            {
+              "number": "[44.8]",
+              "content": "\"Unsolicited\" is to be narrowly defined as information which comes into the possession of the agency in circumstances where the agency has taken no active steps to acquire or record that information.",
+              "page": 21
+            },
+            {
+              "number": "[87]",
+              "content": "Adapting these conclusions to the fact specific circumstances of the present case, we find:",
+              "page": 21,
+              "subsections": [
+                {
+                  "title": "[87.1] The term “collect” as used in Principle 1 is not confined to receipt. It is intended to be a broad term encompassing not only the receipt of information, but also the process of gathering together, the seeking of or acquisition of personal information.",
+                  "content": ""
+                },
+                {
+                  "title": "[87.2] The soliciting of information is included in “collect\" as is the receipt of solicited information.",
+                  "content": ""
+                },
+                {
+                  "title": "[87.3] A reading which conditions the operation of Information Privacy Principles 1 to 4 on the receipt of personal information would narrow the protection given by those principles and be inconsistent with the purpose of the Privacy Act (the promotion and protection of individual privacy).",
+                  "content": ""
+                },
+                {
+                  "title": "[87.4] The obligations in Principle 1 are standalone obligations. They are descriptive of the limits to the purpose for which personal information may be collected. They are safeguards that are not triggered only upon the surrender of personal information by the aggrieved individual who challenges the lawfulness of the collection of the information. An aggrieved individual is not to face the dilemma of either handing over the personal information (thereby becoming eligible to challenge the lawfulness of the collection), or withholding the information and consequently facing potentially severe economic consequences (plus forfeiture of standing to bring a challenge).",
+                  "content": ""
+                },
+                {
+                  "title": "[87.5] Context is important in determining whether personal information is collected. In the particular circumstances HNZC set up and operated a system for the systematic annual solicitation and collection of IRR applications from state tenants. The focus must be on whether its system for the collection of personal information complied with the requirements of Principle 1, not on whether any particular individual tenant submitted or failed to submit an income-related rent application in any particular year.",
+                  "content": ""
+                },
+                {
+                  "title": "[87.6] Where such a system for the collection of personal information is non-compliant with Principle 1, that system cannot be defended on the basis that the personal information of the aggrieved individual was not handed over.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[87.7]",
+              "content": "Where, as here, over a sustained period of years a state organisation collected personal information from all who applied for income-related rent, it operated a system for the collection of personal information and accordingly \"collected\" personal information. It is not necessary for the individual who complains of non-compliance with Principle 1 to show that in any particular year he or she handed over personal information to HNZC. It is sufficient to show that the individual has been asked to or encouraged to submit the information.",
+              "page": 22
+            },
+            {
+              "number": "[88]",
+              "content": "In the Law Commission Issues Paper cited earlier it is noted at para [3.86] that in an October 1992 report to the Minister of Justice on the (then) Privacy of Information Bill it was suggested that “collect” should be defined as including “solicit, and the taking of any other action by the agency to get personal information into its possession from outside the agency\". This definition did not find its way into the Bill but no inference one way or the other can legitimately be drawn from this fact. In reaching our conclusions we have excluded consideration of this interesting historical footnote. Rather we have arrived at our conclusions independently by the application of conventional principles of statutory interpretation.",
+              "page": 22
+            },
+            {
+              "number": "[89]",
+              "content": "We discuss next the balance of the issues relevant to the question whether Principle 1 was breached by HNZC. We do so in two parts. First by examining the system agreed to by HNZC and MSD and the functioning of that system. These \"internal\" arrangements represent a view from within the system. Second we examine the view from the outside because account must be taken of the instructions given to those from whom the personal information was to be collected and in particular, what they were told to submit with the IRR application.",
+              "page": 22
+            },
+            {
+              "number": "[90]",
+              "content": "The submissions for HNZC were presented on the basis that HNZC processes and staff actions complied with Principle 1 and if there was any breach of the information privacy principles, it was a breach by MSD.",
+              "page": 22,
+              "subsections": [
+                {
+                  "title": "The internal dimension – the arrangements between HNZC and MSD",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[91]",
+              "content": "This premise is not accepted. To make its own processes more efficient, HNZC engaged in discussions with MSD. The outcome was that in June 2004 it entered into an agreement with MSD that “enhanced” information would be provided by MSD in the income statements. The email from HNZC's Liam Greer dated 24 June 2004 described this as a \"significant All of Government initiative fully supported by both CE's. It will help break down a number of barriers around applicants/tenants having to provide evidence to HNZC already provided to WINZ”.",
+              "page": 22
+            },
+            {
+              "number": "[92]",
+              "content": "The implementation date was January 2005. In an email dated 20 January 2005 HNZC's Mr Garry Williams highlighted the inter-dependency of the two government agencies in making the agreement work. The text of the email has been set out in full earlier. Key points are:",
+              "page": 22,
+              "subsections": [
+                {
+                  "title": "[92.1] The agreement was based on “trust\" (on the part of MSD) that HNZC “had permission from [HNZC] customers to request information pertaining to them\".",
+                  "content": ""
+                },
+                {
+                  "title": "[92.2] All of the new information would be included in the statement unless HNZC informed MSD otherwise:",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "",
+              "content": "eg the client has withheld consent for any one of the eight additional items because it is not relevant to their circumstances.",
+              "page": 22
+            },
+            {
+              "number": "[93]",
+              "content": "Mr Williams concluded his email by cautioning that where information was not relevant or required, this was to be made clear to MSD:",
+              "page": 23,
+              "quoted_material": {
+                "source": "Email from Mr Williams",
+                "content": "In circumstances where information is not relevant, and therefore not required, please tell the contact centre staff member at the time you make the statement request."
+              }
+            },
+            {
+              "number": "[94]",
+              "content": "This put the onus on HNZC:",
+              "page": 23,
+              "subsections": [
+                {
+                  "title": "[94.1] To give careful attention to the terms of the permission sought from and obtained from tenants.",
+                  "content": ""
+                },
+                {
+                  "title": "[94.2] To ascertain, in each case, whether the particular HNZC client withheld consent to disclosure of any of the eight additional fields.",
+                  "content": ""
+                },
+                {
+                  "title": "[94.3] To address the question of relevance of the information before seeking that information from the client and from MSD.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[95]",
+              "content": "In practice the Department-to-Department communications were based on the assumption there would be either a request for the full SAS income statement or for the reduced IRR income statement. The default setting was that the full SAS statement would be automatically provided. As explained by Ms Van der Merwe, the system worked on a “de-selection” option:",
+              "page": 23,
+              "quoted_material": {
+                "source": "Evidence of Ms Van der Merwe",
+                "content": "65 In fact the option that was ultimately chosen was a \"de-selection\" option. That is, the additional information was automatically selected for inclusion in the income statement, but a manual change could be made to reduce the information to be included in the income statement when it was produced. The default was to provide all the information in the income statement."
+              }
+            },
+            {
+              "number": "[96]",
+              "content": "Unfortunately clients were not told that new fields had been added to the personal information which MSD would now provide to HNZC and that they, the clients, could withhold consent to the disclosure of this additional information. In particular they were not told that there was now provision for personal information to be provided in long form (what HNZC and MSD called the SAS income statement) or in short form (what HNZC and MSD called the IRR form) and that an IRR applicant could withhold consent to the income statement being provided in SAS form. In short, no provision was made to enable HNZC clients to make an informed choice as to what information was provided to HNZC. This failure extended to the application form and the Privacy Statement.",
+              "page": 23
+            },
+            {
+              "number": "[97]",
+              "content": "While HNZC staff were given clear and explicit instructions in Tenancy Management Instruction T-216 as to the difference between SAS statements and IRR statements, tenants applying for IRR were left in ignorance of the change and of their power to control the provision to HNZC of personal information not required by HNZC to determine the IRR application. Tenancy Management Instruction T-216 contained information provided to HNZC officers only:",
+              "page": 23,
+              "quoted_material": {
+                "source": "Tenancy Management Instruction T-216",
+                "content": "The type of statement requested from MSD is very important. This is due to the fact that Corporation staff can only request statements from MSD that verify information already requested from the client. For this reason, there is a need to have two separate income statements, one for Income Related Rent (IRR) purposes and one for Social Allocation (SAS) purposes.\n\nThe SAS statement holds more information about a client and their household. This is because this information goes to verify details asked at a needs assessment interview. The IRR statement has less detail about the client's household and circumstances as that information is not requested in the IRR application form and therefore cannot be requested from MSD.\n\nThe IRR [income] statement holds the following information:"
+              }
+            },
+            {
+              "number": "",
+              "content": "• Children's names and birth date\n• Other income in current period\n• Work and Income case manager\n\nThe SAS [income] statement holds the following information:\n\n• Children's names and birth date\n• Other income in current period\n• Work and Income case manager\n• Residency\n• Amount of board/rent\n• MSD debt offset\n• Payees\n• Advance entitlement\n• Department for Courts deductions\n\nIt is essential that staff request the correct income statement from MSD as the Corporation may otherwise be in breach of a client's right to privacy.\n\n[Italics in original. Bolding added.]",
+              "page": 24
+            },
+            {
+              "number": "[98]",
+              "content": "Given these clear and explicit instructions, particularly those which have been highlighted in bold, it is not open to HNZC in these proceedings to contend that the additional fields were relevant to the income-related rent assessment and that the Privacy Statement gave consent to the obtaining of this information from MSD.",
+              "page": 24
+            },
+            {
+              "number": "[99]",
+              "content": "The instructions provided by HNZC in the IRR application form similarly failed to alert the applicant for IRR to the existence of the two separate income statements. Furthermore the Privacy Statement was not redrafted to provide HNZC with the applicant's consent which HNZC had represented to MSD would either be given by the client or withheld by the client. See here the email dated 20 January 2005 from Garry Williams.",
+              "page": 24
+            },
+            {
+              "number": "[100]",
+              "content": "It is now necessary to examine the external perspective, that is what HNZC told its tenants about the IRR application process.",
+              "page": 24
+            },
+            {
+              "number": "[101]",
+              "content": "The IRR application forms in use prior to and subsequent to the January 2005 implementation date have minor differences but none of these differences are material to the present point.",
+              "page": 24,
+              "subsections": [
+                {
+                  "title": "The external dimension what HNZC told its clients about the IRR application process",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[102]",
+              "content": "To the intending IRR applicant in receipt of income from MSD, HNZC gave the following instructions. First, an income statement would have to be obtained from Work and Income. The applicant could either call MSD on an 0800 number or HNZC could obtain the income statement for the applicant. The form did not provide a consent box for the applicant to tick, thereby indicating that he or she authorised HNZC to obtain the form on his or her behalf:",
+              "page": 24,
+              "quoted_material": {
+                "source": "IRR Application Form",
+                "content": "What income do I need to tell Housing New Zealand about?\n\nYou will need to provide income statements for you and your partner for the last 52 weeks.\n\nIncome means:\n Work and Income payments\n\nHow do I find out about my income?"
+              }
+            },
+            {
+              "number": "",
+              "content": "If you receive payments from Work and Income we can get these for you or you can phone Work and Income on 0800 559 009 and ask to have it sent to you. When you receive the information, attach it to this application form.",
+              "page": 25
+            },
+            {
+              "number": "[103]",
+              "content": "Second, at \"Step 4 - Income Details\" the applicant was again told to request an income statement by calling the 0800 number and to attach the statement to the application:",
+              "page": 25,
+              "quoted_material": {
+                "source": "IRR Application Form, Step 4",
+                "content": "Income Details\n\nIncome from Work and Income or Studylink\n\nIf you receive payments from Work and Income you should request Income Statement from them by phoning 0800 559 009."
+              }
+            },
+            {
+              "number": "[104]",
+              "content": "Third, the Privacy Statement expressly represented that HNZC would use the information given by the applicant to work out the rent to be paid and that it would be necessary for HNZC to “check that the information you have given is correct\". To that end the applicant was told:",
+              "page": 25,
+              "quoted_material": {
+                "source": "IRR Application Form, Privacy Statement",
+                "content": "Before HNZC can work out your income-related rent, it must first check that the information you have given is correct.\n\nBy signing the declaration over the page you agree that HNZC can give information about you to the persons/agencies listed below, and those persons/agencies can give information about you to HNZC, but only so that HNZC can check that the information you have given is correct:\n\n: Work and Income\n\n[Emphasis added]"
+              }
+            },
+            {
+              "number": "[105]",
+              "content": "Fourth, the “Declaration” was also a “consent” for information about the applicant to be used, given and received “in accordance with the Privacy Statement\":",
+              "page": 25,
+              "quoted_material": {
+                "source": "IRR Application Form, Declaration",
+                "content": "Declaration (to be signed by all tenants and their partners)\n\nI have answered all of the questions asked by HNZC that need to be answered, or the questions have been answered for me, and all the information I have given is true and complete. I have read the Privacy Statement on the previous page. I understand that by signing this form I give permission for information about me to be used, given and received in accordance with the Privacy Statement. [emphasis added]"
+              }
+            },
+            {
+              "number": "[106]",
+              "content": "It can be seen that an applicant could not, by a careful reading of the IRR application, know that there were two forms of income statements, that only the IRR statement was required and that the applicant had a right to withhold (on the grounds of relevance) any information in the additional fields provided in the SAS form.",
+              "page": 25
+            },
+            {
+              "number": "[107]",
+              "content": "Above all, the authority given in the Declaration for information to be used, given and received was expressly limited by the qualifying phrase \"in accordance with the Privacy Statement\". That Statement, in turn, is explicit in representing that HNZC could disclose to and receive information from other agencies (including MSD) for the purpose of checking whether the information provided by the applicant was correct. Neither the Privacy Statement nor the Declaration gave a general authorisation for agencies to provide HNZC with such information as HNZC asked for. The authority was limited to disclosure for verification:",
+              "page": 25,
+              "quoted_material": {
+                "source": "IRR Application Form, Declaration",
+                "content": "By signing the declaration over the page you agree that HNZC can give information about you to the persons/agencies listed below, and those persons/agencies can give information about"
+              }
+            },
+            {
+              "number": "",
+              "content": "you to HNZC, but only so that HNZC can check that the information you have given is correct ... [Emphasis added]",
+              "page": 26
+            },
+            {
+              "number": "[108]",
+              "content": "Even if one were to leave aside the point that the IRR application form allowed only the checking of the correctness of information provided by the applicant, the overarching point is that the applicant was not told that HNZC and MSD had set up a system for collecting personal information in which, by default, SAS information was automatically provided when only an IRR statement was required for rent assessment and that the applicant could require the additional information to be withheld from the income statement. Such “consent” as HNZC wishes to extract from the Privacy Statement and Declaration is not, on any view, an informed consent.",
+              "page": 26
+            },
+            {
+              "number": "[109]",
+              "content": "Indeed, even when in 2011 HNZC made a direct request to MSD that an IRR income statement for Mr Holmes be provided, HNZC received the SAS form. The fact remains that when Mr Holmes received his income statements from 2005 onwards they were all in SAS form (apart from the 2011 \"earthquake” form). He drew this to the attention of HNZC in 2006 and was simply told to cut off the offending part. In the following year he was told not to do this. Clearly something was wrong with a system HNZC had set up with even HNZC as late as 2011 receiving directly from MSD an income statement in the wrong form. But no proper audit of the arrangements was initiated. The Tribunal was told orally of an informal audit carried out for the purpose of these proceedings but no meaningful detail was provided and there was no formal evidence. It was plainly a hurried and superficial exercise and we give no weight to it. The point which HNZC appears to have missed is that it is incongruous that it set up a system whereby requests for IRR income statements were by default to be treated as requests for SAS statements with no mechanism in place to alert applicants to the fact that more information would be provided than necessary for IRR applications and that they could object to the provision of that information.",
+              "page": 26
+            },
+            {
+              "number": "[110]",
+              "content": "Some attempt was made by HNZC at the hearing to argue that the SAS form of income statement might in some cases be useful when making IRR assessments. We cannot accept this argument for two reasons:",
+              "page": 26,
+              "subsections": [
+                {
+                  "title": "[110.1] The income-related rent assessment system was set up by HNZC on the contrary premise, namely that for IRR assessments only an IRR income statement was required. The SAS needs assessment was an entirely separate issue. This is made clear by the HNZC evidence, particularly Ms Milton and in the Tenancy Management Instructions, particularly T-216, T-113, T-213 and T-214. The quote earlier set out from T-216 underlines the point.",
+                  "content": ""
+                },
+                {
+                  "title": "[110.2] If in any particular case the determination of an IRR application required further information to be obtained from MSD, such information could be requested of the applicant or authority given to obtain the information from MSD. The fact that this might happen in an exceptional case was no reason for requiring all IRR applicants to provide the information without knowing that this was being done. Principle 1 is clear in confirming that the collection of information must be “necessary” for the purpose for which the information is collected. This is reinforced by Principle 4 which states that information shall not be collected by means that intrude to an unreasonable extent upon the personal affairs of the individual.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[111]",
+              "content": "Returning to the general point, important as the internal working of government agencies (ie HNZC and MSD) may be, sight must not be lost of the fact that the purpose of the information privacy principles is to govern the collection, storage and use of information about individuals (and their right of access to that information). The individual stands at the centre of the principles and the question which must be asked in the present case is whether the individual IRR applicant was told enough of the inter-departmental arrangements to be aware of what was being asked and to make an informed decision before consenting to the provision of personal information not necessary for the purpose for which the information was being collected. Here the evidence of Mr Holmes and of HNZC is one way. The applicant was told nothing about:",
+              "page": 27,
+              "subsections": [
+                {
+                  "title": "Conclusion",
+                  "content": ""
+                },
+                {
+                  "title": "[111.1] The 2005 policy changes.",
+                  "content": ""
+                },
+                {
+                  "title": "[111.2] That income statements would now be provided in SAS or IRR form.",
+                  "content": ""
+                },
+                {
+                  "title": "[111.3] That the default setting was the SAS form.",
+                  "content": ""
+                },
+                {
+                  "title": "[111.4] That the applicant could specify that an IRR form only was to be provided.",
+                  "content": ""
+                },
+                {
+                  "title": "[111.5] The applicant could object to the receipt by HNZC of the extraneous personal information found in the SAS form.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[112]",
+              "content": "In these circumstances it is not open to HNZC to argue (as it did) that because any SAS statement came in via the client (or as a result of the client's request that HNZC obtain the information for the client) there was no breach of Principle 1. The applicant not being aware of the issues and not having any information on which to give an informed consent, the passing of the information through his or her hands (or a proxy) can have no legal significance.",
+              "page": 27
+            },
+            {
+              "number": "[113]",
+              "content": "It was also submitted by HNZC that if any information privacy principle was breached, responsibility for the breach was entirely that of the MSD. This is an unsustainable proposition. The additional information was solicited by HNZC from MSD and the system set up for the provision of that information became the joint responsibility of the two government agencies. In the words of the 24 June 2004 email, it was an \"All of Government” initiative. It was HNZC who requested that the default position be that a SAS income statement would be provided when an IRR statement only was needed; it was HNZC which failed to make it clear to applicants that there were now two kinds of income statements and that they were entitled to request only the one needed for an IRR assessment. HNZC knew or ought to have known that the wording on the application form meant that the applicant would simply ask MSD for “the income statement\" required for an IRR application without knowing that this would result in the provision of an income statement relevant to an SAS application. It was HNZC which failed to redesign the IRR application form, its Privacy Statement and Declaration to accommodate the new system and to make good its assurance to MSD that HNZC had permission from IRR applicants to request the new fields of information and that the applicants could require irrelevant information to be withheld (email dated 20 January 2005 from Garry Williams). It never put in place a system for IRR applicants to be told of their ability to withhold consent and the process by which that could be done.",
+              "page": 27
+            },
+            {
+              "number": "[114]",
+              "content": "For all these reasons we find that the system operated by HNZC from January 2005 for the collection of personal information required for the assessment of income-",
+              "page": 27
+            },
+            {
+              "number": "",
+              "content": "related rent applications involved the collection of information not reasonably necessary for that purpose. We further find that when Mr Holmes challenged such collection in 2006 he was told to delete the extraneous information from the 2006 SAS income statement. In the following year he was told he could not alter or deface the SAS income statement. As he did not want the personal but irrelevant information to be received by HNZC he did not apply for income-related rent in 2007, 2008, 2009 and 2010. The automatic consequence was that he went onto a market rent even though HNZC conceded in closing submissions that it was “99.90% certain” that the application by Mr Holmes for an IRR rent would have been approved.",
+              "page": 28
+            },
+            {
+              "number": "[115]",
+              "content": "Shortly expressed, the system set up by HNZC to collect personal information led, in the end, to the collection of information not reasonably necessary for the purpose of assessing income-related rent and was therefore in breach of Principle 1.",
+              "page": 28
+            }
+          ]
+        },
+        {
+          "title": "WHETHER AN INTERFERENCE WITH THE PRIVACY OF MR HOLMES",
+          "page_start": 28,
+          "paragraphs": [
+            {
+              "number": "[116]",
+              "content": "Jurisdiction of the Tribunal to grant a remedy under s 85 of the Privacy Act 1993 depends entirely on whether the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of the plaintiff.",
+              "page": 28,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Privacy Act 1993, s 85",
+                  "context": "Establishes the jurisdiction of the Tribunal to grant a remedy."
+                }
+              ]
+            },
+            {
+              "number": "[117]",
+              "content": "The term “interference with privacy\" is defined in s 66. Only subs (1) is relevant on the facts:",
+              "page": 28,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 66",
+                  "context": "Defines the term 'interference with privacy'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act 1993, s 66",
+                "content": "66 Interference with privacy\n(1) For the purposes of this Part, an action is an interference with the privacy of an individual if, and only if,-\n(a) in relation to that individual, -\n(i) the action breaches an information privacy principle; or\n(ii) the action breaches a code of practice issued under section 63 (which relates to public registers); or\n(iia) the action breaches an information privacy principle or a code of practice as modified by an Order in Council made under section 96J; or\n(iib) the provisions of an information sharing agreement approved by an Order in Council made under section 96J have not been complied with; or\n(iii) the provisions of Part 10 (which relates to information matching) have not been complied with; and\n(b) in the opinion of the Commissioner or, as the case may be, the Tribunal, the action-\n(i) has caused, or may cause, loss, detriment, damage, or injury to that individual; or\n(ii) has adversely affected, or may adversely affect, the rights, benefits, privileges, obligations, or interests of that individual; or\n(iii) has resulted in, or may result in, significant humiliation, significant loss of dignity, or significant injury to the feelings of that individual."
+              }
+            },
+            {
+              "number": "[118]",
+              "content": "This provision requires Mr Holmes to establish:",
+              "page": 28,
+              "subsections": [
+                {
+                  "title": "[118.1] That in relation to Mr Holmes an action of HNZC breached an information privacy principle; and",
+                  "content": ""
+                },
+                {
+                  "title": "[118.2] In the opinion of the Tribunal the action:",
+                  "content": ""
+                },
+                {
+                  "title": "[118.2.1] Caused Mr Holmes loss, detriment, damage or injury; or",
+                  "content": ""
+                },
+                {
+                  "title": "[118.2.2] Adversely affected his rights, benefits, privileges, obligations or interests; or",
+                  "content": ""
+                },
+                {
+                  "title": "[118.2.3] Resulted in significant humiliation, significant loss of dignity or significant injury to his feelings.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[119]",
+              "content": "As to the first requirement, for the reasons given we find that Information Privacy Principle 1 was breached in that HNZC operated a system which resulted in the collection of personal information not reasonably necessary for the purpose of assessing income-related rent.",
+              "page": 29
+            },
+            {
+              "number": "[120]",
+              "content": "As to the second requirement, it has been noted earlier that income-related rents were introduced in October 2000 and in each year up to 2006 Mr Holmes applied for and was granted income-related rent. The fact that for the unbroken period between October 2000 and December 2006 HNZC approved income-related rent for Mr Holmes (whose sole source of income is his MSD benefit) is no doubt the reason why HNZC conceded that in each of the years from 2007 to 2010 Mr Holmes would almost certainly (“99.90%”) have been assessed for IRR income-related rent. But, submits HNZC, Mr Holmes is entitled to no remedy because:",
+              "page": 29,
+              "subsections": [
+                {
+                  "title": "[120.1] In 2006 he was told to cut off the offending portion (which he did) and his application was granted because HNZC acted on the IRR information which remained.",
+                  "content": ""
+                },
+                {
+                  "title": "[120.2] As to the years 2007, 2008, 2009 and 2010 there was no evidence of what income statement MSD would have provided had Mr Holmes requested one. It follows that Mr Holmes cannot establish that it would have been in SAS form and therefore there was no interference with his privacy.",
+                  "content": ""
+                },
+                {
+                  "title": "[120.3] There was no loss, detriment, damage or injury as no IRR application was submitted in the years 2007 to 2010 inclusive.",
+                  "content": ""
+                },
+                {
+                  "title": "[120.4] Although it was “very likely” Mr Holmes would have been approved for income-related rent, there was no ability to grant him IRR as s 43(1)(a) of the HRTM Act conditions the grant of income-related rent on the submission of an application by the tenant.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[121]",
+              "content": "Given the concession that it is 99.90% certain that Mr Holmes would have been granted income-related rents in the period 2007 to 2010 it is disappointing that such a narrow, technical submission is advanced given the hardship endured by Mr Holmes by paying a market rent while on a beneficiary's income.",
+              "page": 29
+            },
+            {
+              "number": "[122]",
+              "content": "Be that as it may it is common ground that in 2006 IRR was approved after the torn version of the SAS statement was accepted by HNZC. It follows that Mr Holmes cannot establish an interference with his privacy in relation to that particular year.",
+              "page": 29
+            },
+            {
+              "number": "[123]",
+              "content": "As to the point that there is no evidence that the income statements which would have been provided to Mr Holmes by MSD would have been (in the years 2007 to 2010) in SAS form the answer is that:",
+              "page": 29,
+              "subsections": [
+                {
+                  "title": "[123.1] At the request of HNZC, the default setting was for the MSD to provide SAS income statements.",
+                  "content": ""
+                },
+                {
+                  "title": "[123.2] Mr Holmes has only ever received SAS statements. The 2006 form had to be cut and when in 2011 HNZC requested (explicitly) that MSD provide an income statement in IRR form, it was provided with an SAS form. In 2014 the SAS form was again sent to Mr Holmes.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[124]",
+              "content": "On this evidence we are satisfied on the balance of probabilities that had Mr Holmes sought an IRR income statement from MSD in the years 2007, 2008, 2009 and 2010, he would have been provided with an income statement in SAS form. He",
+              "page": 29
+            },
+            {
+              "number": "",
+              "content": "understood this at the time and accordingly did not make application for an income-related rent assessment and automatically went to a market rent. This was a detriment in terms of s 66(1)(b)(i). In our view it also adversely affected his “rights, benefits, privileges, obligations, or interests” in terms of s 66(1)(b)(ii).",
+              "page": 30
+            },
+            {
+              "number": "[125]",
+              "content": "While it is not necessary for Mr Holmes to establish each of s 66(1)(b)(i), (ii) and (iii), we address also the question whether he has established significant humiliation, significant loss of dignity or significant injury to feelings.",
+              "page": 30
+            },
+            {
+              "number": "[126]",
+              "content": "As to loss of dignity, we refer to the description given in Law v Canada (Minister of Employment and Immigration) [1999] 1 SCR 497 at [53] where lacobucci J delivering the judgment of the Supreme Court of Canada stated:",
+              "page": 30,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Law v Canada (Minister of Employment and Immigration) [1999] 1 SCR 497 at [53]",
+                  "context": "To provide a description of 'loss of dignity'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Law v Canada (Minister of Employment and Immigration) [1999] 1 SCR 497 at [53]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "53",
+                    "content": "... Human dignity means that an individual or group feels self-respect and self-worth. It is concerned with physical and psychological integrity and empowerment. Human dignity is harmed by unfair treatment premised upon personal traits or circumstances which do not relate to individual needs, capacities, or merits... Human dignity is harmed when individuals and groups are marginalized, ignored, or devalued...."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[127]",
+              "content": "As to what is included in “injury to the feelings”, it was held in Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [36] that “injury to the feelings” can include conditions such as anxiety and stress. In Director of Proceedings v O'Neil [2001] NZAR 59 at [29] injury to feelings was described in the following terms:",
+              "page": 30,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [36]",
+                  "context": "To define what is included in 'injury to the feelings'."
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Proceedings v O'Neil [2001] NZAR 59 at [29]",
+                  "context": "To describe 'injury to feelings'."
+                }
+              ],
+              "quoted_material": {
+                "source": "Director of Proceedings v O'Neil [2001] NZAR 59 at [29]",
+                "internal_paragraphs": [
+                  {
+                    "identifier": "[29]",
+                    "content": "The feelings of human beings are not intangible things. They are real and felt, but often not identified until the person stands back and looks inwards. They can encompass pleasant feelings (such as contentment, happiness, peacefulness and tranquillity) or be unpleasant (such as fear, anger and anxiety). However a feeling can be described, it is clear that some feelings such as fear, grief, sense of loss, anxiety, anger, despair, alarm and so on can be categorised as injured feelings. They are feelings of a negative kind arising out of some outward event. To that extent they are injured feelings."
+                  }
+                ]
+              }
+            },
+            {
+              "number": "[128]",
+              "content": "Applying these observations we are satisfied that there was significant humiliation, significant loss of dignity and significant injury to the feelings of Mr Holmes. He is a forthright and plain-spoken individual who feels keenly any infringement of his personal privacy by officialdom. The depth of his feelings on the issue is measured by the fact that after being told that he could not alter or deface a SAS income statement he bore the financial hardship of market rents for the next four years. His anger, frustration and exasperation at the apparent indifference of HNZC to its obligations under the Privacy Act permeate his correspondence with HNZC, his complaint to the Privacy Commissioner and his evidence and submissions to the Tribunal. We have been left in no doubt that Mr Holmes suffered significant humiliation, significant loss of dignity and significant injury to his feelings.",
+              "page": 30
+            },
+            {
+              "number": "[129]",
+              "content": "For all these reasons we accordingly conclude in terms of s 66(1) of the Privacy Act that there has been an action by HNZC which was an interference with the privacy of Mr Holmes.",
+              "page": 30
+            }
+          ]
+        },
+        {
+          "title": "REMEDY",
+          "page_start": 30,
+          "paragraphs": [
+            {
+              "number": "[130]",
+              "content": "Where the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual it may grant one or more of the remedies allowed by s 85 of the Act:",
+              "page": 30,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "s 85 of the Act",
+                  "context": "Allows the Tribunal to grant remedies for interference with privacy."
+                }
+              ],
+              "quoted_material": {
+                "source": "Human Rights Review Tribunal Act, s 85",
+                "content": "85 Powers of Human Rights Review Tribunal"
+              }
+            },
+            {
+              "number": "",
+              "content": "(1) If, in any proceedings under section 82 or section 83, the Tribunal is satisfied on the balance of probabilities that any action of the defendant is an interference with the privacy of an individual, it may grant 1 or more of the following remedies:\n(a) a declaration that the action of the defendant is an interference with the privacy of an individual:\n(b) an order restraining the defendant from continuing or repeating the interference, or from engaging in, or causing or permitting others to engage in, conduct of the same kind as that constituting the interference, or conduct of any similar kind specified in the order:\n(c) damages in accordance with section 88:\n(d) an order that the defendant perform any acts specified in the order with a view to remedying the interference, or redressing any loss or damage suffered by the aggrieved individual as a result of the interference, or both:\n(e) such other relief as the Tribunal thinks fit.\n(2) In any proceedings under section 82 or section 83, the Tribunal may award such costs against the defendant as the Tribunal thinks fit, whether or not the Tribunal makes any other order, or may award costs against the plaintiff, or may decline to award costs against either party.\n(3) Where the Director of Human Rights Proceedings is the plaintiff, any costs awarded against him or her shall be paid by the Privacy Commissioner, and the Privacy Commissioner shall not be entitled to be indemnified by the aggrieved individual (if any).\n(4) It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any, remedy to grant.",
+              "page": 31
+            },
+            {
+              "number": "[131]",
+              "content": "Section 88(1) relevantly provides that damages may be awarded in relation to three specific heads of damage:",
+              "page": 31,
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Section 88(1)",
+                  "context": "Provides for damages to be awarded for specific heads of damage."
+                }
+              ],
+              "quoted_material": {
+                "source": "Privacy Act, s 88",
+                "content": "88 Damages\n(1) In any proceedings under section 82 or section 83, the Tribunal may award damages against the defendant for an interference with the privacy of an individual in respect of any 1 or more of the following:\n(a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the aggrieved individual for the purpose of, the transaction or activity out of which the interference arose:\n(b) loss of any benefit, whether or not of a monetary kind, which the aggrieved individual might reasonably have been expected to obtain but for the interference:\n(c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual."
+              }
+            },
+            {
+              "number": "[132]",
+              "content": "In the present case the 14 April 2014 transfer of responsibility from HNZC to MSD for making income-related rent assessments renders irrelevant all remedies except those of a declaration and damages.",
+              "page": 31
+            },
+            {
+              "number": "[133]",
+              "content": "Addressing first s 85(4), it is no defence that the interference was unintentional or without negligence, but the Tribunal must nevertheless take the conduct of HNZC into account in deciding what, if any, remedy to grant.",
+              "page": 31
+            },
+            {
+              "number": "[134]",
+              "content": "The agreement between HNZC and MSD entered into in 2004 was motivated by good intentions, namely to make the process of applying for a state house easier and to avoid tenants providing to HNZC information already given to MSD. Senior management in HNZC were aware that there were privacy issues and that the proposed blanket approach whereby MSD would put all the information into one income statement would result in some “unhappy campers” (see the email dated 23 February 2004 from Garry Williams to lan Bourke). But as Mr Williams made clear in his email dated 20 January 2005, the agreement with MSD was based on trust that HNZC had permission from clients to request information pertaining to them and the additional eight to nine fields of information would be included automatically unless HNZC informed MSD otherwise, as when an IRR client withheld consent to the inclusion of the additional information. Yet HNZC did not tell tenants of the changes and of their ability to withhold",
+              "page": 31
+            },
+            {
+              "number": "",
+              "content": "consent. Nor was the Privacy Statement in the IRR application form re-drawn to make explicit to clients what was required of them in terms of consent. Implementation by HNZC of the agreement was poor, to say the least.",
+              "page": 32
+            },
+            {
+              "number": "[135]",
+              "content": "While the grant of a declaration is discretionary, declaratory relief should not ordinarily be denied. See Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108].",
+              "page": 32,
+              "subsections": [
+                {
+                  "title": "Declaration",
+                  "content": ""
+                }
+              ],
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Geary v New Zealand Psychologists Board [2012] NZHC 384, [2012] 2 NZLR 414 (Kós J, Ms SL Ineson and Ms PJ Davies) at [107] and [108]",
+                  "context": "To support the principle that declaratory relief should not ordinarily be denied."
+                }
+              ]
+            },
+            {
+              "number": "[136]",
+              "content": "On the facts we see nothing that could possibly justify the withholding from Mr Holmes of a formal declaration that HNZC interfered with his privacy and such declaration is accordingly made.",
+              "page": 32
+            },
+            {
+              "number": "[137]",
+              "content": "We come now to the claim by Mr Holmes for:",
+              "page": 32,
+              "subsections": [
+                {
+                  "title": "Damages",
+                  "content": ""
+                },
+                {
+                  "title": "[137.1] “Monies, associated lost through breach from 20/6/07-23/3/11 = 195 weeks at $57 = $11,115.00\"; and for",
+                  "content": ""
+                },
+                {
+                  "title": "[137.2] $10,000 damages “for stress, injury to feeling, severe hardship, loss of dignity and humiliation in my fight for rights and justice\".",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[138]",
+              "content": "The Tribunal is not bound by the amount sought by a plaintiff. See Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672, [2013] NZAR 760 (8 April 2013) (Fogarty J, GJ Cook JP and Hon KL Shirley) at [103] to [108].",
+              "page": 32,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Chief Executive of the Ministry of Social Development v Holmes [2013] NZHC 672, [2013] NZAR 760 (8 April 2013) (Fogarty J, GJ Cook JP and Hon KL Shirley) at [103] to [108]",
+                  "context": "To establish that the Tribunal is not bound by the amount sought by a plaintiff."
+                }
+              ]
+            },
+            {
+              "number": "[139]",
+              "content": "HNZC concedes it was 99.90% certain that Mr Holmes would have been assessed for income-related rent had he so applied. This concession was properly made. It follows that in terms of s 88(1)(b) Mr Holmes has established to the probability standard that he lost the benefit of such income-related rent, a benefit he might reasonably have been expected to obtain but for the interference. This is a head of damage which falls within s 88(1)(b) of the Privacy Act.",
+              "page": 32
+            },
+            {
+              "number": "[140]",
+              "content": "HNZC advises that the difference between the market rent charged from 2007 to 2010 and what it is estimated would have been Mr Holmes' income-related rent is $10,804. We will adopt this figure, noting that it is virtually the same as the amount calculated by Mr Holmes.",
+              "page": 32
+            },
+            {
+              "number": "[141]",
+              "content": "There must, however, be a causal connection between the action which is an interference with the privacy of an individual and the damages sought. In appropriate circumstances causation may be assumed or inferred. See Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [33] and [34].",
+              "page": 32,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans HC Hamilton CIV-2003-419-854, 6 April 2004 at [33] and [34]",
+                  "context": "Regarding the causal connection between the interference and damages sought."
+                }
+              ]
+            },
+            {
+              "number": "[142]",
+              "content": "In our view such causation has been established. There is a direct connection between the HNZC-MSD system for providing SAS income statements to IRR applicants and Mr Holmes' refusal to submit SAS information in support of his application for income-related rent. The statutory consequence was that he automatically went to a market rent.",
+              "page": 32
+            },
+            {
+              "number": "[143]",
+              "content": "We turn finally to s 88(1)(c), namely the assessment of damages for humiliation, loss of dignity and injury to feelings. The aggrieved individual is not required by s 88 to establish all three of the heads of damages referred to in s 88(1)(c). Those heads of damage are to be read disjunctively and it is not to be assumed that because one head",
+              "page": 32
+            },
+            {
+              "number": "",
+              "content": "of damage is established, the others are as well. So in Winter v Jans at [36] the High Court, while accepting that the evidence established “injury to the feelings”, found that \"humiliation” and “loss of dignity” had not been established. To similar effect see Lochead-MacMillan v AMI Insurance Ltd [2012] NZHRRT 5 at [41.3] and Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [148].",
+              "page": 33,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Winter v Jans at [36]",
+                  "context": "Example where injury to feelings was established but not humiliation or loss of dignity."
+                },
+                {
+                  "type": "case",
+                  "reference": "Lochead-MacMillan v AMI Insurance Ltd [2012] NZHRRT 5 at [41.3]",
+                  "context": "Cited as having a similar effect to Winter v Jans."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation [2013] NZHRRT 34 at [148]",
+                  "context": "Cited as having a similar effect to Winter v Jans."
+                }
+              ]
+            },
+            {
+              "number": "[144]",
+              "content": "We have already found that for the purpose of s 66(1)(b)(iii) there was significant humiliation, significant loss of dignity and significant injury to the feelings of Mr Holmes. It follows that there has been humiliation, loss of dignity and injury to feelings for the purpose of s 88(1)(c) which does not require that these forms of emotional harm be “significant”.",
+              "page": 33
+            },
+            {
+              "number": "[145]",
+              "content": "The very nature of the s 88(1)(c) heads of damages means that there is a subjective element to their assessment. Not only are the circumstances of humiliation, loss of dignity and injury to feelings fact specific, they also turn on the personality of the aggrieved individual.",
+              "page": 33
+            },
+            {
+              "number": "[146]",
+              "content": "The award is to compensate for injured feelings, not to punish HNZC. The fact remains that for four years Mr Holmes felt compelled to endure the hardship of paying market rent when it was a certainty, known to HNZC, that he should have been paying income-related rent. This, coupled with the dismissive rejection of his complaint about the SAS income statement led to humiliation, loss of dignity and injury to feelings of more than a trifling nature. The injury was significant.",
+              "page": 33
+            },
+            {
+              "number": "[147]",
+              "content": "Awards of damages under s 88(1)(c) usually occur in the context of a breach of Principle 6 (access to personal information). The Tribunal is not aware of any previous award made in relation to Principle 1. In our view the facts justify an award in the mid-range of awards made in the Principle 6 context. We refer here to the awards of $10,000 in Lochead-MacMillan v AMI Insurance Ltd [2012] NZHRRT 5 and in Fehling v South Westland Area School [2012] NZHRRT 15. The circumstances are not as serious as those in Director of Human Rights Proceedings v INS Restorations Ltd [2012] NZHRRT 18 where $20,000 was awarded or those in Geary v Accident Compensation Corporation where the sum awarded was $15,000 or in Director of Human Rights Proceedings v Hamilton [2012] NZHRRT 24 ($15,000).",
+              "page": 33,
+              "citations": [
+                {
+                  "type": "case",
+                  "reference": "Lochead-MacMillan v AMI Insurance Ltd [2012] NZHRRT 5",
+                  "context": "Example of a $10,000 award."
+                },
+                {
+                  "type": "case",
+                  "reference": "Fehling v South Westland Area School [2012] NZHRRT 15",
+                  "context": "Example of a $10,000 award."
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v INS Restorations Ltd [2012] NZHRRT 18",
+                  "context": "Example of a $20,000 award."
+                },
+                {
+                  "type": "case",
+                  "reference": "Geary v Accident Compensation Corporation",
+                  "context": "Example of a $15,000 award."
+                },
+                {
+                  "type": "case",
+                  "reference": "Director of Human Rights Proceedings v Hamilton [2012] NZHRRT 24",
+                  "context": "Example of a $15,000 award."
+                }
+              ]
+            },
+            {
+              "number": "[148]",
+              "content": "In our view the circumstances justify an award of $10,000 for humiliation, loss of dignity and injury to feelings.",
+              "page": 33
+            }
+          ]
+        },
+        {
+          "title": "FORMAL ORDERS",
+          "page_start": 33,
+          "paragraphs": [
+            {
+              "number": "[149]",
+              "content": "For the foregoing reasons the decision of the Tribunal is that it is satisfied on the balance of probabilities that an action of Housing New Zealand Corporation was an interference with the privacy of Mr Holmes and:",
+              "page": 33,
+              "subsections": [
+                {
+                  "title": "[149.1] A declaration is made under s 85(1)(a) of the Privacy Act 1993 that Housing New Zealand Corporation interfered with the privacy of Mr Holmes by collecting information not necessary for the purpose of determining the income-related rent for his tenancy.",
+                  "content": ""
+                },
+                {
+                  "title": "[149.2] Damages of $10,804 are awarded against Housing New Zealand Corporation under s 85(1)(c) and 88(1)(b) for the loss of a benefit he might reasonably have expected to obtain but for the interference.",
+                  "content": ""
+                }
+              ]
+            },
+            {
+              "number": "[149.3]",
+              "content": "Damages of $10,000 are awarded against Housing New Zealand Corporation under ss 85(1)(c) and 88(1)(c) of the Privacy Act 1993 for humiliation, loss of dignity and injury to feelings.",
+              "page": 34
+            }
+          ]
+        },
+        {
+          "title": "COSTS",
+          "page_start": 34,
+          "paragraphs": [
+            {
+              "number": "[150]",
+              "content": "As a lay litigant Mr Holmes is not entitled to costs, although he may recover disbursements as defined in High Court Rules, r 14.12. Essentially, he can recover the expense of photocopying documents for the purpose of these proceedings.",
+              "page": 34
+            },
+            {
+              "number": "[151]",
+              "content": "The following procedure is to apply:",
+              "page": 34,
+              "subsections": [
+                {
+                  "title": "[151.1] Mr Holmes is to file particulars of any disbursements claimed within 14 days after the date of this decision. The submissions for HNZC are to be filed within a further 14 days with a right of reply by Mr Holmes within 7 days after that.",
+                  "content": ""
+                },
+                {
+                  "title": "[151.2] The Tribunal will then determine the issue of costs on the basis of the written submissions without any further oral hearing.",
+                  "content": ""
+                },
+                {
+                  "title": "[151.3] In case it should prove necessary, we leave it to the Chairperson of the Tribunal to vary the foregoing timetable.",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "Mr RPG Haines QC",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms WV Gilchrist",
+          "role": "Member"
+        },
+        {
+          "name": "Ms ST Scott",
+          "role": "Member"
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}

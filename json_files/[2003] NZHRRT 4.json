@@ -1,0 +1,166 @@
+{
+  "document_metadata": {
+    "total_cases": 1,
+    "document_type": "single_case",
+    "file_name": "",
+    "total_pages": 2,
+    "extraction_date": ""
+  },
+  "cases": [
+    {
+      "case_number": 1,
+      "case_metadata": {
+        "decision_number": "4/03",
+        "reference_number": "HRRT 53/02",
+        "court_tribunal": "HUMAN RIGHTS REVIEW TRIBUNAL",
+        "jurisdiction": "",
+        "hearing_date": "",
+        "decision_date": "12th day of February 2003",
+        "case_title": "CHRISTOPHER JOSEPH O'NEILL AND “THE HEALTH & DISABILITY COMMISSION”",
+        "legal_basis": "Health & Disability Commissioners Act 1994",
+        "decision_type": "Decision to Strike Out",
+        "page_range": {
+          "start_page": 1,
+          "end_page": 2
+        }
+      },
+      "parties": {
+        "plaintiffs": [
+          {
+            "name": "CHRISTOPHER JOSEPH O'NEILL",
+            "role": "Proposed Plaintiff",
+            "type": "Individual"
+          }
+        ],
+        "defendants": [
+          {
+            "name": "“THE HEALTH & DISABILITY COMMISSION”",
+            "role": "Proposed Defendant",
+            "type": "Government Agency"
+          }
+        ],
+        "other_parties": []
+      },
+      "tribunal_members": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson"
+        },
+        {
+          "name": "Ms P McDonald",
+          "role": "Member"
+        },
+        {
+          "name": "Mr G Cook",
+          "role": "Member"
+        }
+      ],
+      "appearances": [],
+      "sections": [
+        {
+          "title": "DECISION",
+          "page_start": 1,
+          "paragraphs": [
+            {
+              "number": "1.",
+              "content": "By Notice of Intention to Bring Proceedings dated 25 October 2002 Mr O'Neill has purported to bring a claim against the Health & Disability Commissioner.",
+              "page": 1,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "2.",
+              "content": "A review of the letters provided to support the claim demonstrates that what Mr O'Neill is in effect asking the Tribunal to do is to review the way in which the Commissioner has interpreted various sections in the Health & Disability Commissioners Act 1994 (`the Act').",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "Health & Disability Commissioners Act 1994",
+                  "context": "A review of the letters provided to support the claim demonstrates that what Mr O'Neill is in effect asking the Tribunal to do is to review the way in which the Commissioner has interpreted various sections in the Health & Disability Commissioners Act 1994 (`the Act')."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "3.",
+              "content": "On 28 January 2003 the Chairperson of the Tribunal issued a minute with respect to the claim in which he pointed out the jurisdictional obstacle in the way of the proposed claim. Mr O'Neill was given an opportunity to file submissions directed to the question of the Tribunal's jurisdiction (Mr O'Neill has made it abundantly clear in other proceedings that he has before the Tribunal that he is not able to attend any hearing in person). His subsequent letter dated 3 February 2003, however, only serves to confirm that in substance he is asking the Tribunal to review the way in which the Health & Disability Commissioner has interpreted the Act.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "the Act",
+                  "context": "His subsequent letter dated 3 February 2003, however, only serves to confirm that in substance he is asking the Tribunal to review the way in which the Health & Disability Commissioner has interpreted the Act."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "4.",
+              "content": "The Tribunal's jurisdiction to deal with cases brought under the Act is governed by sections 50 and 51 of the Act. An aggrieved person can only bring proceedings against a person to whom section 50 applies. Section 50 applies to any healthcare provider or disability services provider in respect of whom or of which an investigation has been carried out under the Act.",
+              "page": 1,
+              "subsections": [],
+              "citations": [
+                {
+                  "type": "statute",
+                  "reference": "sections 50 and 51 of the Act",
+                  "context": "The Tribunal's jurisdiction to deal with cases brought under the Act is governed by sections 50 and 51 of the Act."
+                },
+                {
+                  "type": "statute",
+                  "reference": "section 50",
+                  "context": "An aggrieved person can only bring proceedings against a person to whom section 50 applies. Section 50 applies to any healthcare provider or disability services provider in respect of whom or of which an investigation has been carried out under the Act."
+                }
+              ],
+              "quoted_material": {}
+            },
+            {
+              "number": "5.",
+              "content": "Mr O'Neill's claim in this matter does not fall within these sections.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "6.",
+              "content": "It seems to us that the correct procedure for Mr O'Neill's claim would be by way of a judicial review of the decision by the Health & Disability Commissioner's interpretation of the legislation in question. That involves proceedings in the High Court, not the Tribunal.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            },
+            {
+              "number": "7.",
+              "content": "For these reasons the claim is struck out.",
+              "page": 2,
+              "subsections": [],
+              "citations": [],
+              "quoted_material": {}
+            }
+          ]
+        }
+      ],
+      "signatures": [
+        {
+          "name": "R D C Hindle",
+          "role": "Chairperson",
+          "date": "12th day of February 2003"
+        },
+        {
+          "name": "P McDonald",
+          "role": "Member",
+          "date": ""
+        },
+        {
+          "name": "G Cook",
+          "role": "Member",
+          "date": ""
+        }
+      ],
+      "footnotes": []
+    }
+  ]
+}
