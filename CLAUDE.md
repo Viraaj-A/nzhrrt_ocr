@@ -14,7 +14,6 @@ Requirements:
 - spire.doc Python package must be installed (pip install spire.doc)
 
 Implementation Details:
-- API key: AIzaSyCfzbxC8NFcgq0Jpl6ZIyeztwSh1VSRU7A (hardcoded in gemini_api.py)
 - Model: gemini-2.5-pro
 - Uses Google GenAI SDK with JSON schema validation
 - RTF files are converted to PDF using Spire.Doc before processing
